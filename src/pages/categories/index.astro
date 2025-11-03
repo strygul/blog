@@ -1,0 +1,92 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+
+const posts = await getCollection('blog');
+const categories = Array.from(new Set(posts.map((post) => post.data.category))).sort();
+
+const categoryCounts = categories.reduce((acc, category) => {
+	const count = posts.filter((post) => post.data.category === category).length;
+	acc[category] = count;
+	return acc;
+}, {} as Record<string, number>);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Categories - ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: 960px;
+			}
+			ul {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 2rem;
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			ul li {
+				width: calc(50% - 1rem);
+			}
+			ul li a {
+				display: block;
+				text-decoration: none;
+				padding: 1rem;
+				border: 1px solid rgb(var(--gray));
+				border-radius: 12px;
+				transition: 0.2s ease;
+			}
+			ul li a:hover {
+				border-color: rgb(var(--accent));
+				box-shadow: var(--box-shadow);
+			}
+			.category-name {
+				margin: 0 0 0.5rem 0;
+				color: rgb(var(--black));
+			}
+			.category-count {
+				margin: 0;
+				color: rgb(var(--gray));
+				font-size: 0.875rem;
+			}
+			ul li a:hover .category-name,
+			ul li a:hover .category-count {
+				color: rgb(var(--accent));
+			}
+			@media (max-width: 720px) {
+				ul li {
+					width: 100%;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section>
+				<h1>Categories</h1>
+				<ul>
+					{
+						categories.map((category) => (
+							<li>
+								<a href={`/categories/${category.toLowerCase()}/`}>
+									<h3 class="category-name">{category}</h3>
+									<p class="category-count">
+										{categoryCounts[category]} post{categoryCounts[category] !== 1 ? 's' : ''}
+									</p>
+								</a>
+							</li>
+						))
+					}
+				</ul>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
