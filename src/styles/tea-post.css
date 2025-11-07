@@ -1,0 +1,31 @@
+/* Tea post image gallery styles */
+.image-gallery {
+	display: flex;
+	gap: 1rem;
+	flex-wrap: wrap;
+	margin: 1em 0;
+}
+
+.image-gallery img {
+	flex: 1;
+	min-width: 0;
+	max-width: 100%;
+	height: auto;
+	border-radius: 8px;
+}
+
+.image-gallery-large {
+	display: flex;
+	gap: 1rem;
+	flex-wrap: wrap;
+	margin: 1em 0;
+}
+
+.image-gallery-large img {
+	flex: 1;
+	min-width: 200px;
+	max-width: 300px;
+	height: auto;
+	border-radius: 8px;
+}
+
