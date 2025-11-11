@@ -141,6 +141,7 @@ a teapot’s exact era based on the seal alone.
   <img src="/tea/posts/1/seals/green_label_6_4_var1.png" alt="Yixing Factory 1 Green_Label_Seal" />
   <img src="/tea/posts/1/seals/green_label_6_4_var2.png" alt="Yixing Factory 1 Green_Label_Seal" />
   <img src="/tea/posts/1/seals/green_label_6_4_var3.png" alt="Yixing Factory 1 Green_Label_Seal" />
+  <img src="/tea/posts/1/seals/green_label_6_4_var4.png" alt="Yixing Factory 1 Green_Label_Seal" />
 </div>
 <br>
 
@@ -165,3 +166,36 @@ designs from the preceding era.
   <img src="/tea/posts/1/seals/green_label_key_shaped_var2.png" alt="Yixing Factory 1 Green_Label_Seal" />
 </div>
 
+<br>
+
+#### Six-Character JingXi Hui MengChen (六汉字 三线水 荆溪惠孟臣)
+The six-character Jingxi Hui Mengchen seal, often seen in the early Cultural Revolution period, evolved into new 
+variations during the Green Label era.
+
+In the “three-line water” version of the seal, the middle-right character 溪 is written with three water strokes, in 
+contrast to the two strokes commonly used in the 1960s.
+
+![Yixing Factory 1 Green_Label Seal](/tea/posts/1/seals/green_label_6_char_meng_chen.png)
+
+Within the “three-line water” seal, there are also some variations in the stylization of the characters.
+
+![Yixing Factory 1 Green_Label Seal](/tea/posts/1/seals/green_label_6_char_meng_chen_3.png)
+![Yixing Factory 1 Green_Label Seal](/tea/posts/1/seals/green_label_6_char_meng_chen_4.png)
+
+Another variant features a two-line 溪, as seen on seals from the early Cultural Revolution period, but also with a 
+slightly different stylization of the characters.
+
+![Yixing Factory 1 Green_Label Seal](/tea/posts/1/seals/green_label_6_char_meng_chen_2.png)
+
+<br>
+
+#### 7:3 Six-Character JingXi Hui MengChen (六汉字 三线水 荆溪惠孟臣)
+Another curious variation of the Six-Character JingXi Hui MengChen – is a 7:3 seal
+
+![Yixing Factory 1 Green_Label Seal](/tea/posts/1/seals/green_label_6_char_meng_chen_7_on_3.png)
+
+#### Four-Character JingXi MengChen (四汉字 荆溪孟臣)
+Some sources mention a four-character JingXi MengChen seal to start appearing on pots during this era. I could not verify,
+however, the seal in any known to me reputable seals repositories.
+
+![Yixing Factory 1 Green_Label Seal](/tea/posts/1/seals/green_label_4_char_meng_chen.png)
