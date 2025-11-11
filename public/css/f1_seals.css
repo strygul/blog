@@ -1,0 +1,78 @@
+/* Gallery layout */
+.image-gallery,
+.image-gallery-large {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  align-items: start;
+  justify-items: center; /* center items within their grid cells (helps single-item galleries) */
+}
+
+/* Force single-line layout for the first three-image gallery */
+.image-gallery.three-up {
+  display: flex;
+  gap: 12px;
+  align-items: start;
+  flex-wrap: nowrap;
+}
+.image-gallery.three-up figure {
+  width: 33.33%;
+}
+
+@media (max-width: 900px) {
+  .image-gallery,
+  .image-gallery-large {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  }
+}
+
+/* Figure/reset */
+.image-gallery figure,
+.image-gallery-large figure {
+  margin: 0;
+  width: 100%; /* make figures occupy their grid column to avoid odd horizontal alignment */
+}
+
+/* Image sizing: consistent height while keeping proportions */
+.image-gallery img,
+.image-gallery-large img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+  display: block;
+}
+
+/* Default preview sizing for standalone figures in this post */
+figure img {
+  height: 200px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Captions centered below images */
+.image-gallery figcaption,
+.image-gallery-large figcaption {
+  text-align: center;
+  margin-top: 6px;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  font-style: normal;
+  font-family: inherit;
+}
+
+/* Ensure standalone figure captions match gallery captions and are centered */
+figure figcaption {
+  text-align: center;
+  margin-top: 6px;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  font-weight: 400;
+  font-family: inherit;
+  font-style: normal;
+}
+
+
