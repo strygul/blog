@@ -360,8 +360,8 @@ Another curious variation of the Six-Character JingXi Hui MengChen – is a 7:3 
 </figure>
 
 ### Four-Character JingXi MengChen (四汉字 荆溪孟臣)
-Some sources mention a four-character JingXi MengChen seal to start appearing on pots during this era. I could not verify,
-however, the seal in any known to me reputable seals repositories.
+Some sources mention a four-character JingXi MengChen seal to start appearing on pots during this era. I have not seen 
+it myself, but as the source is very authoritative, it is worth mentioning it.
 
 <figure>
   <a href="/tea/posts/f1_seals/seals/green_label_4_char_mengchen.png" target="_blank" rel="noopener noreferrer">
