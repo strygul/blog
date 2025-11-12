@@ -3,7 +3,7 @@ title: "Yixing Factory 1 Seals"
 pubDate: "2025-11-02"
 category: "Tea"
 description: "A collection of Yixing Factory 1 seals"
-heroImage: "../../assets/tea/first-tea-post/intro.png"
+heroImage: "../../assets/tea/f1-seals/intro.png"
 ---
 
 Collecting Yixing teapots is both thrilling and demanding. The challenge lies in the overwhelming number of counterfeits
@@ -36,7 +36,7 @@ themselves.
 For this reason, using social and political context as the basis for periodization offers a more accurate and meaningful
 way to understand the evolving relationship between Yixing pottery and the times in which it was made.
 
-<link rel="stylesheet" href="/css/f1_seals.css">
+<link rel="stylesheet" href="/css/f1-seals.css">
 
 ### Contents
 - [1958 to 1966: The Early Stage of the Cultural Revolution](#1958-to-1966-the-early-stage-of-the-cultural-revolution)
@@ -54,20 +54,20 @@ and the “small Xi.”
 
 <div class="image-gallery three-up" role="group" aria-label="JingXi Hui MengChen variants">
   <figure>
-    <a href="/tea/posts/f1_seals/seals/60_4_leg_xi.webp" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/60_4_leg_xi.webp" alt="JingXi Hui MengChen — four‑leg Xi variant (1960s)" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/60-4-leg-xi.webp" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/60-4-leg-xi.webp" alt="JingXi Hui MengChen — four‑leg Xi variant (1960s)" loading="lazy" decoding="async" />
     </a>
     <figcaption>Four‑leg Xi variant</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/60_big_xi.webp" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/60_big_xi.webp" alt="JingXi Hui MengChen — big Xi variant (1960s)" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/60-big-xi.webp" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/60-big-xi.webp" alt="JingXi Hui MengChen — big Xi variant (1960s)" loading="lazy" decoding="async" />
     </a>
     <figcaption>Big Xi variant</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/60_small_xi.webp" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/60_small_xi.webp" alt="JingXi Hui MengChen — small Xi variant (1960s)" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/60-small-xi.webp" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/60-small-xi.webp" alt="JingXi Hui MengChen — small Xi variant (1960s)" loading="lazy" decoding="async" />
     </a>
     <figcaption>Small Xi variant</figcaption>
   </figure>
@@ -84,8 +84,8 @@ In the market context of the time, the label “South” was associated with sup
 “North” denoted standard or mass-market teapots. The terms served a role similar to a trademark or regional quality
 mark, signaling origin and grade within the Yixing pottery tradition
 <figure>
-  <a href="/tea/posts/f1_seals/seals/60_nan_mengchen.webp" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/f1_seals/seals/60_nan_mengchen.webp" alt="JingXi Nan MengChen — South Jingxi seal (1960s)" loading="lazy" decoding="async" />
+  <a href="/tea/posts/f1-seals/seals/60-nan-mengchen.webp" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/60-nan-mengchen.webp" alt="JingXi Nan MengChen — South Jingxi seal (1960s)" loading="lazy" decoding="async" />
   </a>
   <figcaption>“South Jingxi” quality designation seal</figcaption>
 </figure>
@@ -93,8 +93,8 @@ mark, signaling origin and grade within the Yixing pottery tradition
 ### YiXing Hui MengChen (六汉字 宜興惠孟臣)
 
 <figure>
-  <a href="/tea/posts/f1_seals/seals/60_yixing_hui.webp" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/f1_seals/seals/60_yixing_hui.webp" alt="YiXing Hui MengChen — six‑character seal (1960s)" loading="lazy" decoding="async" />
+  <a href="/tea/posts/f1-seals/seals/60-yixing-hui.webp" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/60-yixing-hui.webp" alt="YiXing Hui MengChen — six‑character seal (1960s)" loading="lazy" decoding="async" />
   </a>
   <figcaption>Six‑character “YiXing Hui MengChen” seal</figcaption>
 </figure>
@@ -122,26 +122,26 @@ a slightly different style.
 
 <div class="image-gallery" role="group" aria-label="Zhong Guo YiXing 6:4 variations">
   <figure>
-    <a href="/tea/posts/f1_seals/seals/60-70_china_yixing.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/60-70_china_yixing.png" alt="Zhong Guo YiXing 6:4 — common 1960s–70s style" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/60-70-china-yixing.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/60-70-china-yixing.png" alt="Zhong Guo YiXing 6:4 — common 1960s–70s style" loading="lazy" decoding="async" />
     </a>
     <figcaption>Common 6:4 style (1960s–70s)</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/70-6-4-partially-connected-2.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/70-6-4-partially-connected-2.png" alt="Zhong Guo YiXing 6:4 — 興 partially connected (variant 2)" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/70-6-4-partially-connected-2.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/70-6-4-partially-connected-2.png" alt="Zhong Guo YiXing 6:4 — 興 partially connected (variant 2)" loading="lazy" decoding="async" />
     </a>
     <figcaption>興 partially connected (var. 2)</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/70-6-4-connected.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/70-6-4-connected.png" alt="Zhong Guo YiXing 6:4 — 興 fully connected" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/70-6-4-connected.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/70-6-4-connected.png" alt="Zhong Guo YiXing 6:4 — 興 fully connected" loading="lazy" decoding="async" />
     </a>
     <figcaption>興 fully connected</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/70-6-4-partially-connected.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/70-6-4-partially-connected.png" alt="Zhong Guo YiXing 6:4 — 興 partially connected" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/70-6-4-partially-connected.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/70-6-4-partially-connected.png" alt="Zhong Guo YiXing 6:4 — 興 partially connected" loading="lazy" decoding="async" />
     </a>
     <figcaption>興 partially connected</figcaption>
   </figure>
@@ -154,8 +154,8 @@ rectangle, with proportions of approximately 7:3.
 
 <div class="image-gallery" role="group" aria-label="Zhong Guo YiXing 7:3">
   <figure>
-    <a href="/tea/posts/f1_seals/seals/70_7_3.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/70_7_3.png" alt="Zhong Guo YiXing 7:3 — elongated rectangular seal (1970s)" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/70-7-3.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/70-7-3.png" alt="Zhong Guo YiXing 7:3 — elongated rectangular seal (1970s)" loading="lazy" decoding="async" />
     </a>
     <figcaption>Elongated 7:3 rectangular seal</figcaption>
   </figure>
@@ -170,8 +170,8 @@ its
 name from the stylization of the "中" symbol that reminds a key
 
 <figure>
-  <a href="/tea/posts/f1_seals/seals/70_key.png" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/f1_seals/seals/70_key.png" alt="Zhong Guo YiXing — key‑shaped 中 variant (1970s)" loading="lazy" decoding="async" />
+  <a href="/tea/posts/f1-seals/seals/70-key.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/70-key.png" alt="Zhong Guo YiXing — key‑shaped 中 variant (1970s)" loading="lazy" decoding="async" />
   </a>
   <figcaption>Key‑shaped “中” variant</figcaption>
 </figure>
@@ -182,14 +182,14 @@ There are several variations that could be seen within the square “Zhong Guo Y
 
 <div class="image-gallery" role="group" aria-label="Square Zhong Guo YiXing (1970s)">
   <figure>
-    <a href="/tea/posts/f1_seals/seals/70_square.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/70_square.png" alt="Square Zhong Guo YiXing seal — variant A (1970s)" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/70-square.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/70-square.png" alt="Square Zhong Guo YiXing seal — variant A (1970s)" loading="lazy" decoding="async" />
     </a>
     <figcaption>Square variant A</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/70_square_var3.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/70_square_var3.png" alt="Square Zhong Guo YiXing seal — variant B (1970s)" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/70-square-var3.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/70-square-var3.png" alt="Square Zhong Guo YiXing seal — variant B (1970s)" loading="lazy" decoding="async" />
     </a>
     <figcaption>Square variant B</figcaption>
   </figure>
@@ -202,7 +202,7 @@ There are several variations that could be seen within the square “Zhong Guo Y
 Products from the Yixing Zisha Craft Factory (also known as Factory 1) began carrying official labels in 1977. Between
 1977 and 1982, the teapots produced there featured a distinctive green label proudly bearing the words “Made in China.”
 
-![Yixing Factory 1 60s Seal](/tea/posts/green_label_teapot.jpg)
+![Yixing Factory 1 60s Seal](/tea/posts/green-label-teapot.jpg)
 
 During this period, many seals overlapped with those used in the preceding Cultural Revolution era. You’ll often
 encounter marks such as Zhong Guo YiXing 6:4, 7:3, square, or key-shaped seals. The era, however, also knows many new seals 
@@ -212,26 +212,26 @@ of the seals presented below is not even nearly close to be exhaustive. Here are
 ### Zhong Guo YiXing (中國宜興) 6:4
 <div class="image-gallery" role="group" aria-label="Green Label — Zhong Guo YiXing 6:4 variations">
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_6_4_var1.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_6_4_var1.png" alt="Green Label 6:4 — variant A" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-6-4-var1.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-6-4-var1.png" alt="Green Label 6:4 — variant A" loading="lazy" decoding="async" />
     </a>
     <figcaption>6:4 variant A</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_6_4_var2.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_6_4_var2.png" alt="Green Label 6:4 — variant B" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-6-4-var2.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-6-4-var2.png" alt="Green Label 6:4 — variant B" loading="lazy" decoding="async" />
     </a>
     <figcaption>6:4 variant B</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_6_4_var3.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_6_4_var3.png" alt="Green Label 6:4 — variant C" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-6-4-var3.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-6-4-var3.png" alt="Green Label 6:4 — variant C" loading="lazy" decoding="async" />
     </a>
     <figcaption>6:4 variant C</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_6_4_var4.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_6_4_var4.png" alt="Green Label 6:4 — variant D" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-6-4-var4.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-6-4-var4.png" alt="Green Label 6:4 — variant D" loading="lazy" decoding="async" />
     </a>
     <figcaption>6:4 variant D</figcaption>
   </figure>
@@ -241,20 +241,20 @@ of the seals presented below is not even nearly close to be exhaustive. Here are
 ### Zhong Guo YiXing (中國宜興) 7:3
 <div class="image-gallery" role="group" aria-label="Green Label — Zhong Guo YiXing 7:3 variations">
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_7_3.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_7_3.png" alt="Green Label 7:3 — variant A" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-7-3.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-7-3.png" alt="Green Label 7:3 — variant A" loading="lazy" decoding="async" />
     </a>
     <figcaption>7:3 variant A</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_7_3_var2.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_7_3_var2.png" alt="Green Label 7:3 — variant B" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-7-3-var2.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-7-3-var2.png" alt="Green Label 7:3 — variant B" loading="lazy" decoding="async" />
     </a>
     <figcaption>7:3 variant B</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_7_3_var3.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_7_3_var3.png" alt="Green Label 7:3 — variant C" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-7-3-var3.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-7-3-var3.png" alt="Green Label 7:3 — variant C" loading="lazy" decoding="async" />
     </a>
     <figcaption>7:3 variant C</figcaption>
   </figure>
@@ -267,38 +267,38 @@ During this period, several variations of the square Zhong Guo YiXing seal emerg
 designs from the preceding era.
 <div class="image-gallery-large" role="group" aria-label="Green Label — square and key-shaped variants">
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_square.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_square.png" alt="Green Label square seal — variant A" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-square.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-square.png" alt="Green Label square seal — variant A" loading="lazy" decoding="async" />
     </a>
     <figcaption>Square variant A</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_square_var2.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_square_var2.png" alt="Green Label square seal — variant B" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-square-var2.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-square-var2.png" alt="Green Label square seal — variant B" loading="lazy" decoding="async" />
     </a>
     <figcaption>Square variant B</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_square_var3.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_square_var3.png" alt="Green Label square seal — variant C" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-square-var3.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-square-var3.png" alt="Green Label square seal — variant C" loading="lazy" decoding="async" />
     </a>
     <figcaption>Square variant C</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_square_var4.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_square_var4.png" alt="Green Label square seal — variant D" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-square-var4.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-square-var4.png" alt="Green Label square seal — variant D" loading="lazy" decoding="async" />
     </a>
     <figcaption>Square variant D</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_key_shaped.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_key_shaped.png" alt="Green Label — key‑shaped 中 variant A" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-key-shaped.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-key-shaped.png" alt="Green Label — key‑shaped 中 variant A" loading="lazy" decoding="async" />
     </a>
     <figcaption>Key‑shaped “中” variant A</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_key_shaped_var2.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_key_shaped_var2.png" alt="Green Label — key‑shaped 中 variant B" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-key-shaped-var2.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-key-shaped-var2.png" alt="Green Label — key‑shaped 中 variant B" loading="lazy" decoding="async" />
     </a>
     <figcaption>Key‑shaped “中” variant B</figcaption>
   </figure>
@@ -314,8 +314,8 @@ In the “three-line water” version of the seal, the middle-right character �
 contrast to the two strokes commonly used in the 1960s.
 
 <figure>
-  <a href="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen.png" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen.png" alt="Six‑character JingXi Hui MengChen — three‑line water version (Green Label period)" loading="lazy" decoding="async" />
+  <a href="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen.png" alt="Six‑character JingXi Hui MengChen — three‑line water version (Green Label period)" loading="lazy" decoding="async" />
   </a>
   <figcaption>Six‑character seal with three‑line 溪</figcaption>
 </figure>
@@ -324,14 +324,14 @@ Within the “three-line water” seal, there are also some variations in the st
 
 <div class="image-gallery" role="group" aria-label="Three-line water — variations">
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen_3.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen_3.png" alt="JingXi Hui MengChen — three‑line water variant A" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-3.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-3.png" alt="JingXi Hui MengChen — three‑line water variant A" loading="lazy" decoding="async" />
     </a>
     <figcaption>Three‑line 溪 — variant A</figcaption>
   </figure>
   <figure>
-    <a href="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen_4.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen_4.png" alt="JingXi Hui MengChen — three‑line water variant B" loading="lazy" decoding="async" />
+    <a href="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-4.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-4.png" alt="JingXi Hui MengChen — three‑line water variant B" loading="lazy" decoding="async" />
     </a>
     <figcaption>Three‑line 溪 — variant B</figcaption>
   </figure>
@@ -341,8 +341,8 @@ Another variant features a two-line 溪, as seen on seals from the early Cultura
 slightly different stylization of the characters.
 
 <figure>
-  <a href="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen_2.png" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen_2.png" alt="JingXi Hui MengChen — two‑line water variant (Green Label period)" loading="lazy" decoding="async" />
+  <a href="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-2.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-2.png" alt="JingXi Hui MengChen — two‑line water variant (Green Label period)" loading="lazy" decoding="async" />
   </a>
   <figcaption>Two‑line 溪 variant</figcaption>
 </figure>
@@ -353,8 +353,8 @@ slightly different stylization of the characters.
 Another curious variation of the Six-Character JingXi Hui MengChen – is a 7:3 seal
 
 <figure>
-  <a href="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen_7_on_3.png" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/f1_seals/seals/green_label_6_char_meng_chen_7_on_3.png" alt="JingXi Hui MengChen — 7:3 elongated six‑character seal (Green Label period)" loading="lazy" decoding="async" />
+  <a href="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-7-on-3.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-7-on-3.png" alt="JingXi Hui MengChen — 7:3 elongated six‑character seal (Green Label period)" loading="lazy" decoding="async" />
   </a>
   <figcaption>Elongated 7:3 six‑character variant</figcaption>
 </figure>
@@ -364,10 +364,18 @@ Some sources mention a four-character JingXi MengChen seal to start appearing on
 it myself, but as the source is very authoritative, it is worth mentioning it.
 
 <figure>
-  <a href="/tea/posts/f1_seals/seals/green_label_4_char_mengchen.png" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/f1_seals/seals/green_label_4_char_mengchen.png" alt="Four‑character JingXi MengChen — reported Green Label era example" loading="lazy" decoding="async" />
+  <a href="/tea/posts/f1-seals/seals/green-label-4-char-mengchen.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/green-label-4-char-mengchen.png" alt="Four‑character JingXi MengChen — reported Green Label era example" loading="lazy" decoding="async" />
   </a>
   <figcaption>Four‑character JingXi MengChen</figcaption>
 </figure>
 
+### Twentytwo Character China Native Produce (二十二汉字  中国土产畜产进出口公司福建省分公司厦门支公司)
+The seal reads "China Native Produce and Livestock Import and Export Corporation, FuJian Branch, Xiamen Subsidiary".
+<figure>
+  <a href="/tea/posts/f1-seals/seals/green-label-22-char.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/green-label-22-char.png" alt="Twenty-two character China Native Produce seal — 中国土产畜产进出口公司福建省分公司厦门支公司 (Green Label period)" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Twenty-two character China Native Produce seal</figcaption>
+</figure>
 

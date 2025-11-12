@@ -89,4 +89,28 @@ figure figcaption {
   font-style: normal;
 }
 
+/* Full-size images (original dimensions) */
+figure.full-size img {
+  height: auto;
+  width: auto;
+  max-width: 100%;
+}
+
+/* Two-image gallery side by side */
+.image-gallery.two-up {
+  display: flex;
+  gap: var(--f1-gap);
+  align-items: start;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+.image-gallery.two-up figure {
+  flex: 1;
+  max-width: 50%;
+}
+.image-gallery.two-up figure.full-size img {
+  width: 100%;
+  height: auto;
+}
+
 
