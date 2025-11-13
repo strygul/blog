@@ -36,8 +36,6 @@ themselves.
 For this reason, using social and political context as the basis for periodization offers a more accurate and meaningful
 way to understand the evolving relationship between Yixing pottery and the times in which it was made.
 
-<link rel="stylesheet" href="/css/f1-seals.css">
-
 ### Contents
 - [1958 to 1966: The Early Stage of the Cultural Revolution](#1958-to-1966-the-early-stage-of-the-cultural-revolution)
 - [1966 to 1976: The Cultural Revolution](#1966-to-1976-the-cultural-revolution)

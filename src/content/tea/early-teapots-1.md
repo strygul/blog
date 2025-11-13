@@ -5,6 +5,7 @@ category: "Tea"
 description: "Excerpts from \"Early teapot encyclopedia II" 
 heroImage: "../../assets/tea/early-teapots-1/intro.png"
 ---
+
 <div class="info-box">
 This post is part of a series of excerpts from <i>Early Teapots II</i> — a book by Dr. Lu Chi Lin — and from discussions 
 in <a href="https://www.facebook.com/groups/teapot2">the related Facebook group</a>, which offers a wealth of knowledge 
@@ -15,8 +16,6 @@ accessible to a Western audience that still lacks such resources.
 All credit goes to Dr. Lu Chi Lin and the many dedicated members of the community inspired by his work, who generously 
 share their expertise and passion.
 </div>
-
-<link rel="stylesheet" href="/css/f1-seals.css">
 
 Source: https://www.facebook.com/groups/teapot2/posts/1453920241569308
 

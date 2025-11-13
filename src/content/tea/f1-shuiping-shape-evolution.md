@@ -5,8 +5,10 @@ category: "Tea"
 description: "Illustration of the evolution of the F1 shuiping shape though different eras"
 heroImage: "../../assets/tea/f1-shuiping-shape-evolution/intro.png"
 ---
-
-<link rel="stylesheet" href="/css/f1-seals.css">
+<div class="info-box">
+This post is based on information from <a href="https://zhuanlan.zhihu.com/p/30578727">a blog by fellow F1 teapot 
+enthusiast Lin Jinchun,</a> with a few modifications and additions of my own.
+</div>
 
 <a href="/tea/f1-seals">In the previous post,</a> we explored the seals used across different Factory 1 (F1) eras. As you may recall, while seals 
 are an important piece of the puzzle, they are not enough to reliably determine the age of a Yixing teapot. Many seals 
@@ -111,7 +113,9 @@ follow the same design language, the imbalance becomes visually distracting.
   <figcaption>Laser era (80s – 90s) shuiping</figcaption>
 </figure>
 
-Below, you can see the lines differences between a pot from 70s and 80s, and 80s and 90s.
+Also, note the redesigned spout tip: the edge is now cut at an angle, unlike the straight cut seen in earlier eras.
+
+Below, you can see the line differences between a pot from 70s and 80s, and 80s and 90s.
 
 <figure class="full-size">
   <img src="/tea/posts/f1-shuiping-shape-evolution/70-vs-80-lines.png" alt="Shape comparison: 1970s (green) vs 1980s (blue) shuiping teapots" loading="lazy" decoding="async" />

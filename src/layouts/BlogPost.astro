@@ -7,14 +7,15 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import '../styles/tea-post.css';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] | CollectionEntry<'tea'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category } = Astro.props;
 ---
 
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} />
+		{category === 'Tea' && <link rel="stylesheet" href="/css/f1-seals.css" />}
 		<style>
 			main {
 				width: calc(100% - 2em);
