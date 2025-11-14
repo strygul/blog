@@ -12,7 +12,11 @@ const blog = defineCollection({
 			// Transform string to Date object
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
-			category: z.string().min(1, 'Please set a category'),
+			// Accept either a single category (string) or multiple categories (array)
+			// Normalize to array for consistent handling
+			category: z
+				.union([z.string().min(1), z.array(z.string().min(1)).min(1)])
+				.transform((val) => (Array.isArray(val) ? val : [val])),
 			heroImage: image().optional(),
 		}),
 });
@@ -28,7 +32,11 @@ const tea = defineCollection({
 			// Transform string to Date object
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
-			category: z.string().min(1, 'Please set a category'),
+			// Accept either a single category (string) or multiple categories (array)
+			// Normalize to array for consistent handling
+			category: z
+				.union([z.string().min(1), z.array(z.string().min(1)).min(1)])
+				.transform((val) => (Array.isArray(val) ? val : [val])),
 			heroImage: image().optional(),
 		}),
 });

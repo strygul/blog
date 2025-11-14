@@ -5,11 +5,18 @@ import Footer from '../../components/Footer.astro';
 import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
-const posts = await getCollection('blog');
-const categories = Array.from(new Set(posts.map((post) => post.data.category))).sort();
+const blogPosts = await getCollection('blog');
+const teaPosts = await getCollection('tea');
+const allPosts = [...blogPosts, ...teaPosts];
+
+// Extract all categories from all posts (handling arrays)
+const allCategories = allPosts.flatMap((post) => post.data.category);
+const categories = Array.from(new Set(allCategories)).sort();
 
 const categoryCounts = categories.reduce((acc, category) => {
-	const count = posts.filter((post) => post.data.category === category).length;
+	const count = allPosts.filter((post) => 
+		post.data.category.some((cat) => cat === category)
+	).length;
 	acc[category] = count;
 	return acc;
 }, {} as Record<string, number>);

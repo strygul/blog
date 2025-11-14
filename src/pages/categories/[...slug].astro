@@ -8,13 +8,25 @@ import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
 export async function getStaticPaths() {
-	const posts = await getCollection('blog');
-	const categories = Array.from(new Set(posts.map((post) => post.data.category)));
+	const blogPosts = await getCollection('blog');
+	const teaPosts = await getCollection('tea');
+	const teaPostIds = new Set(teaPosts.map((post) => post.id));
+	const allPosts = [...blogPosts, ...teaPosts];
+	
+	// Extract all categories from all posts (handling arrays)
+	const allCategories = allPosts.flatMap((post) => post.data.category);
+	const categories = Array.from(new Set(allCategories));
 
 	return categories.map((category) => {
-		const categoryPosts = posts
-			.filter((post) => post.data.category.toLowerCase() === category.toLowerCase())
-			.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+		const categoryPosts = allPosts
+			.filter((post) => 
+				post.data.category.some((cat) => cat.toLowerCase() === category.toLowerCase())
+			)
+			.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+			.map((post) => ({
+				...post,
+				collection: teaPostIds.has(post.id) ? 'tea' : 'blog',
+			}));
 
 		return {
 			params: { slug: category.toLowerCase() },
@@ -25,7 +37,7 @@ export async function getStaticPaths() {
 
 type Props = {
 	category: string;
-	posts: Awaited<ReturnType<typeof getCollection<'blog'>>>;
+	posts: Array<(Awaited<ReturnType<typeof getCollection<'blog'>>>[number] | Awaited<ReturnType<typeof getCollection<'tea'>>>[number]) & { collection: 'blog' | 'tea' }>;
 };
 
 const { category, posts } = Astro.props;
@@ -127,19 +139,22 @@ const { category, posts } = Astro.props;
 				</div>
 				<ul>
 					{
-						posts.map((post) => (
-							<li>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<Image width={720} height={360} src={post.data.heroImage} alt="" />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
+						posts.map((post) => {
+							const basePath = post.collection === 'tea' ? '/tea' : '/blog';
+							return (
+								<li>
+									<a href={`${basePath}/${post.id}/`}>
+										{post.data.heroImage && (
+											<Image width={720} height={360} src={post.data.heroImage} alt="" />
+										)}
+										<h4 class="title">{post.data.title}</h4>
+										<p class="date">
+											<FormattedDate date={post.data.pubDate} />
+										</p>
+									</a>
+								</li>
+							);
+						})
 					}
 				</ul>
 			</section>

@@ -10,12 +10,14 @@ import '../styles/tea-post.css';
 type Props = CollectionEntry<'blog'>['data'] | CollectionEntry<'tea'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, category } = Astro.props;
+// category is now an array, check if it includes 'Tea'
+const categories = Array.isArray(category) ? category : [category];
 ---
 
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} />
-		{category === 'Tea' && <link rel="stylesheet" href="/css/f1-seals.css" />}
+		{categories.includes('Tea') && <link rel="stylesheet" href="/css/f1-seals.css" />}
 		<style>
 			main {
 				width: calc(100% - 2em);
