@@ -118,7 +118,7 @@ teapots produced for both domestic use and export. There are several variations 
 depiction of the 興 character (bottom left). Look closely at how the lines connect (or don't) — each variation reveals
 a slightly different style.
 
-<div class="image-gallery" role="group" aria-label="Zhong Guo YiXing 6:4 variations">
+<div class="image-gallery four-up" role="group" aria-label="Zhong Guo YiXing 6:4 variations">
   <figure>
     <a href="/tea/posts/f1-seals/seals/60-70-china-yixing.png" target="_blank" rel="noopener noreferrer">
       <img src="/tea/posts/f1-seals/seals/60-70-china-yixing.png" alt="Zhong Guo YiXing 6:4 — common 1960s–70s style" loading="lazy" decoding="async" />
@@ -150,14 +150,12 @@ a slightly different style.
 Another variation of the “Zhong Guo Yixing” (中国宜兴) seal from this period appears in the form of an elongated
 rectangle, with proportions of approximately 7:3.
 
-<div class="image-gallery" role="group" aria-label="Zhong Guo YiXing 7:3">
-  <figure>
-    <a href="/tea/posts/f1-seals/seals/70-7-3.png" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1-seals/seals/70-7-3.png" alt="Zhong Guo YiXing 7:3 — elongated rectangular seal (1970s)" loading="lazy" decoding="async" />
-    </a>
-    <figcaption>Elongated 7:3 rectangular seal</figcaption>
-  </figure>
-</div>
+<figure>
+  <a href="/tea/posts/f1-seals/seals/70-7-3.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/70-7-3.png" alt="Zhong Guo YiXing 7:3 — elongated rectangular seal (1970s)" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Elongated 7:3 rectangular seal</figcaption>
+</figure>
 
 <br />
 
@@ -178,7 +176,7 @@ name from the stylization of the "中" symbol that reminds a key
 
 There are several variations that could be seen within the square “Zhong Guo Yixing” seal in this period
 
-<div class="image-gallery" role="group" aria-label="Square Zhong Guo YiXing (1970s)">
+<div class="image-gallery two-up" role="group" aria-label="Square Zhong Guo YiXing (1970s)">
   <figure>
     <a href="/tea/posts/f1-seals/seals/70-square.png" target="_blank" rel="noopener noreferrer">
       <img src="/tea/posts/f1-seals/seals/70-square.png" alt="Square Zhong Guo YiXing seal — variant A (1970s)" loading="lazy" decoding="async" />
@@ -208,7 +206,7 @@ appearing. It all makes navigating through the seals of the Green Label period v
 of the seals presented below is not even nearly close to be exhaustive. Here are collected only the most common seals.
 
 ### Zhong Guo YiXing (中國宜興) 6:4
-<div class="image-gallery" role="group" aria-label="Green Label — Zhong Guo YiXing 6:4 variations">
+<div class="image-gallery four-up" role="group" aria-label="Green Label — Zhong Guo YiXing 6:4 variations">
   <figure>
     <a href="/tea/posts/f1-seals/seals/green-label-6-4-var1.png" target="_blank" rel="noopener noreferrer">
       <img src="/tea/posts/f1-seals/seals/green-label-6-4-var1.png" alt="Green Label 6:4 — variant A" loading="lazy" decoding="async" />
@@ -237,7 +235,7 @@ of the seals presented below is not even nearly close to be exhaustive. Here are
 <br />
 
 ### Zhong Guo YiXing (中國宜興) 7:3
-<div class="image-gallery" role="group" aria-label="Green Label — Zhong Guo YiXing 7:3 variations">
+<div class="image-gallery three-up" role="group" aria-label="Green Label — Zhong Guo YiXing 7:3 variations">
   <figure>
     <a href="/tea/posts/f1-seals/seals/green-label-7-3.png" target="_blank" rel="noopener noreferrer">
       <img src="/tea/posts/f1-seals/seals/green-label-7-3.png" alt="Green Label 7:3 — variant A" loading="lazy" decoding="async" />
@@ -263,7 +261,7 @@ of the seals presented below is not even nearly close to be exhaustive. Here are
 ### Square Zhong Guo YiXing (中國宜興)
 During this period, several variations of the square Zhong Guo YiXing seal emerged, some of which overlapped with 
 designs from the preceding era.
-<div class="image-gallery-large" role="group" aria-label="Green Label — square and key-shaped variants">
+<div class="image-gallery six-up" role="group" aria-label="Green Label — square and key-shaped variants">
   <figure>
     <a href="/tea/posts/f1-seals/seals/green-label-square.png" target="_blank" rel="noopener noreferrer">
       <img src="/tea/posts/f1-seals/seals/green-label-square.png" alt="Green Label square seal — variant A" loading="lazy" decoding="async" />
@@ -320,7 +318,7 @@ contrast to the two strokes commonly used in the 1960s.
 
 Within the “three-line water” seal, there are also some variations in the stylization of the characters.
 
-<div class="image-gallery" role="group" aria-label="Three-line water — variations">
+<div class="image-gallery two-up" role="group" aria-label="Three-line water — variations">
   <figure>
     <a href="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-3.png" target="_blank" rel="noopener noreferrer">
       <img src="/tea/posts/f1-seals/seals/green-label-6-char-meng-chen-3.png" alt="JingXi Hui MengChen — three‑line water variant A" loading="lazy" decoding="async" />
