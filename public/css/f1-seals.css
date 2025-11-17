@@ -104,7 +104,7 @@ figure img {
 .image-gallery figcaption,
 .image-gallery-large figcaption {
   text-align: center;
-  margin-top: 6px;
+  margin-top: 12px;
   font-size: 0.95rem;
   line-height: 1.3;
   font-style: normal;
@@ -114,7 +114,7 @@ figure img {
 /* Ensure standalone figure captions match gallery captions and are centered */
 figure figcaption {
   text-align: center;
-  margin-top: 6px;
+  margin-top: 12px;
   font-size: 0.95rem;
   line-height: 1.3;
   font-weight: 400;
@@ -140,6 +140,9 @@ figure.full-size img {
   margin-left: auto;
   margin-right: auto;
 }
+.image-gallery.two-up:has(figure.full-size) {
+  max-width: 1000px;
+}
 .image-gallery.two-up figure {
   flex: 1;
   max-width: 50%;
@@ -147,12 +150,20 @@ figure.full-size img {
   flex-direction: column;
   margin: 0;
 }
+.image-gallery.two-up figure.full-size {
+  max-width: 50%;
+  min-width: 0;
+}
 .image-gallery.two-up figure > a {
   display: flex;
   align-items: center;
   justify-content: center;
   height: var(--f1-preview-height);
   width: 100%;
+}
+.image-gallery.two-up figure.full-size > a {
+  height: auto;
+  min-height: auto;
 }
 .image-gallery.two-up figure img {
   width: 100%;
@@ -163,8 +174,10 @@ figure.full-size img {
   margin: 0;
 }
 .image-gallery.two-up figure.full-size img {
-  width: 100%;
+  width: auto;
+  max-width: 100%;
   height: auto;
+  object-fit: none;
 }
 
 /* Four-image gallery side by side */
