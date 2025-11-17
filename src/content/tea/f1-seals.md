@@ -395,3 +395,29 @@ from other forms.
   </a>
   <figcaption>Single-Border Six-Character JingXi Hui MengChen</figcaption>
 </figure>
+
+### Square Four-Character JingXi X "Made By" (四方 四汉子 荆溪X制)
+In the 80s, square seals began to appear that included the name of the workshop leader in the top-left corner, 
+positioned alongside the traditional “Jingxi” inscription.
+
+<div class="image-gallery three-up" role="group" aria-label="Square JingXi made-by seal variations">
+  <figure>
+    <a href="/tea/posts/f1-seals/seals/green-label-made-by.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-made-by.png" alt="Square JingXi made-by seal — variant A" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>"Made-by" variant A</figcaption>
+  </figure>
+  <figure>
+    <a href="/tea/posts/f1-seals/seals/green-label-made-by-var1.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-made-by-var1.png" alt="Square JingXi made-by seal — variant B" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>"Made-by" variant B</figcaption>
+  </figure>
+  <figure>
+    <a href="/tea/posts/f1-seals/seals/green-label-made-by-var2.png" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/f1-seals/seals/green-label-made-by-var2.png" alt="Square JingXi made-by seal — variant C" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>"Made-by" variant C</figcaption>
+  </figure>
+</div>
+
