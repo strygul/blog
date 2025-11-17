@@ -366,7 +366,7 @@ it myself, but as the source is very authoritative, it is worth mentioning it.
   <figcaption>Four‑character JingXi MengChen</figcaption>
 </figure>
 
-### Twentytwo Character China Native Produce (二十二汉字  中国土产畜产进出口公司福建省分公司厦门支公司)
+### Twenty-two-Character China Native Produce (二十二汉字  中国土产畜产进出口公司福建省分公司厦门支公司)
 The seal reads "China Native Produce and Livestock Import and Export Corporation, FuJian Branch, Xiamen Subsidiary".
 <figure>
   <a href="/tea/posts/f1-seals/seals/green-label-22-char.png" target="_blank" rel="noopener noreferrer">
@@ -375,3 +375,23 @@ The seal reads "China Native Produce and Livestock Import and Export Corporation
   <figcaption>Twenty-two character China Native Produce seal</figcaption>
 </figure>
 
+### Three-Line Water Six-Character JingXi Hui MengChen (六汉字 三线水 荆溪惠孟臣)
+This mark resembles the six-character seals used during the 1960s, but the green-label period introduced a subtle 
+variation. In this version, the water radical 氵 in the character 溪 (middle right) is written with three strokes 
+instead of the two found in earlier seals.
+<figure>
+  <a href="/tea/posts/f1-seals/seals/green-label-hui-mengchen.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/green-label-hui-mengchen.png" alt="Twenty-two character China Native Produce seal — 中国土产畜产进出口公司福建省分公司厦门支公司 (Green Label period)" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Three-Line Water Six-Character JingXi Hui MengChen seal</figcaption>
+</figure>
+
+### Single-Border Six-Character JingXi Hui MengChen (六汉字 荆溪惠孟臣)
+Another variation of the six-character Hui MengChen seal can be identified by its single-line border, setting it apart 
+from other forms.
+<figure>
+  <a href="/tea/posts/f1-seals/seals/green-label-hui-mengchen-single-border.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/f1-seals/seals/green-label-hui-mengchen-single-border.png" alt="Twenty-two character China Native Produce seal — 中国土产畜产进出口公司福建省分公司厦门支公司 (Green Label period)" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Single-Border Six-Character JingXi Hui MengChen</figcaption>
+</figure>
