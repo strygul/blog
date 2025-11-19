@@ -202,8 +202,9 @@ Products from the Yixing Zisha Craft Factory (also known as Factory 1) began car
 
 During this period, many seals overlapped with those used in the preceding Cultural Revolution era. You’ll often
 encounter marks such as Zhong Guo YiXing 6:4, 7:3, square, or key-shaped seals. The era, however, also knows many new seals 
-appearing. It all makes navigating through the seals of the Green Label period very confusing. For this reason, the list
-of the seals presented below is not even nearly close to be exhaustive. Here are collected only the most common seals.
+appearing. It all makes navigating through the seals of the Green Label period very confusing. For this reason, <b>the 
+list of the seals presented below is not even nearly close to be exhaustive. Here are collected only the most common 
+seals.</b>
 
 ### Zhong Guo YiXing (中國宜興) 6:4
 <div class="image-gallery four-up" role="group" aria-label="Green Label — Zhong Guo YiXing 6:4 variations">

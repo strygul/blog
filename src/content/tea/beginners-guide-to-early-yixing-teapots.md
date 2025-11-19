@@ -1,10 +1,11 @@
 ---
-title: "Beginner’s Guide to Early Yixing Teapots"
+title: "\"Early Teapots\": Beginner’s Guide to Early Yixing Teapots"
 pubDate: "2025-11-18"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
 description: "How to Date Early Factory Teapots with Confidence"
+heroImage: "../../assets/tea/early-teapots-1/intro.png"
 ---
 
 <div class="info-box">
@@ -25,7 +26,7 @@ While the world of Yixing teapots can feel overwhelming at first, dating a teapo
 understand a few essential steps. This guide breaks down a simple, structured method to help you evaluate early 
 factory-period Yixing teapots more confidently.
 
-1. Start by Identifying the Possible Era
+#### 1. Start by Identifying the Possible Era
 
 Before judging authenticity, you must first ask:
 “Which era does this teapot belong to?”
@@ -46,7 +47,7 @@ Authentic features from different periods don’t appear together on the same pi
 If you can’t yet recognize the eras, don’t rush to buy. Instead, spend time reading, studying reference materials, and 
 looking at verified examples. A solid foundation will save you many costly mistakes.
 
-2. Once the Era Is Identified, Study That Era’s Characteristics
+#### 2. Once the Era Is Identified, Study That Era’s Characteristics
 
 Each period has its own “fingerprint.”
 To evaluate a teapot, study the period’s:
@@ -70,15 +71,15 @@ For instance, why do we determine that the “China Yixing” (4:6-character) ma
 
 Two key reasons:
 
-Authentic “Tingji” teapots appear only with the six-character mark (1960s) and the 46-character “China Yixing” mark — 
+Authentic “Tingji” teapots appear only with the six-character mark (1960s) and the 4:6-character “China Yixing” mark — 
 never with the 3:7-character mark.
 
-Some 46-character teapots share identical molds with six-character pieces, while no such connection exists with 
+Some 4:6-character teapots share identical molds with six-character pieces, while no such connection exists with 
 3:7-character examples.
 
 This is deduction based on observable evidence, not hearsay.
 
-3. A Correct Teapot Should Match in Clay, Craftsmanship, Form, Seal, and Firing
+#### 3. A Correct Teapot Should Match in Clay, Craftsmanship, Form, Seal, and Firing
 
 If all the features of the teapot align with the known characteristics of the era, then the piece is likely correct.
 
@@ -91,7 +92,7 @@ difficult.
 
 In collecting Yixing, buying better is more important than buying more.
 
-4. Use Your Teapot—Don’t Lock It Away
+#### 4. Use Your Teapot—Don’t Lock It Away
 
 After acquiring an authentic factory-period teapot, use it often.
 Examine it, handle it, brew with it. Familiarity builds an intuitive understanding of clay, structure, and workmanship 
@@ -103,7 +104,7 @@ Real learning comes from living with the piece.
 Also compare it frequently with non-factory or modern pieces.
 With time, the differences will become obvious and effortless to spot.
 
-Final Thoughts
+#### Final Thoughts
 
 These steps come from observing countless questions and common mistakes among new collectors.
 With patience, study, and hands-on experience, you can build a strong foundation and truly enjoy the journey into the 
