@@ -92,8 +92,8 @@ wall. This is why early Yixing references often mention the term "flat base, sho
 this transitional production period.
 
 <figure class="full-size">
-  <a href="/tea/posts/early-teapots-flat-base-vs-grooved/img.png" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/early-teapots-flat-base-vs-grooved/img.png" alt="Comparison of teapot lids showing the 
+  <a href="/tea/posts/early-teapots-flat-base-vs-grooved/lids.png" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/early-teapots-flat-base-vs-grooved/lids.png" alt="Comparison of teapot lids showing the 
 relationship between flat base construction and short inner wall (短牆)" loading="lazy" decoding="async" />
   </a>
   <figcaption>Flat base teapots with short inner wall (短牆)</figcaption>
