@@ -16,64 +16,56 @@ through the 1960s can be grouped into several commonly recognized seal types:
 - **Four-Leg Xi (四腳溪)** – *at least* 3 variations
 - **Yixing Hui (宜興惠)** – *at least* 1
 - **Jingxi Nan / Nan Meng Chen (荊溪南 / 南孟臣)** – *at least* 1
-- **Da Jiao Xi (大腳溪)** – *at least* 5
+- **Da Jiao Xi (大腳溪)** – *at least* 4
 - **Xiao Jiao Xi (小腳溪)** – *at least* 1
 - **“China Yixing” (中國宜興)** – one early version
 
-<figure>
-  <a href="/tea/posts/early-teapots-1958-1960s-seals/4-leg-xi-var-1.jpg" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/early-teapots-1958-1960s-seals/4-leg-xi-var-1.jpg" alt="Four-Leg Xi (四腳溪) variation 1" loading="lazy" decoding="async" />
-  </a>
-  <figcaption>Four-Leg Xi (四腳溪) variation 1</figcaption>
+<figure class="full-size">
+  <img src="/tea/posts/early-teapots-1958-1960s-seals/4-leg-xi-var-1.jpg" alt="Four-Leg Xi (四腳溪) variation 1" loading="lazy" decoding="async" />
+  <figcaption>Four-Leg Xi (四腳溪)</figcaption>
 </figure>
 
-<div class="image-gallery four-up" role="group" aria-label="Da Jiao Xi (大腳溪) variations">
-  <figure>
-    <a href="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-1.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-1.jpg" alt="Da Jiao Xi (大腳溪) variation 1" loading="lazy" decoding="async" />
-    </a>
-    <figcaption>Da Jiao Xi (大腳溪) variation 1</figcaption>
-  </figure>
-  <figure>
-    <a href="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-2.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-2.jpg" alt="Da Jiao Xi (大腳溪) variation 2" loading="lazy" decoding="async" />
-    </a>
-    <figcaption>Da Jiao Xi (大腳溪) variation 2</figcaption>
-  </figure>
-  <figure>
-    <a href="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-3.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-3.jpg" alt="Da Jiao Xi (大腳溪) variation 3" loading="lazy" decoding="async" />
-    </a>
-    <figcaption>Da Jiao Xi (大腳溪) variation 3</figcaption>
-  </figure>
-  <figure>
-    <a href="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-4.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-4.jpg" alt="Da Jiao Xi (大腳溪) variation 4" loading="lazy" decoding="async" />
-    </a>
-    <figcaption>Da Jiao Xi (大腳溪) variation 4</figcaption>
-  </figure>
-</div>
+<figure class="full-size">
+  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-1.jpg" alt="Da Jiao Xi (大腳溪) variation 1" loading="lazy" decoding="async" />
+  <figcaption>Da Jiao Xi (大腳溪) variation 1: "There is a straight line in the character '製', which should be a crack
+left from repeated use of a wooden seal. The lower-left part of the character '孟' is stuck together."</figcaption>
+</figure>
+<figure class="full-size">
+  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-2.jpg" alt="Da Jiao Xi (大腳溪) variation 2" loading="lazy" decoding="async" />
+  <figcaption>Da Jiao Xi (大腳溪) variation 2: The lower-left part of the character 惠 has a straight crack line; the 
+'mouth' component of 惠 is V-shaped — sometimes I call it the 'V-mouth 惠'. The lower-left part of the character 孟 is 
+clearly separated.</figcaption>
+</figure>
+<figure class="full-size">
+  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-3.jpg" alt="Da Jiao Xi (大腳溪) variation 3" loading="lazy" decoding="async" />
+  <figcaption>Da Jiao Xi (大腳溪) variation 3: The two dots on the left and right of the 'heart' component in the 
+character 惠 are more curved than those in other seal marks, and the 'mouth' component of 惠 is O-shaped — sometimes 
+called 'O-mouth 惠'.</figcaption>
+</figure>
+<figure class="full-size">
+  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-4.jpg" alt="Da Jiao Xi (大腳溪) variation 4" loading="lazy" decoding="async" />
+  <figcaption>Da Jiao Xi (大腳溪) variation 4: The upper part of the character 惠 is separate from the lower ‘heart’ 
+component. This seal mark is slightly wider than the others, and sometimes called ‘large seal mark.’</figcaption>
+</figure>
 
-<div class="image-gallery three-up" role="group" aria-label="Other seal types">
-  <figure>
-    <a href="/tea/posts/early-teapots-1958-1960s-seals/nan.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/early-teapots-1958-1960s-seals/nan.jpg" alt="Jingxi Nan / Nan Meng Chen (荊溪南 / 南孟臣)" loading="lazy" decoding="async" />
-    </a>
-    <figcaption>Jingxi Nan / Nan Meng Chen (荊溪南 / 南孟臣)</figcaption>
-  </figure>
-  <figure>
-    <a href="/tea/posts/early-teapots-1958-1960s-seals/small-xi-var-1.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/early-teapots-1958-1960s-seals/small-xi-var-1.jpg" alt="Xiao Jiao Xi (小腳溪) variation 1" loading="lazy" decoding="async" />
-    </a>
-    <figcaption>Xiao Jiao Xi (小腳溪) variation 1</figcaption>
-  </figure>
-  <figure>
-    <a href="/tea/posts/early-teapots-1958-1960s-seals/yixing.jpg" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/early-teapots-1958-1960s-seals/yixing.jpg" alt="China Yixing (中國宜興)" loading="lazy" decoding="async" />
-    </a>
-    <figcaption>China Yixing (中國宜興)</figcaption>
-  </figure>
-</div>
+<figure class="full-size">
+  <a href="/tea/posts/early-teapots-1958-1960s-seals/nan.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/early-teapots-1958-1960s-seals/nan.jpg" alt="Jingxi Nan / Nan Meng Chen (荊溪南 / 南孟臣)" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Jingxi Nan / Nan Meng Chen (荊溪南 / 南孟臣)</figcaption>
+</figure>
+<figure class="full-size">
+  <a href="/tea/posts/early-teapots-1958-1960s-seals/small-xi-var-1.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/early-teapots-1958-1960s-seals/small-xi-var-1.jpg" alt="Xiao Jiao Xi (小腳溪) variation 1" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Xiao Jiao Xi (小腳溪)</figcaption>
+</figure>
+<figure class="full-size">
+  <a href="/tea/posts/early-teapots-1958-1960s-seals/yixing.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/early-teapots-1958-1960s-seals/yixing.jpg" alt="China Yixing (中國宜興)" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>China Yixing (中國宜興)</figcaption>
+</figure>
 
 The phrase *“at least”* is used because no surviving archival documents conclusively confirm these as the only 
 legitimate seals from the period. Although unlikely, additional variations may still exist. Potential outliers should 
