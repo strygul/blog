@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Factory No1 1958-1960s Seals Identification"
+title: "\"Early Teapots\": Factory 1 1958-1960s Seals Identification"
 pubDate: "2025-12-02"
 category:
   - "Tea"
@@ -7,6 +7,21 @@ category:
 description: "How to identify Factory 1 seals from 1958-1960s"
 heroImage: "../../assets/tea/early-teapots-1/intro.png"
 ---
+
+<div class="info-box">
+This post is part of a series of excerpts from <i>Early Teapots II</i> — a book by Dr. Lu Chi Lin — and from discussions 
+in <a href="https://www.facebook.com/groups/teapot2">the related Facebook group</a>, which offers a wealth of knowledge 
+about antique Yixing teapots. Since both the book and the group's discussions are primarily in Chinese (with only a few 
+chapters translated into English), this series aims to make this invaluable information on the magnificent art of Yixing
+accessible to a Western audience that still lacks such resources.
+
+All credit goes to Dr. Lu Chi Lin and the many dedicated members of the community inspired by his work, who generously
+share their expertise and passion.
+</div>
+
+Source: https://www.facebook.com/groups/teapot2/posts/1524444294516902/
+
+This post is about identification of Factory 1 seals from the late 1950s–1960s
 
 ## Known Seal Types from the Late 1950s–1960s
 
