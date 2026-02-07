@@ -20,12 +20,34 @@ visual characteristics. Examples include:
 
 - **Ba Le** (Fig. 1), meaning *guava*
 - **Rou Bing** (Fig. 2), meaning *meat cake*
-- **Shen Deng** (Fig. 3), meaning *magical lamp*
+- **Bian Deng** (Fig. 3), meaning *magical lamp*
 - **Xi Shi** (Fig. 4), named after the famous Chinese beauty
 - **Tai Jian** (Fig. 5), meaning *eunuch*
 
-![bale-70s-zini-101ml.png](../../../public/tea/posts/early-teapots-five-shape-pots/bale-70s-zini-101ml.png)
-![rou-bing-70s-hogni-75ml.png](../../../public/tea/posts/early-teapots-five-shape-pots/rou-bing-70s-hogni-75ml.png)
+<figure class="full-size">
+<img src="../../../public/tea/posts/early-teapots-five-shape-pots/bale-70s-zini-101ml.png" alt="Ba Le (Fig. 1)" />
+<figcaption>Fig. 1: Ba Le (70s, zini, 101ml)</figcaption>
+</figure>
+
+<figure class="full-size">
+<img src="../../../public/tea/posts/early-teapots-five-shape-pots/rou-bing-70s-hongni-75ml.png" alt="Rou Bing (Fig. 2)" />
+<figcaption>Fig. 2: Rou Bing (70s, hongni, 75ml)</figcaption>
+</figure>
+
+<figure class="full-size">
+<img src="../../../public/tea/posts/early-teapots-five-shape-pots/bian-deng-70s-hongni-73ml.png" alt="Bian Deng (Fig. 3)" />
+<figcaption>Fig. 3: Bian Deng (70s, hongni, 73ml)</figcaption>
+</figure>
+
+<figure class="full-size">
+<img src="../../../public/tea/posts/early-teapots-five-shape-pots/xi-shi-70s-hongni-74ml.png" alt="Xi Shi (Fig. 4)" />
+<figcaption>Fig. 4: Xi Shi (70s, hongni, 74ml)</figcaption>
+</figure>
+
+<figure class="full-size">
+<img src="../../../public/tea/posts/early-teapots-five-shape-pots/tai-jian-80s-96ml.png" alt="Tai Jian (Fig. 5)" />
+<figcaption>Fig. 5: Tai Jian (80s, 96ml)</figcaption>
+</figure>
 
 These names are essentially localized Taiwanese terms, reflecting the collectors’ own experiences and interpretations 
 rather than official factory designations.
