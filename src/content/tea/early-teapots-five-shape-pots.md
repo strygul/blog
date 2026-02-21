@@ -8,6 +8,18 @@ category:
 description: "The appreciation and original names of \"Five Shape Pots\""
 heroImage: "../../assets/tea/early-teapots-1/intro.png"
 ---
+<div class="info-box">
+This post is part of a series of excerpts from <i>Early Teapots II</i> — a book by Dr. Lu Chi Lin — and from discussions 
+in <a href="https://www.facebook.com/groups/teapot2">the related Facebook group</a>, which offers a wealth of knowledge 
+about antique Yixing teapots. Since both the book and the group's discussions are primarily in Chinese (with only a few 
+chapters translated into English), this series aims to make this invaluable information on the magnificent art of Yixing
+accessible to a Western audience that still lacks such resources.
+
+All credit goes to Dr. Lu Chi Lin and the many dedicated members of the community inspired by his work, who generously
+share their expertise and passion.
+</div>
+
+Source: 
 
 ## 1) The Origin of the “Five Shape Pots” Names
 

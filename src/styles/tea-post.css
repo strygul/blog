@@ -29,3 +29,21 @@
 	border-radius: 8px;
 }
 
+figure.figure-center {
+	text-align: center;
+	margin: 1em 0;
+}
+
+figure.figure-center img {
+	display: inline-block;
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+
+figure.figure-center figcaption {
+	margin-top: 0.5em;
+	font-size: 0.95rem;
+	line-height: 1.3;
+}
+
