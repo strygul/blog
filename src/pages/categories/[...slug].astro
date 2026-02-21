@@ -41,6 +41,7 @@ type Props = {
 };
 
 const { category, posts } = Astro.props;
+const base = import.meta.env.BASE_URL;
 ---
 
 <!doctype html>
@@ -140,7 +141,7 @@ const { category, posts } = Astro.props;
 				<ul>
 					{
 						posts.map((post) => {
-							const basePath = post.collection === 'tea' ? '/tea' : '/blog';
+							const basePath = post.collection === 'tea' ? `${base}tea` : `${base}blog`;
 							return (
 								<li>
 									<a href={`${basePath}/${post.id}/`}>

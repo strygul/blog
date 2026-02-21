@@ -17,7 +17,7 @@ const categories = Array.isArray(category) ? category : [category];
 <html lang="en">
 	<head>
 		<BaseHead title={title} description={description} />
-		{categories.includes('Tea') && <link rel="stylesheet" href="/css/f1-seals.css" />}
+		{categories.includes('Tea') && <link rel="stylesheet" href={`${import.meta.env.BASE_URL}css/f1-seals.css`} />}
 		<style>
 			main {
 				width: calc(100% - 2em);
