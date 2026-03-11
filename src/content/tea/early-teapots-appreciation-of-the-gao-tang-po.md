@@ -18,7 +18,7 @@ All credit goes to Dr. Lu Chi Lin and the many dedicated members of the communit
 share their expertise and passion.
 </div>
 
-Source:
+Source: https://www.facebook.com/groups/teapot2/posts/1688216344806362/
 
 When discussing Gao Tang Po (GTP) teapots, the first step is clarifying the origin of the name. Many rumors exist, but the explanation is actually straightforward.
 
@@ -47,11 +47,10 @@ The Gao Tang Po shape was designed by Gu Jingzhou and other factory masters, ins
 The Gao Tang Po was produced from the late 1950s to early 1960s, and authentic examples display characteristics typical of that era.
 
 ## Characteristics of 1960s Gao Tang Po
+![60s.png](../../../public/tea/posts/early-teapots-appreciation-of-the-gao-tang-po/60s.png)
 
 1. Base Seal
-
 Authentic pieces typically use six-character seals, such as:
-
 - Jing Xi Hui Meng Chen Zhi
 - Jing Xi Nan Meng Chen Zhi
 - Yixing Hui Meng Chen Zhi
@@ -59,9 +58,7 @@ Authentic pieces typically use six-character seals, such as:
 These seals match those used on other Factory #1 teapots of the period.
 
 2. Clay and Firing
-
 1960s GTP teapots were usually fired in downdraft kilns. The clay resembles other Factory #1 wares of the time:
-
 - thin, matte surface
 - slightly sandy texture
 - appearance similar to red bean paste
@@ -69,15 +66,12 @@ These seals match those used on other Factory #1 teapots of the period.
 This quality is difficult to judge from photographs and is best understood through handling authentic examples.
 
 3. Lid Seal
-
 Most 1960s GTP teapots have “Gao Tang Po” stamped inside the lid. Two main seal styles have been observed.
-
+![stamp.jpg](../../../public/tea/posts/early-teapots-appreciation-of-the-gao-tang-po/stamp.jpg)
 Many reproductions imitate this stamp, but the calligraphy usually differs and can be identified through comparison.
 
 4. Workmanship
-
 Compared with other teapots of the period, GTP bodies are slightly thicker, likely due to the molds used. As a result, the pots are heavier. Typical features include:
-
 - relatively small lid knob
 - finishing marks inside the lid
 - air hole construction consistent with other 1960s Factory #1 pots
@@ -85,14 +79,12 @@ Compared with other teapots of the period, GTP bodies are slightly thicker, like
 Examples of 1960s GTP are shown in figures 2–5.
 
 ## 1970s Gao Tang Po
-
+![70s.png](../../../public/tea/posts/early-teapots-appreciation-of-the-gao-tang-po/70s.png)
 In the 1970s, several changes appear:
-
 - Base seal: Zhong Guo Yixing (4- or 6-character version)
 - Lid: no longer stamped “Gao Tang Po”
 
 Other differences include:
-
 - slightly altered proportions due to new molds
 - larger lid knob
 - spout with less refined curvature
@@ -101,7 +93,7 @@ Other differences include:
 The clay also appears brighter or glossier, reflecting changes in clay preparation and firing methods.
 
 ## Late 1970s–Early 1980s: Green Label Period
-
+![80s.png](../../../public/tea/posts/early-teapots-appreciation-of-the-gao-tang-po/80s.png)
 The Green Label period produced another variation of the Gao Tang Po.
 
 Characteristics include:
@@ -117,7 +109,6 @@ Six-character base seals reappear during this period, but their style differs fr
 Another teapot produced in the early 1960s at Factory #1 resembles the Gao Tang Po. Taiwanese collectors call it “Ban Bian Luan” (Half-Sided Egg) because of its egg-like shape.
 
 This form:
-
 - has no lid stamp, so its original name is unknown
 - resembles the GTP shape
 - is therefore sometimes called “Bian Ti Gao Tang Po” (variant GTP)
@@ -127,7 +118,6 @@ Collectors consider it significantly rarer than standard GTP. Later examples fro
 ## Identifying Early Gao Tang Po
 
 Like early pu-erh tea, early Yixing teapots should be understood in the context of their era. Authentic pieces display consistent combinations of:
-
 - seals
 - clay material
 - firing characteristics

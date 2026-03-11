@@ -39,6 +39,20 @@ const categories = Array.isArray(category) ? category : [category];
 				padding: 1em;
 				color: rgb(var(--gray-dark));
 			}
+			.prose ul,
+			.prose ol {
+				margin-top: 0.35em;
+				margin-bottom: 0.75em;
+				padding-left: 1.5em;
+			}
+			.prose p:has(+ ul),
+			.prose p:has(+ ol) {
+				margin-bottom: 0.5em;
+			}
+			.prose ul:has(+ p),
+			.prose ol:has(+ p) {
+				margin-bottom: 0.5em;
+			}
 			.title {
 				margin-bottom: 1em;
 				padding: 1em 0;
