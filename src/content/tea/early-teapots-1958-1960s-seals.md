@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Factory 1 1958-1960s Seals Identification"
+title: "“Early Teapots”: Factory 1 1958-1960s Seals Identification"
 pubDate: "2025-12-02"
 category:
   - "Tea"

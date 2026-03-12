@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Order versus Chaos"
+title: "“Early Teapots”: Order versus Chaos"
 pubDate: "2025-12-16"
 category:
   - "Tea"
