@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Understanding Yixing Clay From 60s and 70s"
+title: "“Early Teapots”: Understanding Yixing Clay From 60s and 70s"
 pubDate: "2025-11-18"
 category:
   - "Tea"

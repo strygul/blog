@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Flat Base vs. Grooved Base"
+title: "“Early Teapots”: Flat Base vs. Grooved Base"
 pubDate: "2025-11-17"
 category:
   - "Tea"

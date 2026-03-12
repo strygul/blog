@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": The Tingji Seal"
+title: "“Early Teapots”: The Tingji Seal"
 pubDate: "2025-11-27"
 category:
   - "Tea"

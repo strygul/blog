@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": The Appreciation of \"Xian Piao\" Series"
+title: "“Early Teapots”: The Appreciation of \"Xian Piao\" Series"
 pubDate: "2026-02-08"
 category:
   - "Tea"
