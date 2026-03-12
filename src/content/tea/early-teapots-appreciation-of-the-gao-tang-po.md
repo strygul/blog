@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Appreciation of the Gao Tang Po"
+title: "“Early Teapots”: Appreciation of the Gao Tang Po"
 pubDate: "2026-03-10"
 category:
   - "Tea"

@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Beginner’s Guide to Early Yixing Teapots"
+title: "“Early Teapots”: Beginner’s Guide to Early Yixing Teapots"
 pubDate: "2025-11-18"
 category:
   - "Tea"

@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": The Shape of Xian Piao"
+title: "“Early Teapots”: The Shape of Xian Piao"
 pubDate: "2025-11-11"
 category: "Tea"
 description: "Excerpts from \"Early teapot encyclopedia II" 

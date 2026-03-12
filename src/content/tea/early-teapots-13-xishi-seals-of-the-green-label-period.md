@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": 13 Nei Zi Wai Hong Xishi Seals of the Green Label Period"
+title: "“Early Teapots”: 13 Nei Zi Wai Hong Xishi Seals of the Green Label Period"
 pubDate: "2025-12-12"
 category:
   - "Tea"

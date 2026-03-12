@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": \"Five Shape Pots\"(五形壺)"
+title: "“Early Teapots”: \"Five Shape Pots\"(五形壺)"
 pubDate: "2026-01-21"
 category:
   - "Tea"

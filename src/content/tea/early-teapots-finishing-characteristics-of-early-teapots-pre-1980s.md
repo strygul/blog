@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Finishing Characteristics of Early Teapots (Pre-1980s)"
+title: "“Early Teapots”: Finishing Characteristics of Early Teapots (Pre-1980s)"
 pubDate: "2025-12-23"
 category:
   - "Tea"

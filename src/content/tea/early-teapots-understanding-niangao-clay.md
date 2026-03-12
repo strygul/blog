@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Understanding Niangao Clay"
+title: "“Early Teapots”: Understanding Niangao Clay"
 pubDate: "2025-11-19"
 category:
   - "Tea"
