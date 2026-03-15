@@ -5,7 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
 description: "An introduction to the Gao Tang Po (GTP) teapot series, explaining its naming, origins in early Factory #1 production, and the key features collectors use to distinguish authentic pieces from different decades."
-heroImage: "../../assets/tea/early-teapots-1/intro.png"
+heroImage: "../../../public/tea/posts/early-teapots-appreciation-of-the-gao-tang-po/intro.png"
 ---
 <div class="info-box">
 This post is part of a series of excerpts from <i>Early Teapots II</i> — a book by Dr. Lu Chi Lin — and from discussions 
