@@ -5,7 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
 description: "How to identify Factory 1 seals from 1958-1960s"
-heroImage: "../../assets/tea/early-teapots-1/intro.png"
+heroImage: "../../../public/tea/posts/early-teapots-1958-1960s-seals/intro.png"
 ---
 
 <div class="info-box">

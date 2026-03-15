@@ -5,7 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
 description: "A dive into what is niangao clay"
-heroImage: "../../assets/tea/early-teapots-1/intro.png"
+heroImage: "../../../public/tea/posts/early-teapots-understanding-niangao-clay/intro.png"
 ---
 <div class="info-box">
 This post is part of a series of excerpts from <i>Early Teapots II</i> — a book by Dr. Lu Chi Lin — and from discussions 
