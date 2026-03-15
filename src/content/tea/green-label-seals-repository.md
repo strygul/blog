@@ -3,6 +3,7 @@ title: "Green Label Seals Repository"
 pubDate: "2025-11-19"
 category: "Tea"
 description: "Repository of all the seals found across Yixing teapots of the Green Label era"
+heroImage: "../../assets/tea/early-teapots-1/intro.png"
 ---
 The Green Label period lasted roughly from 1977 to 1982-1986 (the end date is arguable), spanning nearly a decade. 
 Because Hong Kong businesses entered Yixing during this time, production increased dramatically, resulting in a large 

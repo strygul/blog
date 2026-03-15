@@ -3,7 +3,7 @@ title: "\"Early Teapots\": The Shape of Xian Piao"
 pubDate: "2025-11-11"
 category: "Tea"
 description: "Excerpts from \"Early teapot encyclopedia II" 
-heroImage: "../../assets/tea/early-teapots-1/intro.png"
+heroImage: "../../../public/tea/posts/early-teapots-1/intro.png"
 ---
 
 <div class="info-box">

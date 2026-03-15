@@ -5,7 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
 description: "A factual overview of interior and exterior finishing characteristics commonly found in pre-1980s teapots, highlighting typical production marks and features used for evaluation."
-heroImage: "../../assets/tea/early-teapots-1/intro.png"
+heroImage: "../../../public/tea/posts/early-teapots-clay-60s-and-70s/intro.png"
 ---
 <div class="info-box">
 This post is part of a series of excerpts from <i>Early Teapots II</i> — a book by Dr. Lu Chi Lin — and from discussions 

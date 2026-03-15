@@ -5,7 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
 description: "Mica Flakes, Carbon Spots, and What They Really Mean in Yixing Clay from 60s and 70s"
-heroImage: "../../assets/tea/early-teapots-1/intro.png"
+heroImage: "../../../public/tea/posts/early-teapots-clay-60s-and-70s/intro.png"
 ---
 <div class="info-box">
 This post is part of a series of excerpts from <i>Early Teapots II</i> — a book by Dr. Lu Chi Lin — and from discussions 
