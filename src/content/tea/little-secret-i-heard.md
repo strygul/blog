@@ -6,7 +6,7 @@ category:
   - "teapots"
 description: "A secret trick from an old collector how to recognize an authentic old Yixing teapot"
 ---
-ust heard from a collector with more than 50 years of experience that when a dry Yixing teapot is filled to about 80% 
+Just heard from a collector with more than 50 years of experience that when a dry Yixing teapot is filled to about 80% 
 with hot water, it produces a faint bubbling sound. And the older the teapot, the louder and more noticeable the sound 
 becomes.
 
