@@ -5,10 +5,30 @@ import Layout from '../layouts/BlogPost.astro';
 
 <Layout
 	title="About Me"
-	description="Lorem ipsum dolor sit amet"
-	pubDate={new Date('August 08 2021')}
+	description="Let me introduce myself..."
+	pubDate={new Date('March 17 2026')}
 	heroImage={AboutHeroImage}
 >
+	<p class="about-version-chooser">
+		Let me <span class="about-version-link" data-version="short" role="button" tabindex="0">briefly introduce myself</span>—or would you prefer <span class="about-version-link" data-version="long" role="button" tabindex="0">to get to know me a bit better?</span>.
+	</p>
+
+	<div id="about-short" class="about-version-content folded" aria-hidden="true">
+		<div class="about-version-inner">
+		<p>
+			Software engineer. Curious, opinionated, and easily distracted by interesting things—tech, politics, ballet, boxing, tea... You name it.
+		</p>
+		<p>
+			Born in Kyiv, based in Copenhagen.
+		</p>
+		<p>
+			Writing to make sense of it all.
+		</p>
+		</div>
+	</div>
+
+	<div id="about-long" class="about-version-content folded" aria-hidden="true">
+		<div class="about-version-inner">
 	<p>
 		I am a seasoned software engineer with more than a decade of coding experience. I started this journey when I was
 		16, the times when Windows XP was the latest operation system. There was yet no iPhone, YouTube, or Facebook,
@@ -92,5 +112,65 @@ import Layout from '../layouts/BlogPost.astro';
 	<p>
 		To be continued... If I am not lazy
 	</p>
+		</div>
+	</div>
 
+	<script>
+		const shortLink = document.querySelector('[data-version="short"]');
+		const longLink = document.querySelector('[data-version="long"]');
+		const shortContent = document.getElementById('about-short');
+		const longContent = document.getElementById('about-long');
+
+		/** @param {'short' | 'long'} version */
+		function showVersion(version) {
+			const showShort = version === 'short';
+			shortContent?.classList.toggle('folded', !showShort);
+			shortContent?.classList.toggle('unfolded', showShort);
+			shortContent?.setAttribute('aria-hidden', String(showShort ? 'false' : 'true'));
+			longContent?.classList.toggle('folded', showShort);
+			longContent?.classList.toggle('unfolded', !showShort);
+			longContent?.setAttribute('aria-hidden', String(showShort ? 'true' : 'false'));
+		}
+
+		function handleKeydown(e, version) {
+			if (e.key === 'Enter' || e.key === ' ') {
+				e.preventDefault();
+				showVersion(version);
+			}
+		}
+
+		shortLink?.addEventListener('click', () => showVersion('short'));
+		longLink?.addEventListener('click', () => showVersion('long'));
+		shortLink?.addEventListener('keydown', (e) => handleKeydown(e, 'short'));
+		longLink?.addEventListener('keydown', (e) => handleKeydown(e, 'long'));
+	</script>
+
+	<style>
+		.about-version-chooser {
+			margin-bottom: 1.5em;
+		}
+		.about-version-link {
+			cursor: pointer;
+			text-decoration: underline;
+			text-underline-offset: 0.2em;
+		}
+		.about-version-link:hover {
+			color: rgb(var(--gray));
+		}
+
+		.about-version-content {
+			display: grid;
+			grid-template-rows: 0fr;
+			opacity: 0;
+			transition: grid-template-rows 0.45s ease-out, opacity 0.4s ease-out;
+		}
+		.about-version-content.unfolded {
+			grid-template-rows: 1fr;
+			opacity: 1;
+		}
+		.about-version-inner {
+			min-height: 0;
+			overflow: hidden;
+		}
+	</style>
 </Layout>
