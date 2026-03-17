@@ -22,7 +22,7 @@ share their expertise and passion.
 
 Source: https://www.facebook.com/groups/teapot2/posts/1681411525486844/
 
-## Xian Piao (线漂): From Late Qing Classics to Factory #1 and Taiwan’s “Ba Le”
+### Xian Piao (线漂): From Late Qing Classics to Factory #1 and Taiwan’s “Ba Le”
 
 It was extremely difficult to trace the origin of the name “Xian Piao”, we only know that when Factory #1 was established at the end of the 1950s, there were pots made in this shape, with characters ”线漂“（Xian Piao） stamped inside of the lids.
 
@@ -37,7 +37,7 @@ In Factory #1’s “Xian Piao” teapots was only made in the early period of F
 
 ---
 
-### The 1970s Taiwan Renaming: “Ba Le” (Guava)
+#### The 1970s Taiwan Renaming: “Ba Le” (Guava)
 
 In the 1970s, when Yixing Pots started to enter Taiwanese market, the Taiwanese people didn’t know the original pot names given by Factory #1, so they named the pots according to shape, and since the shape was very similar to the commonly seen Taiwanese fruit - Guava, the pot was named “Ba Le”, it means guava in Taiwanese dialect.
 
@@ -45,7 +45,7 @@ This pot shape became one of the Five Shape Pots, and in the early days if you c
 
 ---
 
-### A Shape With a Long History
+#### A Shape With a Long History
 
 In fact, “Xian Piao” have a very long history, the shape have wide bottom that tapering to the top, low center of gravity which gives it stability, easy to handle and efficiency in concentrating tea fragrance.
 
@@ -55,7 +55,7 @@ This pot shape in the end of the Qing Dynasty was a rather common and mature sha
 
 ---
 
-### Collecting Note: How to Judge Authenticity vs Replicas
+#### Collecting Note: How to Judge Authenticity vs Replicas
 
 On the market there are many replicas of Mo Yuan Zhai and Fu Ji pots, and some of these replicas are shockingly expensive.
 
@@ -69,7 +69,7 @@ The best way is to handle the authentic item personally, this will greatly reduc
 
 ---
 
-### Factory #1 “Xian Piao”: Early Period to the End
+#### Factory #1 “Xian Piao”: Early Period to the End
 
 After we finished study the end Qing to ROC “Xian Piao”, we should now look at the “Xian Piaos” made by Factory #1 in early period.
 
@@ -79,7 +79,7 @@ There are variations of the “Xian Piao” shape but all of them adhere to the 
 
 ---
 
-### Earliest Factory #1 (Up to Early 60s)
+#### Earliest Factory #1 (Up to Early 60s)
 
 Let us talk about the earliest “Xian Piao” of F1 up to the early 60s, during this period, most of the “Xian Piao” are 6 cup, and some of them were 8 cups (by Chinese cup size, not Taiwanese). Other sizes were never have been encountered/made.
 
@@ -93,7 +93,7 @@ This is probably according to the later appearance of Small Xi seal, relative to
 
 ---
 
-### Shape and Clay: 60s vs End Qing / ROC
+#### Shape and Clay: 60s vs End Qing / ROC
 <figure class="figure-center">
   <img src="/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/late-qing.png" alt="Xian Piao, end Qing / ROC" loading="lazy" decoding="async" />
   <figcaption>Xian Piao, end Qing / ROC</figcaption>
@@ -120,7 +120,7 @@ After usage over a period of time, the pot seasons and starts to glow, makes it 
 
 ---
 
-### 1970s: Seals, Fine Differences, and NZWH
+#### 1970s: Seals, Fine Differences, and NZWH
 <figure class="figure-center">
   <img src="/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/70s.png" alt="Xian Piao, 1970s" loading="lazy" decoding="async" />
   <figcaption>Xian Piao, 1970s</figcaption>
@@ -144,7 +144,7 @@ The NZWH methods continued into the 80s until the maturing of the clay doping me
 
 ---
 
-### Late 70s to 80s: Green Label Era
+#### Late 70s to 80s: Green Label Era
 
 <figure class="figure-center">
   <img src="/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/green-label.png" alt="Xian Piao, green label era (late 70s–80s)" loading="lazy" decoding="async" />
@@ -157,7 +157,7 @@ There were also some producer which retained the Zhong Guo yixing seal in the 80
 
 ---
 
-### Conclusion
+#### Conclusion
 
 In conclusion, “Xian Piao” pots from the olden days till now, there has been continuity in shape amongst the early tea pots, these pots are well loved for easy handling.
 

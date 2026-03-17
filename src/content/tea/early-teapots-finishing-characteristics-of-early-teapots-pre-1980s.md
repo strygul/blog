@@ -20,7 +20,7 @@ share their expertise and passion.
 
 Source: https://www.facebook.com/groups/teapot2/posts/1628536057441058/
 
-## Finishing Characteristics of Early Teapots (Pre-1980s)
+### Finishing Characteristics of Early Teapots (Pre-1980s)
 
 Early teapots produced before the 1980s typically show a clear distinction between exterior and interior finishing. 
 Craftsmanship focused primarily on the exterior, while the interior received comparatively minimal refinement.

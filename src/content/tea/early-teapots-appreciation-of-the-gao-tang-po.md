@@ -30,7 +30,7 @@ The term “Gao Tang Po” has nothing to do with soup stock (“gao tang”). I
 
 Therefore, “Gao Tang Po” simply means a taller version (“Gao / 高”) of the Tang Po shape.
 
-## Origins and Design
+### Origins and Design
 
 Yixing Factory #1 was founded in 1958, during the Great Leap Forward. To increase production, the factory experimented with standardized forms and mold production.
 
@@ -46,7 +46,7 @@ The Gao Tang Po shape was designed by Gu Jingzhou and other factory masters, ins
 
 The Gao Tang Po was produced from the late 1950s to early 1960s, and authentic examples display characteristics typical of that era.
 
-## Characteristics of 1960s Gao Tang Po
+### Characteristics of 1960s Gao Tang Po
 ![60s.png](../../../public/tea/posts/early-teapots-appreciation-of-the-gao-tang-po/60s.png)
 
 1. Base Seal
@@ -78,7 +78,7 @@ Compared with other teapots of the period, GTP bodies are slightly thicker, like
 
 Examples of 1960s GTP are shown in figures 2–5.
 
-## 1970s Gao Tang Po
+### 1970s Gao Tang Po
 ![70s.png](../../../public/tea/posts/early-teapots-appreciation-of-the-gao-tang-po/70s.png)
 In the 1970s, several changes appear:
 - Base seal: Zhong Guo Yixing (4- or 6-character version)
@@ -92,7 +92,7 @@ Other differences include:
 
 The clay also appears brighter or glossier, reflecting changes in clay preparation and firing methods.
 
-## Late 1970s–Early 1980s: Green Label Period
+### Late 1970s–Early 1980s: Green Label Period
 ![80s.png](../../../public/tea/posts/early-teapots-appreciation-of-the-gao-tang-po/80s.png)
 The Green Label period produced another variation of the Gao Tang Po.
 
@@ -104,7 +104,7 @@ Characteristics include:
 
 Six-character base seals reappear during this period, but their style differs from those of the 1960s. Taiwanese collectors often refer to them as “messy six-character seals.”
 
-## Related Form: “Ban Bian Luan”
+### Related Form: “Ban Bian Luan”
 
 Another teapot produced in the early 1960s at Factory #1 resembles the Gao Tang Po. Taiwanese collectors call it “Ban Bian Luan” (Half-Sided Egg) because of its egg-like shape.
 
@@ -115,7 +115,7 @@ This form:
 
 Collectors consider it significantly rarer than standard GTP. Later examples from the 1980s “Nei Zi Wai Hong” period show clear differences in molds and finishing.
 
-## Identifying Early Gao Tang Po
+### Identifying Early Gao Tang Po
 
 Like early pu-erh tea, early Yixing teapots should be understood in the context of their era. Authentic pieces display consistent combinations of:
 - seals
@@ -127,7 +127,7 @@ While individual elements can be forged, it is much harder to reproduce all of t
 
 Photographs may not fully convey clay quality, but they still reveal differences in craftsmanship and seals.
 
-## The Appeal of Early Teapots
+### The Appeal of Early Teapots
 
 Collectors often ask what makes early Yixing teapots special. They are not as refined or elaborate as many modern pots. Instead, their appeal lies in their honesty and restraint.
 

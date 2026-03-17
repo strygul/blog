@@ -22,7 +22,7 @@ Source: https://www.facebook.com/groups/teapot2/posts/1453920241569308
 This post explores how to distinguish between Factory 1 1960s and 1970s Xian Piao teapot shapes. There are three key 
 aspects to pay attention to when telling these two periods apart:
 
-#### Lid Shape
+##### Lid Shape
 Both the 60s and 70s versions have flat-topped lids, not domed lids. Among the two, the 70s lid is even flatter than the 60s.
 
 <figure class="full-size">
@@ -30,7 +30,7 @@ Both the 60s and 70s versions have flat-topped lids, not domed lids. Among the t
   <figcaption>Comparison of 1960s and 1970s Xian Piao lids — both flat-topped, with the 1970s version being even flatter</figcaption>
 </figure>
 
-####  Body profile
+#####  Body profile
 The body lines are the next focus point. 60s Xian Piao pots have a slightly fuller belly and a slightly wider lower section.
 Both decades produced beautiful proportions (unlike many later copies, which differ noticeably).
 
@@ -39,7 +39,7 @@ Both decades produced beautiful proportions (unlike many later copies, which dif
   <figcaption>Comparison of 1960s and 1970s Xian Piao body profiles — 1960s version has a slightly fuller belly and wider lower section</figcaption>
 </figure>
 
-#### Lid rim thickness
+##### Lid rim thickness
 Third, check the lid rim (盖唇) thickness.
 Both the 60s and 70s versions have thin rims, quite different from the thicker-rimmed pots that appear in the 1980s and later.
 

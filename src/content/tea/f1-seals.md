@@ -36,14 +36,14 @@ themselves.
 For this reason, using social and political context as the basis for periodization offers a more accurate and meaningful
 way to understand the evolving relationship between Yixing pottery and the times in which it was made.
 
-### Contents
+#### Contents
 - [1958 to 1966: The Early Stage of the Cultural Revolution](#1958-to-1966-the-early-stage-of-the-cultural-revolution)
 - [1966 to 1976: The Cultural Revolution](#1966-to-1976-the-cultural-revolution)
 - [1977 to 1982: The Green Label Period](#1977-to-1982-the-green-label-period)
 
-## 1958 to 1966: The Early Stage of the Cultural Revolution
+### 1958 to 1966: The Early Stage of the Cultural Revolution
 
-### JingXi Hui MengChen (六汉字 荆溪惠孟臣)
+#### JingXi Hui MengChen (六汉字 荆溪惠孟臣)
 
 Jingxi is an older name for part of Yixing where lived the legendary Ming-dynasty potter Hui Mengchen whose work
 inspired generations of Yixing artisans. This particular seal appears in three distinct variants, each distinguished by
@@ -72,7 +72,7 @@ and the “small Xi.”
 </div>
 <br />
 
-### JingXi Nan MengChen (六汉字 荆溪南孟臣)
+#### JingXi Nan MengChen (六汉字 荆溪南孟臣)
 
 The inscription “荆溪南” (Nan Jingxi) literally translates to “South Jingxi.” From the 1990s onward, another seal began
 appearing on Yixing teapots — “北孟臣” (Bei Jingxi), meaning “North Jingxi.” These marks functioned as quality
@@ -88,7 +88,7 @@ mark, signaling origin and grade within the Yixing pottery tradition
   <figcaption>“South Jingxi” quality designation seal</figcaption>
 </figure>
 
-### YiXing Hui MengChen (六汉字 宜興惠孟臣)
+#### YiXing Hui MengChen (六汉字 宜興惠孟臣)
 
 <figure>
   <a href="/tea/posts/f1-seals/seals/60-yixing-hui.webp" target="_blank" rel="noopener noreferrer">
@@ -97,7 +97,7 @@ mark, signaling origin and grade within the Yixing pottery tradition
   <figcaption>Six‑character “YiXing Hui MengChen” seal</figcaption>
 </figure>
 
-## 1966 to 1976: The Cultural Revolution
+### 1966 to 1976: The Cultural Revolution
 
 In the late 1960s, the “China Yixing” (中国宜兴) seal began to appear, gradually replacing the earlier six-character
 version.
@@ -108,7 +108,7 @@ determine a teapot’s age based solely on its seal from this period.
 Among the various examples, subtle differences in character style, proportions, and layout ratios help distinguish one
 seal from another.
 
-### Zhong Guo YiXing (中國宜興) 6:4
+#### Zhong Guo YiXing (中國宜興) 6:4
 
 “Zhong Guo” literally translates as “Central Nation” — the name China uses for itself. The seal’s proportions, 6:4,
 define its characteristic rectangular shape.
@@ -145,7 +145,7 @@ a slightly different style.
   </figure>
 </div>
 
-### Zhong Guo YiXing (中國宜興) 7:3
+#### Zhong Guo YiXing (中國宜興) 7:3
 
 Another variation of the “Zhong Guo Yixing” (中国宜兴) seal from this period appears in the form of an elongated
 rectangle, with proportions of approximately 7:3.
@@ -159,7 +159,7 @@ rectangle, with proportions of approximately 7:3.
 
 <br />
 
-### Key-Shaped Zhong Guo YiXing (中國宜興)
+#### Key-Shaped Zhong Guo YiXing (中國宜興)
 
 In this period we can come across another “Zhong Guo Yixing” variation, so-called "key-shaped" Zhong (鎖匙中) that takes
 its
@@ -172,7 +172,7 @@ name from the stylization of the "中" symbol that reminds a key
   <figcaption>Key‑shaped “中” variant</figcaption>
 </figure>
 
-### Square Zhong Guo YiXing (中國宜興)
+#### Square Zhong Guo YiXing (中國宜興)
 
 There are several variations that could be seen within the square “Zhong Guo Yixing” seal in this period
 
@@ -193,7 +193,7 @@ There are several variations that could be seen within the square “Zhong Guo Y
 
 <br />
 
-## 1977 to 1982: The Green Label Period
+### 1977 to 1982: The Green Label Period
 
 Products from the Yixing Zisha Craft Factory (also known as Factory 1) began carrying official labels in 1977. Between
 1977 and 1982, the teapots produced there featured a distinctive green label proudly bearing the words “Made in China.”
@@ -206,7 +206,7 @@ appearing. It all makes navigating through the seals of the Green Label period v
 list of the seals presented below is not even nearly close to be exhaustive. Here are collected only the most common 
 seals.</b>
 
-### Zhong Guo YiXing (中國宜興) 6:4
+#### Zhong Guo YiXing (中國宜興) 6:4
 <div class="image-gallery four-up" role="group" aria-label="Green Label — Zhong Guo YiXing 6:4 variations">
   <figure>
     <a href="/tea/posts/f1-seals/seals/green-label-6-4-var1.png" target="_blank" rel="noopener noreferrer">
@@ -235,7 +235,7 @@ seals.</b>
 </div>
 <br />
 
-### Zhong Guo YiXing (中國宜興) 7:3
+#### Zhong Guo YiXing (中國宜興) 7:3
 <div class="image-gallery three-up" role="group" aria-label="Green Label — Zhong Guo YiXing 7:3 variations">
   <figure>
     <a href="/tea/posts/f1-seals/seals/green-label-7-3.png" target="_blank" rel="noopener noreferrer">
@@ -259,7 +259,7 @@ seals.</b>
 
 <br />
 
-### Square Zhong Guo YiXing (中國宜興)
+#### Square Zhong Guo YiXing (中國宜興)
 During this period, several variations of the square Zhong Guo YiXing seal emerged, some of which overlapped with 
 designs from the preceding era.
 <div class="image-gallery six-up" role="group" aria-label="Green Label — square and key-shaped variants">
@@ -303,7 +303,7 @@ designs from the preceding era.
 
 <br />
 
-### Six-Character JingXi Hui MengChen (六汉字 三线水 荆溪惠孟臣)
+#### Six-Character JingXi Hui MengChen (六汉字 三线水 荆溪惠孟臣)
 The six-character Jingxi Hui Mengchen seal, often seen in the early Cultural Revolution period, evolved into new 
 variations during the Green Label era.
 
@@ -346,7 +346,7 @@ slightly different stylization of the characters.
 
 <br />
 
-### 7:3 Six-Character JingXi Hui MengChen (六汉字 三线水 荆溪惠孟臣)
+#### 7:3 Six-Character JingXi Hui MengChen (六汉字 三线水 荆溪惠孟臣)
 Another curious variation of the Six-Character JingXi Hui MengChen – is a 7:3 seal
 
 <figure>
@@ -356,7 +356,7 @@ Another curious variation of the Six-Character JingXi Hui MengChen – is a 7:3 
   <figcaption>Elongated 7:3 six‑character variant</figcaption>
 </figure>
 
-### Four-Character JingXi MengChen (四汉字 荆溪孟臣)
+#### Four-Character JingXi MengChen (四汉字 荆溪孟臣)
 Some sources mention a four-character JingXi MengChen seal to start appearing on pots during this era. I have not seen 
 it myself, but as the source is very authoritative, it is worth mentioning it.
 
@@ -367,7 +367,7 @@ it myself, but as the source is very authoritative, it is worth mentioning it.
   <figcaption>Four‑character JingXi MengChen</figcaption>
 </figure>
 
-### Twenty-two-Character China Native Produce (二十二汉字  中国土产畜产进出口公司福建省分公司厦门支公司)
+#### Twenty-two-Character China Native Produce (二十二汉字  中国土产畜产进出口公司福建省分公司厦门支公司)
 The seal reads "China Native Produce and Livestock Import and Export Corporation, FuJian Branch, Xiamen Subsidiary".
 <figure>
   <a href="/tea/posts/f1-seals/seals/green-label-22-char.png" target="_blank" rel="noopener noreferrer">
@@ -376,7 +376,7 @@ The seal reads "China Native Produce and Livestock Import and Export Corporation
   <figcaption>Twenty-two character China Native Produce seal</figcaption>
 </figure>
 
-### Three-Line Water Six-Character JingXi Hui MengChen (六汉字 三线水 荆溪惠孟臣)
+#### Three-Line Water Six-Character JingXi Hui MengChen (六汉字 三线水 荆溪惠孟臣)
 This mark resembles the six-character seals used during the 1960s, but the green-label period introduced a subtle 
 variation. In this version, the water radical 氵 in the character 溪 (middle right) is written with three strokes 
 instead of the two found in earlier seals.
@@ -387,7 +387,7 @@ instead of the two found in earlier seals.
   <figcaption>Three-Line Water Six-Character JingXi Hui MengChen seal</figcaption>
 </figure>
 
-### Single-Border Six-Character JingXi Hui MengChen (六汉字 荆溪惠孟臣)
+#### Single-Border Six-Character JingXi Hui MengChen (六汉字 荆溪惠孟臣)
 Another variation of the six-character Hui MengChen seal can be identified by its single-line border, setting it apart 
 from other forms.
 <figure>
@@ -397,7 +397,7 @@ from other forms.
   <figcaption>Single-Border Six-Character JingXi Hui MengChen</figcaption>
 </figure>
 
-### Square Four-Character JingXi X "Made By" (四方 四汉子 荆溪X制)
+#### Square Four-Character JingXi X "Made By" (四方 四汉子 荆溪X制)
 In the 80s, square seals began to appear that included the name of the workshop leader in the top-left corner, 
 positioned alongside the traditional “Jingxi” inscription.
 

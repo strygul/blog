@@ -38,7 +38,7 @@ has its own distinct visual language—its own “character”—that consistent
 And once you train your eye to recognize these subtle cues, you’ll find that the shape alone can often tell you far more 
 about a teapot’s age than any seal ever could.
 
-#### What to Look For
+##### What to Look For
 
 When observing early F1 pots, focus on these elements:
 - Body lines
@@ -47,7 +47,7 @@ When observing early F1 pots, focus on these elements:
 - Lid's lip thickness
 - Clay body and texture
 
-### 1960s: The Golden Standard
+#### 1960s: The Golden Standard
 
 <figure class="full-size">
   <img src="/tea/posts/f1-shuiping-shape-evolution/60s.jpg" alt="1960s shuiping teapot" loading="lazy" decoding="async" />
@@ -68,7 +68,7 @@ Key Features of 1960s Shuipings
 
 From any angle, a 1960s shuiping feels complete and refined—a functional object elevated into a quiet work of art. It’s this timeless aesthetic that makes these early pieces endlessly captivating, even decades later.
 
-### 1970s: Balanced, Graceful, and Smoothly Transitional
+#### 1970s: Balanced, Graceful, and Smoothly Transitional
 
 <figure class="full-size">
   <img src="/tea/posts/f1-shuiping-shape-evolution/70s.jpg" alt="1970s shuiping teapot" loading="lazy" decoding="async" />
@@ -93,7 +93,7 @@ In the image below, I tried to illustrate the difference in the silhouette lines
   <figcaption>60s (red) vs 70s (green) shuiping shape comparison</figcaption>
 </figure>
 
-### 1980s & 1990s: Teapots with "Russian Lips" and Less Harmony
+#### 1980s & 1990s: Teapots with "Russian Lips" and Less Harmony
 
 If the lid is like a hat, then the 60s and 70s pots “wear the hat” beautifully. But in the 80s and 90s, the lid begins 
 to look mismatched—sometimes even clumsy.

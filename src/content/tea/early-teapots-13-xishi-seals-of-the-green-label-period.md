@@ -20,7 +20,7 @@ share their expertise and passion.
 
 Source: https://www.facebook.com/groups/teapot2/posts/1639756562985674/
 
-## 13 Seals
+### 13 Seals
 
 Presented here is a collection of base seals from Nei Zi Wai Hong Xishi teapots (purple clay interio, red clay 
 exterior), all originating from the same production batch of the Green Label period.
