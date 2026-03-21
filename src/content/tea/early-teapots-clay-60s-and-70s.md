@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Understanding Yixing Clay From 60s and 70s"
+title: "“Early Teapots”: Understanding Yixing Clay From 60s and 70s"
 pubDate: "2025-11-18"
 category:
   - "Tea"
@@ -22,13 +22,13 @@ Source: https://www.facebook.com/groups/teapot2/posts/1444896825804983/
 
 This post is about identification of zisha clay from 60s and 70s
 
-### Understanding Yixing Clay: Mica Flakes, Carbon Spots, and What They Really Mean
+#### Understanding Yixing Clay: Mica Flakes, Carbon Spots, and What They Really Mean
 
 When evaluating a Yixing teapot—especially those claimed to be made by the original Yixing Factory 1—clay quality is one 
 of the most important aspects to understand. Many misconceptions circulate in the market, so here is a clearer look at 
 what certain clay characteristics actually tell us.
 
-#### Mica Flakes in the Clay (雲母片)
+##### Mica Flakes in the Clay (雲母片)
 
 During the 1960s and early 1970s, Factory 1 applied strict standards to clay preparation. Clay was thoroughly aged, 
 refined, and carefully purified. Because of this, early Factory teapots almost never show visible mica flakes—the 
@@ -38,7 +38,7 @@ Workshops outside the factory, however, often used less refined clay. As a resul
 non-factory teapots. If a seller claims that mica flakes must be present on an early Factory 1 piece, that is a 
 misunderstanding. For those early decades, no mica flakes is the correct expectation.
 
-#### Black Carbon Spots and the “Fly Ash Glaze” Myth
+##### Black Carbon Spots and the “Fly Ash Glaze” Myth
 
 Another common point of confusion is the presence of black spots in the clay. Many sellers romantically label these as 
 “fly ash glaze” created by dragon-kiln firing. This claim does not hold up:
@@ -60,7 +60,7 @@ During the Green Label period and into the 1980s, production volumes grew dramat
 standards naturally loosened. Therefore, occasional black spots on 1980s factory teapots are normal, but excessive 
 spotting is not.
 
-#### Summary: What to Look For
+##### Summary: What to Look For
 
 <b>For 1960s and early 1970s Factory 1 teapots:</b>
 
@@ -76,7 +76,7 @@ spotting is not.
 
 ❌ Excessive impurities are a warning sign
 
-#### A Special Note on Chemically Processed Clay
+##### A Special Note on Chemically Processed Clay
 
 Modern chemically treated clays (化料土) may also lack mica flakes and carbon spots—not because they are high quality, 
 but because chemicals like strong acids remove impurities. Therefore, the absence of spots alone cannot confirm a 

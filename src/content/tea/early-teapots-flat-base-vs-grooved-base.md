@@ -1,5 +1,5 @@
 ---
-title: "\"Early Teapots\": Flat Base vs. Grooved Base"
+title: "“Early Teapots”: Flat Base vs. Grooved Base"
 pubDate: "2025-11-17"
 category:
   - "Tea"
@@ -22,12 +22,12 @@ Source: https://www.facebook.com/groups/teapot2/posts/1456356194659046/
 
 This post explores the two styles of Yixing Factory 1 teapot bases: flat vs grooved.
 
-### Flat Base vs. Grooved Base
+#### Flat Base vs. Grooved Base
 When exploring early-period Yixing teapots, one feature that often confuses beginners is the difference between flat 
 bases and grooved bases. These two construction methods not only reflect the production techniques of the time but also 
 influence the pot’s appearance, craftsmanship, and long-term durability.
 
-#### What Is a “Flat Base”?
+##### What Is a “Flat Base”?
 
 The “flat base” refers specifically to the inner bottom of the teapot. During the mid-1960s to the late 1960s, Yixing 
 Factory 1 was experimenting with mold-making, and flat-base constructions were a byproduct of this transitional era. 
@@ -54,13 +54,13 @@ showing a grooved base construction with the natural seam created during assembl
 </div>
 
 
-#### What About the “Grooved Base”?
+##### What About the “Grooved Base”?
 
 On the other hand, the grooved base is the standard construction method used by Factory 1. The groove isn’t intentionally 
 carved—it’s simply the natural seam created during normal assembly. This style is far more commonly seen, so it’s worth 
 familiarizing yourself with how it looks.
 
-#### How the Base Affects the Foot Ring
+##### How the Base Affects the Foot Ring
 
 The internal base structure influences the external foot ring (圈足).
 - Flat-base pots typically have a slightly narrower foot ring.
@@ -85,7 +85,7 @@ teapot with grooved base showing the wider foot ring (圈足)" loading="lazy" de
   </figure>
 </div>
 
-#### Flat Base + Short Wall: A Classic Combination
+##### Flat Base + Short Wall: A Classic Combination
 
 Most flat-base teapots from this era come with a short inner wall (短牆), whereas grooved-base pots use a normal-height 
 wall. This is why early Yixing references often mention the term "flat base, short wall"—it's a signature pairing of 
