@@ -37,27 +37,27 @@ visual characteristics. Examples include:
 - Tai Jian (Fig. 5), meaning *eunuch*
 
 <figure class="full-size">
-<img src="../../../public/tea/posts/early-teapots-five-shape-pots/bale-70s-zini-101ml.png" alt="Ba Le (Fig. 1)" />
+<img src="/tea/posts/early-teapots-five-shape-pots/bale-70s-zini-101ml.png" alt="Ba Le (Fig. 1)" />
 <figcaption>Fig. 1: Ba Le (70s, zini, 101ml)</figcaption>
 </figure>
 
 <figure class="full-size">
-<img src="../../../public/tea/posts/early-teapots-five-shape-pots/rou-bing-70s-hongni-75ml.png" alt="Rou Bing (Fig. 2)" />
+<img src="/tea/posts/early-teapots-five-shape-pots/rou-bing-70s-hongni-75ml.png" alt="Rou Bing (Fig. 2)" />
 <figcaption>Fig. 2: Rou Bing (70s, hongni, 75ml)</figcaption>
 </figure>
 
 <figure class="full-size">
-<img src="../../../public/tea/posts/early-teapots-five-shape-pots/bian-deng-70s-hongni-73ml.png" alt="Bian Deng (Fig. 3)" />
+<img src="/tea/posts/early-teapots-five-shape-pots/bian-deng-70s-hongni-73ml.png" alt="Bian Deng (Fig. 3)" />
 <figcaption>Fig. 3: Bian Deng (70s, hongni, 73ml)</figcaption>
 </figure>
 
 <figure class="full-size">
-<img src="../../../public/tea/posts/early-teapots-five-shape-pots/xi-shi-70s-hongni-74ml.png" alt="Xi Shi (Fig. 4)" />
+<img src="/tea/posts/early-teapots-five-shape-pots/xi-shi-70s-hongni-74ml.png" alt="Xi Shi (Fig. 4)" />
 <figcaption>Fig. 4: Xi Shi (70s, hongni, 74ml)</figcaption>
 </figure>
 
 <figure class="full-size">
-<img src="../../../public/tea/posts/early-teapots-five-shape-pots/tai-jian-80s-96ml.png" alt="Tai Jian (Fig. 5)" />
+<img src="/tea/posts/early-teapots-five-shape-pots/tai-jian-80s-96ml.png" alt="Tai Jian (Fig. 5)" />
 <figcaption>Fig. 5: Tai Jian (80s, 96ml)</figcaption>
 </figure>
 
