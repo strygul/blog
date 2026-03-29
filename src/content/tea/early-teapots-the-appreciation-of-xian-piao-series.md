@@ -6,7 +6,7 @@ category:
   - "Early Teapots Encyclopedia"
   - "Teapots"
 description: "Evolution history of xian piao teapots from Qing to F1 era"
-heroImage: "../../assets/tea/early-teapots-1/intro.png"
+heroImage: "../../../public/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/intro.png"
 ---
 
 <div class="info-box">
