@@ -18,6 +18,7 @@ const blog = defineCollection({
 				.union([z.string().min(1), z.array(z.string().min(1)).min(1)])
 				.transform((val) => (Array.isArray(val) ? val : [val])),
 			heroImage: image().optional(),
+			heroImageMaxHeight: z.number().positive().optional(),
 		}),
 });
 
@@ -38,6 +39,7 @@ const tea = defineCollection({
 				.union([z.string().min(1), z.array(z.string().min(1)).min(1)])
 				.transform((val) => (Array.isArray(val) ? val : [val])),
 			heroImage: image().optional(),
+			heroImageMaxHeight: z.number().positive().optional(),
 		}),
 });
 
