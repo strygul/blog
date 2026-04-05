@@ -92,6 +92,18 @@ const base = import.meta.env.BASE_URL;
 				margin-bottom: 0.5rem;
 				border-radius: 12px;
 			}
+			ul li img.post-list-hero--capped {
+				display: block;
+				margin-inline: auto;
+				max-width: 100%;
+				width: auto;
+				height: auto;
+				object-fit: contain;
+			}
+			ul li:first-child img.post-list-hero--capped {
+				width: auto;
+				max-width: min(100%, 720px);
+			}
 			ul li a {
 				display: block;
 			}
@@ -146,7 +158,24 @@ const base = import.meta.env.BASE_URL;
 								<li>
 									<a href={`${basePath}/${post.id}/`}>
 										{post.data.heroImage && (
-											<Image width={720} height={360} src={post.data.heroImage} alt="" />
+											<Image
+												width={720}
+												height={360}
+												src={post.data.heroImage}
+												alt=""
+												class:list={[post.data.heroImageMaxHeight != null && 'post-list-hero--capped']}
+												style={
+													post.data.heroImageMaxHeight != null
+														? {
+																maxHeight: `${post.data.heroImageMaxHeight}px`,
+																maxWidth: '100%',
+																width: 'auto',
+																height: 'auto',
+																objectFit: 'contain',
+															}
+														: undefined
+												}
+											/>
 										)}
 										<h4 class="title">{post.data.title}</h4>
 										<p class="date">

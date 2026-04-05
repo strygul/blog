@@ -9,7 +9,7 @@ import '../styles/tea-post.css';
 
 type Props = CollectionEntry<'blog'>['data'] | CollectionEntry<'tea'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage, category } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, heroImageMaxHeight, category } = Astro.props;
 // category is now an array, check if it includes 'Tea'
 const categories = Array.isArray(category) ? category : [category];
 ---
@@ -31,6 +31,10 @@ const categories = Array.isArray(category) ? category : [category];
 				display: block;
 				margin: 0 auto;
 				border-radius: 12px;
+			}
+			.hero-image--max-height {
+				max-width: min(720px, calc(100% - 2em));
+				margin-inline: auto;
 			}
 			.prose {
 				width: 720px;
@@ -76,8 +80,28 @@ const categories = Array.isArray(category) ? category : [category];
 		<Header />
 		<main>
 			<article>
-				<div class="hero-image">
-					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
+				<div class:list={['hero-image', { 'hero-image--max-height': heroImageMaxHeight != null }]}>
+					{
+						heroImage && (
+							<Image
+								width={1020}
+								height={510}
+								src={heroImage}
+								alt=""
+								style={
+									heroImageMaxHeight != null
+										? {
+												maxHeight: `${heroImageMaxHeight}px`,
+												maxWidth: '100%',
+												width: 'auto',
+												height: 'auto',
+												objectFit: 'contain',
+											}
+										: undefined
+								}
+							/>
+						)
+					}
 				</div>
 				<div class="prose">
 					<div class="title">

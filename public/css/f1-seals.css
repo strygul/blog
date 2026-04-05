@@ -148,6 +148,7 @@ figure.full-size img {
   max-width: 50%;
   display: flex;
   flex-direction: column;
+  align-items: center;
   margin: 0;
 }
 .image-gallery.two-up figure.full-size {
@@ -177,7 +178,7 @@ figure.full-size img {
   width: auto;
   max-width: 100%;
   height: auto;
-  object-fit: none;
+  object-fit: contain;
 }
 
 /* Four-image gallery side by side */
