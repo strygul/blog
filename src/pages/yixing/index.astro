@@ -1,10 +1,17 @@
 ---
 import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
-import heroImage from '../../assets/tea/factory-1-variety-of-teapots/intro.png';
+import heroImage from '../../../public/selling-teapots/intro.png';
+
+const base = import.meta.env.BASE_URL;
+const posts = (await getCollection('yixing')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
 ---
 
 <!doctype html>
@@ -14,6 +21,82 @@ import heroImage from '../../assets/tea/factory-1-variety-of-teapots/intro.png';
 		<style>
 			main {
 				width: 960px;
+			}
+			ul {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 2rem;
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			ul li {
+				width: calc(50% - 1rem);
+			}
+			ul li * {
+				text-decoration: none;
+				transition: 0.2s ease;
+			}
+			ul li:first-child {
+				width: 100%;
+				margin-bottom: 1rem;
+				text-align: center;
+			}
+			ul li:first-child img {
+				width: 100%;
+			}
+			ul li:first-child .title {
+				font-size: 2.369rem;
+			}
+			ul li img {
+				margin-bottom: 0.5rem;
+				border-radius: 12px;
+			}
+			ul li img.post-list-hero--capped {
+				display: block;
+				margin-inline: auto;
+				max-width: 100%;
+				width: auto;
+				height: auto;
+				object-fit: contain;
+			}
+			ul li:first-child img.post-list-hero--capped {
+				width: auto;
+				max-width: min(100%, 720px);
+			}
+			ul li a {
+				display: block;
+			}
+			.title {
+				margin: 0;
+				color: rgb(var(--black));
+				line-height: 1;
+			}
+			.date {
+				margin: 0;
+				color: rgb(var(--gray));
+			}
+			ul li a:hover h4,
+			ul li a:hover .date {
+				color: rgb(var(--accent));
+			}
+			ul a:hover img {
+				box-shadow: var(--box-shadow);
+			}
+			@media (max-width: 720px) {
+				ul {
+					gap: 0.5em;
+				}
+				ul li {
+					width: 100%;
+					text-align: center;
+				}
+				ul li:first-child {
+					margin-bottom: 0;
+				}
+				ul li:first-child .title {
+					font-size: 1.563em;
+				}
 			}
 		</style>
 	</head>
@@ -29,10 +112,66 @@ import heroImage from '../../assets/tea/factory-1-variety-of-teapots/intro.png';
 					height={600}
 					style="border-radius: 12px;"
 				/>
-				<p style="text-align: left; text-indent: 1.5em;">
-					Here you will find information about Yixing teapots I have for sale. Details and listings will appear on this page as they are ready.
+				<p>
+					I don’t sell teapots—I collect them.
+				</p>
+				<p>
+					Over time, collecting has taught me how difficult it is to find authentic Yixing teapots from
+					sources one can truly trust, especially without paying excessive prices. Good pieces exist, but they
+					are rarely easy to come by.
+				</p>
+				<p>
+
+					Some years ago, I was fortunate to establish contact with a vendor in Thailand. Through them, I’ve
+					acquired several Qing dynasty teapots—pieces that I value greatly—at prices that felt surprisingly
+					reasonable given their quality and provenance.
+
+				</p>
+				<p>
+					This page is simply an attempt to share that connection. I have no commercial interest here; I only
+					hope to contribute, in a small way, to the appreciation of tea culture and Yixing pottery, and
+					perhaps help fellow enthusiasts find pieces that speak to them.
+				</p>
+				<p>
+					Below are a few teapots currently available. If one of them resonates with you, feel free to reach out at strygul@gmail.com, and I will gladly connect you directly with the vendor.
 				</p>
 			</div>
+			<section>
+				<ul>
+					{
+						posts.map((post) => (
+							<li>
+								<a href={`${base}yixing/${post.id}/`}>
+									{post.data.heroImage && (
+										<Image
+											width={720}
+											height={360}
+											src={post.data.heroImage}
+											alt=""
+											class:list={[post.data.heroImageMaxHeight != null && 'post-list-hero--capped']}
+											style={
+												post.data.heroImageMaxHeight != null
+													? {
+															maxHeight: `${post.data.heroImageMaxHeight}px`,
+															maxWidth: '100%',
+															width: 'auto',
+															height: 'auto',
+															objectFit: 'contain',
+														}
+													: undefined
+											}
+										/>
+									)}
+									<h5 class="title">{post.data.title}</h5>
+									<p class="date">
+										<FormattedDate date={post.data.pubDate} />
+									</p>
+								</a>
+							</li>
+						))
+					}
+				</ul>
+			</section>
 		</main>
 		<Footer />
 	</body>

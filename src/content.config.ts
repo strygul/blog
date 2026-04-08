@@ -43,4 +43,20 @@ const tea = defineCollection({
 		}),
 });
 
-export const collections = { blog, tea };
+const yixing = defineCollection({
+	loader: glob({ base: './src/content/yixing', pattern: '**/*.{md,mdx}' }),
+	schema: ({ image }) =>
+		z.object({
+			title: z.string(),
+			description: z.string(),
+			pubDate: z.coerce.date(),
+			updatedDate: z.coerce.date().optional(),
+			category: z
+				.union([z.string().min(1), z.array(z.string().min(1)).min(1)])
+				.transform((val) => (Array.isArray(val) ? val : [val])),
+			heroImage: image().optional(),
+			heroImageMaxHeight: z.number().positive().optional(),
+		}),
+});
+
+export const collections = { blog, tea, yixing };

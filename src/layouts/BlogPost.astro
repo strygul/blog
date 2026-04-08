@@ -7,7 +7,10 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import '../styles/tea-post.css';
 
-type Props = CollectionEntry<'blog'>['data'] | CollectionEntry<'tea'>['data'];
+type Props =
+	| CollectionEntry<'blog'>['data']
+	| CollectionEntry<'tea'>['data']
+	| CollectionEntry<'yixing'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, heroImageMaxHeight, category } = Astro.props;
 // category is now an array, check if it includes 'Tea'
