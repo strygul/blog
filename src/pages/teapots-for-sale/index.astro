@@ -9,7 +9,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 import heroImage from '../../../public/selling-teapots/intro.png';
 
 const base = import.meta.env.BASE_URL;
-const posts = (await getCollection('yixing')).sort(
+const posts = (await getCollection('teapots-for-sale')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
 ---
@@ -141,7 +141,7 @@ const posts = (await getCollection('yixing')).sort(
 					{
 						posts.map((post) => (
 							<li>
-								<a href={`${base}yixing/${post.id}/`}>
+								<a href={`${base}teapots-for-sale/${post.id}/`}>
 									{post.data.heroImage && (
 										<Image
 											width={720}

@@ -10,7 +10,7 @@ import '../styles/tea-post.css';
 type Props =
 	| CollectionEntry<'blog'>['data']
 	| CollectionEntry<'tea'>['data']
-	| CollectionEntry<'yixing'>['data'];
+	| CollectionEntry<'teapots-for-sale'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, heroImageMaxHeight, category } = Astro.props;
 // category is now an array, check if it includes 'Tea'

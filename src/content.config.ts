@@ -43,8 +43,8 @@ const tea = defineCollection({
 		}),
 });
 
-const yixing = defineCollection({
-	loader: glob({ base: './src/content/yixing', pattern: '**/*.{md,mdx}' }),
+const teapotsForSale = defineCollection({
+	loader: glob({ base: './src/content/teapots-for-sale', pattern: '**/*.{md,mdx}' }),
 	schema: ({ image }) =>
 		z.object({
 			title: z.string(),
@@ -59,4 +59,4 @@ const yixing = defineCollection({
 		}),
 });
 
-export const collections = { blog, tea, yixing };
+export const collections = { blog, tea, 'teapots-for-sale': teapotsForSale };

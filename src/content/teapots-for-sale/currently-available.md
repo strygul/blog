@@ -6,7 +6,7 @@ description: "Photographs of individual pieces you can ask about; I will put you
 heroImage: "../../../public/selling-teapots/intro.png"
 ---
 
-The overview on the main Yixing page explains how this works: I am not a dealer, only a collector who happened to find a reliable source. If a pot here interests you, email **strygul@gmail.com** and I will connect you with the seller so you can discuss condition, shipping, and price directly.
+The overview on the main teapots-for-sale page explains how this works: I am not a dealer, only a collector who happened to find a reliable source. If a pot here interests you, email **strygul@gmail.com** and I will connect you with the seller so you can discuss condition, shipping, and price directly.
 
 Below are the pieces documented at the time of this post. Details may change as pots sell or new ones arrive—treat this as a snapshot rather than a live inventory system.
 

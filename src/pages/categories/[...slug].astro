@@ -10,8 +10,8 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 export async function getStaticPaths() {
 	const blogPosts = await getCollection('blog');
 	const teaPosts = await getCollection('tea');
-	const yixingPosts = await getCollection('yixing');
-	const allPosts = [...blogPosts, ...teaPosts, ...yixingPosts];
+	const teapotsForSalePosts = await getCollection('teapots-for-sale');
+	const allPosts = [...blogPosts, ...teaPosts, ...teapotsForSalePosts];
 
 	// Extract all categories from all posts (handling arrays)
 	const allCategories = allPosts.flatMap((post) => post.data.category);
@@ -36,7 +36,7 @@ type Props = {
 	posts: Array<
 		| Awaited<ReturnType<typeof getCollection<'blog'>>>[number]
 		| Awaited<ReturnType<typeof getCollection<'tea'>>>[number]
-		| Awaited<ReturnType<typeof getCollection<'yixing'>>>[number]
+		| Awaited<ReturnType<typeof getCollection<'teapots-for-sale'>>>[number]
 	>;
 };
 
@@ -156,8 +156,8 @@ const base = import.meta.env.BASE_URL;
 							const basePath =
 								post.collection === 'tea'
 									? `${base}tea`
-									: post.collection === 'yixing'
-										? `${base}yixing`
+									: post.collection === 'teapots-for-sale'
+										? `${base}teapots-for-sale`
 										: `${base}blog`;
 							return (
 								<li>
