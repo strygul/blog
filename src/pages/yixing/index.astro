@@ -1,0 +1,39 @@
+---
+import { Image } from 'astro:assets';
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import Header from '../../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import heroImage from '../../assets/tea/factory-1-variety-of-teapots/intro.png';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Yixing teapots - ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: 960px;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div style="text-align: center; margin-bottom: 2rem;">
+				<h1>Wanna Buy a Yixing Teapot?</h1>
+				<Image
+					src={heroImage}
+					alt="Several Yixing teapots arranged together"
+					width={600}
+					height={600}
+					style="border-radius: 12px;"
+				/>
+				<p style="text-align: left; text-indent: 1.5em;">
+					Here you will find information about Yixing teapots I have for sale. Details and listings will appear on this page as they are ready.
+				</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
