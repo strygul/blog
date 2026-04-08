@@ -8,7 +8,8 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 const base = import.meta.env.BASE_URL;
 const blogPosts = await getCollection('blog');
 const teaPosts = await getCollection('tea');
-const allPosts = [...blogPosts, ...teaPosts];
+const teapotsForSalePosts = await getCollection('teapots-for-sale');
+const allPosts = [...blogPosts, ...teaPosts, ...teapotsForSalePosts];
 
 // Extract all categories from all posts (handling arrays)
 const allCategories = allPosts.flatMap((post) => post.data.category);
