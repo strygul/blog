@@ -1,0 +1,37 @@
+---
+description: All new pages and content changes must follow SEO best practices used in this Astro blog.
+alwaysApply: true
+---
+
+# SEO for new work
+
+Treat SEO as a default requirement for every change, not an optional polish.
+
+## Pages and layouts
+
+- Every HTML page needs a **unique, descriptive `<title>`** and **`<meta name="description">`** (no duplicate titles across listing vs home).
+- Use **`BaseHead`** (or the same patterns it implements): **canonical URL** from `Astro.site` + pathname; **Open Graph** (`og:url`, `og:title`, `og:image`, `og:description`, `og:type`, `og:site_name`, `og:locale`); **Twitter** card fields; for dated articles add **`article:published_time`** and **`article:modified_time`** when applicable.
+- Social and canonical URLs must be **absolute** using **`Astro.site`**—never rely on `Astro.url` alone for `og:url` or share images.
+- Pass a sensible **`image`** into `BaseHead` when the page has a hero or primary visual (otherwise the default placeholder is used).
+
+## Content collections
+
+- New Markdown/MDX entries must include accurate **`title`** and **`description`** in frontmatter (clear, human-readable, not keyword-stuffed).
+- Prefer **hero images** with meaningful context; when an image represents the post, set **alt text** that describes the image or ties it to the article (empty `alt` only for purely decorative images).
+
+## Structured data
+
+- Long-form posts that use **`BlogPost`** layout should keep **JSON-LD** aligned with the page: e.g. `BlogPosting` for articles, **`AboutPage`** (or other appropriate type) for non-article pages—do not mislabel static pages as blog posts.
+- When adding new layout types, include appropriate **schema.org** types and keep them consistent with Open Graph (`article` vs `website`).
+
+## Discovery
+
+- Do not remove or bypass **`public/robots.txt`** sitemap reference or the **sitemap integration** without replacing it with an equivalent.
+- New top-level sections should be **reachable** from navigation or internal links and appear in the **sitemap** (Astro sitemap picks up built routes; avoid orphan-only entry points).
+
+## Copy and URLs
+
+- Use **stable, readable URLs** (kebab-case slugs); avoid unnecessary query-only navigation for primary content.
+- Section-wide blurbs belong in **`src/consts.ts`** (e.g. `PAGE_DESCRIPTIONS`) when reused or when keeping copy centralized.
+
+If a change is intentionally non-indexable (e.g. draft or private), say so in the task and use **`noindex`** plus a documented exception—do not silently skip metadata on public pages.
