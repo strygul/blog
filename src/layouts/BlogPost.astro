@@ -14,7 +14,11 @@ type CollectionData =
 	| CollectionEntry<'tea'>['data']
 	| CollectionEntry<'teapots-for-sale'>['data'];
 
-type Props = CollectionData & { jsonLdType?: 'BlogPosting' | 'AboutPage' };
+type Props = CollectionData & {
+	jsonLdType?: 'BlogPosting' | 'AboutPage';
+	/** Root-relative path under `public/` for share previews (og:image, JSON-LD). */
+	socialImageSrc?: string;
+};
 
 const {
 	title,
@@ -25,6 +29,7 @@ const {
 	heroImageMaxHeight,
 	category,
 	jsonLdType = 'BlogPosting',
+	socialImageSrc,
 } = Astro.props;
 // category is now an array, check if it includes 'Tea'
 const categories = Array.isArray(category) ? category : [category];
@@ -32,6 +37,8 @@ const categories = Array.isArray(category) ? category : [category];
 const site = Astro.site!;
 const pageUrl = new URL(Astro.url.pathname, site).href;
 const coverForMeta = heroImage ?? FallbackImage;
+const shareImageAbsolute =
+	socialImageSrc != null ? new URL(socialImageSrc, site).href : new URL(coverForMeta.src, site).href;
 const authorUrl = new URL('/about', site).href;
 const structuredData =
 	jsonLdType === 'AboutPage'
@@ -52,7 +59,7 @@ const structuredData =
 				'@type': 'BlogPosting',
 				headline: title,
 				description,
-				image: [new URL(coverForMeta.src, site).href],
+				image: [shareImageAbsolute],
 				datePublished: pubDate.toISOString(),
 				...(updatedDate
 					? { dateModified: updatedDate.toISOString() }
@@ -76,6 +83,7 @@ const structuredData =
 			title={title}
 			description={description}
 			image={coverForMeta}
+			ogImageUrl={shareImageAbsolute}
 			article={
 				jsonLdType === 'AboutPage'
 					? undefined
@@ -154,6 +162,8 @@ const structuredData =
 								height={510}
 								src={heroImage}
 								alt={title}
+								loading="eager"
+								fetchpriority="high"
 								style={
 									heroImageMaxHeight != null
 										? {
