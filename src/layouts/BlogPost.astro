@@ -1,25 +1,88 @@
 ---
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
+import FallbackImage from '../assets/blog-placeholder-1.jpg';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import { SITE_AUTHOR } from '../consts';
 import '../styles/tea-post.css';
 
-type Props =
+type CollectionData =
 	| CollectionEntry<'blog'>['data']
 	| CollectionEntry<'tea'>['data']
 	| CollectionEntry<'teapots-for-sale'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage, heroImageMaxHeight, category } = Astro.props;
+type Props = CollectionData & { jsonLdType?: 'BlogPosting' | 'AboutPage' };
+
+const {
+	title,
+	description,
+	pubDate,
+	updatedDate,
+	heroImage,
+	heroImageMaxHeight,
+	category,
+	jsonLdType = 'BlogPosting',
+} = Astro.props;
 // category is now an array, check if it includes 'Tea'
 const categories = Array.isArray(category) ? category : [category];
+
+const site = Astro.site!;
+const pageUrl = new URL(Astro.url.pathname, site).href;
+const coverForMeta = heroImage ?? FallbackImage;
+const authorUrl = new URL('/about', site).href;
+const structuredData =
+	jsonLdType === 'AboutPage'
+		? {
+				'@context': 'https://schema.org',
+				'@type': 'AboutPage',
+				name: title,
+				description,
+				url: pageUrl,
+				mainEntity: {
+					'@type': 'Person',
+					name: SITE_AUTHOR,
+					url: authorUrl,
+				},
+			}
+		: {
+				'@context': 'https://schema.org',
+				'@type': 'BlogPosting',
+				headline: title,
+				description,
+				image: [new URL(coverForMeta.src, site).href],
+				datePublished: pubDate.toISOString(),
+				...(updatedDate
+					? { dateModified: updatedDate.toISOString() }
+					: { dateModified: pubDate.toISOString() }),
+				mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
+				author: {
+					'@type': 'Person',
+					name: SITE_AUTHOR,
+					url: authorUrl,
+				},
+				publisher: {
+					'@type': 'Person',
+					name: SITE_AUTHOR,
+				},
+			};
 ---
 
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead
+			title={title}
+			description={description}
+			image={coverForMeta}
+			article={
+				jsonLdType === 'AboutPage'
+					? undefined
+					: { publishedTime: pubDate, modifiedTime: updatedDate }
+			}
+		/>
+		<script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 		{categories.includes('Tea') && <link rel="stylesheet" href={`${import.meta.env.BASE_URL}css/f1-seals.css`} />}
 		<style>
 			main {
@@ -90,7 +153,7 @@ const categories = Array.isArray(category) ? category : [category];
 								width={1020}
 								height={510}
 								src={heroImage}
-								alt=""
+								alt={title}
 								style={
 									heroImageMaxHeight != null
 										? {

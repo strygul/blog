@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://strygul.com/sitemap-index.xml
