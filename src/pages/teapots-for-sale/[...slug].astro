@@ -13,8 +13,9 @@ type Props = CollectionEntry<'teapots-for-sale'>;
 
 const post = Astro.props;
 const { Content } = await render(post);
+const socialImageSrc = `/teapots-for-sale/${post.id}/${post.id}_intro.png`;
 ---
 
-<BlogPost {...post.data}>
+<BlogPost {...post.data} socialImageSrc={socialImageSrc}>
 	<Content />
 </BlogPost>

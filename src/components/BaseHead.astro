@@ -10,6 +10,8 @@ interface Props {
 	title: string;
 	description: string;
 	image?: ImageMetadata;
+	/** Absolute URL for og:image / twitter:image. Overrides `image` when set (e.g. stable `/public/` URL). */
+	ogImageUrl?: string;
 	article?: {
 		publishedTime: Date;
 		modifiedTime?: Date;
@@ -25,8 +27,8 @@ const canonicalURL = new URL(Astro.url.pathname, site);
 const base = import.meta.env.BASE_URL;
 const absoluteUrl = canonicalURL.href;
 
-const { title, description, image = FallbackImage, article } = Astro.props;
-const ogImageUrl = new URL(image.src, site).href;
+const { title, description, image = FallbackImage, ogImageUrl: ogImageUrlProp, article } = Astro.props;
+const ogImageUrl = ogImageUrlProp ?? new URL(image.src, site).href;
 const ogType = article ? 'article' : 'website';
 ---
 
