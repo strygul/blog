@@ -13,5 +13,7 @@ export const PAGE_DESCRIPTIONS = {
 		'Articles on Chinese tea, Yixing zisha, factory-era teapots, seals, and clay—by a collector in Copenhagen.',
 	teapotsForSaleIndex:
 		'Authentic Yixing teapots offered for sale: descriptions, photos, and buying details from a private collector.',
+	godIsDeadIndex:
+		'Essays on software engineering, artificial intelligence, and what changes when craft, judgment, and meaning meet automation.',
 	categoriesIndex: 'Browse posts by category: tea, teapots, software, and other topics from Iev Strygul’s blog.',
 } as const;

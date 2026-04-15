@@ -12,7 +12,8 @@ import '../styles/tea-post.css';
 type CollectionData =
 	| CollectionEntry<'blog'>['data']
 	| CollectionEntry<'tea'>['data']
-	| CollectionEntry<'teapots-for-sale'>['data'];
+	| CollectionEntry<'teapots-for-sale'>['data']
+	| CollectionEntry<'god-is-dead'>['data'];
 
 type Props = CollectionData & {
 	jsonLdType?: 'BlogPosting' | 'AboutPage';
