@@ -22,7 +22,7 @@ share their expertise and passion.
 
 Source: Chapter 9 of <i>Early Teapots II</i> (Qing Yin series). Match the discussion to the book’s figures where possible.
 
-### “Qing Yin” in one sentence
+### “Qing Yin” in One Sentence
 
 The **Qing Yin** line — full wording *Qing yin Zhongguo wulong cha* (請飲中國烏龍茶, “Please drink Chinese oolong tea”) — is one of the best-known early Yixing families on the market. Pots in this series are easy to name-check: a fixed phrase carved on the body, plus distinctive export-era base inscriptions. In Taiwan, they are wrapped up with the 1970s story of Yixing re-entering the market, often as **complimentary** pots bundled with tea purchases, which is why they are treated as a badge of “serious” early teapot collecting.
 
@@ -30,17 +30,27 @@ Over the 1980s through the 2000s, output in many *Qing Yin* styles was enormous.
 
 A practical test the author often repeats: if you collect *Qing Yin* and you have **never** bought a wrong or faked example, you probably have not handled enough early teapots yet. The goal is to replace story-driven buying with **period criteria**.
 
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-the-qing-yin-series/teapot.png" alt="Yixing teapot with side carving 請飲中國烏龍茶 (Qing yin Zhongguo wulong cha)" loading="lazy" decoding="async" />
+  <figcaption>Typical *Qing Yin* body carving: 請飲 / 中國烏龍茶.</figcaption>
+</figure>
+
 ---
 
-### How late is “Qing Yin,” and can it be pre-1970s?
+### How Late Is “Qing Yin,” and Can It Be Pre-1970s?
 
 The 22-character export base with the name **中國土產畜產進出口公司福建省分公司厦門支公司** (China National Native Produce & Animal By-Products Import & Export Corporation, Fujian branch, Xiamen sub-branch) is tied to the **1970s merger** that combined the former China Tea & Native Produce Import & Export structure with the livestock and animal-by-products line into one *tǔchǎn xùchǎn* company. The series therefore **cannot** be earlier than the 70s: the seal is evidence of that corporate name, not an optional label.
+
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-the-qing-yin-series/seal-green-label.png" alt="Teapot base with the long Fujian Xiamen 22-character export company seal" loading="lazy" decoding="async" />
+  <figcaption>22-character Fujian / Xiamen base seal (native produce & animal by-products I/E, Fujian branch, Xiamen sub-branch).</figcaption>
+</figure>
 
 The market is full of *Qing Yin* in many shapes. To ask whether a piece is a **genuine 1970s** example is to ask whether it shows **1970s Factory #1 (F1) mass-production traits** in clay, tool use, and finishing—not whether one catchphrase on the base is present (see the “Order versus Chaos” chapter: **system, not one-off tricks**). After F1 was established, clay, aging, molding, retouch, and firing were run as a system through the Yixing mining and supply side; a 1970s *Qing Yin* should look like a 1970s F1 product first, and like a *Qing Yin* second.
 
 ---
 
-### A concrete cross-check: four 1970s reference pots
+### A Concrete Cross-Check: Four 1970s Reference Pots
 
 Two pots carry **Mei Yun** 梅云 in the **inner lid**; one is carved *Qing yin Zhongguo wulong cha* on the body, the other is uncarved. The carved piece has a **22-character** export base; the other uses the **classic 1970s “China Yixing” (中國宜興)**-style base instead.
 
@@ -50,7 +60,7 @@ The point: the same potters (same molds, same clays) made **branded** *Qing Yin*
 
 ---
 
-### What to study
+### What to Study
 
 **Clay.**  
 Photos are weak for clay; the author’s advice is to find a **trusted 1970s** pot with a standard **中國宜興**-era base to **calibrate** color, sand, and surface, then compare.
@@ -61,12 +71,17 @@ Lid lip thickness, lid diameter and curvature, interior lid finish, air hole, ri
 **Seals and carving (three related layers).**  
 (1) Body: *Qing yin Zhongguo wulong cha*. (2) Base: the long Fujian / Xiamen 22-character stamp (often over-trusted, because it was faked early and often). (3) **Inner-lid** maker marks—**Qiao Ying** 巧英, **Mei Yun** 梅云, **Yin Feng** 銀鳯, **Hui Fang** 惠芳, etc., each in a **consistent** script layout.
 
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-the-qing-yin-series/lid-seal.png" alt="Underside of a Yixing lid with vertical stamp 梅云 (Mei Yun) next to the air hole" loading="lazy" decoding="async" />
+  <figcaption>Inner-lid name seal: 梅云 (Mei Yun), one of the common *Qing Yin* period layouts.</figcaption>
+</figure>
+
 **Side script.**  
 The author stresses the **one-hand** look of the carved phrase: if every genuine 70s example in your sample shares stroke habits, a clumsy or varying hand is a red flag. Compare carefully against known pieces, including book plates.
 
 ---
 
-### Myth 1 — “Inverted” or chipped right edge of the 22-character seal = first batch
+### Myth 1 — “Inverted” or Chipped Right Edge of the 22-Character Seal = First Batch
 
 One persistent story claims a “pioneer batch” where the **upper right** of the character block looks **nicked** or the **right edge** stands proud (dealers may call this a “hidden mark”). Fakers even **exaggerate** the nick.
 
@@ -76,19 +91,19 @@ Logically, the **first** production runs of a new seal would not be defined by *
 
 ---
 
-### Myth 2 — “Red six, purple four” and two clays in the 1970s
+### Myth 2 — “Red six, purple four” and Two Clays in the 1970s
 
 In the **1970s** samples the author has worked through, *Qing Yin* is **red clay (hongni)**. **Zini (purple) *Qing Yin*** appears in **export-era production from the 80s**, often with a different “feel” in lid, seal, and base—usually easy to tell from photos once you know 80s vs. 70s F1. Later purple *Qing Yin* also cluster around **three** base-inscription family types, including long narrow stamps in **22- or 23-character** forms (not the same problem as 70s dating, but a sign you are in a different decade).
 
 ---
 
-### Myth 3 — 22- vs. 23-character long seals
+### Myth 3 — 22- vs. 23-Character Long Seals
 
 The **extra** character in some versions is **总** (*zǒng*, “general / head office”), i.e. the merged *Zhōngguó tǔchǎn xùchǎn jìnchūkǒu* naming where the “group” is explicit. The author dates **23-character** long seals to **roughly the 80s**; the **70s** context they use is the **22-character** form. Subsidiary company stamps do not have to echo the **exact** “Zhong…” wording of the parent: the author cites the **1972 Yunnan** tea/native-produce merger as a parallel where the **combined** name can drop a “**Zhong**” that you might expect, which helps explain why naming and seal length **shifted over time**—and why 23 characters is a **later** phenomenon, not a 70s *Qing Yin* requirement.
 
 ---
 
-### Myth 4 — “Who are the real makers, and is no inner seal oldest?”
+### Myth 4 — “Who Are the Real Makers, and Is No Inner Seal Oldest?”
 
 Typical **1970s** inner-lid names in this series include **Qiao Ying**, **Mei Yun**, **Yin Feng**, **Hui Fang**, **Zhi Qin** 芝琴, and **uncarved inner** examples. The author does **not** treat a stamp alone as a certificate: **era traits** first.
 
@@ -98,7 +113,7 @@ Pots with **no inner name** but 1970s work and clay are still **70s** standard p
 
 ---
 
-### A 1960s relative: *Qing yin Fujian ming cha* 請飲福建茗茶
+### A 1960s Relative: *Qing yin Fujian ming cha* 請飲福建茗茶
 
 A related campaign piece uses **Fujian tea** wording, e.g. *Qing yin Fujian ming cha* with other lines such as **Shuixian / Tieguanyin** on the body, and a gift line such as *Zhongguo Fújiànshěng cháyè jìnchūkǒu gōngsī… zèng* (Fujian provincial tea I/E company, Xiamen, **gift**). The inner lid is marked **“six cups”**; the base is a **classic six-character** 宜興惠孟臣製-style stamp **Yixing Hui Mengcheng zhi** 宜興惠孟臣製.
 

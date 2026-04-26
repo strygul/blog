@@ -1,0 +1,49 @@
+---
+description: Titles and in-post headings in blog content use consistent English headline (Title) case.
+alwaysApply: true
+---
+
+# Post and heading title case
+
+Use the same **headline style** for:
+
+- the collection **`title`** in frontmatter (article `<title>`, list cards, OG);
+- all Markdown **`#` / `##` / `###` / `####` section headings** inside posts.
+
+This matches common U.S. editorial title case: major words are capitalized; a short set of **minor words** stays **lowercase** when they are **not** the first or last word of the title/heading.
+
+## Capitalize
+
+- The **first** and **last** word of the title or heading (after leading punctuation such as `###` or a number in parentheses).
+- All **major** words: nouns, proper nouns, pronouns, verbs, adverbs, and adjectives—including **is, are, was, be, been**, and similar finite verbs, and the pronoun **it**.
+- The first word after a colon, em dash, or opening parenthesis in a run-in heading when that segment reads as a new small title (e.g. `A Concrete Cross-Check: Four 1970s Reference Pots`).
+
+## Lowercase (minor words) when not first/last
+
+Use lowercase for: **a, an, the, and, or, but, nor,** and short function words (especially **at, as, by, for, from, in, of, on, to, with,** and similar) when they connect phrases rather than carrying main meaning.
+
+- **and** in the middle of a clause: e.g. `How Late Is “Qing Yin,” and Can It Be Pre-1970s?` (lowercase *and*).
+- **of / in / to / for / with** in typical compounds: e.g. `The Shape of Xian Piao`, `Appreciation of the “Pigeon Beak” Shui Ping`, `Beginner’s Guide to Early Yixing Teapots` (*to* and *of* as minor words, unless *to* is last word).
+- **versus / vs.** may stay lowercase in the middle (`Order versus Chaos`); be consistent with nearby posts.
+
+## Do not change
+
+- **Quoted titles or phrases** inside “Early Teapots” series markers—keep inner quotation marks and **Chinese characters** as in the source.
+- **Proper names, seals, pinyin,** product **#1 / #2** listings, and **exact seal spellings** (e.g. `JingXi`, `Zhong Guo`) where they are intentional.
+- **Markdown and italics**; only the casing of the English words changes.
+
+## Checklist when adding a post
+
+1. [ ] `title` in frontmatter is in headline case and unique site-wide in intent.
+2. [ ] All section headings in the file follow the same rules.
+3. [ ] `npm run build` (content schema still valid).
+
+**Examples**
+
+| Avoid | Preferred |
+|-------|-----------|
+| `How late is...` (sentence case) | `How Late Is...` |
+| `The special traits of teapots` (mixed) | `The Special Traits of Teapots` (*of* lowercase) |
+| `Dating and external base seals` | `Dating and External Base Seals` |
+
+For ambiguous lines (e.g. “to” in an infinitive *vs.* preposition), default to the pattern used in the **Qing Yin** and **Order versus Chaos** posts after this rule was added.
