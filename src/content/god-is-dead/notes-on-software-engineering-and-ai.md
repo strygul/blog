@@ -1,11 +1,28 @@
 ---
-title: "Neural Networks: Core Concepts Notes"
+title: "Building Micrograd with Andrej Karpathy"
 pubDate: "2026-04-15"
 category: "Software"
-description: "Gradients, derivatives, the chain rule, backpropagation, autograd, and a tiny weight-update example—notes from learning how neural nets actually learn."
+description: "A dive into neural networks with Andrej Karpathy following his video on building Micrgrad."
 ---
 
-Study notes on the mechanics behind training: what gradients and derivatives mean, why the chain rule matters, and how a single backward pass nudges a weight toward a target.
+## Preface
+As AI is rapidly taking over the world, there is no way for a software engineer to stay relevant without a deep 
+understanding of how it works.
+
+I want to understand things deeply—not just how they work, but why—while keeping a hand on practical applications. So I 
+decided that the fastest way for me to dive into the subject would be to look at how AI works under the hood, 
+backfilling my understanding with theory where necessary.
+
+While looking for a good starting point, I came across Andrej Karpathy’s series of videos, “Neural Networks: Zero to 
+Hero”, and it seemed to be exactly what I was looking for: a great mix of intuition, theory, and practical examples.
+
+This post contains my notes on the first episode of the series, where Micrograd is built. It follows the video and adds 
+context in places where I needed a deeper understanding.
+
+A few words on Andrej Karpathy. He is one of the founders of OpenAI, ex-Tesla director of AI in Tesla, and  currently 
+(April, 2026) busy with his own project Eureka Labs focused on 
+
+
 
 **1. What is a gradient?** The gradient tells you how to change something to improve it (for example, reduce a loss). *Intuition:* like standing on a hill, it points downhill (steepest descent) and its size is how steep it is.
 
