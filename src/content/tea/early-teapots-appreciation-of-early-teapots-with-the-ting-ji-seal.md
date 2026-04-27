@@ -36,7 +36,7 @@ The mark originates from the dingzhu—a protruding support used during sealing.
   <figcaption>Fig. 2: Enlarged view—useful for comparing character structure against verified examples and replicas</figcaption>
 </figure>
 
-### Dating and external base seals
+### Dating and External Base Seals
 
 “Ting Ji” pots appear from the 1960s to the mid-1970s. Dating is confirmed through external base seals, which fall into two categories:
 
@@ -48,7 +48,7 @@ The mark originates from the dingzhu—a protruding support used during sealing.
   <figcaption>Fig. 3: External base seal used with “Ting Ji” pots—dating must match 1960s six-character or 6/4 “Zhong Guo Yixing” types only</figcaption>
 </figure>
 
-### Forms, materials, and workmanship
+### Forms, Materials, and Workmanship
 
 While the shuiping form is most common, other shapes—such as xiaoyao and bianyuan—also bear the mark. Both red and purple clay were used, though red clay predominates; purple clay examples are rarer. Across forms and materials, these pots share consistently high workmanship. Compared to contemporaries, they are often among the most refined Factory-era pieces, with precise finishing and minimal flaws. This quality contributed to their early popularity among collectors.
 

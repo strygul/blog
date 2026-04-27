@@ -1,5 +1,5 @@
 ---
-title: "The world has never felt so fake to me as it does today."
+title: "The World Has Never Felt So Fake to Me as It Does Today."
 pubDate: "2026-04-26"
 category: "AI"
 description: "The world has never felt so fake to me as it does today."

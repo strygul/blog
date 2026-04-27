@@ -1,5 +1,5 @@
 ---
-title: "“Early Teapots”: The Appreciation of \"Xian Piao\" Series"
+title: "“Early Teapots”: The Appreciation of the “Xian Piao” Series"
 pubDate: "2026-02-08"
 category:
   - "Tea"
@@ -45,7 +45,7 @@ This pot shape became one of the Five Shape Pots, and in the early days if you c
 
 ---
 
-#### A Shape With a Long History
+#### A Shape with a Long History
 
 In fact, “Xian Piao” have a very long history, the shape have wide bottom that tapering to the top, low center of gravity which gives it stability, easy to handle and efficiency in concentrating tea fragrance.
 
