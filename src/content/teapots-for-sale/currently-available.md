@@ -1,5 +1,5 @@
 ---
-title: "Currently available Yixing teapots"
+title: "Currently Available Yixing Teapots"
 pubDate: "2026-04-08"
 category: "Yixing"
 description: "Photographs of individual pieces you can ask about; I will put you in touch with the vendor I trust."
