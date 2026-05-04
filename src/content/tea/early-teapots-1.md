@@ -30,7 +30,7 @@ Both the 60s and 70s versions have flat-topped lids, not domed lids. Among the t
   <figcaption>Comparison of 1960s and 1970s Xian Piao lids — both flat-topped, with the 1970s version being even flatter</figcaption>
 </figure>
 
-#####  Body profile
+##### Body Profile
 The body lines are the next focus point. 60s Xian Piao pots have a slightly fuller belly and a slightly wider lower section.
 Both decades produced beautiful proportions (unlike many later copies, which differ noticeably).
 

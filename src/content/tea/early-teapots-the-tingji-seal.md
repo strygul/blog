@@ -66,15 +66,15 @@ The external base seal is confined to these two types only. After Factory No. 
 
 Ting Ji pots entered Taiwan’s teapot market early. Because of the unique seal and the better workmanship, they became one of the most discussed among early teapot collectors—and replicators often forge this seal; the market has many fake “Ting Ji” pots at high prices. Evaluation cannot rely on seals alone. The following three points help identify authentic pieces.
 
-##### 1. Era characteristics
+##### 1. Era Characteristics
 
 Pots with the Ting Ji seal were made from the 1960s to the mid-1970s, so they must match the characteristics of that period. If the pot has a six-character base seal, compare its material and workmanship to 1960s pots; the six-character seal on a Ting Ji pot should be exactly the same as on other 1960s pots. If it has the 6/4 “Zhong Guo Yixing” seal, compare clay, workmanship, shape, and standards to 1970s pieces. Pots from the same period share the same era characteristics. If these criteria are not met, there is no need to study the piece further.
 
-##### 2. Only two types of external base seal
+##### 2. Only Two Types of External Base Seal
 
 The external base seal must be either the 1960s six-character seal or the 6/4 “Zhong Guo Yixing” seal. If the base seal falls outside these two categories, treat the piece with caution.
 
-##### 3. Only one Ting Ji seal
+##### 3. Only One Ting Ji Seal
 
 Many replicas have a poorly carved Ting Ji seal—the character body is visibly different. Some high-end fakes replicate the seal well, so without having seen a genuine example it is easy to be fooled. The best approach is to compare the pot to images of authenticated Ting Ji pots.
 

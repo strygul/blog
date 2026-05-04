@@ -45,7 +45,7 @@ In fact, understanding these pots is not as difficult as many have made it out t
 
 ---
 
-### II. The special traits of teapots produced under different conditions during different eras
+### II. The Special Traits of Teapots Produced under Different Conditions during Different Eras
 
 For a start, we would like to define “early-period teapots” as the pots made between 1950s to the end of 1970s (different people may have different definitions).
 
@@ -53,7 +53,7 @@ For a start, we would like to define “early-period teapots” as the pots made
 - After the 1980s, with the liberation of designs and artistic expression after the end of the Cultural Revolution, there was a huge increase in the use of personal name seals in teapot making, and the appearance of private Yixing workshops complicates matters.
 - Pots from this period onwards will not be discussed much in this book, but rather, in another separate volume.
 
-#### Historical background
+#### Historical Background
 
 Yixing Factory #1 (宜興一廠; *yíxīng yī chǎng*) was established in 1958. In the ‘50s, the communist government had just secured control, and communist ideals were strongest during that period. During that period, all agriculture and industries belonged to the state, and the sentiments then was to put the state and people above all, and the idea of “individuality” was not permitted.
 
@@ -70,7 +70,7 @@ Today, when we drink the “label” pu’er teas from these eras, it is possibl
 
 Would we expect delicate workmanship, famous private makers, special limited batches, designated rare clays or personal orders? During the communist era, everything belonged to the state; there was no personal wealth. As long as production standards and quotas were met, there would be food to eat, nor would personal name seals be used on these pots.
 
-#### Defining characteristics for assessment
+#### Defining Characteristics for Assessment
 
 As a result, teapots made during the “early-period teapot” era have a few defining characteristics that can be used for assessment:
 

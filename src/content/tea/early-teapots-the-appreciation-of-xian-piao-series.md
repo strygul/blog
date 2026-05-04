@@ -1,11 +1,11 @@
 ---
-title: "“Early Teapots”: The Appreciation of \"Xian Piao\" Series"
-pubDate: "2026-02-08"
+title: "“Early Teapots”: The Appreciation of the “Xian Piao” Series"
+pubDate: "2026-05-02"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
   - "Teapots"
-description: "Evolution history of xian piao teapots from Qing to F1 era"
+description: "Xian Piao from Qing to Factory #1: 1960s sizes (~140cc and ~100cc), mold variants, lid seals (线漂), and Taiwan’s Ba Le name."
 heroImage: "../../../public/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/intro.png"
 ---
 
@@ -28,7 +28,7 @@ It was extremely difficult to trace the origin of the name “Xian Piao”, we o
 
 According to precious research, we believe that names of earlier teapots generally follow the name of ancient pots, such as the name of “Tang Po”, in the famous Desaru Shipwreck there were pots with “Tang Po” characters stamped on the base. So we may be able to assert that F1 was giving names to the various pot shapes no without reason, and instead they much more likely explore older names and older pot shapes.
 
-In Factory #1’s “Xian Piao” teapots was only made in the early period of F1 and had two characters ”线漂“ (Xian Piao) stamped inside of the lid. In later period, onwards mid 60s, the "Xian Piao" seal inside the lid never appeared again.
+Factory #1 linked the name to pots that could carry ”线漂“ (Xian Piao) inside the lid on **some** early molds—especially the smaller ~100cc 1960s variants, of which there is more than one mold—while the **large** ~140cc “Xian Piao” from the same decade **does not** use a lid seal. From roughly the mid 1960s onward, across later Factory #1 decades, that lid stamp largely disappears from new Xian Piao production.
 
 <figure class="figure-center">
   <img src="/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/lid-seal.png" alt="Xian Piao lid seal (线漂), early Factory #1" loading="lazy" decoding="async" />
@@ -45,7 +45,7 @@ This pot shape became one of the Five Shape Pots, and in the early days if you c
 
 ---
 
-#### A Shape With a Long History
+#### A Shape with a Long History
 
 In fact, “Xian Piao” have a very long history, the shape have wide bottom that tapering to the top, low center of gravity which gives it stability, easy to handle and efficiency in concentrating tea fragrance.
 
@@ -79,17 +79,48 @@ There are variations of the “Xian Piao” shape but all of them adhere to the 
 
 ---
 
-#### Earliest Factory #1 (Up to Early 60s)
+#### Factory #1 in the 1960s
 
-Let us talk about the earliest “Xian Piao” of F1 up to the early 60s, during this period, most of the “Xian Piao” are 6 cup, and some of them were 8 cups (by Chinese cup size, not Taiwanese). Other sizes were never have been encountered/made.
+The points below concern **1960s** “Xian Piao” from Factory #1—the decade when these observations about capacity, molds, and lid marks apply—not the very first years at the end of the 1950s.
 
-As to “Xian Piaos” of this period, fraction of them will have Xian Piao stamped inside of the lid, and even fewer have both Six Cup and “Xian Piao” seals.
+For the **1960s**, collectors generally recognize **only two capacities**: about **140cc** and about **100cc**—the sizes people often still relate to older “8 cup” / “6 cup” reckoning (Chinese cup measure), but in practice these are the two that turn up.
 
-The base seals of that era would definitely be the 60s standard 6 character seals like Jing Xi Hui Meng Cheng Zhi, Yixing Hui Meng Cheng Zhi, Jing Xi Nan Meng Chen Zhi.
+The **smaller** (~100cc) pots were cast from **more than one mold**. Some of those molds carry the two-character **“线漂” (Xian Piao)** stamp inside the lid; others do not—so the lid mark is a clue, not a single rule, for the small size.
+
+The **larger** (~140cc) **Xian Piao** from this decade **does not take a lid seal**, and good examples are **comparatively rare** compared with the small mold.
+
+Even fewer pieces combine cup-size notation with the “Xian Piao” lid stamp.
+
+The base seals of the **1960s** would definitely be the standard 6 character seals like Jing Xi Hui Meng Cheng Zhi, Yixing Hui Meng Cheng Zhi, Jing Xi Nan Meng Chen Zhi.
 
 Amongst these seals, we can find 4 Leg Xi, Big Xi, Nan Meng Chen, Yixing Hui, but can’t find Small Xi.
 
 This is probably according to the later appearance of Small Xi seal, relative to the other 6 character seals.
+
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/60s-two-sizes.png" alt="Two 1960s Xian Piao teapots side by side showing the larger ~140cc and smaller ~100cc sizes" loading="lazy" decoding="async" />
+  <figcaption>1960s Xian Piao: the two sizes (~140cc and ~100cc) compared</figcaption>
+</figure>
+
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/60s-bottom-two-sizes.png" alt="Underside of two 1960s Xian Piao teapots showing foot rings and square base seals" loading="lazy" decoding="async" />
+  <figcaption>Bases of the two sizes: foot ring and period base chop compared</figcaption>
+</figure>
+
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/60s-lids-two-sizes.png" alt="Two 1960s Xian Piao lids viewed from above showing the smaller and larger diameters" loading="lazy" decoding="async" />
+  <figcaption>Lids (top): proportional difference between the large and small molds</figcaption>
+</figure>
+
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/60s-lids-two-sizes-2.png" alt="Undersides of two Xian Piao lids showing the inner flange; smaller lid may carry the 线漂 stamp on the flange" loading="lazy" decoding="async" />
+  <figcaption>Lids (underside): the large lid typically has no interior stamp; some small-mold lids show “线漂” on the inner flange</figcaption>
+</figure>
+
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/60s-lids-two-sizes-3.png" alt="1960s Xian Piao lids: supplementary comparison of large and small mold diameters" loading="lazy" decoding="async" />
+  <figcaption>Lids: supplementary comparison of the two mold sizes</figcaption>
+</figure>
 
 ---
 
