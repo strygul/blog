@@ -6,7 +6,7 @@ category:
   - "Early Teapots Encyclopedia"
   - "Teapots"
 description: "How Factory #1 used Green, White, and Laser export and brand labels from the late 1970s through 1997—history, seals, clay, and what changed in workmanship."
-heroImage: "../../../public/tea/posts/early-teapots-13-xishi-seals-of-the-green-label-period/intro.png"
+heroImage: "../../../public/tea/posts/early-teapots-factory-1-green-white-and-laser-labels/intro.png"
 ---
 
 <div class="info-box">
@@ -29,6 +29,8 @@ Strict collectors often treat the Green Label era as the outer limit of “early
 ### Green Label (“Egg-Shaped Label”)
 
 The Green Label is an oval sticker: green ground, gold **MADE IN CHINA** text. It is generally dated **1977–1986**. It is not a Factory #1–exclusive factory mark; it is an **export country-of-origin label** from the period after the Cultural Revolution, when raising output and earning foreign exchange were national priorities—and Factory #1’s priorities too.
+
+![Oval green export label with gold “MADE IN CHINA” text on a Yixing teapot.](../../../public/tea/posts/early-teapots-factory-1-green-white-and-laser-labels/green-label.png)
 
 #### Factory changes in the Green Label era
 
@@ -70,6 +72,8 @@ Beyond those categories, speed-focused production yields **thicker, heavier, rou
 
 Used from **1987** into the early **1990s** (commonly cited **1987–1993**). The sticker carries **Fang Yuan Brand / 方圆牌** and **Yixing China 紫砂**. Several variants exist (color, presence of a white rule under the brand name). Material is **paper laminated with plastic**, which **delaminates** with age—hard to fake convincingly. Early versions had **pure white** lettering (“White Label”); later prints used metallic silver or gold tones.
 
+![Fang Yuan four-edge white label with 方圆牌 and Yixing China 紫砂 on a teapot.](../../../public/tea/posts/early-teapots-factory-1-green-white-and-laser-labels/white-label.png)
+
 **Purpose differed from Green Label**: Green addressed **export rules**; White distinguished **Factory #1** from **Factories 2–4** (1980 onward) as Yixing scaled. Because the White Label also carried **China**, it could **replace** the Green export sticker—helping Green Labels disappear from new retail.
 
 #### White Label workmanship and clay
@@ -87,6 +91,8 @@ Some collectors describe a **label-less** gap. Export-focused Green Label practi
 ### Laser Label (1993–1997)
 
 Round **laser** stickers identify Factory #1 pots in this window—again versus other factories. The switch aimed at **counterfeits**: laser labels were harder to imitate than paper.
+
+![Round laser-printed Factory #1 label on a Yixing teapot.](../../../public/tea/posts/early-teapots-factory-1-green-white-and-laser-labels/laser-label.png)
 
 Workmanship **slips** versus White Label for many pieces: **Shuiping** molds weaken as the line loses centrality; variegated pots grow **sloppier**. Clay ranges widely—**straight Yixing**, blends, colored bodies—with uneven results; some beautiful pots **perform** poorly in use as porosity and aging behavior diverge. A frequent narrative: after White Label, **top clay and craftsmen** skew toward **ming jia / “famous artisan”** production—starving the commodity Factory #1 line ahead of **privatization**.
 
