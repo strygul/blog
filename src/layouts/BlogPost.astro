@@ -13,7 +13,8 @@ type CollectionData =
 	| CollectionEntry<'blog'>['data']
 	| CollectionEntry<'tea'>['data']
 	| CollectionEntry<'teapots-for-sale'>['data']
-	| CollectionEntry<'god-is-dead'>['data'];
+	| CollectionEntry<'god-is-dead'>['data']
+	| CollectionEntry<'ballet'>['data'];
 
 type Props = CollectionData & {
 	jsonLdType?: 'BlogPosting' | 'AboutPage';

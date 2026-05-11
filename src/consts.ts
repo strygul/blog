@@ -16,19 +16,23 @@ export const PAGE_DESCRIPTIONS = {
 	godIsDeadIndex:
 		'Essays on software engineering, artificial intelligence, and what changes when craft, judgment, and meaning meet automation.',
 	categoriesIndex: 'Browse posts by category: tea, teapots, software, and other topics from Iev Strygul’s blog.',
+	balletIndex: 'Notes on ballet performances, choreography, and the art of movement — from the stalls in Copenhagen.',
 } as const;
 
 /** Home (`/`): sentence-case link text. Article titles stay Title Case in frontmatter. */
 export const PAGE_HOME_LINK_LABELS = {
 	godIsDead: 'God is dead: notes on how software engineering and AI have killed him',
+	ballet: '“Trust me, you can dance.” – Vodka',
 } as const;
 
 /** Section index `<title>` stem and main hub `<h1>` (Title Case, like article titles). */
 export const PAGE_INDEX_TITLES = {
 	godIsDead: 'God Is Dead: Notes on How Software Engineering and AI Have Killed Him',
+	ballet: 'Ballet',
 } as const;
 
 /** Section hub subtitle under `<h1>` — sentence case (not article `<title>`). */
 export const PAGE_INDEX_SUBTITLES = {
 	godIsDead: 'Notes on how software engineering and AI have killed him.',
+	ballet: 'Notes from the stalls.',
 } as const;
