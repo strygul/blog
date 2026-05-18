@@ -200,6 +200,17 @@ The spout of 1960s Pigeon Beaks has a distinctive profile:
 - Smooth and streamlined
 - Elegant curvature
 
+<div class="image-gallery two-up" role="group" aria-label="Pigeon Beak spout closeups, 1960s and 1970s">
+  <figure class="full-size">
+    <img src="/tea/posts/early-teapots-appreciation-of-the-pigeon-beak-shui-ping/pigeon-spout-60s-closeup.jpg" alt="Close-up of the bulging pigeon beak spout on a 1960s Pigeon Beak Shui Ping, showing the distinctive fuller, longer curvature and 18-hole row filter" loading="lazy" decoding="async" />
+    <figcaption>1960s spout — longer, more elegant curvature</figcaption>
+  </figure>
+  <figure class="full-size">
+    <img src="/tea/posts/early-teapots-appreciation-of-the-pigeon-beak-shui-ping/pigeon-spout-70s-closeup.jpg" alt="Close-up of the spout on a 1970s Pigeon Beak Shui Ping, showing the slightly shorter, less refined curvature compared to the 1960s version" loading="lazy" decoding="async" />
+    <figcaption>1970s spout — slightly shorter, curvature less refined</figcaption>
+  </figure>
+</div>
+
 This curvature gives the pot a lively, perky appearance. The overall silhouette is refined and balanced.
 
 Collectors note that this subtle elegance is extremely difficult to replicate, making the spout profile an 
@@ -222,6 +233,17 @@ Teapots from the 1970s appear similar at first glance, but closer inspection rev
 - Spout slightly shorter
 - Curvature less elegant
 - Overall aesthetics slightly reduced
+
+<div class="image-gallery two-up" role="group" aria-label="Pigeon Beak Shui Ping full views, 1960s and 1970s">
+  <figure class="full-size">
+    <img src="/tea/posts/early-teapots-appreciation-of-the-pigeon-beak-shui-ping/pigeon-spout-60s-full.jpg" alt="Full view of a 1960s Pigeon Beak Shui Ping teapot in darker brownish-purple zini clay, showing the refined body proportions and elegant spout profile" loading="lazy" decoding="async" />
+    <figcaption>1960s Pigeon Beak — zini clay (darker brownish-purple)</figcaption>
+  </figure>
+  <figure class="full-size">
+    <img src="/tea/posts/early-teapots-appreciation-of-the-pigeon-beak-shui-ping/pigeon-spout-70s-full.jpg" alt="Full view of a 1970s Pigeon Beak Shui Ping teapot in reddish-brown hongni clay, showing the slightly changed proportions and spout profile compared to the 1960s" loading="lazy" decoding="async" />
+    <figcaption>1970s Pigeon Beak — hongni clay (reddish-brown)</figcaption>
+  </figure>
+</div>
 
 These differences likely reflect changes in production molds. While the basic shape could be reproduced, the subtle 
 charm of earlier pieces became harder to maintain.
