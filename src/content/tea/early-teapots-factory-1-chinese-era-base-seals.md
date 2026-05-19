@@ -47,8 +47,8 @@ The earliest known examples of these date-sealed pots appear from the **Ding Mao
 </figure>
 
 <figure class="figure-center">
-  <img src="/tea/posts/early-teapots-factory-1-chinese-era-base-seals/ji-si-1989.png" alt="Rectangular base seal with Zhong Guo Yixing and Ji Si year made (己巳年製)" loading="lazy" decoding="async" />
-  <figcaption>Ji Si (己巳) year seal — <strong>1989</strong>. Two columns: 中國宜興 and 己巳年製.</figcaption>
+  <img src="/tea/posts/early-teapots-factory-1-chinese-era-base-seals/ji-si-1989.png" alt="Two-column base seal: China Yixing (中國宜興) and Jingxi Hui Mengchen made (荆溪惠孟臣製)" loading="lazy" decoding="async" />
+  <figcaption>Two-column export seal: <strong>中國宜興</strong> (China Yixing) and <strong>荆溪惠孟臣製</strong> (made, Hui Mengchen of Jingxi mark)—a standard Factory #1 layout, not a cyclical year stamp.</figcaption>
 </figure>
 
 ---
@@ -59,11 +59,31 @@ The production of these pots was closely tied to demand from Hong Kong merchants
 
 Because orders varied from year to year, some years saw the production of Chinese era seal pots while others did not.
 
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-factory-1-chinese-era-base-seals/zhongguo-yixing-4-char.png" alt="Two-column base seal: China Yixing (中國宜興) and Jihai year made (己亥年製)" loading="lazy" decoding="async" />
+  <figcaption>Two-column seal: <strong>中國宜興</strong> (China Yixing) and <strong>己亥年製</strong> (made in the Jihai year)—a cyclical-date variant Hong Kong orders sometimes paired with standard export marks.</figcaption>
+</figure>
+
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-factory-1-chinese-era-base-seals/zhongguo-yixing-6-char.png" alt="Two-column base seal: Jingxi Hui Mengchen made (荆溪惠孟臣製) and China Yixing (中國宜興)" loading="lazy" decoding="async" />
+  <figcaption>Two-column seal: <strong>荆溪惠孟臣製</strong> (made, Hui Mengchen of Jingxi mark) and <strong>中國宜興</strong> (China Yixing)—common on late-period Factory #1 export pots.</figcaption>
+</figure>
+
 ---
 
 ### Chinese Era Seal Pots vs. Standard Zhong Guo Yixing Seals
 
 Collectors often ask whether there are any meaningful differences between Chinese era seal pots and regular Zhong Guo Yixing seal pots. In reality, there are no fundamental differences between the two. They were produced in the same factory, by the same artisans, using the same clay stocks, firing methods, and production standards of the period. During this era, Factory #1 did not permit the use of outside clay materials for mass production. Consequently, these pots adhered strictly to Factory #1 specifications and practices.
+
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-factory-1-chinese-era-base-seals/geng-wu-1990.png" alt="Square base seal divided into two columns: Jingxi Hui Mengchen (荊溪惠孟臣) and China Yixing (中國宜興)" loading="lazy" decoding="async" />
+  <figcaption>Square seal with a central divider: <strong>荊溪惠孟臣</strong> (Jingxi Hui Mengchen mark) and <strong>中國宜興</strong> (China Yixing)—another standard two-column export layout from the same era.</figcaption>
+</figure>
+
+<figure class="figure-center">
+  <img src="/tea/posts/early-teapots-factory-1-chinese-era-base-seals/zhongguo-yixing-zisha-yichang-tu.png" alt="Square base seal: China Yixing purple clay, Ding Mao year (中國宜興紫砂丁卯年)" loading="lazy" decoding="async" />
+  <figcaption>Square seal in three rows: <strong>中國</strong> (China), <strong>宜興</strong> (Yixing), and <strong>丁卯年</strong> (Ding Mao year)—another <strong>1987</strong> cyclical layout (compare the fuller 中國宜興紫砂丁卯年 stamp above).</figcaption>
+</figure>
 
 There was no special use of premium zhuni or unusually high-grade materials specifically for Chinese era seal productions. They were made using standard Factory #1 clays of the time. However, it is important to note that during this period many non–Factory #1 workshops also existed, including Factory 2, Factory 3, Factory 4, and numerous smaller operations supported by Hong Kong merchants. Some of these workshops also produced imitation Chinese era seal pots.
 
@@ -90,8 +110,8 @@ During the Geng Wu year, Factory #1 produced not only standard red clay wares bu
 However, according to the author’s research and interviews with former Factory #1 workers, only one authentic Geng Wu year base seal was used in 1990 itself. This seal features a dividing line between the words Zhong Guo Yixing and Geng Wu Year Made (see below—the first-batch Geng Wu base seal). During that year, only two sizes were produced: **12-cup** and **8-cup** versions (referred to in Taiwan as 8-cup and 6-cup sizes).
 
 <figure class="figure-center">
-  <img src="/tea/posts/early-teapots-factory-1-chinese-era-base-seals/geng-wu-1990.png" alt="Geng Wu (1990) base seal with a vertical dividing line between Zhong Guo Yixing and Geng Wu year made" loading="lazy" decoding="async" />
-  <figcaption>First-batch Geng Wu (庚午) year seal — <strong>1990</strong>. The vertical dividing line between 中國宜興 and 庚午年製 is the authentic in-year layout.</figcaption>
+  <img src="/tea/posts/early-teapots-factory-1-chinese-era-base-seals/zhongguo-yixing-6-char-maker.png" alt="Two-column Geng Wu year base seal: China Yixing (中國宜興) and Geng Wu year made (庚午年制)" loading="lazy" decoding="async" />
+  <figcaption>Geng Wu (庚午) year seal — <strong>1990</strong>. Two columns: <strong>中國宜興</strong> (China Yixing) and <strong>庚午年制</strong> (made in the Geng Wu year)—the authentic in-year layout with a vertical dividing line.</figcaption>
 </figure>
 
 These original 1990 pots were made using fine, smooth red clay and quickly became highly sought after, further amplified by aggressive promotion from tea ware merchants. Their popularity was so great that additional batches of “Geng Wu Year” pots continued to be produced even after 1990, extending into **1995** and beyond. Later productions appeared in a wider range of forms and seals, and some were outsourced to non–Factory #1 workshops, resulting in pieces that often fail to match the quality and character of genuine Factory #1 wares.
