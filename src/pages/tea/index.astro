@@ -7,7 +7,7 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { PAGE_DESCRIPTIONS, SITE_TITLE } from '../../consts';
 import teaImage from '../../assets/tea/main.png';
-import teapotsHeroImage from '../../../public/teapots-for-sale/intro.png';
+import teapotsHeroImage from '../../assets/teapots-for-sale/intro.png';
 
 const base = import.meta.env.BASE_URL;
 const posts = (await getCollection('tea')).sort(
