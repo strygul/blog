@@ -5,20 +5,30 @@ import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
-import { PAGE_DESCRIPTIONS, SITE_TITLE } from '../../consts';
+import { SITE_TITLE } from '../../consts';
 
-const blogPosts = await getCollection('blog');
-const teaPosts = await getCollection('tea');
-const teaPostIds = new Set(teaPosts.map((post) => post.id));
-const posts = [...blogPosts, ...teaPosts].sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+const base = import.meta.env.BASE_URL;
+
+const allPosts = [
+	...(await getCollection('blog')).map((p) => ({ post: p, basePath: `${base}blog` })),
+	...(await getCollection('tea')).map((p) => ({ post: p, basePath: `${base}tea` })),
+	...(await getCollection('teapots-for-sale')).map((p) => ({ post: p, basePath: `${base}tea/teapots-for-sale` })),
+	...(await getCollection('god-is-dead')).map((p) => ({ post: p, basePath: `${base}god-is-dead` })),
+	...(await getCollection('ballet')).map((p) => ({ post: p, basePath: `${base}ballet` })),
+].sort(
+	(a, b) =>
+		b.post.data.pubDate.valueOf() - a.post.data.pubDate.valueOf() ||
+		a.post.id.localeCompare(b.post.id),
 );
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`Blog — ${SITE_TITLE}`} description={PAGE_DESCRIPTIONS.blogIndex} />
+		<BaseHead
+			title={`All Posts — ${SITE_TITLE}`}
+			description="Every post from this blog: tea, teapots, software, ballet, and more."
+		/>
 		<style>
 			main {
 				width: 960px;
@@ -107,40 +117,36 @@ const posts = [...blogPosts, ...teaPosts].sort(
 			<section>
 				<ul>
 					{
-						posts.map((post) => {
-							const base = import.meta.env.BASE_URL;
-							const basePath = teaPostIds.has(post.id) ? `${base}tea` : `${base}blog`;
-							return (
-								<li>
-									<a href={`${basePath}/${post.id}/`}>
-										{post.data.heroImage && (
-											<Image
-												width={720}
-												height={360}
-												src={post.data.heroImage}
-												alt=""
-												class:list={[post.data.heroImageMaxHeight != null && 'post-list-hero--capped']}
-												style={
-													post.data.heroImageMaxHeight != null
-														? {
-																maxHeight: `${post.data.heroImageMaxHeight}px`,
-																maxWidth: '100%',
-																width: 'auto',
-																height: 'auto',
-																objectFit: 'contain',
-															}
-														: undefined
-												}
-											/>
-										)}
-										<h4 class="title">{post.data.title}</h4>
-										<p class="date">
-											<FormattedDate date={post.data.pubDate} />
-										</p>
-									</a>
-								</li>
-							);
-						})
+						allPosts.map(({ post, basePath }) => (
+							<li>
+								<a href={`${basePath}/${post.id}/`}>
+									{post.data.heroImage && (
+										<Image
+											width={720}
+											height={360}
+											src={post.data.heroImage}
+											alt=""
+											class:list={[post.data.heroImageMaxHeight != null && 'post-list-hero--capped']}
+											style={
+												post.data.heroImageMaxHeight != null
+													? {
+															maxHeight: `${post.data.heroImageMaxHeight}px`,
+															maxWidth: '100%',
+															width: 'auto',
+															height: 'auto',
+															objectFit: 'contain',
+														}
+													: undefined
+											}
+										/>
+									)}
+									<h4 class="title">{post.data.title}</h4>
+									<p class="date">
+										<FormattedDate date={post.data.pubDate} />
+									</p>
+								</a>
+							</li>
+						))
 					}
 				</ul>
 			</section>

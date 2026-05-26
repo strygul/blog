@@ -9,4 +9,8 @@ export default defineConfig({
 	site: 'https://strygul.com',
 	base: '/',
 	integrations: [mdx(), sitemap()],
+	redirects: {
+		'/teapots-for-sale': '/tea/teapots-for-sale',
+		'/teapots-for-sale/[...slug]': '/tea/teapots-for-sale/[...slug]',
+	},
 });
