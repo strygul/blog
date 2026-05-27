@@ -7,6 +7,7 @@ import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
 import { PAGE_DESCRIPTIONS, SITE_TITLE } from '../../consts';
 import teaImage from '../../assets/tea/main.png';
+import teapotsHeroImage from '../../assets/teapots-for-sale/intro.png';
 
 const base = import.meta.env.BASE_URL;
 const posts = (await getCollection('tea')).sort(
@@ -77,6 +78,7 @@ const posts = (await getCollection('tea')).sort(
 				color: rgb(var(--gray));
 			}
 			ul li a:hover h4,
+			ul li a:hover h5,
 			ul li a:hover .date {
 				color: rgb(var(--accent));
 			}
@@ -149,6 +151,18 @@ const posts = (await getCollection('tea')).sort(
 							</li>
 						))
 					}
+					<li>
+						<a href={`${base}tea/teapots-for-sale/`}>
+							<Image
+								width={720}
+								height={720}
+								src={teapotsHeroImage}
+								alt="Several Yixing teapots arranged together"
+							/>
+							<h5 class="title">Wanna Buy a Yixing Teapot?</h5>
+							<p>Teapots for sale</p>
+						</a>
+					</li>
 				</ul>
 			</section>
 		</main>

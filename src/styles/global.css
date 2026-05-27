@@ -78,7 +78,10 @@ b {
 	font-weight: 700;
 }
 a {
-	color: var(--accent);
+	color: rgb(var(--black));
+}
+a:visited {
+	color: rgb(var(--gray));
 }
 a:hover {
 	color: var(--accent);
