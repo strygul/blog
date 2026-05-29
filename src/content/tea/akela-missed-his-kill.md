@@ -279,7 +279,8 @@ pot, that itself should give you pause.
 
 ## What I Took Away
 
-Buying this modern replica was an expensive lesson, but a fair one. It taught me three things I want to leave you with.
+Buying this modern replica was a good lesson (luckily not an expensive one as I could return the teapot). It taught me 
+three things I want to leave you with.
 
 First, no single clue is enough. Clay alone, seal alone, polish alone — each can be faked, and as I learned with the 
 inclusions, even the "rules" we repeat to each other don't always hold. You need to look at the pot as a whole and ask 
