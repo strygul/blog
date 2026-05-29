@@ -59,3 +59,10 @@ figure.figure-center figcaption {
 	line-height: 1.3;
 }
 
+.footnote {
+	margin-top: 1.5em;
+	font-size: 0.85rem;
+	color: rgb(var(--gray));
+	line-height: 1.5;
+}
+
