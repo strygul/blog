@@ -292,17 +292,17 @@ A distinctive subset of Yixing export ware bears a mouse mark on the back of the
 
 ---
 
-## Part V: The Cooperative Era and Yixing Factory #1
+## Part V: The Cooperative Era and Factory 1
 
 The establishment of China's People's Republic in 1949 fundamentally reorganized the Yixing pottery industry. Private shops gave way to cooperatives; cooperatives eventually merged into a single state factory.
 
 ##### Hong Kong Xiangxing Tea Company Orders (1978–1979)
 
-Among the better-documented late Yi Factory commissions are those placed by Hong Kong's Xiangxing Tea Company (香港祥興茶行) in 1978–1979. Standard teapots in 4-cup (190cc), 6-cup, and 8-cup sizes were produced, as well as non-standard 4- and 6-cup variants. The base carries the mark *Zhongguo Yixing* (中国宜興); the lid interior bears a black-glazed inscription reading *Xiangxing Tea Company* (祥興茶行) — a dual-marking convention identifying both origin and customer.
+Among the better-documented late Factory 1 commissions are those placed by Hong Kong's Xiangxing Tea Company (香港祥興茶行) in 1978–1979. Standard teapots in 4-cup (190cc), 6-cup, and 8-cup sizes were produced, as well as non-standard 4- and 6-cup variants. The base carries the mark *Zhongguo Yixing* (中国宜興); the lid interior bears a black-glazed inscription reading *Xiangxing Tea Company* (祥興茶行) — a dual-marking convention identifying both origin and customer.
 
 <figure class="full-size">
   <img src="/tea/posts/chinese-yixyin-pottery-teapot/xiangxing-tea-company-hong-kong-teapots.jpg" alt="Hong Kong Xiangxing Tea Company commissioned Yixing teapot with dual base markings" loading="lazy" decoding="async" />
-  <figcaption>Hong Kong Xiangxing Tea Company (香港祥興茶行) commission from Yi Factory, 1978–1979 — base marked "China Yixing," lid marked with the tea company name in black glaze.</figcaption>
+  <figcaption>Hong Kong Xiangxing Tea Company (香港祥興茶行) commission from Factory 1, 1978–1979 — base marked "China Yixing," lid marked with the tea company name in black glaze.</figcaption>
 </figure>
 
 ##### Tang Du Pottery Production Cooperative (湯渡陶業生産合作社, 1952–1955)
@@ -316,29 +316,29 @@ Founded in February 1952 by seven master potters including Pei Shimin (裴石民
 
 ##### Shushan Pottery Production Cooperative (宜興蜀山陶業生産合作社, 1955–1958)
 
-Established from late 1955 to early 1956 through a partnership with potters in the Qianqiu area. For the first six months it continued to use the Tang Du seal; thereafter it adopted its own mark: *Yi Xing Shu Shan Tao Ye Sheng Chan He Zuo She Chu Pin* (宜興蜀山陶業生産合作社出品), also in right-to-left script. This seal remained in use until April 1958, when Yixing Factory #1 was established.
+Established from late 1955 to early 1956 through a partnership with potters in the Qianqiu area. For the first six months it continued to use the Tang Du seal; thereafter it adopted its own mark: *Yi Xing Shu Shan Tao Ye Sheng Chan He Zuo She Chu Pin* (宜興蜀山陶業生産合作社出品), also in right-to-left script. This seal remained in use until April 1958, when Factory 1 was established.
 
 <figure class="full-size">
   <img src="/tea/posts/chinese-yixyin-pottery-teapot/shushan-pottery-cooperative-seal.jpg" alt="Shushan pottery production cooperative seal on Yixing teapot" loading="lazy" decoding="async" />
   <figcaption>The Shushan Cooperative (宜興蜀山陶業生産合作社) seal — also in right-to-left script, active from late 1955 until April 1958. This seal can be found on both cooperative employees' work and that of private makers supplying the cooperative.</figcaption>
 </figure>
 
-##### Yixing Purple Sand Crafts Factory / Yi Factory #1 (宜興紫砂工芸廠, 1958–1997)
+##### Yixing Purple Sand Crafts Factory / Factory 1 (宜興紫砂工芸廠, 1958–1997)
 
-The state factory established in April 1958 produced what collectors today call "cooperative pots" (from around 1958), "Cultural Revolution pots" (1966–1976), and "Yi Factory pots" (1977–1997). Knowing which seal, mark format, and label design belongs to which sub-period is fundamental to dating any factory-era piece.
+The state factory established in April 1958 produced what collectors today call "cooperative pots" (from around 1958), "Cultural Revolution pots" (1966–1976), and "Factory 1 pots" (1977–1997). Knowing which seal, mark format, and label design belongs to which sub-period is fundamental to dating any factory-era piece.
 
-<div class="image-gallery" role="group" aria-label="Yi Factory seal progression from 1950s to 1990s">
+<div class="image-gallery" role="group" aria-label="Factory 1 seal progression from 1950s to 1990s">
   <figure class="full-size">
-    <img src="/tea/posts/chinese-yixyin-pottery-teapot/yi-factory-seals-1950s-1960s.jpg" alt="Yi Factory seals from the 1950s and 1960s on Yixing teapots" loading="lazy" decoding="async" />
-    <figcaption>Yi Factory marks: 1950s–1960s — the cooperative and early factory era</figcaption>
+    <img src="/tea/posts/chinese-yixyin-pottery-teapot/yi-factory-seals-1950s-1960s.jpg" alt="Factory 1 seals from the 1950s and 1960s on Yixing teapots" loading="lazy" decoding="async" />
+    <figcaption>Factory 1 marks: 1950s–1960s — the cooperative and early factory era</figcaption>
   </figure>
   <figure class="full-size">
-    <img src="/tea/posts/chinese-yixyin-pottery-teapot/yi-factory-seals-1970s-1980s.jpg" alt="Yi Factory seals from the 1970s and 1980s on Yixing teapots" loading="lazy" decoding="async" />
-    <figcaption>Yi Factory marks: 1970s–1980s — spanning the Cultural Revolution and reform eras</figcaption>
+    <img src="/tea/posts/chinese-yixyin-pottery-teapot/yi-factory-seals-1970s-1980s.jpg" alt="Factory 1 seals from the 1970s and 1980s on Yixing teapots" loading="lazy" decoding="async" />
+    <figcaption>Factory 1 marks: 1970s–1980s — spanning the Cultural Revolution and reform eras</figcaption>
   </figure>
   <figure class="full-size">
-    <img src="/tea/posts/chinese-yixyin-pottery-teapot/yi-factory-seals-1980s-1990s.jpg" alt="Yi Factory seals from the 1980s and 1990s on Yixing teapots" loading="lazy" decoding="async" />
-    <figcaption>Yi Factory marks: 1980s–1990s — the final decade before the factory's closure in 1997</figcaption>
+    <img src="/tea/posts/chinese-yixyin-pottery-teapot/yi-factory-seals-1980s-1990s.jpg" alt="Factory 1 seals from the 1980s and 1990s on Yixing teapots" loading="lazy" decoding="async" />
+    <figcaption>Factory 1 marks: 1980s–1990s — the final decade before the factory's closure in 1997</figcaption>
   </figure>
 </div>
 
