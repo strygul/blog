@@ -20,69 +20,154 @@ Yixing's reputation rests on the shoulders of individual masters whose names app
 
 A National Senior Craft Artist who earned his title in 2013. Born in Dingshu Town, he began his training in 1980 and subsequently studied under two celebrated masters: Xu Hangtang (徐汉棠) and Gu Shaopei (顾绍培). He also trained in the allied discipline of teapot decoration and carving under Tan Quanhai (谭泉海), developing a command of both form and surface ornament that marks his mature work.
 
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/zhu-hongjun.jpg" alt="Portrait of Yixing potter Zhu Hongjun" loading="lazy" decoding="async" />
+  <figcaption>Zhu Hongjun (朱鸿钧). Source: <a href="https://baike.baidu.com/item/%E6%9C%B1%E9%B8%BF%E9%92%A7/13888099" target="_blank" rel="noopener noreferrer">Baidu Baike biography</a>; additional reference: <a href="https://taohuren.com/baike/101822.html" target="_blank" rel="noopener noreferrer">Taohuren biography and works</a>.</figcaption>
+</figure>
+
 ##### EPudu (萼圃督)
 
 A ceramic artist of the mid-Qing dynasty. Little biographical detail survives, but works bearing this mark are valued as mid-Qing period pieces.
+
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/epudu.jpg" alt="Mid-Qing EPudu-marked small zhuni shuiping teapot" loading="lazy" decoding="async" />
+  <figcaption>Mid-Qing EPudu-marked small zhuni shuiping pot. Source: <a href="https://www.enterprise7.tw/p/10.html" target="_blank" rel="noopener noreferrer">Enterprise7 reference page</a>; additional reference: <a href="https://noncky.net/item/e1198481820" target="_blank" rel="noopener noreferrer">auction listing</a>.</figcaption>
+</figure>
 
 ##### Gan Cheng (淦成)
 
 Active from the late Qing into the Republic of China period. His career spans the political upheaval that reshaped the Yixing industry, making his work a bridge between the imperial era and the modern workshop system.
 
-##### Yang Pengnia (楊彭年, 1772–1854)
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/gan-cheng.jpg" alt="Representative Wu Gancheng teapot with inscription" loading="lazy" decoding="async" />
+  <figcaption>Representative Wu Gancheng (吴淦成) pot. Source: <a href="https://taohuren.com/article/103736.html" target="_blank" rel="noopener noreferrer">Taohuren article with seal notes</a>.</figcaption>
+</figure>
 
-One of the most celebrated names in Yixing history. Yang Pengnia was a master craftsman from Yixing who collaborated closely with the scholar-official Chen Mansheng (陳曼生) to produce the iconic "Mansheng Teapots" (曼生壺) — a series of eighteen classical forms that set the standard for literati-style Yixing ware. This fusion of scholarly calligraphy and skilled pottery remains among the most admired achievements in the entire tradition.
+##### Yang Pengnian (楊彭年, 1772–1854)
+
+One of the most celebrated names in Yixing history. Yang Pengnian was a master craftsman from Yixing who collaborated closely with the scholar-official Chen Mansheng (陳曼生) to produce the iconic "Mansheng Teapots" (曼生壺) — a series of eighteen classical forms that set the standard for literati-style Yixing ware. This fusion of scholarly calligraphy and skilled pottery remains among the most admired achievements in the entire tradition.
+
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/yang-pengnian.jpg" alt="Representative Qing Yixing ware associated with Yang Pengnian" loading="lazy" decoding="async" />
+  <figcaption>Representative Qing Yixing ware associated with Yang Pengnian. Source: <a href="https://zh.wikipedia.org/wiki/%E6%9D%A8%E5%BD%AD%E5%B9%B4" target="_blank" rel="noopener noreferrer">Wikipedia biography</a>; additional reference: <a href="https://www.taohuren.com/mingjia/yangpengnian.html" target="_blank" rel="noopener noreferrer">Taohuren biography and works</a>.</figcaption>
+</figure>
 
 ##### Wang Nanlin (王南林)
 
 A master craftsman active in the mid-Qing dynasty.
 
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/wang-nanlin.png" alt="Representative Wang Nanlin Yixing teapot" loading="lazy" decoding="async" />
+  <figcaption>Representative Wang Nanlin (王南林) pot. Source: <a href="https://m.zisha.com/knowledge/33192.shtml" target="_blank" rel="noopener noreferrer">Zisha.com biography and works</a>; additional reference: <a href="https://taohuren.com/zihao/1086.html" target="_blank" rel="noopener noreferrer">Taohuren mark reference</a>.</figcaption>
+</figure>
+
 ##### Jiang Zhenxiang (蒋貞祥)
 
 Active in the late Qing, with works extending into the Republic of China era. He later founded the Yutai Pottery Shop (see below), combining his skills as a craftsman with the business acumen of a shop owner.
+
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/jiang-zhenxiang.jpg" alt="Representative Jiang Zhenxiang Yixing teapot" loading="lazy" decoding="async" />
+  <figcaption>Representative Jiang Zhenxiang (蒋貞祥) work. Source: <a href="https://www.zisha.com/knowledge/35216.shtml" target="_blank" rel="noopener noreferrer">Zisha.com biography and works</a>; additional reference: <a href="https://www.12129.com/1news/show.asp?id=1331" target="_blank" rel="noopener noreferrer">seal notes</a>.</figcaption>
+</figure>
 
 ##### Wang Xichen (王熙臣)
 
 A Republic of China–period artist affiliated with the Qimin Pottery Company (啓民陶器公司), a firm that represents the more organized, commercially structured face of early twentieth-century Yixing production.
 
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/wang-xichen.jpg" alt="Representative Wang Xichen Yixing teapot with seal detail" loading="lazy" decoding="async" />
+  <figcaption>Representative Wang Xichen (王熙臣) pot. Source: <a href="https://taohuren.com/mingjia/wangxichen/" target="_blank" rel="noopener noreferrer">Taohuren biography, images, and marks</a>; additional reference: <a href="https://www.51pot.com/knowledge/knowledge-detail-984.shtml" target="_blank" rel="noopener noreferrer">older-artist entry</a>.</figcaption>
+</figure>
+
 ##### Shao Quanzhang (邵全章, 1913–1993)
 
 A late Qing–to–early-Republic potter from Shangyuan Village, Yixing. Shao Quanzhang came from a distinguished lineage: his grandfather Shao Futing (邵夫廷) and father Shao Yunfu (邵云甫) were both celebrated potters, and the family traced its craft identity back to Shao Daheng (邵大恒), a master of the Jiaqing period (1796–1850). Working alongside Wang Yinchun (王寅春) and Shen Xiaolu (沈孝陆), Shao Quanzhang produced Duoqiu pots and classically styled antique-form vessels that continued the family's long tradition.
+
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/shao-quanzhang.jpg" alt="Representative Shao Quanzhang Yixing teapot" loading="lazy" decoding="async" />
+  <figcaption>Representative Shao Quanzhang (邵全章) work. Source: <a href="https://www.zisha.com/knowledge/35268.shtml" target="_blank" rel="noopener noreferrer">Zisha.com biography and works</a>; additional reference: <a href="https://collections.ncfta.gov.tw/pages/product/view.aspx?id=11200506008" target="_blank" rel="noopener noreferrer">National Center for Traditional Arts collection</a>.</figcaption>
+</figure>
 
 ##### Chen Mingyuan (陳鳴遠, 1622–1735)
 
 One of the most historically significant potters in the entire Yixing canon. Active during the Qing dynasty, Chen Mingyuan is celebrated for his extraordinary technical range — his work encompasses teapots, brushpots, brush rests, and naturalistic sculptures of fruit, vegetables, and insects rendered in clay with remarkable fidelity. His pieces are among the most collected and most imitated in the tradition.
 
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/chen-mingyuan.jpeg" alt="Representative Chen Mingyuan naturalistic Yixing work" loading="lazy" decoding="async" />
+  <figcaption>Representative Chen Mingyuan (陳鳴遠) work. Source: <a href="https://www.zisha.com/knowledge/catalog/34017.shtml" target="_blank" rel="noopener noreferrer">Zisha.com biography and work images</a>; additional reference: <a href="https://www.dpm.org.cn/lemmas/240253.html" target="_blank" rel="noopener noreferrer">Palace Museum biography</a>.</figcaption>
+</figure>
+
 ##### Anji (安吉)
 
 A master of teapot making in the late Qing dynasty.
+
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/anji.jpg" alt="Anji-marked duanni brick-square Yixing teapot" loading="lazy" decoding="async" />
+  <figcaption>Anji-marked duanni brick-square pot. Source: <a href="https://chenpot.com/mj-zhuan-fang.html" target="_blank" rel="noopener noreferrer">Chenpot representative-work reference</a>; additional reference: <a href="https://chenpot.com/mj-bgh.html" target="_blank" rel="noopener noreferrer">Ji'an/Anji attribution discussion</a>.</figcaption>
+</figure>
 
 ##### Zhou Yongfu (周永福)
 
 A late Qing–dynasty potter.
 
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/zhou-yongfu.jpg" alt="Late Qing Yixing teapots from a reference article mentioning Zhou Yongfu" loading="lazy" decoding="async" />
+  <figcaption>Late-Qing master-potter reference image from an article mentioning Zhou Yongfu (周永福). Source: <a href="https://chenpot.com/qing-mo-ds.html" target="_blank" rel="noopener noreferrer">Chenpot late-Qing master reference</a>; additional reference: <a href="https://blog.sina.com.cn/s/blog_a054aad20101323t.html" target="_blank" rel="noopener noreferrer">historical maker list</a>.</figcaption>
+</figure>
+
 ##### Wang Dongshi (王東石)
 
 A well-regarded potter in the early Republic of China period, known for elegant classical forms.
+
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/wang-dongshi.jpg" alt="Representative Wang Dongshi Yixing teapot" loading="lazy" decoding="async" />
+  <figcaption>Representative Wang Dongshi (王東石) pot. Source: <a href="https://taohuren.com/mingjia/wangdongshi.html" target="_blank" rel="noopener noreferrer">Taohuren biography and works</a>; additional reference: <a href="https://www.zisha.com/knowledge/catalog/16925.shtml" target="_blank" rel="noopener noreferrer">Zisha.com article</a>.</figcaption>
+</figure>
 
 ##### Fan Dasheng (范大生)
 
 A Republic of China–period master who achieved international recognition: his work won gold medals at both the London Art Exhibition and the Singapore Nanyang Industrial Fair in 1935. The Fan family has a deep and continuous tradition in Yixing; other notable members include Fan Zhangen (範章恩), Fan Dingfu (範鼎甫), Fan Zhuangnongjia (範庄農家), Fan Jinfu (範錦甫), and Fan Zhuang (範占). Fan Dasheng is especially associated with compiling the family's accumulated knowledge of teapot-making history.
 
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/fan-dasheng.png" alt="Illustrated portrait of Fan Dasheng holding a Yixing teapot" loading="lazy" decoding="async" />
+  <figcaption>Illustrated portrait of Fan Dasheng (范大生). Source: <a href="https://www.baike.com/wikiid/4834095976581355263" target="_blank" rel="noopener noreferrer">Baike biography with image</a>; additional reference: <a href="https://www.zisha.com/knowledge/20083.shtml" target="_blank" rel="noopener noreferrer">Zisha.com biography</a>.</figcaption>
+</figure>
+
 ##### Cheng Shouzhen (程壽珍, 1865–1939)
 
 One of the most sought-after names among international collectors. An adopted son of Yu Tingyu (卲友廷), Cheng Shouzhen reportedly limited himself in his later years to just three teapot forms — a discipline that concentrated his mastery to remarkable effect. He won numerous international awards and used the trade name *Zhen Ji* (真記). Collectors should be aware that his son Pengen (盤根) sometimes used Shouzhen's *Bingshui Daoren* (氷水道人) signature — a source of genuine confusion in the market.
+
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/cheng-shouzhen.jpg" alt="Representative Cheng Shouzhen Yixing teapot" loading="lazy" decoding="async" />
+  <figcaption>Representative Cheng Shouzhen (程壽珍) work. Source: <a href="https://www.taohuren.com/baike/101170.html" target="_blank" rel="noopener noreferrer">Taohuren biography and works</a>; additional reference: <a href="https://www.dpm.org.cn/lemmas/240265.html" target="_blank" rel="noopener noreferrer">Palace Museum biography</a>.</figcaption>
+</figure>
 
 ##### Shao Jingnan (邵景南)
 
 Active during the Daoguang Emperor era (1820–1850). His pen name *Lu Pi* (留佩) appears as an inscription on many of his vessels, and pots bearing this mark are commonly referred to as "Lu Pi jars" in collector parlance.
 
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/shao-jingnan.jpg" alt="Representative Shao Jingnan Yixing teapot" loading="lazy" decoding="async" />
+  <figcaption>Representative Shao Jingnan (邵景南) work. Source: <a href="https://www.taohuren.com/mingjia/shaojingnan.html" target="_blank" rel="noopener noreferrer">Taohuren biography and works</a>; additional reference: <a href="https://blog.udn.com/cty43115/7203340" target="_blank" rel="noopener noreferrer">example pot notes</a>.</figcaption>
+</figure>
+
 ##### Hui Yigong (恵逸公)
 
 A prominent figure from a distinguished mid-Qing family. He is traditionally paired with Hui Mengchen (恵孟臣) as "the two Huis" — a reference to the two great masters of the Hui lineage whose small, refined vermilion clay pots became the definitive vessel for Gongfu tea practice in southern China and throughout the diaspora.
 
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/hui-yigong.jpg" alt="Palace Museum Hui Yigong Yixing teapot collection image" loading="lazy" decoding="async" />
+  <figcaption>Hui Yigong (恵逸公) pot in the Palace Museum collection. Source: <a href="https://www.dpm.org.cn/collection/ceramic/227227.html" target="_blank" rel="noopener noreferrer">Palace Museum collection</a>; additional reference: <a href="https://www.baike.com/wikiid/7023832445691159466" target="_blank" rel="noopener noreferrer">Baike biography</a>.</figcaption>
+</figure>
+
 ##### Hu Yaoting (胡耀庭)
 
 The regular large-format teapot artist for the Tiehuaxuan (鉄画軒) shop (see below), producing substantial pieces that displayed the shop's characteristic iron-needle decorative style at an impressive scale.
+
+<figure class="full-size">
+  <img src="/tea/posts/chinese-yixyin-pottery-teapot/potters/hu-yaoting.jpg" alt="Hu Yaoting brick-square Yixing teapot" loading="lazy" decoding="async" />
+  <figcaption>Hu Yaoting (胡耀庭) brick-square pot. Source: <a href="https://chenpot.com/mj-zhuan-fang.html" target="_blank" rel="noopener noreferrer">Chenpot representative-work reference</a>; additional reference: <a href="https://www.zisha.com/knowledge/catalog/3974.shtml" target="_blank" rel="noopener noreferrer">Zisha.com article</a>.</figcaption>
+</figure>
 
 ---
 
