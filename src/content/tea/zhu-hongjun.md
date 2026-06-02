@@ -13,7 +13,9 @@ Zhu Hongjun [朱鸿钧] is easy to miss if you only read Yixing history through 
 That is where Zhu becomes interesting. His pots are not trying to overwhelm you. They ask for the slower kind of looking: first at the body, then at the line of the spout, then at the writing that crosses the clay.
 
 <figure class="full-size">
-  <img src="/tea/posts/zhu-hongjun/portrait.jpg" alt="Portrait of Yixing potter Zhu Hongjun seated at a work table" loading="lazy" decoding="async" />
+  <a href="/tea/posts/zhu-hongjun/portrait.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/zhu-hongjun/portrait.jpg" alt="Portrait of Yixing potter Zhu Hongjun seated at a work table" loading="lazy" decoding="async" />
+  </a>
   <figcaption>Zhu Hongjun [朱鸿钧]. Portrait from Chinese biographical references circulated in Yixing artist profiles.</figcaption>
 </figure>
 
@@ -32,7 +34,9 @@ Many Yixing artists can make a clean classical form. Zhu's appeal is slightly di
 The inscriptions do not sit on the vessel like labels. They move with the curve of the body, especially on round and compressed forms where calligraphy can either disturb the pot or complete it. The phrase often attached to him is the idea that the pot follows the writing and the writing follows the pot: character and vessel raising each other rather than competing.
 
 <figure class="full-size">
-  <img src="/tea/posts/zhu-hongjun/paozun-pot.jpg" alt="Zhu Hongjun Paozun teapot with carved calligraphy and seal-like decoration" loading="lazy" decoding="async" />
+  <a href="/tea/posts/zhu-hongjun/paozun-pot.jpg" target="_blank" rel="noopener noreferrer">
+    <img src="/tea/posts/zhu-hongjun/paozun-pot.jpg" alt="Zhu Hongjun Paozun teapot with carved calligraphy and seal-like decoration" loading="lazy" decoding="async" />
+  </a>
   <figcaption>Paozun-style pot by Zhu Hongjun, preserved in a <a href="https://m.51pot.com/?module=m_pot_detail&pid=13724" target="_blank" rel="noopener noreferrer">product archive</a>. The compressed belly gives the carved calligraphy a broad, calm field.</figcaption>
 </figure>
 
@@ -40,24 +44,36 @@ The Paozun [匏尊] above shows this clearly. The form is rounded and plain enou
 
 This is an important distinction in modern zisha. Decoration can easily become noisy. In Zhu's better work it still feels attached to the pot's use as a tea vessel.
 
-### Three Ways to Read Him
+### Four Ways to Read Him
 
 The easiest way to approach Zhu is not through title or rank, but through a few pots placed side by side.
 
-<div class="image-gallery two-up" role="group" aria-label="Representative Zhu Hongjun teapots">
+<div class="image-gallery three-up" role="group" aria-label="Representative Zhu Hongjun teapots">
   <figure class="full-size">
-    <img src="/tea/posts/zhu-hongjun/shipiao-pot.jpg" alt="Zhu Hongjun Ben Shan Lu Ni Shipiao teapot with bamboo carving" loading="lazy" decoding="async" />
+    <a href="/tea/posts/zhu-hongjun/shipiao-pot.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/zhu-hongjun/shipiao-pot.jpg" alt="Zhu Hongjun Ben Shan Lu Ni Shipiao teapot with bamboo carving" loading="lazy" decoding="async" />
+    </a>
     <figcaption>Ben Shan Lü Ni Shipiao [本山绿泥石瓢] by Zhu Hongjun, with bamboo carving across the body. Preserved in a <a href="https://www.51pot.com/product/pot-detail-27140.shtml" target="_blank" rel="noopener noreferrer">product archive</a>.</figcaption>
   </figure>
   <figure class="full-size">
-    <img src="/tea/posts/zhu-hongjun/junde-pot.jpg" alt="Zhu Hongjun Junde teapot with carved inscription" loading="lazy" decoding="async" />
+    <a href="/tea/posts/zhu-hongjun/junde-pot.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/zhu-hongjun/junde-pot.jpg" alt="Zhu Hongjun Junde teapot with carved inscription" loading="lazy" decoding="async" />
+    </a>
     <figcaption>Junde [君德] by Zhu Hongjun. The small inset view shows the reverse-side decoration and helps read the pot as a continuous surface. Preserved in an <a href="https://www.51pot.com/product/-list462.shtml" target="_blank" rel="noopener noreferrer">archive list</a>.</figcaption>
+  </figure>
+  <figure class="full-size">
+    <a href="/tea/posts/zhu-hongjun/duozhi-pot.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/zhu-hongjun/duozhi-pot.jpg" alt="Zhu Hongjun Duozhi teapot with rounded body and carved inscription" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>Duozhi [掇只] by Zhu Hongjun, a rounder classical form that gives his carved writing a more compact field. Preserved in a <a href="https://www.51pot.com/product/pot-detail-28326.shtml" target="_blank" rel="noopener noreferrer">product archive</a>.</figcaption>
   </figure>
 </div>
 
 The Shipiao is a literati form almost by default. Its low body, triangular stance, and lifted handle already carry a scholar's mood; Zhu's bamboo carving simply makes that mood explicit. It feels like a pot designed to sit near ink and paper, even if its real purpose is tea.
 
 The Junde is rounder and more direct. It has less of the aloofness of Shipiao and more of the friendliness of a daily pot. But even here, the writing remains the main decorative structure. The clay body is not overwhelmed. The surface is worked, but the pot still breathes.
+
+The Duozhi pushes the same question into a fuller classical body. Its stacked, rounded profile gives the inscription less empty space than the Paozun, so the success of the piece depends even more on scale: the writing has to feel anchored, not crowded.
 
 ### Representative Works and Awards
 
