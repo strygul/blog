@@ -5,7 +5,7 @@ pubDate: "2026-06-02"
 category:
   - "Tea"
   - "Teapots"
-heroImage: "../../../public/tea/posts/zhu-hongjun/paozun-pot.jpg"
+heroImage: "../../../public/tea/posts/zhu-hongjun/intro.png"
 ---
 
 Zhu Hongjun [朱鸿钧] is easy to miss if you only read Yixing history through the old heroic names: Shi Dabin, Chen Mingyuan, Yang Pengnian, Gu Jingzhou. He belongs to a later world. By the time he entered the craft, Factory-era discipline had already shaped modern zisha, and the market was beginning to care again about individual voice: studio names, personal seals, carved poems, calligraphy, the small signs that a pot was not only well made but inhabited by a particular temperament.
