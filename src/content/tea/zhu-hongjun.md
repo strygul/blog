@@ -23,7 +23,7 @@ That is where Zhu becomes interesting. His pots are not trying to overwhelm you.
 
 Zhu was born in 1948 and is associated with Dingshu, the Yixing town at the center of the zisha world. His courtesy name is usually given as Hongru [虹儒], and his art name as Taoxuanzi [陶玄子]. He <a href="https://www.zisha.com/gys/264.shtml" target="_blank" rel="noopener noreferrer">worked at Yixing Fangyuan Zisha Craft Co.</a>, in the Zisha Museum's "Chantaoju" studio.
 
-He came to the craft in 1980. That date matters. He was not a child prodigy growing up inside a family workshop; he entered zisha as an adult, at a time when modern Yixing was already thick with inherited standards. The names around his training tell the story: Xu Hangtang [徐汉棠], Gu Shaopei [顾绍培], and Tan Quanhai [谭泉海]. Xu and Gu point toward form, proportion, and the strict grammar of the pot. Tan points toward the surface: carving, inscription, and the ability to make words belong to clay.
+He came to the craft in 1980. That date matters. He was not a child prodigy growing up inside a family workshop; he entered zisha as an adult, at a time when modern Yixing was already thick with inherited standards. The two names attached to his training tell the story, and they fall cleanly on either side of what a zisha pot actually is. The biographies record him as inheriting teapot-making [制壶] from Xu Hangtang [徐汉棠] and carved decoration [陶刻] from Tan Quanhai [谭泉海]. Xu points toward form, proportion, and the strict grammar of the pot; Tan points toward the surface: carving, inscription, and the ability to make words belong to clay. Both men are genuine China Arts and Crafts Masters [中国工艺美术大师], elevated in 1997, which makes the pairing an unusually distinguished one to stand behind. It is worth being precise, though: the word the profiles use is *shicheng* [师承], "inheriting the tradition of" — a looser bond than a formal apprenticeship under one master's roof, and the relationship is documented only through dealer biographies, not an independent record.
 
 There is also a thread of formal art training in the background, with <a href="https://www.zisha.com/knowledge/3639.shtml" target="_blank" rel="noopener noreferrer">one biographical sketch</a> connecting him to study through the Central Academy of Fine Arts. The detail feels right when you look at the pots. Zhu's work is not only about silhouette. It is about how a pot carries culture on its skin.
 
@@ -43,6 +43,25 @@ The inscriptions do not sit on the vessel like labels. They move with the curve 
 The Paozun [匏尊] above shows this clearly. The form is rounded and plain enough to keep the viewer focused on proportion: the full belly, the controlled lid rings, the small lid bead, the easy transition into handle and spout. Then the carved characters begin to move across the surface. They give the pot rhythm without turning it into an illustration.
 
 This is an important distinction in modern zisha. Decoration can easily become noisy. In Zhu's better work it still feels attached to the pot's use as a tea vessel.
+
+Two pots from his dealer archive make the approach concrete, because the carving is not ornamental filler but whole classical poems wrapped around the body.
+
+<div class="image-gallery two-up" role="group" aria-label="Zhu Hongjun teapots carrying carved poems">
+  <figure class="full-size">
+    <a href="/tea/posts/zhu-hongjun/poem-bingxin-pot.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/zhu-hongjun/poem-bingxin-pot.jpg" alt="Zhu Hongjun teapot carved with Wang Changling's poem, ending in the line about a heart of ice in a jade pot" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>A pot carrying Wang Changling's Tang quatrain <em>Seeing Off Xin Jian at Furong Tower</em>, which closes on 一片冰心在玉壶 — "a heart of ice in a jade pot," an almost too-perfect line to carve onto a teapot. Attributed to Zhu on his <a href="https://zhuhongjun.taohuren.com/" target="_blank" rel="noopener noreferrer">dealer-archive page</a>.</figcaption>
+  </figure>
+  <figure class="full-size">
+    <a href="/tea/posts/zhu-hongjun/poem-chibi-pot.jpg" target="_blank" rel="noopener noreferrer">
+      <img src="/tea/posts/zhu-hongjun/poem-chibi-pot.jpg" alt="Zhu Hongjun purple-clay teapot with gold-filled carving of Su Shi's Red Cliff ode" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>A purple-clay pot with gold-filled carving of Su Shi's <em>Niannu Jiao: Meditation on the Past at Red Cliff</em> (小乔初嫁了，雄姿英发…). From the same <a href="https://zhuhongjun.taohuren.com/" target="_blank" rel="noopener noreferrer">dealer archive</a>; the gilding lifts the text off a dark ground without crowding the form.</figcaption>
+  </figure>
+</div>
+
+On both, the writing is the decorative structure: chosen for a tea drinker's mood, scaled to the curve it sits on, and allowed to carry the surface so the clay does not have to. These images come from a seller's listing rather than a museum, so read them as illustrations of the *style* attributed to Zhu, not as authenticated, provenanced works — a caution that turns out to matter more than usual for this maker, as the next sections explain.
 
 ### Four Ways to Read Him
 
@@ -77,9 +96,21 @@ The Duozhi pushes the same question into a fuller classical body. Its stacked, r
 
 ### Representative Works and Awards
 
-Two names recur in Zhu's public biography: *Jingquan Hu* [井泉壶] and *Yulian Hu* [钰莲壶]. They are recorded as prize-winning works at the second China Arts and Crafts Masters Works and Fine Arts and Crafts Expo, one receiving a gold award and the other an outstanding-work award.
+Two names recur in Zhu's dealer profiles: *Jingquan Hu* [井泉壶] and *Yulian Hu* [钰莲壶], usually paired with the claim that they took a gold award and an outstanding-work award at the second China Arts and Crafts Masters Works Exhibition.
 
-Award language should always be handled with caution in modern zisha. Titles and prizes travel quickly through the market because they help sell pots. Still, the repeated appearance of these two named works gives us a useful anchor. Zhu was not known only for one commercial shape. His reputation gathers around a body of work where formal design and carved surface were treated as one problem.
+That specific story does not survive a careful look. When you try to line up the exhibition, the medals, and the pots together, the trail dissolves. The named-prize version appears only in seller-supplied biographies; the more sober sources quietly drop the piece names and say only that his work has received unspecified "national, regional, and provincial awards" [国家级、地区级、省级大奖]. So the honest reading is that the two titles are plausible signatures of his output, not documented prize-winners. Award language travels fast in modern zisha precisely because it helps sell pots, and here the specific claim has clearly outrun its evidence.
+
+What remains once the prize story is set aside is still worth something: a body of work where formal design and carved surface were treated as a single problem, rather than one commercial shape repeated for the market.
+
+### Where He Actually Stands
+
+It is worth saying plainly what Zhu Hongjun is and is not, because the word that tends to trail his name in sales listings — *master* — does a great deal of quiet work.
+
+His documented rank is **Senior Craft Artist** [高级工艺美术师], a professional title [职称] conferred by the Jiangsu provincial review committee in late 2013. In the Yixing ladder that climbs from craft technician through assistant artist, artist, and senior artist, this is the top professional grade: a real credential, examined and earned, and not nothing. But it sits in a different category from the honorific *Master* [大师] titles. When the official roster of Yixing's twenty <a href="https://www.zisha.com/news/21618.shtml" target="_blank" rel="noopener noreferrer">China Arts and Crafts Masters</a> [中国工艺美术大师] is laid out — Gu Jingzhou, Jiang Rong, Xu Hangtang, Tan Quanhai, Gu Shaopei, and the rest — Zhu is not on it. Both of his teachers are. He stands a full tier below the men who trained him, and that gap is structural rather than a matter of taste.
+
+This matters because of how the Yixing market actually sets prices. Chinese state media have documented the mechanism more than once: a buyer who cannot read clay or workmanship falls back on the maker's title and name, so the <a href="http://www.ce.cn/xwzx/shgj/gdxw/201907/12/t20190712_32599669.shtml" target="_blank" rel="noopener noreferrer">title becomes the main thing that decides the price</a>. A <a href="http://society.people.com.cn/n1/2019/0624/c1008-31176866.html" target="_blank" rel="noopener noreferrer">2019 case reported by People's Daily</a> described a few-hundred-yuan half-handmade pot that, once stamped with a master's seal, changed hands for tens or even hundreds of thousands. Ghost-production [代工] — a busy name outsourcing the actual making and then applying his own seal and certificate — is described as an open secret of the trade. None of this is an accusation aimed at Zhu in particular. It is simply the water he swims in, and it is exactly why a single seller calling him "legendary" should move the needle very little.
+
+So the honest frame is this: a genuine, mid-to-senior potter with an unusually good teacher lineage and a coherent literati-carving niche — not a master, not the holder of verifiable trophy works, and not a name to buy on title alone. That is a less romantic story than the listings tell, but it is the one the records actually support, and it makes the pots themselves, rather than the credential, the thing worth looking at.
 
 ### Looking Slowly
 
