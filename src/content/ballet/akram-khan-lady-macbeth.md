@@ -44,9 +44,6 @@ And the dancers, of course.
 
 Astrid Elbo's dramatic work as Lady Macbeth was amazing, and Sebastian Pico Haynes brought incredible expressiveness of movement as Macbeth.
 
-![Lady Macbeth silhouetted against the corps de ballet](../../../public/ballet/akram-khan-lady-macbeth/lady-macbeth-silhouette.png)
-*Astrid Elbo as Lady Macbeth.*
-
 ![Macbeth spinning at the centre of the ensemble](../../../public/ballet/akram-khan-lady-macbeth/macbeth-spin.png)
 *Sebastian Pico Haynes as Macbeth.*
 
