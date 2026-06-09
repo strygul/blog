@@ -70,4 +70,4 @@ Untracked or unmerged work **will not** appear on the public site.
 
 - **Index:** `src/pages/tea/index.astro` — all `tea` collection entries, sorted by `pubDate` descending.
 - **Layout:** `src/pages/tea/[...slug].astro` — `BlogPost` layout, `BlogPosting` JSON-LD from frontmatter.
-- **Styles:** `src/styles/tea-post.css` for tea body classes (e.g. `info-box`).
+- **Styles:** `src/styles/blog-post.css` for shared post body classes (e.g. `info-box`, `image-gallery`, `video-embed`).
