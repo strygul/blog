@@ -3,6 +3,7 @@ title: "Koreorama No. 3"
 pubDate: "2026-02-28"
 category: "Ballet"
 description: "A review of Koreorama No. 3 at the Royal Danish Theatre — three young choreographers, three unforgettable performances."
+heroImage: "../../../public/ballet/kareorama-no-3/might-for-right.png"
 ---
 
 It has been a while since I experienced an art form so intense that hours later I still could not let it go — replaying it in my head again and again, rethinking what I had just witnessed.
