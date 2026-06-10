@@ -3,6 +3,7 @@ title: "Force of Nature"
 pubDate: "2026-05-25"
 category: "Ballet"
 description: "A review of a star-studded gala in Copenhagen featuring Natalia Osipova — and why seeing world-class dancers deserves world-class organisation."
+heroImage: "../../../public/ballet/force-of-nature/osipova.png"
 ---
 
 "Force of Nature"... It is hard to find a better description of who Natalia Osipova is in the world of ballet.

@@ -22,7 +22,7 @@ export const PAGE_DESCRIPTIONS = {
 /** Home (`/`): sentence-case link text. Article titles stay Title Case in frontmatter. */
 export const PAGE_HOME_LINK_LABELS = {
 	godIsDead: 'God is dead: notes on how software engineering and AI have killed him',
-	ballet: '“Trust me, you can dance.” – Vodka',
+	ballet: 'Me and Ballet',
 } as const;
 
 /** Section index `<title>` stem and main hub `<h1>` (Title Case, like article titles). */
