@@ -28,11 +28,6 @@ The 1990 entries in the Chinese chronicle are dominated by events: named-master 
 
 By 1991, that push had spread overseas and into tea-culture festivals. The chronicle records first prizes at Hangzhou's International Tea Culture Festival and a major Singapore exhibition of top Yixing names including Gu Jingzhou and Jiang Rong.
 
-<figure class="figure-center">
-  <img src="/tea/posts/yixing-factory-1-chronicle-part-2/01299.jpg" alt="Two Yixing teapots from the original Factory #1 chronicle Part 2 image set" loading="lazy" decoding="async" />
-  <figcaption>A promotional image from the original Part 2 source set, illustrating the polished export-era presentation style associated with the 1990s market.</figcaption>
-</figure>
-
 ---
 
 ### 1992–1994: Scholarship, Conferences, and Museum Legitimacy
