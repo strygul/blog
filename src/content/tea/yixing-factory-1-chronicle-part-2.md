@@ -16,11 +16,6 @@ Source: [宜興紫砂工藝一廠紀元-下 (Teart Chat, 2014-12-30)](https://ww
 
 Read Part 1 first: [Yixing Factory #1 Chronicle, Part 1 (1954-1986)](/tea/yixing-factory-1-chronicle-part-1/)
 
-<figure class="figure-center">
-  <img src="/tea/posts/yixing-factory-1-chronicle-part-2/teart001.jpg" alt="Teart Chat masthead banner: an ink painting of a scholar, the calligraphic character for tea, a passage from Lu Yu's Classic of Tea, and a steaming cup" loading="lazy" decoding="async" />
-  <figcaption>The Teart Chat masthead banner from the original source page, pairing Lu Yu's <em>Classic of Tea</em> (<span lang="zh">茶經</span>) with classical tea imagery.</figcaption>
-</figure>
-
 Part 1 ended at the edge of industrial-scale success. Part 2 follows what happened after the boom: international exhibitions, institutional prestige, and finally the restructuring years when the old Factory #1 model dissolved into the market economy.
 
 ---
@@ -97,5 +92,5 @@ For related dating work after this transition, use:
 ---
 
 <div class="info-box">
-<strong>Image and source credits.</strong> All in-article photos are now taken from the original Teart Chat Part 2 page image set (`teart001.jpg` masthead banner, plus the teapot images `01299.jpg`, `01318.jpg`, `01332.jpg`, `01345.jpg`), mirrored locally for stable publishing. External verification references used for chronology checks include Teart Chat's own correction note, the Lo Kwee Seong Foundation page on Flagstaff House, Hong Kong Government archival releases on the museum's history, and Gu Jingzhou biographical references.
+<strong>Image and source credits.</strong> All in-article photos are now taken from the original Teart Chat Part 2 page image set (the teapot images `01299.jpg`, `01318.jpg`, `01332.jpg`, `01345.jpg`), mirrored locally for stable publishing. External verification references used for chronology checks include Teart Chat's own correction note, the Lo Kwee Seong Foundation page on Flagstaff House, Hong Kong Government archival releases on the museum's history, and Gu Jingzhou biographical references.
 </div>
