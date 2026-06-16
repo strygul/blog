@@ -87,5 +87,5 @@ For related dating work after this transition, use:
 ---
 
 <div class="info-box">
-<strong>Image and source credits.</strong> All in-article photos are now taken from the original Teart Chat Part 2 page image set (the teapot images `01299.jpg`, `01318.jpg`, `01332.jpg`, `01345.jpg`), mirrored locally for stable publishing. External verification references used for chronology checks include Teart Chat's own correction note, the Lo Kwee Seong Foundation page on Flagstaff House, Hong Kong Government archival releases on the museum's history, and Gu Jingzhou biographical references.
+<strong>Image and source credits.</strong> All in-article photos are now taken from the original Teart Chat Part 2 page image set (the teapot images `01318.jpg`, `01332.jpg`, `01345.jpg`), mirrored locally for stable publishing. External verification references used for chronology checks include Teart Chat's own correction note, the Lo Kwee Seong Foundation page on Flagstaff House, Hong Kong Government archival releases on the museum's history, and Gu Jingzhou biographical references.
 </div>
