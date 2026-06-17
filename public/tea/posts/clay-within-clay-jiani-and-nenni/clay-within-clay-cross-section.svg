@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 452" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" role="img" aria-label="Cross-section of the Huanglongshan deposit: a thick jiani siltstone host rock contains a thin lenticular seam of purple zini clay, which in turn contains an even thinner lens of green luni clay — the literal meaning of 'clay within clay'.">
+  <rect x="0" y="0" width="760" height="452" fill="#fbfaf7" stroke="#e7e2d8" stroke-width="1" rx="14"/>
+  <text x="380" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#2b2620">&#8220;Clay within clay&#8221;: where the prized seams hide</text>
+
+  <!-- depth axis -->
+  <g stroke="#b3a896" stroke-width="1.4" fill="none">
+    <path d="M52 86 L52 404" />
+    <path d="M48 400 L52 408 L56 400" />
+  </g>
+  <text x="44" y="84" text-anchor="end" font-size="11.5" fill="#8a8478">surface</text>
+  <text x="40" y="250" text-anchor="middle" font-size="11.5" fill="#8a8478" transform="rotate(-90 40 250)">hundreds of metres down</text>
+
+  <!-- strata block -->
+  <g stroke="#5f5446" stroke-width="1">
+    <rect x="70" y="80" width="232" height="46" fill="#bcab8d"/>
+    <rect x="70" y="126" width="232" height="278" fill="#7b6d5e"/>
+  </g>
+  <!-- subtle bedding lines in jiani -->
+  <g stroke="#6b5e50" stroke-width="0.8" opacity="0.5">
+    <path d="M70 162 H302"/><path d="M70 196 H302"/><path d="M70 320 H302"/><path d="M70 360 H302"/>
+  </g>
+  <!-- zini seam (lens) -->
+  <ellipse cx="186" cy="250" rx="96" ry="27" fill="#6b4a3a" stroke="#4f3527" stroke-width="1"/>
+  <!-- luni lens inside zini -->
+  <ellipse cx="186" cy="250" rx="44" ry="11" fill="#8d9261" stroke="#6f7449" stroke-width="1"/>
+
+  <!-- leader lines -->
+  <g stroke="#9a9382" stroke-width="1.2" fill="none">
+    <path d="M302 103 L360 103"/>
+    <path d="M302 175 L360 165"/>
+    <path d="M282 250 L360 250"/>
+    <path d="M196 261 L240 300 L360 300"/>
+  </g>
+
+  <!-- labels -->
+  <text x="366" y="100" font-size="13.5" font-weight="700" fill="#5c513f">Surface</text>
+  <text x="366" y="117" font-size="12.5" fill="#6f6a60">sandstone, soil &amp; overburden</text>
+
+  <text x="366" y="160" font-size="14.5" font-weight="700" fill="#4a3f33">JIANI &#30002;&#27877; &#183; the host rock</text>
+  <text x="366" y="178" font-size="12.5" fill="#6f6a60">armour-clay siltstone &#8212; the thick body</text>
+  <text x="366" y="195" font-size="12.5" fill="#6f6a60">rock of everyday Yixing ware</text>
+
+  <text x="366" y="245" font-size="14.5" font-weight="700" fill="#6b4a3a">Zini &#32043;&#27877; &#183; purple-clay seam</text>
+  <text x="366" y="263" font-size="12.5" fill="#6f6a60">a thin lens, tens of cm to ~1 m thick</text>
+
+  <text x="366" y="296" font-size="14.5" font-weight="700" fill="#5f6438">L&#252;ni &#32511;&#27877; &#183; green lens</text>
+  <text x="366" y="314" font-size="12.5" fill="#6f6a60">a seam <tspan font-style="italic">inside</tspan> the purple seam</text>
+
+  <text x="380" y="430" text-anchor="middle" font-size="12" fill="#8a8478"><tspan font-weight="700">&#27877;&#20013;&#27877;&#65292;&#23721;&#20013;&#23721;</tspan> &#8212; the purple is a seam in the armour-clay; the green, a seam within the purple.</text>
+</svg>
