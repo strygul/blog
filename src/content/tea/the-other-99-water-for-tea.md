@@ -188,9 +188,9 @@ If you have an RO or distilled water source — or are willing to buy a jug of d
 > - **0.75 g Epsom salt (MgSO₄·7H₂O)**
 > - **0.25 g baking soda (NaHCO₃)**
 
-This lands in the lower SCA range — around 50–80 ppm TDS, modest hardness, low alkalinity. It is a solid general-purpose tea water and an excellent starting point for experimentation.
+This lands in the lower SCA range — around ~150–165 ppm TDS, modest hardness, low alkalinity. It is a solid general-purpose tea water and an excellent starting point for experimentation.
 
-For precision batch-making, a concentrate version gives more repeatable weighing: make a hardness stock at 2.5 g Epsom per litre of distilled, and a buffer stock at 1.7 g baking soda per litre. Final water = 877 g distilled + 41 g hardness stock + 82 g buffer stock → roughly **82 ppm hardness / 41 ppm alkalinity**.
+For precision batch-making, a concentrate version gives more repeatable weighing: make a hardness stock at 2.5 g Epsom per litre of distilled, and a buffer stock at 1.7 g baking soda per litre. Final water = 877 g distilled + 82 g hardness stock + 41 g buffer stock → roughly **82 ppm hardness / 41 ppm alkalinity**.
 
 **Recipe B — no-scale buffer (the "RPavlis" method):**
 
@@ -228,7 +228,7 @@ Chemistry arbitrates partially: minerals *do* reduce bitterness, which is why th
 
 **Aged sheng and shou puerh — consensus toward some minerality.**
 
-Here the debate narrows. Aged and fermented puerh is not aroma-led in the same way — the goal is body, richness, "bready" or earthy tertiary notes and a lasting mouthfeel. For this, some calcium, magnesium bicarbonate, and notably **silica** (20–34 ppm, as found in waters like Fiji or some mountain springs) support the texture that makes aged puerh satisfying. Community sources consistently describe the combination of some bicarbonate and silica as giving a "rich, oily texture" and amplifying the bready, yeasty quality that defines well-aged and fermented material. Very low-TDS water strips the body and leaves aged puerh thin and unremarkable. This is experienced preference, per the gongfu community and practitioners like Tea Secrets; not a controlled study, but consistent enough to be reliable directional guidance.
+Here the debate narrows. Aged and fermented puerh is not aroma-led in the same way — the goal is body, richness, "bready" or earthy tertiary notes and a lasting mouthfeel. For this, some calcium, magnesium bicarbonate, and notably **silica** (20–34 ppm, as found in waters like Fiji or some mountain springs) support the texture that makes aged puerh satisfying — though "some bicarbonate" still means within the low-alkalinity band (below ~40 mg/L), just toward the upper end of it, not a licence to raise bicarbonate generally. Community sources consistently describe the combination of some bicarbonate and silica as giving a "rich, oily texture" and amplifying the bready, yeasty quality that defines well-aged and fermented material. Very low-TDS water strips the body and leaves aged puerh thin and unremarkable. This is experienced preference, per the gongfu community and practitioners like Tea Secrets; not a controlled study, but consistent enough to be reliable directional guidance.
 
 **Yancha and roasted oolong — strong consensus preference, mechanism unproven.**
 
