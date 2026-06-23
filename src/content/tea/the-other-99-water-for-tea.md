@@ -49,7 +49,46 @@ These four numbers — TDS, hardness (GH), alkalinity (KH), and pH — are not r
 
 ### How each ion changes the cup
 
+The four numbers from the last section describe the architecture of your water. But water is not a monolith — it is a roster of individual ions, each with its own agenda. Walk through them once, mechanistically, and the abstractions become something you can taste.
+
+**Calcium (Ca²⁺)** is the ion with the most direct effect on the leaf. Calcium binds to **pectin** in the leaf's cell walls, stiffening the extraction matrix, and **bridges polyphenol molecules** — drawing catechins into larger, less-soluble aggregates. The result: slowed, limited extraction, fewer catechins in the cup. The Cornell study (*Nutrients* 2019, PMC6356489) quantified it starkly — hard tap water gave approximately half the EGCG of deionised water. Calcium also scaffolds the surface film that becomes tea scum, but that mechanism belongs in the next section.
+
+The counter-intuitive catch: fewer catechins does not mean a worse cup. In the same Cornell panel, the hard-water green tea was rated *less bitter and sweeter* (all p < 0.001) and was more liked overall. Calcium suppresses the sharper catechins. "Calcium kills flavour" is the myth; the accurate version is that calcium reduces catechin extraction and perceived bitterness, at the cost of clarity and complexity. Whether that trade-off is welcome depends on the leaf.
+
+**Magnesium (Mg²⁺)** is worth separating from calcium mainly to interrogate its reputation. In specialty coffee circles the claim runs that magnesium extracts brighter and more completely than calcium — a story that traces back to Hendon et al. (*Journal of Agricultural and Food Chemistry*, 2014), a computational study of metal–coffee-molecule interactions. It is coffee science. **For tea, the evidence does not transfer.** A tea-specific astringency assay ranks cation binding as **Al³⁺ > K⁺ > Mg²⁺ > Ca²⁺** — Mg²⁺ only moderate (PMC11049597). There may yet be a nuanced tea role for magnesium, but the "Mg = brighter tea" story is, at present, borrowed from a different drink. Treat it as a hypothesis, not a fact.
+
+**Bicarbonate (HCO₃⁻) is the villain.** Its damage runs through two mechanisms, both driven by the same action: bicarbonate neutralises acids, raises pH, and everything downstream deteriorates.
+
+The first is **autoxidation of catechins**. Tea's most reactive polyphenols — **EGC and EGCG**, the trihydroxyl catechins — oxidise and polymerise rapidly under alkaline conditions, breaking down into brown pigments instead of being tasted. *Molecules* 26:3485 (2021) (PMC8229914) is the key paper: bicarbonate-dosed water produced the most browning and fastest catechin decay, with degradation accelerating sharply above brew pH ~6.3. Critically, the mechanism is **post-extraction degradation** — bicarbonate does not prevent the catechins from leaving the leaf; it destroys them in the liquor, *after* extraction. Calcium limits what comes out; bicarbonate destroys what got out. Bicarbonate offers no compensatory benefit. The cup turns brown, flat, and chemically poorer.
+
+The second mechanism is the **thearubigin pH shift**. Thearubigines — the large brown-red polymers that colour black tea — are pH-sensitive: alkaline conditions push them toward darker, more opaque forms, muting the liquor's brightness. Theaflavins are comparatively pH-stable. Bicarbonate therefore darkens and mutes without even the partial grace of reducing harshness. It is a blunt instrument.
+
+**Sodium (Na⁺) and chloride (Cl⁻)** are a background note. At low concentrations — below roughly 10 mg/L — NaCl suppresses perceived bitterness, the same mechanism that makes a pinch of salt useful in cooking. The problem arises with ion-exchange softening: the softener swaps Ca/Mg for sodium but **does not touch bicarbonate**, leaving alkalinity intact while flooding the water with sodium salts that taste flat. Softened water is not better than hard water for tea.
+
+**Sulfate (SO₄²⁻)** is the dry note. At modest concentrations it contributes a clean mineral edge; above roughly **80–160 mg/L** — the lower threshold for calcium sulfate, the upper for sodium sulfate — it reads as harsh, drying, and astringent, amplifying rather than balancing the tea's tannin bite.
+
+**Iron (Fe²⁺/Fe³⁺)** is the most concentrated threat per unit quantity. Iron chelates with the **galloyl groups** on EGCG and ECG to form **a dark blue-black tannin–iron complex** — the same chemistry as iron-gall ink. In a cup of tea it reads as inky and metallic. The taste threshold is **0.3 mg/L**, the EPA secondary limit; if your tap water has any orange cast or your pipes are old iron, the effect on tea is disproportionate to the concentration.
+
+**Chlorine and chloramine** are the disinfection residuals. **Free chlorine** is volatile — 30 minutes standing or a pass through activated carbon removes it. **Chloramine**, used in most modern municipal systems because it persists further through distribution mains, is neither volatile nor removed by ordinary activated carbon. It requires **catalytic carbon**, which decomposes chloramine through a surface-reduction mechanism. If you filter and still taste something medicinal in delicate teas, chloramine through a non-catalytic filter is the most probable culprit.
+
+<figure class="figure-center">
+  <img src="/tea/posts/the-other-99-water-for-tea/ion-taste-map.svg" alt="A map of each dissolved ion and what it does to tea: calcium (body, scum), magnesium (coffee-lore, unproven for tea), bicarbonate flagged as the villain (dull, dark, flat), sodium, sulfate, iron (inky, metallic) and chlorine (off-flavours)" loading="lazy" decoding="async" />
+  <figcaption>Every ion pulls the cup somewhere. Bicarbonate pulls it nowhere good — and magnesium's halo is borrowed from coffee.</figcaption>
+</figure>
+
 ### The scum on your tea
+
+The thin iridescent film that forms on the surface of freshly poured tea is one of the more visually striking artefacts of brewing chemistry, and one of the more reliably misread. It is not dirty tea. It is not a sign that the leaves are poor. **It is your water.**
+
+The mechanism, established by Spiro and Jaganyi in a series of papers in *Food Chemistry* across the 1990s, requires **both** calcium and bicarbonate — the film does not form without either. When both are present, Ca²⁺ + 2HCO₃⁻ ⇌ CaCO₃ + CO₂ + H₂O proceeds at the water surface, depositing a thin crystalline calcium carbonate skin. Tea's **oxidised polyphenols** — catechin breakdown products and theaflavin–thearubigin species — are surface-active; they adsorb onto the CaCO₃ film as it forms, creating an iridescent composite of pigment on mineral scaffold. The process is **chemically controlled** (not diffusion-limited): the reported activation energy is approximately **Ea ≈ 34 kJ/mol** (from abstracts and secondary sources; treat as indicative). Stirring does not clear the film — you are not stirring fast enough to outrun the chemistry. The polyphenol adsorption step is oxidative, driven by dissolved oxygen at the air–liquid interface, which is why the film appears first at the surface and spreads inward.
+
+The practical upshot: remove the calcium — soft or RO water — and the CaCO₃ skin cannot form. Remove the bicarbonate and again, no film. Brew with hard, high-alkalinity tap water and the scum is immediate. It is a water problem, not a tea problem.
+
+**Why does lemon clear it?** Through two simultaneous mechanisms. Citric acid drops the surface pH, shifting the carbonate equilibrium back toward dissolution: Ca²⁺ goes back into solution. And citrate ions **chelate calcium** directly, binding free Ca²⁺ tightly enough to prevent it from reaching the surface in the first place. As a bonus, the pH drop also reverses the thearubigin colour shift, which is why the cup turns visibly brighter.
+
+One distinction worth drawing: **tea cream** is not the same thing as the surface film. **Tea cream** — "creaming down" — is a **caffeine–theaflavin/thearubigin colloid** that forms inside black tea liquor as it *cools*, producing the turbid, buff-coloured cloud you see in the bottom of a cooled cup. It forms in the bulk liquid as the temperature drops, not at the air interface. **Creaming down is a sign of briskness**: it means the tea contained sufficient theaflavins and caffeine to reach the colloidal threshold — a mark of a well-made, well-oxidised black tea. Calcium promotes creaming by reducing the electrostatic charge between colloidal particles, but the mechanism is completely distinct from the surface film. Different location, different driving force, different chemistry.
+
+The myth worth retiring is simple: **the film on your tea is not your tea.** It is calcium carbonate generated by your water, decorated with polyphenol pigment. If you want it gone, change the water or reach for the lemon. If you want to diagnose your water without a kit, the scum is, in a grimly efficient way, the cheapest test available.
 
 ### What the science actually says about "best"
 
