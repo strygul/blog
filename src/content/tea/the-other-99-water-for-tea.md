@@ -203,6 +203,65 @@ Both recipes require weighing by mass on a scale capable of 0.01 g resolution. V
 
 ### Matching water to your tea
 
+The preceding sections have, deliberately, kept the chemistry abstract. Now let's make it specific. You have a tea in your hand — or rather, in your mind's eye — and you want to know what water to put under it. The framework you need is not "soft vs hard" as monoliths. That framing produces the wrong guidance in almost every case. The real axes are **alkalinity** (keep it low for anything aroma-forward) and **whether the minerals present are balanced** — meaning modest and complementary rather than dominant and flattening.
+
+Before the per-tea breakdown, one central myth needs correcting, because it runs through a lot of the gongfu community's water advice. The claim is that **soft water tames bitterness**. The mechanism is backwards. What pure or very-soft water actually does is **over-extract**: it pulls more catechins from the leaf, including the bitter trihydroxyl catechins EGC and EGCG. Minerals — calcium in particular — reduce catechin extraction by complexing with polyphenols and slowing their migration out of the leaf (*Nutrients* 2019, PMC6356489; *Molecules* 2021, PMC8229914). Soft water's actual effect is brighter, more aromatic character and a thinner body; it does not tame bitterness, it releases more of it. What minerals do is mute it — which can be welcome or not, depending on the tea. Keeping that mechanism clear is important for understanding every recommendation that follows.
+
+A second caveat that needs saying once and then honoured throughout: the per-tea claims below are **experienced preference**, not controlled science. The chemistry of green tea and black tea extraction has been run in peer-reviewed studies. The matching of specific water profiles to puerh, yancha, and dancong has not — it lives in the shared practice of gongfu drinkers, in blogposts from experienced tasters, in the implicit consensus that forms when enough people compare notes over years. That is real knowledge. It is not the same kind of knowledge as a controlled trial. Where the confidence differs, I flag it.
+
+---
+
+**Young sheng puerh — contested; two legitimate positions.**
+
+Young sheng is the category where the water debate is most genuinely open. There are two camps, and both have a defensible case.
+
+The **bright/aromatic camp** favours soft, low-alkalinity water in the 30–80 ppm TDS range — prioritising the clarity and qi-forward brightness that makes a good young raw puerh feel alive. Low alkalinity protects the top notes; low mineral content avoids the body-forward roundness that can swamp the aroma register.
+
+The **thick/round camp** argues for some minerality. MarshalN, whose *A Tea Addict's Journal* is one of the most sustained and thoughtful gongfu references in English, leans here: "a bit more minerals" tends to give a softer, rounder, fuller cup. The mechanism is real — minerals reduce catechin extraction, which rounds off the sharper edges.
+
+Chemistry arbitrates partially: minerals *do* reduce bitterness, which is why the round camp's experience makes sense. But high alkalinity will dull young sheng's prized aromatics regardless of which camp you're in. The split is a genuine preference question within the low-to-moderate alkalinity zone — not a disagreement about chemistry. Experienced preference per MarshalN and the gongfu community; treat as a starting point, not a prescription.
+
+**Aged sheng and shou puerh — consensus toward some minerality.**
+
+Here the debate narrows. Aged and fermented puerh is not aroma-led in the same way — the goal is body, richness, "bready" or earthy tertiary notes and a lasting mouthfeel. For this, some calcium, magnesium bicarbonate, and notably **silica** (20–34 ppm, as found in waters like Fiji or some mountain springs) support the texture that makes aged puerh satisfying. Community sources consistently describe the combination of some bicarbonate and silica as giving a "rich, oily texture" and amplifying the bready, yeasty quality that defines well-aged and fermented material. Very low-TDS water strips the body and leaves aged puerh thin and unremarkable. This is experienced preference, per the gongfu community and practitioners like Tea Secrets; not a controlled study, but consistent enough to be reliable directional guidance.
+
+**Yancha and roasted oolong — strong consensus preference, mechanism unproven.**
+
+Few claims in the water-and-tea space come with more community conviction than the idea that mineral water enhances *yan yun* (岩韵, "rock rhyme") in yancha. The preference is real and consistent: experienced drinkers report that water with some mineral content — often waters leaning toward mineral/bicarbonate-balanced profiles rather than very soft — brings out the characteristic rocky, roasted quality of Wuyi and similar roasted oolongs.
+
+What is **not** established is whether minerals actually *produce* yan yun or merely fail to obscure it. There is no controlled study showing that specific ions directly enhance the compounds responsible for rock rhyme. The honest framing is: believe the preference, doubt the mechanism. Experienced preference per the gongfu community; Path of Cha and others document this consistently, but call it what it is — practitioner knowledge, not chemistry.
+
+**Dancong — soft, clean, low-alkalinity.**
+
+Phoenix dancong is one of the most aromatic tea categories produced, and its high-register volatiles — the orchid, osmanthus, and fruit notes that define good high-mountain material — are easily overwhelmed by anything that lifts the alkalinity or adds body-forward roundness at the expense of clarity. The matching is clean water, low alkalinity, enough mineral balance to avoid the thin/sour register of near-zero water.
+
+There is a live debate between using RO-remineralized water (which cuts bitterness by controlling the mineral floor) versus a light natural spring water (which controls bitterness *and* retains a natural mineral complexity that supports the aromatics). Chemistry tips toward not going fully pure: mineral-free water over-extracts, and a very-low-TDS base built up lightly beats both extremes. Experienced preference per the gongfu community.
+
+**Green tea and white tea — low alkalinity, balanced not zero, but temperature is the bigger lever.**
+
+Green and white teas want the lowest alkalinity of any category: above ~20–40 mg/L bicarbonate, catechin autoxidation begins in earnest and the delicate aroma register is the first thing to go. But the mineral floor should not be zero — near-pure water over-extracts into bitterness and sour flatness. The target is modest, balanced minerals (modest Ca+Mg, low bicarbonate), pH roughly 6.5–7.0.
+
+That said: for green and white teas, **temperature is the bigger lever than water chemistry**. Brewing temperature selectively favours L-theanine (amino acid, sweetness and umami) over catechins (polyphenols, bitterness and astringency) — a drop from 90 °C to 70 °C shifts the extraction balance substantially toward theanine sweetness, reducing perceived bitterness far more dramatically than water adjustment alone can. Get the temperature right first, then tune the water. A remineralized purified water (such as commercially remineralized sources) has beaten both heavy-mineral springs and near-pure water in informal green-tea comparisons — confirming the principle that balanced beats both extremes.
+
+**Black tea — least water-sensitive, but alkalinity still matters.**
+
+Among common tea styles, black tea is the least sensitive to water chemistry — its polyphenols are already oxidised, and the remaining catechins are less reactive to alkaline-pH degradation than the intact catechins in green tea (*Nutrients* 2019: black-tea EGCG was essentially unaffected by water hardness, *p* = 0.250). Sensory difference between water types, while present, is smaller in black tea than in any other category.
+
+That does not mean water is irrelevant. Hard water **darkens and dulls** black tea by shifting the pH-sensitive thearubigin equilibrium toward darker, less-bright forms; it also drives scum formation and can cause theaflavins to degrade under alkaline conditions, losing the bright briskness that defines quality black tea. The commercial evidence is telling: **Yorkshire Tea produces separate hard-water and soft-water tea blends** — because the same tea, same leaf, behaves sufficiently differently in London tap versus northern English soft water that a single blend cannot optimise for both. That is not marketing; it is an acknowledgement that alkalinity matters even for the most water-tolerant category. Keep the alkalinity low.
+
+**Gongfu brewing context — avoid pure water.**
+
+One overarching point that applies across all the categories above: **gongfu brewing amplifies water chemistry effects**. The high leaf-to-water ratio and the cumulative effect of many short steeps (8, 10, 12 infusions from a single session) mean that any extraction imbalance is multiplied. In this context, **avoid pure or near-pure water**: very-soft or RO/distilled water at gongfu ratios tends to over-extract, yielding thin, sour, or harsh cups — the structural roundness that balanced minerals provide is perceptible at high infusion ratios in a way it might not be in a simple single-steep.
+
+Mineral water, conversely, yields more flavour per steep and more total steeps with a rounder mouthfeel; silica in particular becomes noticeably perceptible in the texture of a gongfu brew. The net gongfu target: **low alkalinity throughout**, low-to-moderate TDS with some balanced minerals — almost never RO/distilled or a heavy alkaline spring. The ceiling on alkalinity is the same as elsewhere; the floor is higher than it is for a simple Western-style steep.
+
+---
+
+<figure class="figure-center">
+  <img src="/tea/posts/the-other-99-water-for-tea/water-landscape.svg" alt="The water landscape: a map with hardness/TDS on one axis and alkalinity on the other, showing a 'target region' of soft-to-moderate, low-alkalinity water, with tea types placed — green and dancong toward soft and clean, aged puerh and yancha toward more minerality — and the failure zones (flat, dull, thin, scummy) at the edges" loading="lazy" decoding="async" />
+  <figcaption>There is no point on this map marked "best" — only a region that works, and where on it each tea prefers to sit.</figcaption>
+</figure>
+
 ### There is no perfect water, only deliberate water
 
 ### Sources & further reading
