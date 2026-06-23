@@ -132,6 +132,75 @@ The verdict on all of this is less cynical than it might look. The ancients, wor
 
 ### Build your water
 
+You now know what the chemistry does. Here is what you can actually do about it — a hierarchy of interventions, from the least effort to the most control.
+
+**Step one: diagnose.** Before you change anything, find out what you have. Most municipal utilities publish annual water quality reports online — search for "[your city] water quality report" and look for total hardness, alkalinity, and chlorine/chloramine type. For bottled water, the label is the report (more on reading it below). A consumer TDS meter gives a rough directional reading in ten seconds; it cannot tell you *which* ions, and its conversion factor swings the number by 20–40%, but for a first pass — "am I in soft territory or hard territory?" — it is useful.
+
+**Step two: carbon filtration.** An activated-carbon pitcher or under-sink filter removes chlorine, chloramine, and dissolved organics — the things that give tap water its medicinal off-notes. What it does not touch is minerals. Hardness, alkalinity, TDS: these pass through a carbon filter unchanged. If your tap water is hard and alkaline, a Brita will make it smell and taste better, but it will still flatten your tea.
+
+**Step three: what boiling actually does.** Boiling precipitates *temporary hardness* — the calcium and magnesium ions paired with bicarbonate — as limescale on your kettle walls (Ca(HCO₃)₂ → CaCO₃↓ + CO₂↑ + H₂O). It also off-gasses dissolved CO₂ and drives off free chlorine. That is genuinely useful if your water is high in carbonate hardness. What boiling does not affect: permanent hardness (Ca/Mg paired with sulfate or chloride), broad TDS, and chloramine — the chlorine-substitute now used by many utilities, which requires catalytic carbon to break down, not heat.
+
+The "never re-boil" rule — the idea that repeatedly boiling water kills its oxygen and makes flat, dead tea — is largely a myth. The McGill Office for Science and Society has looked at this directly: re-boiling water is safe, the oxygen that drives off on boiling readily redissolves as the water cools, and any taste change from re-boiling reflects concentrated minerals from evaporation, not "dead oxygen." Freshness matters at the source; a second boil of water left in the kettle is not the hazard it is often made out to be.
+
+**Step four: the reset button.** Reverse-osmosis filtration strips ~90–99% of dissolved solids, leaving you with 10–25 ppm water — a nearly blank canvas. Distilled water goes further, to single digits. Both are flat and lifeless on their own: the mineral floor that gives tea roundness and body is gone. But that blankness is also a superpower. Starting from nothing, you can build *exactly* the water you want, and repeat it perfectly, every time — something no bottled spring ever lets you do.
+
+**Step five: what not to do.** Sodium ion-exchange softeners — the systems that regenerate with salt and are fitted to whole-house plumbing in hard-water areas — are bad news for tea. They work by swapping calcium and magnesium ions for sodium. The result is water with lower hardness, yes, but the same alkalinity it had before (bicarbonate passes straight through), plus a measurable sodium load. High sodium flattens perceived flavour; unchanged alkalinity still dulls your tea. Sodium-softened water is not a brewing water; it is a plumbing-protection water.
+
+#### Where to aim
+
+The numbers below come from two different places, which matters. The coffee column is from the Specialty Coffee Association's water standard — the most rigorously tested benchmark the industry has, based on controlled sensory trials. The tea column is hobbyist and practitioner consensus — the Tea Association of the USA, experienced gongfu practitioners, and remineralization guides — **not peer-reviewed science** (honesty flag: the field has no equivalent of the SCA standard for tea, and anyone who quotes specific tea targets with false precision is getting ahead of the evidence).
+
+| Parameter | SCA (coffee) | Tea (hobbyist consensus) |
+| --- | --- | --- |
+| TDS | ~150 ppm (75–250) | 50–150 ppm; ~20–50 for delicate/green |
+| Hardness (GH) | 50–175 mg/L CaCO₃ | ~17–68 mg/L; <10 thin, >120 flat |
+| Alkalinity (KH) | ~40 mg/L (≤40 preferred) | low — high KH flattens tea |
+| pH | ~7 (6.5–7.5) | ~7 (green a touch lower, black higher) |
+
+The main departure between coffee and tea targets is alkalinity. The SCA ceiling of 40 mg/L sits at or above the threshold at which peer-reviewed studies find catechin degradation accelerating in green tea. For anything aroma-forward — green, white, dancong, lighter oolongs — you want alkalinity lower still, ideally below ~20 mg/L. Black tea is more tolerant. The TDS floor also drops for delicate tea: a number that produces balanced coffee can over-mineralize a white or a light green.
+
+#### How to read a bottled-water label
+
+You do not need to commission a lab test. The information is on the bottle.
+
+Look for "**dry residue at 180 °C**" (sometimes "fixed residue" or "total dissolved solids") — this is the TDS proxy. Aim for roughly 50–150 mg/L; below that is flat-territory without some build-up, above 150 is getting into dulling-territory for green.
+
+**Hardness** is rarely listed directly, but you can calculate it: hardness ≈ Ca × 2.5 + Mg × 4.1. (Those multipliers convert elemental weights to mg/L CaCO₃ equivalent.) Aim for ~17–68 mg/L CaCO₃ for most tea.
+
+**Alkalinity** is what you are really chasing. Look for the bicarbonate (HCO₃⁻) line: alkalinity ≈ HCO₃ × 0.82. You want this low. A water with HCO₃ of 25 mg/L gives alkalinity of ~20 mg/L — fine. One at HCO₃ of 360 mg/L (as a very well-known French mineral water delivers) gives alkalinity of ~295 mg/L — disqualifying.
+
+**Sodium** should be low (single-digit or low teens). **Sulfate** and **chloride** are less critical at modest levels, but high sulfate (>80 mg/L) reads dry and bitter.
+
+Good tea water in one line: modest Ca + Mg, **low bicarbonate**, low sodium, residue ~50–150. Bad tea water in one line: high bicarbonate or very high residue — expect flat, scummy, muted results regardless of leaf quality.
+
+#### Two DIY recipes from a blank canvas
+
+If you have an RO or distilled water source — or are willing to buy a jug of distilled to experiment — these two recipes let you build a repeatable brewing water with nothing fancier than a kitchen scale accurate to 0.01 g.
+
+**Recipe A — SCA-style (simple version):**
+
+> Per **1 gallon (3.78 L) of distilled or RO water**, add:
+> - **0.75 g Epsom salt (MgSO₄·7H₂O)**
+> - **0.25 g baking soda (NaHCO₃)**
+
+This lands in the lower SCA range — around 50–80 ppm TDS, modest hardness, low alkalinity. It is a solid general-purpose tea water and an excellent starting point for experimentation.
+
+For precision batch-making, a concentrate version gives more repeatable weighing: make a hardness stock at 2.5 g Epsom per litre of distilled, and a buffer stock at 1.7 g baking soda per litre. Final water = 877 g distilled + 41 g hardness stock + 82 g buffer stock → roughly **82 ppm hardness / 41 ppm alkalinity**.
+
+**Recipe B — no-scale buffer (the "RPavlis" method):**
+
+> Per **1 L of distilled or RO water**, add:
+> - **0.1 g potassium bicarbonate (KHCO₃)**
+
+Alkalinity only — no added hardness, no limescale formation, and potassium rather than sodium (no salty or flat note at these concentrations). This is the minimalist approach: buffer the blank canvas, leave everything else near zero. For delicate green or white tea, halve the coffee-tuned doses from Recipe A; the RPavlis recipe already sits lower and suits these teas well as written.
+
+Both recipes require weighing by mass on a scale capable of 0.01 g resolution. Volume approximations with measuring spoons drift enough to matter at these quantities. A cheap jeweller's scale is sufficient.
+
+<figure class="figure-center">
+  <img src="/tea/posts/the-other-99-water-for-tea/build-your-water.svg" alt="A build-your-water recipe card: start from RO or distilled water as a blank canvas, then add Epsom salt and baking soda (SCA-style) or potassium bicarbonate (no-scale), with the resulting hardness and alkalinity numbers" loading="lazy" decoding="async" />
+  <figcaption>From a blank canvas you can build any water you want — and repeat it exactly, which no bottled spring lets you do.</figcaption>
+</figure>
+
 ### Matching water to your tea
 
 ### There is no perfect water, only deliberate water
