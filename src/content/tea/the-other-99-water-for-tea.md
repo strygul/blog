@@ -264,4 +264,46 @@ Mineral water, conversely, yields more flavour per steep and more total steeps w
 
 ### There is no perfect water, only deliberate water
 
+The thesis, stated at the start, was that there is no single best water — only the right match between chemistry and leaf. The preceding eight sections have, I hope, made that concrete enough to act on. The variable that organises it all is alkalinity: bicarbonate is the thing that flattens brightness, destroys catechins in the liquor, darkens the cup, and drives the surface film that decorates every session brewed in hard tap water. Get the alkalinity low, keep the minerals modest and balanced, and most of what is wrong with your water dissolves.
+
+What the science cannot give you is a number to tattoo on your kettle. The chemistry shows where the floor is — bicarbonate above ~20–40 mg/L begins working against green tea's brightness; above roughly 40 mg/L you are dulling even the more tolerant styles. It shows where the ceiling is — near-zero mineral water over-extracts into thin, sour, structureless cups. It does not specify, with controlled-trial precision, exactly where within that zone the best version of a particular young sheng sits, or whether your aged shou wants 30 or 50 ppm TDS. Those questions are answered by tasting, which is a better instrument than any of the studies above for the final degrees of tuning.
+
+The ancients were not wrong to chase the named springs. They were using the best method available — exhaustive empirical comparison across real sources, conducted over a lifetime, recorded in a tradition that accumulated centuries of observation. Lu Yu did not have bicarbonate ion concentrations. He had tongues and attention and time. What he was measuring, in the vocabulary of "sweet" and "light" and "living," was real. Mountain water over limestone beds — low contact time with carbonate rock, low bicarbonate, low TDS — genuinely makes better tea. He was right. The instruments came later.
+
+You are luckier than Lu Yu in one specific way: the variable he was chasing blindly, you can measure and control directly. A reverse-osmosis filter and a jeweller's scale give you more water-chemistry control than any named spring in the Tang empire ever could. You can land at 40 ppm TDS, 15 mg/L alkalinity, and 30 mg/L hardness — every brew, exactly the same — and then move the dial by a tenth of a gram and taste what changes. That is not a lesser way of engaging with the question. It is a more demanding one. The ancients chased the spring; you build the water. Both activities are in service of the same thing: a cup that tastes like the leaf you chose and not like what came out of the pipe.
+
 ### Sources & further reading
+
+This post synthesises three kinds of evidence, which should be consulted in that order when any claim matters enough to verify: peer-reviewed controlled studies first; classical texts second; community and practitioner knowledge third. The third category is labeled as such below — it is real knowledge, accumulated by people tasting carefully over years, and it is not the same as a controlled trial.
+
+#### Peer-reviewed
+
+- [*Effect of Water Hardness on Catechin and Caffeine Content in Green Tea Infusions*, **Molecules** 26(12):3485, 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8229914/) — the key hardness→catechin paper: 21 to 338 mg/L CaCO₃ cuts total catechins ~2.4×, EGCG ~3.2×; bicarbonate-driven autoxidation mechanism; the most-cited study in this essay.
+
+- [Franks et al., *The Influence of Water Composition on Flavor and Nutrient Extraction in Green and Black Tea*, **Nutrients** 11(1):80, 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6356489/) — the Cornell health-vs-taste paradox: deionised/bottled water gave ~2× the EGCG of hard tap; 103-person panel still preferred the tap-brewed green tea (less bitter, more liked, *p* < 0.001); black tea insensitive to water type (*p* = 0.250).
+
+- Spiro & Jaganyi, *Kinetics and equilibria of tea infusion*, Parts 10–13, **Food Chemistry**, 1990s — the scum mechanism: oxidised polyphenols on a CaCO₃ film; requires both Ca/Mg and bicarbonate; reported activation energy Ea ≈ 34 kJ/mol. (Abstracts paywalled; corroborated through Compound Interest secondary source and the Physics of Fluids 2021 follow-up.)
+
+- Hendon, Colonna-Dashwood & Colonna-Dashwood, *The Role of Dissolved Cations in Coffee Extraction*, **Journal of Agricultural and Food Chemistry** 62:4947, 2014 — the paper that seeded the "Mg extracts brighter" claim; computational study in coffee, not tea; cited here as the origin of a widely-borrowed hypothesis that has not been independently established for tea.
+
+- [*Effects of Bicarbonate Ions in Tea Brewing Water on Taste Characteristics of Tea*, **Foods** 15(11):1958, 2025](https://www.mdpi.com/2304-8158/15/11/1958) — tea-type-specific bicarbonate thresholds: ≤ ~22 mg/L boosted aroma and cut bitterness; ≥ ~40 mg/L dimmed brightness; high bicarbonate notably more damaging for green than black/dark teas. Figures from abstract — verify thresholds before quoting exact numbers.
+
+- [*EGCG–mucin turbidity and metal cation astringency assay*, PMC11049597](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11049597/) — cation binding potency for astringency: Al³⁺ > K⁺ > Mg²⁺ > Ca²⁺; Mg²⁺ only moderate/weak, undercutting the Mg-for-tea hype borrowed from coffee.
+
+#### Classical texts
+
+- Lu Yu, *The Classic of Tea* (茶經 / *Chá Jīng*, c. 760 CE), chapter 5 ("Boiling"). English: Francis Ross Carpenter, trans., *The Classic of Tea*, Little, Brown, 1974. — Mountain water best, river middling, well worst (山水上，江水中，井水下); the living-water principle. Carpenter's phrasings are interpretive; verify against the print edition before quoting verbatim.
+
+- Zhang Youxin, *Record of Water for Brewing Tea* (煎茶水記 / *Jiān Chá Shuǐ Jì*, 814 CE). — The ranking of twenty named springs, including the Nanling anecdote; written a decade after Lu Yu's death and merely attributed to him. The commonest confusion in popular tea-water writing is treating Zhang's ranking as Lu Yu's own.
+
+#### Community & practitioner (preference-grade)
+
+*The following sources represent accumulated practitioner knowledge and are valuable as such — but they are not controlled studies. Treat them as a starting point for your own tasting, not as settled science.*
+
+- SCA (Specialty Coffee Association), *Water Quality for Specialty Coffee* standard — TDS ~150 ppm (75–250), hardness 50–175 mg/L, alkalinity ~40 mg/L, pH ~7. The most rigorously tested water benchmark in the beverage-brewing world; too alkaline for green and light teas, but a useful reference baseline. Available at [sca.coffee](https://sca.coffee).
+
+- MarshalN, *A Tea Addict's Journal*, [marshaln.com](https://marshaln.com) — one of the most sustained and thoughtful gongfu references in English; the source of the "a bit more minerals" position on young sheng water cited in §8.
+
+- Yorkshire Tea, *A Proper Brew: How Hard Can That Be?* — commercial evidence that the same tea requires different blends for hard-water and soft-water regions; cited as real-world proof that alkalinity matters even for the most water-tolerant tea category.
+
+- McGill Office for Science and Society, re-boiling water — the source for the rebuttal of the "re-boil kills oxygen" myth; available at [mcgill.ca/oss](https://www.mcgill.ca/oss/article/health-and-nutrition-you-asked/does-re-boiling-water-really-make-it-harmful-drink).
