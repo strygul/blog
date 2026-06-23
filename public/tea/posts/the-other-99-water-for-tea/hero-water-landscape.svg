@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 510" role="img" aria-label="The Other 99%: a stylised water drop representing that a brewed cup of tea is more than 99% water">
+  <!-- Background -->
+  <rect width="1020" height="510" fill="#faf8f4"/>
+  <!-- Faint grid (water-landscape motif) -->
+  <g stroke="#3a7ca5" stroke-width="0.5" opacity="0.12">
+    <line x1="0" y1="127" x2="1020" y2="127"/>
+    <line x1="0" y1="255" x2="1020" y2="255"/>
+    <line x1="0" y1="383" x2="1020" y2="383"/>
+    <line x1="255" y1="0" x2="255" y2="510"/>
+    <line x1="510" y1="0" x2="510" y2="510"/>
+    <line x1="765" y1="0" x2="765" y2="510"/>
+  </g>
+  <!-- Axis-like lines (water landscape frame) -->
+  <line x1="130" y1="420" x2="890" y2="420" stroke="#8a8a8a" stroke-width="1" opacity="0.25"/>
+  <line x1="130" y1="420" x2="130" y2="80" stroke="#8a8a8a" stroke-width="1" opacity="0.25"/>
+  <!-- Target region (soft-green translucent) -->
+  <rect x="155" y="290" width="480" height="110" rx="6" fill="#5b8c5a" opacity="0.10"/>
+  <!-- Water drop shape (centred, large) -->
+  <path d="M510 110 C510 110 420 230 420 310 C420 378 460 420 510 420 C560 420 600 378 600 310 C600 230 510 110 510 110 Z" fill="#3a7ca5" opacity="0.15" stroke="#3a7ca5" stroke-width="1.5"/>
+  <!-- Inner label in the drop -->
+  <text x="510" y="296" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" fill="#3a7ca5" opacity="0.85">the other</text>
+  <text x="510" y="328" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="bold" fill="#3a7ca5" opacity="0.9">99%</text>
+  <!-- Title -->
+  <text x="510" y="55" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#2b2b2b">The Other 99%</text>
+  <!-- Subtitle -->
+  <text x="510" y="82" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" fill="#8a8a8a">Water, and the Tea You&#x2019;re Not Tasting</text>
+  <!-- Tea type markers (faint, decorative) -->
+  <circle cx="220" cy="330" r="4" fill="#5b8c5a" opacity="0.5"/>
+  <text x="230" y="334" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#5b8c5a" opacity="0.65">green / dancong</text>
+  <circle cx="350" cy="310" r="4" fill="#5b8c5a" opacity="0.5"/>
+  <text x="360" y="314" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#5b8c5a" opacity="0.65">young sheng</text>
+  <circle cx="640" cy="320" r="4" fill="#2b2b2b" opacity="0.35"/>
+  <text x="650" y="324" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#2b2b2b" opacity="0.45">yancha</text>
+  <!-- Axis labels -->
+  <text x="510" y="445" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8a8a8a" opacity="0.55">hardness / TDS &#x2192;</text>
+  <text x="110" y="255" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8a8a8a" opacity="0.55" transform="rotate(-90, 110, 255)">alkalinity &#x2192;</text>
+</svg>

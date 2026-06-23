@@ -7,8 +7,7 @@ category:
   - "Brewing"
   - "Water"
 description: "A brewed cup is more than 99% water, yet it's the one ingredient nobody tunes. A deep, sourced look at the chemistry — and why there's no single 'best' water, only the right match."
-# heroImage activated in the hero task once hero-water-landscape.png exists:
-# heroImage: "../../../public/tea/posts/the-other-99-water-for-tea/hero-water-landscape.png"
+heroImage: "../../../public/tea/posts/the-other-99-water-for-tea/hero-water-landscape.png"
 ---
 
 <div class="info-box">
