@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 520" width="820" height="520" role="img" aria-label="The water landscape: a 2D plot of hardness/TDS against alkalinity, showing a target region of low-to-moderate hardness and low alkalinity, with tea types placed within it">
+  <!-- Background -->
+  <rect width="820" height="520" fill="#faf8f4"/>
+
+  <!-- Title -->
+  <text x="410" y="38" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#2b2b2b" font-weight="normal">The water landscape — there is no point marked 'best'</text>
+
+  <!-- Subtitle -->
+  <text x="410" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#8a8a8a">keep alkalinity low; choose where on the hardness axis your tea likes to sit</text>
+
+  <!-- Plot axes -->
+  <!-- X-axis -->
+  <line x1="100" y1="460" x2="750" y2="460" stroke="#8a8a8a" stroke-width="1.5"/>
+  <!-- Y-axis -->
+  <line x1="100" y1="460" x2="100" y2="90" stroke="#8a8a8a" stroke-width="1.5"/>
+
+  <!-- Axis arrowheads -->
+  <!-- X arrowhead -->
+  <polygon points="750,455 758,460 750,465" fill="#8a8a8a"/>
+  <!-- Y arrowhead -->
+  <polygon points="95,90 100,82 105,90" fill="#8a8a8a"/>
+
+  <!-- X tick marks -->
+  <line x1="250" y1="456" x2="250" y2="464" stroke="#8a8a8a" stroke-width="1"/>
+  <line x1="400" y1="456" x2="400" y2="464" stroke="#8a8a8a" stroke-width="1"/>
+  <line x1="600" y1="456" x2="600" y2="464" stroke="#8a8a8a" stroke-width="1"/>
+
+  <!-- Y tick marks -->
+  <line x1="96" y1="200" x2="104" y2="200" stroke="#8a8a8a" stroke-width="1"/>
+  <line x1="96" y1="310" x2="104" y2="310" stroke="#8a8a8a" stroke-width="1"/>
+  <line x1="96" y1="400" x2="104" y2="400" stroke="#8a8a8a" stroke-width="1"/>
+
+  <!-- X-axis label -->
+  <text x="425" y="490" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#8a8a8a">← soft  |  hardness / TDS  |  mineral-rich →</text>
+
+  <!-- Y-axis label (rotated) -->
+  <text transform="rotate(-90, 30, 275)" x="30" y="275" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#c0492b">↑ high alkalinity</text>
+  <text transform="rotate(-90, 30, 340)" x="30" y="340" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#5b8c5a">↓ low alkalinity</text>
+
+  <!-- Target region (soft-green translucent band) -->
+  <rect x="145" y="310" width="460" height="120" rx="6" fill="#5b8c5a" opacity="0.15"/>
+
+  <!-- Target region label -->
+  <text x="375" y="380" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" fill="#5b8c5a" font-style="italic">target region</text>
+
+  <!-- Failure zone labels -->
+  <!-- Top center — high alkalinity -->
+  <text x="425" y="130" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#c0492b">dull · dark · flat · scummy</text>
+  <text x="425" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#c0492b" opacity="0.75">(high alkalinity)</text>
+
+  <!-- Far left bottom — near-zero hardness -->
+  <text x="130" y="440" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#8a8a8a">thin · flat</text>
+
+  <!-- Far right bottom — very high TDS -->
+  <text x="635" y="440" text-anchor="start" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#8a8a8a">heavy · over-bodied</text>
+
+  <!-- Tea type markers -->
+
+  <!-- 1. green / white — lowest hardness + lowest alkalinity -->
+  <circle cx="175" cy="390" r="5" fill="#2b2b2b"/>
+  <text x="183" y="394" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#2b2b2b">green / white</text>
+
+  <!-- 2. dancong — low hardness, low alkalinity -->
+  <circle cx="210" cy="362" r="5" fill="#2b2b2b"/>
+  <text x="218" y="358" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#2b2b2b">dancong</text>
+
+  <!-- 3. young sheng — centre of target -->
+  <circle cx="330" cy="350" r="5" fill="#2b2b2b"/>
+  <text x="338" y="346" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#2b2b2b">young sheng</text>
+
+  <!-- 4. yancha — moderate hardness, still low alkalinity -->
+  <circle cx="480" cy="355" r="5" fill="#2b2b2b"/>
+  <text x="488" y="351" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#2b2b2b">yancha</text>
+
+  <!-- 5. aged puerh / shou — higher hardness, slightly more alkalinity -->
+  <circle cx="530" cy="335" r="5" fill="#2b2b2b"/>
+  <text x="538" y="331" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#2b2b2b">aged puerh / shou</text>
+</svg>

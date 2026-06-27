@@ -1,0 +1,112 @@
+<svg viewBox="0 0 820 480" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ion to taste map: a vertical list of dissolved ions (calcium, magnesium, bicarbonate, sodium, sulfate, iron, chlorine) and their effects on tea, with bicarbonate highlighted as the villain">
+  <defs>
+    <style>
+      .title-text {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: 22px;
+        font-weight: bold;
+        fill: #2b2b2b;
+        text-anchor: middle;
+      }
+      .subtitle-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 12px;
+        fill: #8a8a8a;
+        text-anchor: middle;
+      }
+      .ion-name {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        fill: #2b2b2b;
+      }
+      .ion-name-villain {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        fill: #c0492b;
+      }
+      .arrow {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 14px;
+        fill: #8a8a8a;
+      }
+      .effect-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 14px;
+        fill: #2b2b2b;
+      }
+      .effect-text-villain {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 14px;
+        fill: #c0492b;
+        font-weight: bold;
+      }
+      .effect-text-gray {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 14px;
+        fill: #8a8a8a;
+        font-style: italic;
+      }
+      .villain-label {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        font-size: 11px;
+        font-weight: bold;
+        fill: #c0492b;
+        text-anchor: middle;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="820" height="480" fill="#faf8f4"/>
+
+  <!-- Title -->
+  <text x="410" y="42" class="title-text">What each ion does to the cup</text>
+  <text x="410" y="64" class="subtitle-text">effects on the cup — bicarbonate is the one that matters most</text>
+
+  <!-- Row 1: Ca²⁺ -->
+  <rect x="30" y="90" width="760" height="44" rx="6" fill="#faf8f4" stroke="#8a8a8a" stroke-width="1"/>
+  <text x="55" y="118" class="ion-name">Ca²⁺</text>
+  <text x="200" y="118" class="arrow">→</text>
+  <text x="230" y="118" class="effect-text">body, slows extraction, scum</text>
+
+  <!-- Row 2: Mg²⁺ -->
+  <rect x="30" y="142" width="760" height="44" rx="6" fill="#faf8f4" stroke="#8a8a8a" stroke-width="1"/>
+  <text x="55" y="170" class="ion-name">Mg²⁺</text>
+  <text x="200" y="170" class="arrow">→</text>
+  <text x="230" y="170" class="effect-text-gray">coffee-lore: brightness — unproven for tea</text>
+
+  <!-- Row 3: HCO₃⁻ (Bicarbonate) - THE VILLAIN -->
+  <rect x="30" y="194" width="760" height="44" rx="6" fill="#f6e3df" stroke="#c0492b" stroke-width="1.5"/>
+  <text x="55" y="222" class="ion-name-villain">HCO₃⁻</text>
+  <text x="200" y="222" class="arrow">→</text>
+  <text x="230" y="222" class="effect-text-villain">the villain: dull, dark, flat</text>
+  <!-- Villain label chip -->
+  <rect x="730" y="205" width="50" height="22" rx="4" fill="#c0492b" opacity="0.15"/>
+  <text x="755" y="218" class="villain-label">VILLAIN</text>
+
+  <!-- Row 4: Na⁺ -->
+  <rect x="30" y="246" width="760" height="44" rx="6" fill="#faf8f4" stroke="#8a8a8a" stroke-width="1"/>
+  <text x="55" y="274" class="ion-name">Na⁺</text>
+  <text x="200" y="274" class="arrow">→</text>
+  <text x="230" y="274" class="effect-text">low NaCl = less bitter; softener Na = flat</text>
+
+  <!-- Row 5: SO₄²⁻ -->
+  <rect x="30" y="298" width="760" height="44" rx="6" fill="#faf8f4" stroke="#8a8a8a" stroke-width="1"/>
+  <text x="55" y="326" class="ion-name">SO₄²⁻</text>
+  <text x="200" y="326" class="arrow">→</text>
+  <text x="230" y="326" class="effect-text">dry, sharp (above ~80–160 mg/L)</text>
+
+  <!-- Row 6: Fe -->
+  <rect x="30" y="350" width="760" height="44" rx="6" fill="#faf8f4" stroke="#8a8a8a" stroke-width="1"/>
+  <text x="55" y="378" class="ion-name">Fe</text>
+  <text x="200" y="378" class="arrow">→</text>
+  <text x="230" y="378" class="effect-text">inky, metallic (≥0.3 mg/L)</text>
+
+  <!-- Row 7: Cl / chloramine -->
+  <rect x="30" y="402" width="760" height="44" rx="6" fill="#faf8f4" stroke="#8a8a8a" stroke-width="1"/>
+  <text x="55" y="430" class="ion-name">Cl / chloramine</text>
+  <text x="200" y="430" class="arrow">→</text>
+  <text x="230" y="430" class="effect-text">off-flavours (chloramine needs catalytic carbon)</text>
+</svg>
