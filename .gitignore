@@ -3,6 +3,9 @@ dist/
 # generated types
 .astro/
 
+# local Superpowers brainstorming companion
+.superpowers/
+
 # dependencies
 node_modules/
 
