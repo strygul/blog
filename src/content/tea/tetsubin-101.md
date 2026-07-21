@@ -406,7 +406,7 @@ a stamp; or prestige presented as independent water science.
 A tetsubin cannot make unsuitable source water analytically soft. *Soft* as a sensory word may describe a real
 impression, but analytical hardness is chiefly the combined calcium-and-magnesium contribution, conventionally reported
 as calcium-carbonate equivalent (mg/L as CaCO₃), not the raw sum of those ion concentrations. The [direct
-study](https://www.jstage.jst.go.jp/article/jhej1987/55/11/55_1067/_pdf/-char/ja) reports its hardness values simply in
+study](https://www.jstage.jst.go.jp/article/jsfe2000/5/2/5_2_105/_pdf/-char/ja) reports its hardness values simply in
 mg/L; kept as study-reported mg/L, hardness rose slightly in four tested Nanbu kettles and much more in two unidentified
 kettles. Bicarbonate results from the same study do not substitute for a full alkalinity measurement.
 
