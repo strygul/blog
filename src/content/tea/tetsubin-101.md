@@ -70,8 +70,9 @@ a descendant with reducing the tea-kettle form and adding a spout and handle. Th
 attributed origin story. It is not a securely dated invention certificate for the tetsubin.
 
 The firmer object evidence begins in the eighteenth century. Kyoto National Museum catalogs an unsigned tetsubin from
-that period, and the Association for the Promotion of Traditional Craft Industries places the development of Nambu
-tetsubin in the same century, after the establishment of Morioka ironworking and tea-kettle production. The
+that period, and an [Association for the Promotion of Traditional Craft Industries account](https://kougeishi.kougeihin.jp/artisan/%E4%BD%90%E8%97%A4%E5%8B%9D%E4%B9%85/)
+places the development of Nambu tetsubin in the same century, after the establishment of Morioka ironworking and
+tea-kettle production. The
 [California Academy of Sciences research archive](https://researcharchive.calacademy.org/research/anthropology/tetsubin/hist.html)
 is appropriately cautious: the first appearance is unclear, while a connection with the spread of sencha is plausible.
 The safest formulation is therefore that the recognizable spouted, overhead-handled iron kettle emerged from older
@@ -163,9 +164,11 @@ more than attractive patina.
 intended fill. Thick-looking handles may be hollow; slim ones may be solid. Treat every metal handle as hot regardless of
 construction. A fixed handle is not a defect, and a moving handle is only useful if it moves without levering loose lugs.
 
-**Lid and steam path.** A good fit helps control the object, but a boiling kettle must vent. Current maker instructions
-warn that a closed lid can produce spitting or send hot water from the spout. Check how the lid is meant to sit during
-heating and how it will be controlled during the pour.
+**Lid and steam path.** A good fit helps control the object, but a boiling kettle must vent. [Oigen's Ryumon
+guidance](https://oigen.jp/products/tetsubin_ryumon) and [Iwachu's care
+instructions](https://iwachu.co.jp/pages/care-tetsubin) warn, for their own kettles, that heating under a closed lid can
+produce spitting or send hot water from the spout. Check how the lid is meant to sit during heating and how it will be
+controlled during the pour.
 
 **Spout.** The passage should be open, the lip clean, and the root free of cracks. A beautiful curve is not proof of a
 clean cutoff. If the seller allows it, a cold-water pour test tells you more than a profile photograph.
@@ -175,11 +178,15 @@ empty kettle, then ask whether that load can be lifted, stopped, and returned to
 Thin, light walls are a documented Yamagata aim, not a universal rank. Thick walls may add mass and change heating and
 cooling behavior, but no controlled study located for this article identifies one ideal wall.
 
-**Surface and condition.** An adherent maker-documented oxide surface or stable mineral scale can be expected. Small,
-stationary orange points are not automatically structural failure. The useful distinction is not black versus white
-versus red; it is adherent versus loose, stable versus spreading, clear water versus persistent colored or off-smelling
-water, and sound structure versus cracking, seepage, deep pitting, or unstable attachment. If material is flaking, water
-remains colored, or the structure moves, stop routine service and seek the maker or a qualified restorer.
+**Surface and condition.** For kettles covered by its guidance, [Iwachu's maker
+examples](https://iwachu.co.jp/pages/care-tetsubin) distinguish adherent interior scale and small, stationary orange
+points from more serious changes. Adjacent [drinking-water corrosion
+guidance](https://www.canada.ca/en/health-canada/services/publications/healthy-living/guidelines-canadian-drinking-water-quality-guideline-technical-document-iron.html)
+explains why scale and corrosion behavior depend on water chemistry, but pipe evidence cannot identify a kettle's
+interior or declare it safe. The useful distinction is not black versus white versus red; it is adherent versus loose,
+stable versus spreading, clear water versus persistent colored or off-smelling water, and sound structure versus
+cracking, seepage, deep pitting, or unstable attachment. If material is flaking, water remains colored, or the structure
+moves, stop routine service and seek the maker or a qualified restorer.
 
 Finally, read marks as leads rather than verdicts.
 [Horie](https://www.jstage.jst.go.jp/article/sfj/70/5/70_255/_pdf/-char/ja) reports that maker marks became common in
@@ -316,8 +323,10 @@ qualified restorer.
 
 After the session, empty the kettle rather than storing water in it. Remove or offset the lid and allow the interior to
 dry completely. Some makers permit a very brief gentle reheat; others prefer residual heat alone. The common rule is
-complete drying, not prolonged empty heating. For storage, dry ventilation is universal enough; wrapping practices are
-not.
+complete drying, not prolonged empty heating. For storage, [Suzuki
+Morihisa](https://suzukimorihisa.com/pages/howtouse) says wrapping is unnecessary, while
+[Oigen](https://oigen.jp/pages/q-a) recommends separate paper wrapping for long storage. The shared conservative rule
+among the located workshop guides is dry, ventilated storage; wrapping practices vary.
 
 Routine interior scrubbing and detergent are poor defaults. [Suzuki Morihisa](https://suzukimorihisa.com/pages/howtouse),
 [Iwachu](https://iwachu.co.jp/pages/care-tetsubin), and [Oigen](https://oigen.jp/pages/q-a) all tell owners to leave stable
@@ -395,9 +404,11 @@ a stamp; or prestige presented as independent water science.
 ## What a Tetsubin Cannot Fix
 
 A tetsubin cannot make unsuitable source water analytically soft. *Soft* as a sensory word may describe a real
-impression, but hardness is calcium and magnesium concentration. In the direct study, hardness rose slightly in four
-tested Nanbu kettles and much more in two unidentified kettles. Bicarbonate results from the same study do not substitute
-for a full alkalinity measurement.
+impression, but analytical hardness is chiefly the combined calcium-and-magnesium contribution, conventionally reported
+as calcium-carbonate equivalent (mg/L as CaCO₃), not the raw sum of those ion concentrations. The [direct
+study](https://www.jstage.jst.go.jp/article/jhej1987/55/11/55_1067/_pdf/-char/ja) reports its hardness values simply in
+mg/L; kept as study-reported mg/L, hardness rose slightly in four tested Nanbu kettles and much more in two unidentified
+kettles. Bicarbonate results from the same study do not substitute for a full alkalinity measurement.
 
 It cannot turn correlation into a mechanism. Residual chlorine declined during kettle heating, but ordinary heating
 also changes pH and chlorine residual, and free chlorine is not chloramine. A total-iron result cannot be silently
