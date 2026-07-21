@@ -101,8 +101,8 @@ kettle-shaped hole; that would make a solid iron weight. The foundry needs an ou
 temporary internal core—the *nakago*—for the hollow. The narrow clearance between the two becomes the kettle wall. Core
 placement therefore governs wall thickness, mass, and whether the finished body is reasonably even.
 
-<figure class="full-size">
-  <img src="/tea/posts/tetsubin-101/tetsubin-anatomy-plate.svg" alt="Annotated tetsubin side elevation above casting and finished cutaways showing the outer mold, bottom-mold region, temporary internal and spout cores, wall-forming gap, and finished water-bearing shell" loading="lazy" decoding="async" />
+<figure class="full-size" style="margin: 1em 0;">
+  <img src="/tea/posts/tetsubin-101/tetsubin-anatomy-plate.svg" width="720" height="2240" alt="Annotated tetsubin side elevation above casting and finished cutaways showing the outer mold, bottom-mold region, temporary internal and spout cores, wall-forming gap, and finished water-bearing shell" loading="lazy" decoding="async" />
   <figcaption>A tetsubin is a spouted cast-iron water kettle with a fitted overhead handle. The lower panel makes the casting logic visible: the temporary <em>nakago</em> creates the hollow interior and is broken out after casting, rather than remaining in the finished kettle. Schematic; not to scale; workshop methods vary.</figcaption>
 </figure>
 
@@ -146,8 +146,8 @@ an exit and the entire load rotating forward into a pour.
 
 Read the object in that order.
 
-<figure class="full-size">
-  <img src="/tea/posts/tetsubin-101/tetsubin-macro-exterior-misakubo.jpg" alt="Full photograph of a dark cast-iron tetsubin showing its textured body, spout, fitted lid and knob, overhead handle, and handle lugs" loading="lazy" decoding="async" />
+<figure class="full-size" style="margin: 1em 0;">
+  <img src="/tea/posts/tetsubin-101/tetsubin-macro-exterior-misakubo.jpg" width="1280" height="960" alt="Full photograph of a dark cast-iron tetsubin showing its textured body, spout, fitted lid and knob, overhead handle, and handle lugs" loading="lazy" decoding="async" />
   <figcaption>Misakubo's full photograph lets you inspect surface texture, spout root, lid, knob, and the handle-to-lug attachment in one object. These visible details do not prove origin, age, finish, or making method. Photo by <a href="https://commons.wikimedia.org/wiki/File:Nambu_Tetsubin.jpg">Misakubo</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>; resized to 1280&nbsp;px and renamed, with no crop or other alteration.</figcaption>
 </figure>
 
