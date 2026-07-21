@@ -2,6 +2,8 @@
 
 The user will choose the hero image. This document covers supporting visuals only.
 
+Stage 1 rights state: **IMG-002 is the sole approved supporting image. IMG-001 and IMG-003 through IMG-008 remain blocked by written-permission or original-assignment gates.** A later draft may not assume that any blocked entry will become available; it must omit the entry unless the ledger first records an affirmative reusable-rights approval.
+
 | ID | Article Location | Subject | Factual Purpose | Candidate Source | Creator or Institution | Rights Status | Local Filename | Caption Direction | Approval |
 |---|---|---|---|---|---|---|---|---|---|
 | IMG-001 | Opening definition / anatomy | Annotated side elevation plus small construction cutaway | Name the verified parts of a tetsubin and show how the temporary core establishes the hollow body; specification only, not a finished plate | [Tetsubin 101 Research Dossier](./tetsubin-101-research.md), using only the verified terminology and source IDs listed in the anatomy specification below | Site editor or commissioned illustrator | Original site-owned line work; no museum photograph, tracing, or third-party visual asset may be used. Before production, the creator must be the site owner or sign a written copyright assignment covering the finished plate. The approval record is therefore the future signed assignment, not an external image-license page | `tetsubin-anatomy-plate.svg` | “A tetsubin is a spouted cast-iron water kettle with a fitted overhead handle. The dashed cutaway shows the temporary casting core, not a part left in the finished kettle.” Add “schematic; not to scale” | candidate-permission-required |

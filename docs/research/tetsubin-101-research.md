@@ -24,6 +24,7 @@ Evidence rules used throughout:
 - Evidence from cast-iron pipe or cookware can support a corrosion or transfer mechanism but cannot prove the magnitude, safety, or sensory result for a tetsubin.
 - Workshop practices are attributed to the named maker. A finish, mold, first-use routine, heat-source claim, or care method is not universal unless independent sources establish it.
 - Conflicting credible accounts remain visible. Historical “origin” stories are phrased as traditions or attributions, not settled dates.
+- SRC-023 and SRC-024 are two pages published by the same Association for the Promotion of Traditional Craft Industries. They may clarify different parts of that association's account, but they do not count as independent corroboration of one another.
 - No medical, iron-deficiency, nutritional-treatment, or therapeutic conclusion is permitted. The article should not convert measured iron release into a health recommendation.
 - Stable IDs in the source ledger and claim matrix are the citation layer for Tasks 2–6.
 
@@ -426,19 +427,23 @@ Red flags: “tetsubin” used for an enamelled teapot; no interior photograph; 
 | CLM-066 | Controlled non-iron brewing research found that water pH, conductivity, and ion composition affected extraction, stability, sensory quality, and tea families differently. | Demonstrated | Medium | SRC-021; SRC-022; SRC-027 | Water variables covary in parts of these designs; none used tetsubin-conditioned water or repeated gongfu infusions, and SRC-027's full methods were not publicly accessible here. | Use only for the water-to-tea link, not a tetsubin pairing or preference claim. |
 | CLM-067 | Residual disinfectant chemistry may contribute to differences among source waters, but its independent effect on tea extraction or taste is not isolated by the located evidence. | Plausible | Medium | SRC-021; SRC-026 | SRC-021 compared whole waters with covarying constituents; SRC-026 tested heating and residual chlorine without tea. | Treat disinfectant-to-tea effects as untested hypotheses, not demonstrated mechanisms. |
 
-## Open Questions and Research Limits
+## Resolved Open Questions and Article Limits
 
-1. No located study compares several identified, currently available unlined tetsubin against inert kettles with matched evaporation, common gongfu heating times, multiple waters, iron speciation, measured cooling curves, and blinded tasting.
-2. SRC-018 is the only peer-reviewed direct tetsubin water study located. It is valuable but small, over twenty years old, uses four Oigen-supplied Nanbu kettles and two unknown foreign kettles, and does not include a non-iron boiling control.
-3. Direct dissolved/particulate iron separation and Fe(II)/Fe(III) speciation from tetsubin water under normal tea-service conditions remain unverified here.
-4. The effect of kettle age, accumulated scale, repeated wet/dry cycles, interior lacquer wear, and different oxidation processes on water is not adequately quantified.
-5. No independent study located here establishes that hard-water pre-scaling is superior to simple boil-and-discard conditioning across different makers and finishes.
-6. No controlled tetsubin study located here validates tea-tannin rust treatment across oxide-only, lacquered, resin-treated, repaired, and antique interiors.
-7. Historical origin accounts overlap but answer different questions: regional casting origins, chagama lineages, and the later spouted handled form. A specialist Japanese material-culture history could refine the chronology.
-8. Marks, workshop lineages, repairs, and age authentication need specialist catalogues and physical examination beyond a “101” article.
-9. “Mellow,” “round,” “thick,” “sweet,” and “soft” need operational sensory definitions before comparisons are meaningful; “soft” cannot stand in for analytically lower Ca/Mg hardness.
-10. Retailer claims were intentionally excluded from independent evidence. Workshop sources remain useful only for their own methods and instructions.
-11. The direct kettle study reports residual chlorine but not a matched inert-heating control or a generalizable disinfectant regime; free chlorine and chloramine must not be treated as interchangeable. The located tea studies also do not isolate residual disinfectant as a cause of extraction or sensory differences.
+Stage 1 is complete: none of the following questions requires more research before review. Each is resolved as an explicit limit on what the article may say.
+
+| Question | Evidence resolution | Article instruction |
+|---|---|---|
+| Has a controlled gongfu comparison tested multiple identified tetsubin against inert kettles? | No located study combines matched evaporation, common gongfu heating times, multiple waters, iron speciation, cooling curves, and blinded tasting. | State the missing design as the reason kettle-wide taste and performance conclusions remain unavailable; do not imply that this dossier supplies an experimental verdict. |
+| Is SRC-018 sufficient to rank origins, makers, or production methods? | No. It is the only located peer-reviewed direct tetsubin-water study, is over twenty years old, tests four Oigen-supplied Nanbu kettles and two unknown foreign kettles, and lacks a non-iron heated control. | Use its object-specific measurements only with the sample, starting water, time, and control limitations in the same passage; omit origin, maker, and handmade-versus-industrial rankings. |
+| Which iron species reaches water during normal gongfu service? | Direct dissolved/particulate separation and Fe(II)/Fe(III) speciation remain unverified here. | Say “total iron” when reporting SRC-018; omit Fe(II), bioavailability, nutritional-dose, and medical inferences. |
+| How do age, scale, wet/dry cycles, lacquer wear, and oxidation method change water? | The located evidence supports chemistry-dependent variation but does not quantify those variables across tetsubin. | Present them only as reasons individual kettles may behave differently; omit directional or numerical predictions. |
+| Is hard-water pre-scaling better than boil-and-discard conditioning? | No maker-independent comparison was located; established workshop instructions conflict. | Attribute hard-water conditioning to Oigen and defer to the exact maker and finish; do not recommend it as a universal upgrade. |
+| Does a tea-tannin rust treatment work across finishes and old repairs? | Workshop routines are documented, but controlled durability and cross-finish safety are not. | Attribute any tannin routine to the named maker; omit a universal restoration recipe and escalate unknown, repaired, flaking, leaking, or deeply pitted objects. |
+| Can the article give a single origin date or inventor? | No. Regional casting origins, chagama lineages, and the later spouted handled form are different chronologies; SRC-023 and SRC-024 are pages from one association, not independent corroboration. | Use a cautious Edo-period development, identify traditional attributions as such, and omit a settled inventor/year or a 400-year vessel-form claim. |
+| Can a 101 article authenticate marks, lineages, repairs, or age? | No. Reliable conclusions require specialist catalogues, provenance, and physical examination. | Teach marks and appearance as research prompts and red-flag screens only; omit remote authentication verdicts. |
+| Do “mellow,” “round,” “thick,” “sweet,” and “soft” have stable analytical meanings? | No operational definitions were located, and “soft” is not evidence of lower Ca/Mg hardness. | Label these words as reported sensory prompts, define comparison conditions, and never translate them into measured hardness or guaranteed preference. |
+| Can retailer and workshop repetition count as independent evidence? | Retailer claims were excluded; workshops document their own processes and instructions but are trade sources. | Do not use repetition as corroboration. Attribute maker-specific practice and support broader factual conclusions with independent institutional or technical evidence. |
+| Does a tetsubin uniquely remove disinfectant in a way that improves tea? | SRC-018 lacks a matched inert-heating control and generalizable disinfectant regime; free chlorine and chloramine differ. The located tea studies do not isolate disinfectant as the cause of extraction or sensory differences. | State that ordinary heating is a confounder; omit unique iron causality and any demonstrated disinfectant-to-taste mechanism. |
 
 ## Conclusions Safe to Use in the Article
 
