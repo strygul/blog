@@ -6,6 +6,9 @@ dist/
 # local Superpowers brainstorming companion
 .superpowers/
 
+# isolated feature worktrees
+.worktrees/
+
 # dependencies
 node_modules/
 
