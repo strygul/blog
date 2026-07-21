@@ -1,0 +1,179 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1120" role="img" aria-labelledby="title description">
+  <title id="title">Anatomy and casting logic of a tetsubin</title>
+  <desc id="description">An original schematic side elevation labels the body, base, mouth and shoulder, spout, handle lugs, overhead handle, lid, and knob. A separate vertical casting cutaway shows the outer mold, temporary nakago core, and the gap that forms the iron wall.</desc>
+  <defs>
+    <linearGradient id="iron" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#44413e"/>
+      <stop offset="1" stop-color="#22201f"/>
+    </linearGradient>
+    <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d7c6aa"/>
+      <stop offset="1" stop-color="#bca98d"/>
+    </linearGradient>
+    <pattern id="surface" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1" fill="#6b6661" opacity=".34"/>
+      <circle cx="9" cy="8" r=".8" fill="#11100f" opacity=".35"/>
+    </pattern>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", "Hiragino Sans", sans-serif; }
+      .serif { font-family: Georgia, "Times New Roman", "Noto Serif", serif; }
+      .label { fill: #292725; font-size: 18px; font-weight: 650; }
+      .term { fill: #77706a; font-size: 14px; font-weight: 500; }
+      .leader { fill: none; stroke: #9d432d; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+      .dot { fill: #9d432d; }
+      .note { fill: #5d5752; font-size: 15px; }
+    </style>
+  </defs>
+
+  <rect width="800" height="1120" fill="#f6f1e8"/>
+  <path d="M0 82 H800" stroke="#d7ccbd"/>
+  <text x="40" y="42" class="serif" font-size="27" fill="#282522">Tetsubin, read as an object</text>
+  <text x="40" y="67" class="sans" font-size="14" fill="#837b74">SIDE ELEVATION · SCHEMATIC; NOT TO SCALE</text>
+
+  <!-- Restrained original side elevation: spout faces left. -->
+  <g aria-label="Side elevation of a tetsubin">
+    <!-- Separate overhead handle passing through the cast-in lugs. -->
+    <path d="M336 252 C337 128 395 104 466 104 C537 104 594 128 596 252" fill="none" stroke="#282624" stroke-width="17" stroke-linecap="round"/>
+    <path d="M340 250 C342 139 398 119 466 119 C534 119 590 139 592 250" fill="none" stroke="#68615b" stroke-width="2.2" opacity=".7"/>
+
+    <!-- Body and cast-with-body spout. -->
+    <path d="M322 269
+             C270 280 237 326 228 389
+             C221 445 247 510 300 544
+             C341 570 536 570 577 544
+             C630 510 656 445 649 389
+             C640 326 607 280 555 269
+             C506 257 371 257 322 269 Z" fill="url(#iron)" stroke="#161514" stroke-width="3"/>
+    <path d="M322 269
+             C270 280 237 326 228 389
+             C221 445 247 510 300 544
+             C341 570 536 570 577 544
+             C630 510 656 445 649 389
+             C640 326 607 280 555 269
+             C506 257 371 257 322 269 Z" fill="url(#surface)"/>
+    <path d="M246 333 C204 320 179 297 152 257 C138 237 112 224 82 224
+             C112 259 124 304 137 342 C149 377 178 396 229 397
+             C232 372 237 351 246 333 Z" fill="url(#iron)" stroke="#161514" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M246 333 C204 320 179 297 152 257 C138 237 112 224 82 224
+             C112 259 124 304 137 342 C149 377 178 396 229 397
+             C232 372 237 351 246 333 Z" fill="url(#surface)"/>
+    <ellipse cx="91" cy="228" rx="18" ry="7" fill="#161514" transform="rotate(18 91 228)"/>
+
+    <!-- Bottom region is part of the finished shell, not a detachable plate. -->
+    <path d="M300 544 C356 560 521 560 577 544" fill="none" stroke="#89817a" stroke-width="2"/>
+    <path d="M317 555 C360 570 517 570 560 555" fill="none" stroke="#171615" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- Mouth, fitted lid, and distinct knob. -->
+    <ellipse cx="439" cy="274" rx="101" ry="23" fill="#181716" stroke="#0f0e0e" stroke-width="3"/>
+    <ellipse cx="439" cy="258" rx="91" ry="20" fill="#383532" stroke="#151413" stroke-width="3"/>
+    <path d="M361 256 C372 227 401 216 439 216 C477 216 506 227 517 256" fill="#34312f" stroke="#151413" stroke-width="3"/>
+    <ellipse cx="439" cy="215" rx="30" ry="10" fill="#201e1d"/>
+    <path d="M426 214 C426 193 452 193 452 214" fill="#514c48" stroke="#181716" stroke-width="3"/>
+
+    <!-- Pair of shoulder lugs, one behind, each cast into the body. -->
+    <path d="M331 283 C318 262 320 241 337 231 C353 240 359 261 348 285" fill="#363331" stroke="#171615" stroke-width="3"/>
+    <path d="M579 283 C568 261 574 240 590 231 C607 241 609 262 596 283" fill="#363331" stroke="#171615" stroke-width="3"/>
+    <circle cx="337" cy="250" r="8" fill="#171615"/>
+    <circle cx="590" cy="250" r="8" fill="#171615"/>
+    <path d="M337 252 L337 247 M590 252 L590 247" stroke="#a49b92" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Left callouts. -->
+    <g class="sans">
+      <path class="leader" d="M85 224 H34 V163 H160"/>
+      <circle class="dot" cx="85" cy="224" r="4"/>
+      <text x="34" y="137" class="label">Spout</text>
+      <text x="34" y="157" class="term">sosogiguchi · 注ぎ口</text>
+
+      <path class="leader" d="M254 379 H34 V432 H166"/>
+      <circle class="dot" cx="254" cy="379" r="4"/>
+      <text x="34" y="407" class="label">Body</text>
+      <text x="34" y="427" class="term">dō / hontai · 胴 / 本体</text>
+
+      <path class="leader" d="M337 250 H204 V615 H34"/>
+      <circle class="dot" cx="337" cy="250" r="4"/>
+      <text x="34" y="590" class="label">Handle lugs</text>
+      <text x="34" y="610" class="term">kan-tsuki · 鐶付</text>
+    </g>
+
+    <!-- Right callouts. -->
+    <g class="sans">
+      <path class="leader" d="M530 129 H755 V149 H631"/>
+      <circle class="dot" cx="530" cy="129" r="4"/>
+      <text x="631" y="123" class="label">Overhead handle</text>
+      <text x="631" y="143" class="term">tsuru · 鉉 / 弦</text>
+
+      <path class="leader" d="M452 203 H755 V222 H632"/>
+      <circle class="dot" cx="452" cy="203" r="4"/>
+      <text x="632" y="196" class="label">Knob</text>
+      <text x="632" y="216" class="term">tsumami · つまみ</text>
+
+      <path class="leader" d="M512 248 H755 V296 H632"/>
+      <circle class="dot" cx="512" cy="248" r="4"/>
+      <text x="632" y="270" class="label">Lid</text>
+      <text x="632" y="290" class="term">futa · 蓋</text>
+
+      <path class="leader" d="M546 276 H755 V366 H632"/>
+      <circle class="dot" cx="546" cy="276" r="4"/>
+      <text x="632" y="340" class="label">Mouth · kuchi · 口</text>
+      <text x="632" y="360" class="term">shoulder below</text>
+
+      <path class="leader" d="M512 553 H755 V540 H632"/>
+      <circle class="dot" cx="512" cy="553" r="4"/>
+      <text x="632" y="514" class="label">Bottom / base</text>
+      <text x="632" y="534" class="term">shiri · 尻</text>
+    </g>
+  </g>
+
+  <path d="M40 656 H760" stroke="#d7ccbd"/>
+  <text x="40" y="699" class="serif" font-size="25" fill="#282522">How the hollow wall is cast</text>
+  <text x="40" y="724" class="sans" font-size="14" fill="#837b74">SIMPLIFIED VERTICAL CUTAWAY · DOCUMENTED TRADITIONAL SEQUENCE</text>
+
+  <!-- Separate simplified process inset, not a section of the finished side elevation. -->
+  <g aria-label="Vertical casting cutaway showing outer mold, nakago, and wall-forming gap">
+    <!-- Outer body and separate bottom-mold region. -->
+    <path d="M115 1013 V884 C115 806 171 760 252 760 H432 C513 760 569 806 569 884 V1013 Z" fill="url(#clay)" stroke="#776a58" stroke-width="3"/>
+    <path d="M115 1013 H569 V954 C514 974 462 985 342 985 C222 985 170 974 115 954 Z" fill="#ac9678" stroke="#776a58" stroke-width="2"/>
+    <path d="M115 954 C170 974 222 985 342 985 C462 985 514 974 569 954" fill="none" stroke="#756752" stroke-width="2" stroke-dasharray="8 7"/>
+
+    <!-- Mold cavity and temporary core. The dark clearance becomes the wall. -->
+    <path d="M180 950 V876 C180 826 217 802 270 802 H414 C467 802 504 826 504 876 V950
+             C458 966 421 970 342 970 C263 970 226 966 180 950 Z" fill="#292725" stroke="#171615" stroke-width="2"/>
+    <path d="M199 941 V880 C199 842 227 821 274 821 H410 C457 821 485 842 485 880 V941
+             C443 953 407 957 342 957 C277 957 241 953 199 941 Z" fill="#eee5d7" stroke="#9d432d" stroke-width="3" stroke-dasharray="9 7"/>
+    <path d="M220 904 Q342 879 464 904" fill="none" stroke="#c0afa0" stroke-width="2" stroke-dasharray="5 6" opacity=".75"/>
+
+    <!-- Wall gap brackets and process callouts. -->
+    <path d="M176 859 H200 M176 850 V868 M200 850 V868" stroke="#f0b977" stroke-width="3"/>
+    <path d="M504 859 H484 M504 850 V868 M484 850 V868" stroke="#f0b977" stroke-width="3"/>
+
+    <g class="sans">
+      <path class="leader" d="M136 816 H54 V786 H171"/>
+      <circle class="dot" cx="136" cy="816" r="4"/>
+      <text x="54" y="765" class="label">Outer mold</text>
+      <text x="54" y="783" class="term">shapes the exterior</text>
+
+      <path class="leader" d="M202 859 H54 V887 H158"/>
+      <circle class="dot" cx="202" cy="859" r="4"/>
+      <text x="54" y="861" class="label">Wall-forming gap</text>
+      <text x="54" y="881" class="term">molten iron fills here</text>
+
+      <path class="leader" d="M342 897 H612 V819 H744"/>
+      <circle class="dot" cx="342" cy="897" r="4"/>
+      <text x="612" y="793" class="label">Internal core</text>
+      <text x="612" y="813" class="term">nakago · 中子</text>
+      <text x="612" y="836" class="note">temporary mold core—</text>
+      <text x="612" y="854" class="note">broken out after casting</text>
+
+      <path class="leader" d="M448 974 H744"/>
+      <circle class="dot" cx="448" cy="974" r="4"/>
+      <text x="612" y="899" class="label">Bottom-mold</text>
+      <text x="612" y="920" class="label">region</text>
+      <text x="612" y="941" class="term">finished base is</text>
+      <text x="612" y="959" class="term">not detachable</text>
+    </g>
+  </g>
+
+  <rect x="40" y="1040" width="720" height="54" rx="4" fill="#ede4d7" stroke="#d1c2b0"/>
+  <text x="58" y="1062" class="sans note">Documented traditional sequence—workshop methods vary.</text>
+  <text x="58" y="1084" class="sans note">Interior color does not identify oxide, lacquer, resin, enamel, deposits, or corrosion.</text>
+</svg>

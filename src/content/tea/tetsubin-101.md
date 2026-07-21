@@ -101,6 +101,11 @@ kettle-shaped hole; that would make a solid iron weight. The foundry needs an ou
 temporary internal core—the *nakago*—for the hollow. The narrow clearance between the two becomes the kettle wall. Core
 placement therefore governs wall thickness, mass, and whether the finished body is reasonably even.
 
+<figure class="full-size">
+  <img src="/tea/posts/tetsubin-101/tetsubin-anatomy-plate.svg" alt="Annotated side elevation of a tetsubin above a vertical casting cutaway showing the outer mold, temporary internal core, and wall-forming gap" loading="lazy" decoding="async" />
+  <figcaption>A tetsubin is a spouted cast-iron water kettle with a fitted overhead handle. The lower panel makes the casting logic visible: the temporary <em>nakago</em> creates the hollow interior and is broken out after casting, rather than remaining in the finished kettle. Schematic; not to scale; workshop methods vary.</figcaption>
+</figure>
+
 Horie documents one traditional Nambu sequence in useful detail. It is a process worth learning, provided it is not
 mistaken for the only legitimate recipe.
 
@@ -140,6 +145,11 @@ somewhere less glamorous: imagine the kettle full of near-boiling water, suspend
 an exit and the entire load rotating forward into a pour.
 
 Read the object in that order.
+
+<figure class="full-size">
+  <img src="/tea/posts/tetsubin-101/tetsubin-macro-exterior-misakubo.jpg" alt="Full photograph of a dark cast-iron tetsubin showing its textured body, spout, fitted lid and knob, overhead handle, and handle lugs" loading="lazy" decoding="async" />
+  <figcaption>Misakubo's full photograph lets you inspect surface texture, spout root, lid, knob, and the handle-to-lug attachment in one object. These visible details do not prove origin, age, finish, or making method. Photo by <a href="https://commons.wikimedia.org/wiki/File:Nambu_Tetsubin.jpg">Misakubo</a>, licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>; resized to 1280&nbsp;px and renamed, with no crop or other alteration.</figcaption>
+</figure>
 
 **Purpose and interior.** Confirm maker-stated boiling use and obtain the maker's exact word for the interior: oxidized,
 *kama-yaki*, lacquered, enameled, resin-coated, or something else. A photograph may reveal a glaring problem; it cannot
@@ -329,7 +339,7 @@ likewise wait for instructions specific to the documented finish.
 
 If you want to know what the kettle does to your tea, make the comparison deserve an answer. Use the same source water,
 tea, dose, infusion schedule, and serving vessels. Match temperature **at the leaf**, not merely the moment each kettle
-clicked off. Heat the control water in an inert vessel on a comparable schedule. Randomise or blind the cups if another
+clicked off. Heat the control water in an inert vessel on a comparable schedule. Randomize or blind the cups if another
 person can help. Record words such as *rounder* and *sweeter* as observations, then repeat the test on another day.
 
 That home comparison can tell you whether a difference is useful in your own service. It cannot establish a universal
