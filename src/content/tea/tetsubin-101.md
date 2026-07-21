@@ -102,7 +102,7 @@ temporary internal core—the *nakago*—for the hollow. The narrow clearance be
 placement therefore governs wall thickness, mass, and whether the finished body is reasonably even.
 
 <figure class="full-size">
-  <img src="/tea/posts/tetsubin-101/tetsubin-anatomy-plate.svg" alt="Annotated side elevation of a tetsubin above a vertical casting cutaway showing the outer mold, temporary internal core, and wall-forming gap" loading="lazy" decoding="async" />
+  <img src="/tea/posts/tetsubin-101/tetsubin-anatomy-plate.svg" alt="Annotated tetsubin side elevation above casting and finished cutaways showing the outer mold, bottom-mold region, temporary internal and spout cores, wall-forming gap, and finished water-bearing shell" loading="lazy" decoding="async" />
   <figcaption>A tetsubin is a spouted cast-iron water kettle with a fitted overhead handle. The lower panel makes the casting logic visible: the temporary <em>nakago</em> creates the hollow interior and is broken out after casting, rather than remaining in the finished kettle. Schematic; not to scale; workshop methods vary.</figcaption>
 </figure>
 
