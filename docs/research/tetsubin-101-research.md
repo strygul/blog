@@ -1,0 +1,343 @@
+# Tetsubin 101 Research Dossier
+
+Research date: 2026-07-21
+Article audience: Advanced gongfu tea practitioners
+
+## Scope and Evidence Rules
+
+This dossier supports an object-first introduction to tetsubin: what the object is, where it sits among Japanese casting traditions, how it is made, how to evaluate and use one, and what evidence supports claims about water and tea. It is a research record, not an article draft and not a record of personal use.
+
+Source priority follows the approved design:
+
+1. Japanese government, prefectural, municipal, museum, and craft-institution sources for terminology, history, and regional traditions.
+2. Established workshops for their own methods, product specifications, and care instructions. These are **trade sources**, not independent validation of quality, taste, or health claims.
+3. Peer-reviewed research and public-health technical reviews for iron release, corrosion, scale, water chemistry, and tea extraction.
+4. Practitioner and seller observations only as subjective reports. Retail repetition is not treated as corroboration.
+
+Evidence rules used throughout:
+
+- Water and brewing claims are classified only as **Demonstrated**, **Plausible**, **Reported**, or **Unsupported**.
+- “Demonstrated” requires direct measurement for the exact proposition. Results from a small set of tetsubin are not generalized to every kettle.
+- “Plausible” means that established chemistry or adjacent-vessel evidence supports a mechanism, while direct tetsubin or gongfu testing is absent or inadequate.
+- “Reported” means a subjective observation, even if it recurs in workshop, government-promotion, or practitioner material.
+- “Unsupported” means available evidence does not establish the claim, contradicts it, or cannot separate the proposed mechanism from ordinary boiling or source-water effects.
+- Evidence from cast-iron pipe or cookware can support a corrosion or transfer mechanism but cannot prove the magnitude, safety, or sensory result for a tetsubin.
+- Workshop practices are attributed to the named maker. A finish, mold, first-use routine, heat-source claim, or care method is not universal unless independent sources establish it.
+- Conflicting credible accounts remain visible. Historical “origin” stories are phrased as traditions or attributions, not settled dates.
+- No medical, iron-deficiency, nutritional-treatment, or therapeutic conclusion is permitted. The article should not convert measured iron release into a health recommendation.
+- Stable IDs in the source ledger and claim matrix are the citation layer for Tasks 2–6.
+
+Searches completed in English and Japanese included all required queries: `鉄瓶 歴史 博物館`, `鉄瓶 製造工程 伝統的工芸品`, `南部鉄器 伝統的工芸品 経済産業省`, `山形鋳物 鉄瓶 歴史`, `tetsubin museum history Japan`, `Nambu ironware traditional craft official`, `cast iron cookware iron migration water pH study`, `iron kettle dissolved iron boiling water study`, `cast iron corrosion potable water scale chemistry`, `鉄瓶 溶出鉄 水質 研究`, and `鉄瓶 鉄 溶出 pH`, plus targeted follow-up searches for workshops, care, chlorine, and tea extraction.
+
+## Terminology
+
+- **Tetsubin (鉄瓶):** a cast-iron kettle with a body, pouring spout, lid, and overhead handle, made to heat and pour water. Museum records describe it as a tool for boiling and pouring water, and an eighteenth-century Kyoto National Museum example has an iron-cast body, spout, cast-in handle lugs, and a copper handle [SRC-005; SRC-007].
+- **Tetsu kyūsu / iron teapot (鉄急須):** a vessel for infusing and serving tea. In current production it is commonly glass-enamelled inside; Iwachu applies enamel to teapot interiors, and Oigen warns that its enamelled iron teapots should not be heated because the enamel may crack [SRC-013; SRC-014]. “Cast-iron teapot” and “tetsubin” must not be used interchangeably.
+- **Unlined:** for this article, “unlined tetsubin” means **not glass-enamel-lined and intended by its maker for boiling water**. It does not necessarily mean visually bare metal. A kettle may have a heat-grown oxide film, interior lacquer, or another maker-specific surface treatment [SRC-010; SRC-012; SRC-014].
+- **Chagama (茶の湯釜):** an iron kettle/cauldron used in chanoyu. Unlike the familiar tetsubin form, it does not have the tetsubin's pouring spout and permanent overhead handle. Historical accounts connect tetsubin development to chagama but do not establish a single uncontested invention event [SRC-008; SRC-009].
+- **Nambu tekki (南部鉄器):** the government-designated Iwate ironware tradition associated with Morioka and Oshu. It includes tetsubin, chagama, cookware, and other ironwares; it is not a synonym for every Japanese tetsubin [SRC-003; SRC-009].
+- **Yamagata imono (山形鋳物):** a separate government-designated casting tradition whose products include chagama, tetsubin, iron cookware, bronze vessels, and other cast work [SRC-004].
+- **Yakigata / mane-gata (焼型 / 真土型):** a fired loam/sand mold method used for traditional iron-kettle production. Horie calls the loam material *mane* and explains that firing the mold is why the method is also called *yakigata* [SRC-009].
+- **Nakago (中子):** the internal core. The gap between it and the outer mold defines the wall thickness and hollow interior [SRC-009; SRC-010].
+- **Tane-mono (種物):** separately modeled elements such as the spout, handle lugs, and lid knob, incorporated into the body or lid mold before casting [SRC-009].
+- **Tsuru (鉉 / 弦):** the overhead handle. Materials and fabrication vary; examples include copper, steel, and hollow forged-sheet handles [SRC-005; SRC-012; SRC-014].
+- **Kan-tsuki (鐶付):** the pair of lugs cast into the shoulders to receive the handle [SRC-005; SRC-009].
+- **Kama-yaki / kanake-dome (釜焼き / 金気止め):** high-temperature oxidation treatments intended to form an iron-oxide surface. Horie describes roughly 800–1000 °C for about 20 minutes and identifies magnetite, Fe3O4; Oigen describes its own approximately 900 °C process and calls the result an oxidation film [SRC-009; SRC-011]. The terminology and exact process should be attributed.
+- **Arare (霰):** a raised “hailstone” pattern. In the documented traditional process, the negative pattern is impressed into the damp mold point by point [SRC-009; SRC-010]. A visible arale pattern alone does not prove that this manual method was used.
+- **Urushi, cashew, ohaguro, cha-jiru (漆, カシュー, おはぐろ, 茶汁):** exterior or maker-specific finishing materials. Iwachu documents baked lacquer followed by iron-vinegar or tea-liquid coloring; Oigen documents both natural lacquer and modern cashew coating [SRC-010; SRC-011].
+- **Yugaka (湯垢):** mineral scale deposited during water heating, commonly involving calcium and magnesium compounds. Workshop sources treat a stable white film as desirable; technical pipe literature shows that scale composition and protectiveness depend on water chemistry and cannot be inferred from color alone [SRC-017; SRC-019].
+
+## Source Ledger
+
+| ID | Institution or Author | Title | Source Type | Language | Published or Updated | Accessed | URL | Used For |
+|---|---|---|---|---|---|---|---|---|
+| SRC-001 | Ministry of Economy, Trade and Industry (METI) | 伝統的工芸品 | Japanese government policy page | Japanese | Updated 2026-03-03 | 2026-07-21 | https://www.meti.go.jp/policy/mono_info_service/mono/nichiyo-densan/index.html | Legal/administrative meaning of “Traditional Craft”; prevents treating the designation as a universal quality grade |
+| SRC-002 | Association for the Promotion of Traditional Craft Industries | 伝統的工芸品指定品目・指定順 | Official craft-association designation list (PDF) | Japanese | 2022 | 2026-07-21 | https://kyokai.kougeihin.jp/wp/wp-content/uploads/2022/04/d900735c30330a6c53e5da3f7d902943.pdf | Confirms Nambu ironware and Yamagata cast metal as distinct designated traditions from 1975 |
+| SRC-003 | Iwate Prefectural Government | 南部鉄器（いわてお国自慢） | Prefectural government craft/history page | Japanese | Updated 2021-05-20 | 2026-07-21 | https://www.pref.iwate.jp/kensei/profile/1000655/1021500.html | Morioka/Oshu production geography, separate origin traditions, pig iron and lacquer; promotional “mellow water” wording retained only as reported |
+| SRC-004 | Tohoku Bureau of Economy, Trade and Industry | 山形県・山形鋳物 | Japanese regional-government craft page | Japanese | Undated | 2026-07-21 | https://www.tohoku.meti.go.jp/s_densan/yamagata_01.html | Yamagata history, 1975 designation, products, official mold/finishing requirements, thin casting tradition |
+| SRC-005 | Kyoto National Museum | 鉄瓶, collection no. E甲495 | National museum collection record | Japanese | Database copyright 2023; object 18th century | 2026-07-21 | https://knmdb.kyohaku.go.jp/30077.html | Early object evidence; cast-iron body, spout, shoulder lugs, copper handle; unsigned record |
+| SRC-006 | Agency for Cultural Affairs / Takaoka City Museum | 鉄瓶 | National cultural-heritage portal / municipal museum record | Japanese | Undated; object late Edo–Meiji | 2026-07-21 | https://online.bunka.go.jp/heritages/detail/517787 | Non-Nambu Takaoka kettle tradition; kettle defined as boiling/pouring tool; maker record for Kanamori Sahei |
+| SRC-007 | Setagaya Digital Museum | 鉄瓶 | Municipal museum collection record | Japanese | Undated | 2026-07-21 | https://www.setagayadigitalmuseum.jp/collection/10895/detail/93170352/ | Domestic use over brazier/hearth and plain functional definition |
+| SRC-008 | California Academy of Sciences, Anthropology Research Archive | History of Tetsubins | Museum research archive | English | Undated | 2026-07-21 | https://researcharchive.calacademy.org/research/anthropology/tetsubin/hist.html | Cautious statement that first appearance is unclear; sencha-linked development hypothesis; distinction from chagama |
+| SRC-009 | Hiroshi Horie, Iwate University Casting Research Center | Nanbu Ironwares (南部鉄器) | Academic technical review, Journal of the Surface Finishing Society of Japan 70(5) | Japanese with English metadata | 2019 | 2026-07-21 | https://www.jstage.jst.go.jp/article/sfj/70/5/70_255/_pdf/-char/ja | Dual Morioka/Mizusawa history, full traditional construction sequence, mold/core/lid/pattern details, Fe3O4 treatment, marks and names |
+| SRC-010 | Iwachu | 南部鉄瓶の製造工程 | Established workshop production account (trade source) | Japanese | Undated | 2026-07-21 | https://iwachu.co.jp/pages/manufacturing-process | Maker-specific yakigata mold, core, arale, 1400–1500 °C pour, exterior lacquer/ohaguro/tea coloring, handle attachment |
+| SRC-011 | Oigen Foundry | 鉄器の表面処理・塗装「仕上げ」について | Established workshop technical account (trade source) | Japanese | Undated | 2026-07-21 | https://oigen.jp/pages/finish | Maker-specific oxidation, lacquer/cashew finishes, enamel definition, treatment variation and teapot heating warning |
+| SRC-012 | Yamagata Prefecture craft export portal / Chobundo | 長文堂〖山形県山形市〗 | Prefectural trade portal and workshop profile (trade source) | Japanese | 2024-06-11 | 2026-07-21 | https://craft.yamagata-export.jp/2024/06/11/451/ | Yamagata thin-wall practice, one-use molds, lacquer coloring, example of copper lid and workshop-specific IH claims |
+| SRC-013 | Iwachu | 急須・キッチンウェアの製造工程 | Established workshop production account (trade source) | Japanese | Undated | 2026-07-21 | https://iwachu.co.jp/pages/teapot-kitchenware-process | Automated green-sand production and glass-like enamel applied inside iron teapots; contrasts kettle and teapot manufacture |
+| SRC-014 | Oigen Foundry | 鉄瓶 竜文型 1.7L | Established workshop product specification (trade source) | Japanese | Undated | 2026-07-21 | https://oigen.jp/products/tetsubin_ryumon | Concrete variation: cast-iron body/lid, steel hollow handle, interior/exterior lacquer, non-IH, steam-vent warning |
+| SRC-015 | Suzuki Morihisa Studio | 南部鉄器の使用方法 | Established workshop use/care guide (trade source) | Japanese | Undated | 2026-07-21 | https://suzukimorihisa.com/pages/howtouse | First use, medium-or-lower heat, IH caveat, empty/dry routine, no interior scrubbing, repair referral |
+| SRC-016 | Oigen Foundry | 鉄瓶 使いはじめの湯垢づけ | Established workshop use/care guide (trade source) | Japanese | Undated | 2026-07-21 | https://oigen.jp/pages/start_ironkettle01 | Maker-specific hard-water conditioning procedure and scale-handling advice |
+| SRC-017 | Iwachu | 岩鋳の鉄瓶お手入れ | Established workshop use/care guide (trade source) | Japanese | Undated | 2026-07-21 | https://iwachu.co.jp/pages/care-tetsubin | Inspection, first boiling, empty/dry routine, do not remove scale, tea-tannin treatment, lid/steam safety |
+| SRC-018 | Hiroshi Hiratsuka, Kenji Takeno, Ken Sasaki | Water Quality Changes with Heating of Tap Water Using Nanbu Iron Kettle and Foreign-made Iron Kettle | Peer-reviewed original research, Japan Journal of Food Engineering 5(2) | Japanese with English abstract | 2004-06-15 | 2026-07-21 | https://www.jstage.jst.go.jp/article/jsfe2000/5/2/5_2_105/_pdf/-char/ja | Direct kettle measurements: water, heat, pH, hardness, bicarbonate, residual chlorine, total iron, and matcha extraction; key limitations |
+| SRC-019 | Health Canada | Guidelines for Canadian Drinking Water Quality: Guideline Technical Document – Iron | Government public-health technical review | English | 2024-12-27 | 2026-07-21 | https://www.canada.ca/en/health-canada/services/publications/healthy-living/guidelines-canadian-drinking-water-quality-guideline-technical-document-iron.html | Iron corrosion/release, Fe(II)/Fe(III), scale mineralogy, water-quality controls, aesthetic discoloration threshold; pipe evidence only |
+| SRC-020 | Darren A. Lytle et al. | The effect of chloride, sulfate and dissolved inorganic carbon on iron release from cast iron | Peer-reviewed original research, Water Research 183 | English | 2020-09-15 | 2026-07-21 | https://pmc.ncbi.nlm.nih.gov/articles/PMC7520071/ | Controlled cast-iron release mechanisms under varied water chemistry; explicitly not a kettle or heating study |
+| SRC-021 | Melanie Franks, Peter Lawrence, Alireza Abbaspourrad, Robin Dando | The Influence of Water Composition on Flavor and Nutrient Extraction in Green and Black Tea | Peer-reviewed original research, Nutrients 11(1) | English | 2019-01-03 | 2026-07-21 | https://www.mdpi.com/2072-6643/11/1/80 | Measured water composition, tea extraction and consumer sensory differences; non-iron vessel and non-gongfu limitations |
+| SRC-022 | Aurélie Mossion et al. | Effect of water composition on aluminium, calcium and organic carbon extraction in tea infusions | Peer-reviewed original research, Food Chemistry 106(4) | English | 2008-02-15 | 2026-07-21 | https://doi.org/10.1016/j.foodchem.2007.05.098 | Independent evidence that water mineralization can change tea extraction; no tetsubin and no iron-vessel test |
+
+## History and Regional Traditions
+
+### What can be stated securely
+
+- Tetsubin existed by the eighteenth century: Kyoto National Museum catalogues an unsigned Japanese iron-cast kettle from that century with a side spout, cast-in shoulder lugs, and copper handle [SRC-005].
+- The object was not exclusive to Iwate. A Takaoka City Museum record identifies a late-Edo-to-Meiji iron kettle by Kanamori Sahei and describes it as a tool for boiling and pouring water [SRC-006]. Yamagata's designated casting tradition also explicitly includes tetsubin [SRC-004].
+- “Nambu ironware” now brings together two regional histories. Iwate Prefecture and Horie distinguish Morioka, where domain patronage and tea-kettle casting developed in the seventeenth century, from the Oshu/Mizusawa lineage, traditionally traced to late-Heian casting and later everyday ironware [SRC-003; SRC-009]. Horie says the two associations were joined under the Nambu name in 1959 [SRC-009].
+- Both Nambu ironware and Yamagata cast metal were among the first crafts designated under the Traditional Craft Industries law on 1975-02-17 [SRC-002; SRC-004; SRC-009]. The designation describes a regulated regional tradition; it does not mean that every object sold with regional language is certified, handmade, or suitable for boiling [SRC-001].
+
+### Origin accounts and conflicts
+
+- The California Academy research archive says the date of the first tetsubin is unclear and presents a relationship with the spread of sencha as a hypothesis [SRC-008].
+- Horie gives the documented Morioka chagama lineage, including Koizumi Goroshichi Kiyoyuki's appointment in 1659, then relays the tradition that third-generation Koizumi Nizaemon reduced a tea kettle and added a spout and handle, with the name evolving from *tetsu-yakan* through other terms to *tetsubin* over roughly a century [SRC-009].
+- Iwate Prefecture compresses the Morioka beginning to “early seventeenth century” and separately gives the Oshu origin tradition [SRC-003]. These accounts operate at different levels—regional ironware, tea-kettle production, and the tetsubin form—and should not be merged into a single precise invention date.
+- The article can say that tetsubin emerged from older casting and kettle forms during the Edo period, in a tea and domestic-hot-water context. It should not say that one named person “invented the tetsubin in year X” as settled fact.
+
+### Article-safe regional framing
+
+Use Nambu as the best-documented regional case, not as the whole category. Put Yamagata beside it as an independently designated tradition with its own thin-wall, surface, and mold vocabulary [SRC-004; SRC-012]. Briefly use the Kyoto and Takaoka museum objects to show that the broader history is geographically richer than a single label [SRC-005; SRC-006].
+
+## Anatomy and Construction
+
+### Principal parts
+
+1. **Body and base:** the water-bearing cast shell and the heat-contact area.
+2. **Mouth and shoulder:** receive the lid and carry the handle lugs.
+3. **Spout:** modeled separately in the traditional sequence, including its own core, then incorporated into the body mold so it casts with the body [SRC-009].
+4. **Kan-tsuki:** cast-in lugs that receive the handle [SRC-005; SRC-009].
+5. **Tsuru:** overhead handle, commonly fitted late in production. It may be copper, steel, solid, or hollow-forged sheet depending on the piece [SRC-005; SRC-014].
+6. **Lid and knob:** made in separate upper/lower molds in Horie's described process. Materials need not match the body: documented examples include cast-iron lids and copper lids [SRC-009; SRC-012; SRC-014].
+7. **Nakago:** the core that establishes the cavity and wall thickness [SRC-009; SRC-010].
+
+### Traditional sequence documented by Horie
+
+Horie divides traditional Nambu kettle production into design/pattern making; separately modeled spout, lugs, and knob; molds for body, bottom, core, and lid; melting and pouring; fettling and kama-yaki; coloring; and handle fitting [SRC-009]. The described body mold uses successively finer fired loam, receives hand-impressed surface work while damp, and is itself fired above about 800 °C. The core is formed from sand and clay-water in two halves, joined, and dried. The finished mold is smoked before assembly and casting [SRC-009].
+
+For arare work, Horie reports about 2,000 individual impressions on one example and emphasizes alignment and depth. Iwachu likewise describes impressing each point with a conical brass tool [SRC-009; SRC-010]. This evidence supports how documented traditional arare is made; it does not let a buyer authenticate technique from pattern appearance alone.
+
+Horie describes a post-casting treatment at approximately 800–1000 °C for about 20 minutes, forming an Fe3O4 film over the object. The exterior film is then brushed back before coloring with lacquer, iron-vinegar, and tea liquid; the interior oxide is retained as a corrosion-resistant surface [SRC-009]. Oigen's maker-specific version uses approximately 900 °C and leaves most of its kettle interiors in that oxidized state [SRC-011].
+
+### Documented variation: do not universalize one workshop
+
+| Topic | Iwachu account | Oigen account/example | Chobundo/Yamagata account | Safe conclusion |
+|---|---|---|---|---|
+| Mold material and formation | Fired form, foundry sand plus clay liquid, rotating profile plate [SRC-010] | Product identified as handmade yakigata; detailed mold recipe not given on cited page [SRC-014] | Official Yamagata rules allow *hikigata* or *komegata*, including lost-wax; Chobundo describes one-use molds [SRC-004; SRC-012] | Traditional sand/loam systems share principles, but exact mold bodies and forming methods vary |
+| Mold reuse | Says one product is obtained from one mold/form in this line [SRC-010] | Not specified in cited source | Explicitly says its detailed molds are not reused [SRC-012] | Record one-use mold as documented practice, not a definition of every kettle |
+| Core | Internal core placed between body and bottom molds; gap fixes thickness [SRC-010] | Not detailed in cited source | Thin-wall result emphasized, core method not detailed [SRC-012] | Core accuracy is central, but workshop recipes are not interchangeable |
+| Patterning | Arare individually impressed in damp mold [SRC-010] | Dragon modeled by hand-pressing into sand mold [SRC-014] | Plain cast skin and detailed one-use patterned molds both documented [SRC-012] | Plain and patterned surfaces can both represent skilled work |
+| Oxidation treatment | Product pages distinguish interior kama-yaki; production page emphasizes exterior coloring [SRC-010; SRC-017] | Approximately 900 °C oxidation; most interiors left in that state [SRC-011] | Official Yamagata requirements mention *kanake-dome* for cooking tools but not one universal temperature [SRC-004] | Ask the maker what the interior treatment actually is |
+| Exterior finish | Baked lacquer around 250 °C, then ohaguro or tea liquid at roughly 100–150 °C [SRC-010] | Natural lacquer or modern cashew coating, depending on product [SRC-011] | Chobundo identifies lacquer-baked coloring [SRC-012] | “Black” does not identify a single finish |
+| Interior finish | Current kettle care assumes an oxide/scale-bearing interior [SRC-017] | Most are oxidized only, while specific products may be interior-lacquered [SRC-011; SRC-014] | Product-specific; do not infer from region [SRC-012] | Unlined should mean non-enamel and heat-intended, not untreated bare iron |
+| Handle | Fitted after coloring; material not universalized [SRC-010] | Example uses hollow forged steel sheet and fixed seat fittings [SRC-014] | Product details vary | Check heat behavior, security, clearance, and whether it folds |
+| Lid | Separate mold sequence documented by Horie [SRC-009] | Example uses cast iron [SRC-014] | Example uses copper [SRC-012] | Lid material is an intentional variable, not an authenticity test |
+
+The adjacent Iwachu teapot line is materially different: it uses an automated molding line and applies glass-like enamel inside the teapot [SRC-013]. That comparison is useful for explaining why visual similarity does not establish heating suitability.
+
+## Reading Condition and Workmanship
+
+Read a tetsubin first as a working hot-water vessel, then as a signed or decorative object.
+
+### Fitness for use
+
+- **Maker-stated purpose:** confirm that the exact model is sold for boiling, not merely as an iron teapot. A smooth, glass-like enamel interior points toward teapot construction and should not be put on heat unless its maker explicitly permits it [SRC-011; SRC-013].
+- **Interior treatment:** ask for the maker's wording—kama-yaki, oxidized, interior lacquer, enamel, resin, or other coating. Dark color alone cannot identify the treatment [SRC-011; SRC-014].
+- **Cracks and leakage:** inspect the base, spout root, shoulder/lug junctions, and any old repair. Iwachu advises checking for cracks and handle security before first use [SRC-017]. For a used piece, obtain a seller-authorized cold-water leak test or maker inspection; do not make an undocumented antique the first boiling experiment.
+- **Handle:** check firm attachment, adequate hand clearance, balance when full, and whether it is fixed or folding. An attractive hollow handle may reduce heat transfer but is still a hot metal part requiring protection [SRC-014].
+- **Lid and steam path:** a close fit is useful, but the vessel must vent. Oigen and Iwachu warn that boiling with the lid closed can cause spitting or overflow, and advise removing or offsetting it [SRC-014; SRC-017].
+- **Spout:** look for an open passage, clean cutoff, controlled pour, and absence of cracks at the root. Claims of “perfect pour” remain workshop or seller claims unless tested.
+- **Capacity and mass:** compare usable fill, not brimful capacity. Include the water mass when judging whether the kettle suits repeated gongfu service.
+
+### Workmanship signals, not verdicts
+
+- Even wall thickness, balanced stance, clean transitions around spout and lugs, controlled casting skin, and a secure handle are practical signals.
+- Arare alignment and depth can show mold skill in documented hand work [SRC-009; SRC-010], but a decorative motif does not authenticate origin or production method.
+- Thin walls can reduce mass and are a stated Yamagata/Chobundo strength [SRC-004; SRC-012], but thinness is not automatically more durable or better for every heat source.
+- Copper versus iron lids, lacquer versus cashew exteriors, and fixed versus folding handles are design choices, not a universal ranking [SRC-011; SRC-012; SRC-014].
+
+### Marks, age, and provenance
+
+Horie reports that maker marks on Nambu kettles became common around the middle Meiji period, first as freehand surnames and later with workshop names and art names pressed into molds [SRC-009]. The eighteenth-century Kyoto National Museum kettle has no recorded inscription [SRC-005], while a current Oigen page warns that even its own products may lack a stamp depending on model or year [SRC-014]. Therefore:
+
+- a mark can be evidence to research, not proof by itself;
+- absence of a mark does not prove age or low quality;
+- a famous name, “Japan,” “Nambu,” “old,” or “handmade” needs documentary provenance and object-level examination;
+- signatures and repairs fall outside a beginner article's ability to authenticate remotely.
+
+## Water Chemistry and Tea Extraction
+
+### Direct and adjacent technical evidence
+
+| Source | Test material | Water composition and starting pH | Heating/contact conditions | Measured iron species | What it demonstrates | Transfer limit |
+|---|---|---|---|---|---|---|
+| SRC-018 | Six actual new iron kettles: two Mikasa and two Marunambu supplied by Oigen, each shape with and without interior lacquer; two commercially purchased Chinese kettles of unknown maker/material | Hiroshima tap water, pH 7.00, hardness 19.00 mg/L; distilled water at conductivity ≤5 µS/cm used in controls; 1.5 L specified for distilled-water tests | LPG burner, adjusted to match temperature rise; sensor 1 cm above base; boiled and sampled through 30 min (longer curves also shown); matcha test used water heated 30 min, 1.00 g/100 mL, analyzed after 3 min | Total iron only; no Fe(II)/Fe(III) speciation. Maximum reported for an uncoated Nanbu kettle was 0.03 mg/L in the 30-min discussion | In these vessels, the four Nanbu kettles showed comparatively small pH/hardness/bicarbonate changes; two foreign kettles showed large increases. Residual chlorine fell during heating. Matcha amino-acid/tannin extraction differed between groups | Small, maker-supplied Nanbu sample; unknown foreign materials; no non-iron boiling control; no blinded sensory panel; matcha is not gongfu leaf infusion; maker thanked for supplying kettles |
+| SRC-020 | A 90-year-old unlined cast-iron drinking-water pipe section with established scale | Initial pH 8.0; varied chloride, sulfate, and dissolved inorganic carbon (DIC); temperature 23 ±1.2 °C | Stagnant pipe reactor, primarily 24 h, with some 48/72 h observations over a long conditioning study | Total iron and Fe(II), by spectrophotometry and ICP-AES for total iron | Sulfate/chloride/DIC and scale state materially change iron release; reported total iron ranged from below detection to about 4 mg/L across conditions | Old pipe, room temperature, long contact, different surface-area/volume and hydraulics; mechanism only, not a kettle magnitude or taste result |
+| SRC-019 | Technical synthesis of unlined cast-iron/ductile-iron drinking-water systems and scales | Many waters; review identifies pH, alkalinity/buffer intensity, DIC, dissolved oxygen, chloride, sulfate, organics, disinfectants, flow, and temperature as controls | Distribution-system contact, generally not boiling | Dissolved Fe(II), particulate and precipitated Fe(III), and oxide/oxyhydroxide/carbonate scale phases including magnetite, goethite, lepidocrocite, ferrihydrite, and siderite | Corrosion can release Fe(II), which can remain dissolved or precipitate; scale can be protective or loose depending on chemistry; discoloration is an operational/aesthetic warning | Public-health pipe review, not a tetsubin experiment; should guide mechanisms and conservative interpretation only |
+| SRC-021 | Green and black loose-leaf tea brewed in pre-warmed gaiwan; 103-person consumer panel plus instrumental analysis | Deionized, tap, and bottled waters measured for Ca, Mg, Na, Fe, Cu, and residual chlorine; tap had Ca 53.6 mg/L and Mg 9.46 mg/L versus bottled Ca 8.0/Mg 1.37 and deionized Ca 3.0/Mg 0.1; water pH not the primary reported variable in the cited table | Green: 2.5 g/125 mL, 80 °C, 3 min. Black: same ratio, 100 °C, 5 min | Iron in source waters measured at 0.05 mg/L; no iron-vessel migration | Water type changed color, turbidity, green-tea EGCG extraction, and consumer sensory ratings; high-mineral tap water produced less bitter, apparently sweeter green tea in this study | No iron vessel, no tetsubin-conditioned water, only two teas, U.S. general-consumer panel, single infusions rather than repeated gongfu infusions |
+| SRC-022 | Whole and broken black/green tea leaves infused with ultra-pure and mineral waters (four waters in the main extraction comparison; a fifth high-mineral water used only for scum testing) | Waters ranged from ultra-pure to highly mineralized. pH was measured after cooling; ultra-pure water was unstable at pH 5.7–6.5, while the mineral waters' pH rose after heating as dissolved CO2 was lost | 600 g water at 95 °C added to the specified leaf mass in a clean teapot; 3-minute infusion, sieve filtration, then 20-minute cooling before weighing | Aluminium and calcium were measured by ICP-AES; organic carbon and polyphenols were also measured. No iron vessel or iron-migration outcome | Higher mineralization was associated with lower extraction of total organic carbon and polyphenols; calcium-leaf complexation was proposed | Supports source-water/extraction mechanism only; cannot establish a tetsubin effect or preferred gongfu profile |
+
+### What the direct kettle study does and does not show
+
+The strongest direct evidence is narrower than common marketing language. In SRC-018, the four tested Nanbu kettles did **not** substantially transform the low-hardness Hiroshima tap water over the first 30 minutes. The uncoated Marunambu kettle's total iron reached at most 0.03 mg/L in the reported comparison. The two unknown foreign kettles showed much larger pH, hardness, and bicarbonate increases; rinse/control experiments led the authors to propose release of previously adsorbed calcium and magnesium rather than leaching of kettle alloy constituents.
+
+The matcha experiment found lower amino-acid and tannin extraction with the two foreign-kettle waters than with the four Nanbu-kettle waters. That is a measured extraction result, not a blinded taste result, and not proof that “Nanbu water improves tea.” It compares six individual objects after 30 minutes of heating and uses matcha rather than repeated gongfu infusions [SRC-018].
+
+Residual chlorine dropped to near zero after roughly 20–30 minutes in the Nanbu-kettle curves, whether the interiors were lacquered or not [SRC-018]. Because the study did not include an inert kettle boiled on the same schedule, it cannot separate ordinary heating from an iron-specific mechanism. Health Canada's review does establish that Fe(II) can react with oxidants including chlorine, but that general chemistry does not demonstrate that a tetsubin is the cause of chlorine loss in normal tea service [SRC-019].
+
+### Water claims by category
+
+- **Demonstrated:** some actual tetsubin can release measurable total iron into water; magnitude depends on the exact kettle, treatment, water, and protocol. SRC-018 measured only a small amount in its tested new Nanbu vessels.
+- **Demonstrated:** source-water mineral composition can change extraction, color, turbidity, and sensory perception of tea [SRC-021; SRC-022].
+- **Demonstrated:** water chemistry and scale state affect corrosion and iron release from unlined cast iron [SRC-019; SRC-020].
+- **Plausible:** a tetsubin's oxide/scale surface and a practitioner's source water can change iron transfer and other ions enough to affect some tea extractions. The mechanism is consistent with the evidence, but kettle-by-kettle gongfu measurements are missing.
+- **Reported:** “rounder,” “softer,” “sweeter,” “thicker,” or “less sharp” water and tea. Iwate's promotional page itself uses “it is said” wording [SRC-003]. These descriptors are useful as test prompts, not guaranteed outcomes.
+- **Unsupported:** a tetsubin universally lowers measured hardness or literally “softens” water. The direct study's four Nanbu kettles showed small hardness increases, not softening [SRC-018].
+- **Unsupported:** iron ions are proven to be the unique reason chlorine disappears during tetsubin boiling. The direct study lacks a non-iron boiling control [SRC-018].
+- **Unsupported:** all tetsubin add a useful, consistent dose of Fe(II). The direct kettle study measured total iron, not species, and adjacent pipe studies cannot supply a kettle dose [SRC-018; SRC-019; SRC-020].
+- **Unsupported:** a tetsubin always improves every tea, or can fix unsuitable source water. Tea research instead shows water effects vary by water and tea [SRC-021; SRC-022].
+
+### A future gongfu test that would resolve more
+
+An adequate test would use the same source water, matched temperature/time/evaporation, an inert-kettle control, multiple identified tetsubin with documented finishes and use histories, blinded randomized tasting, repeated infusions of more than one tea category, and measurements of pH, conductivity, alkalinity, hardness, Ca, Mg, chloride/sulfate, residual disinfectant, total iron, dissolved iron, and Fe(II)/Fe(III). The current literature located for this dossier does not provide that complete design.
+
+## Preparation, Heating, Care, Rust, and Scale
+
+### First use: maker instructions conflict
+
+There is no single evidence-backed universal conditioning ritual:
+
+- Suzuki Morihisa says to fill about 70%, boil on medium-or-lower heat, and discard once or twice until the water is clear [SRC-015].
+- Iwachu says to rinse, fill about 80%, boil on medium heat, discard, and repeat two or three times until clear [SRC-017].
+- Oigen recommends a maker-specific scale-building routine: water around 300 mg/L hardness, about 80% full, boil around 20 minutes without the lid, empty/dry, and repeat three times [SRC-016].
+
+The article should therefore say: follow the maker's instructions for that exact finish. For an undocumented used kettle, begin with maker or conservator identification, a leak/condition check, and conservative rinse/boil/discard cycles; do not prescribe aggressive restoration.
+
+### Heating and daily operation
+
+- Match the heat source to the exact model. One Oigen kettle is explicitly non-IH, while Chobundo lists IH-compatible pieces; Suzuki Morihisa notes that some small bases may not trigger an IH unit [SRC-012; SRC-014; SRC-015].
+- Use medium or lower heat unless the maker says otherwise. Suzuki Morihisa warns that strong IH vibration may contribute to cracking; Iwachu and Oigen warn against boil-over [SRC-014; SRC-015; SRC-017].
+- Leave headspace and boil with the lid removed or offset so steam can escape [SRC-014; SRC-017].
+- Treat the body, lid, handle, and steam as burn hazards. Use a dry mitt and pour deliberately [SRC-014].
+- Empty the kettle promptly after service. Do not use it as storage for hot or cold water [SRC-015; SRC-017].
+- Remove the lid and let residual heat dry the interior. If the maker permits, use only a brief, gentle reheat; excessive dry heating is a documented damage risk [SRC-015; SRC-017].
+
+### Cleaning and scale
+
+Workshop guidance consistently says not to scrub the interior, use detergent, or remove a stable scale/oxide film [SRC-015; SRC-017]. The independent technical basis is only partial: public-health pipe evidence shows that high-calcium-carbonate water can form a thinner, hard, adherent scale while low-alkalinity water can form thick, loose corrosion scale [SRC-019]. That makes a protective role plausible, but it does not prove that every white kettle deposit is beneficial.
+
+Safe distinction for the article:
+
+- **Stable scale:** adherent pale/white mineral film, clear neutral-tasting water, no flaking or obstruction. Leave it alone under maker guidance.
+- **Cosmetic surface change:** small orange/red points can occur during use; maker sources say they are not automatically functional failure when boiled water remains clear and without off odor [SRC-017]. Keep this as a maker practice, not a blanket safety guarantee.
+- **Active-use concern:** persistent red/brown turbidity, metallic/off odor or flavor, loose flakes, blocked spout, seepage, deep pitting, crack, or unstable repair. Stop normal service and consult the maker or a qualified restorer. Health Canada's technical review treats visible iron release as an aesthetic/operational warning and notes that scale behavior depends on water and accumulated material [SRC-019].
+
+Avoid routine acid descaling in the article. It may strip oxide and scale, alter lacquer/coatings, and expose active metal; no maker-independent tetsubin protocol was located. Descaling should be maker-specific.
+
+### Rust treatment
+
+Iwachu and Oigen describe simmering used green tea so tannins react with iron/corrosion products and darken/stabilize the affected surface [SRC-017]. This is an established workshop practice and chemically plausible, but this search did not locate a controlled tetsubin study that quantified its durability or safety across different finishes. It belongs as attributed maker guidance, not as a universal restoration recipe. Severe corrosion, leaks, or an undocumented coating require professional assessment.
+
+## Buying Framework
+
+Use this order; it prioritizes serviceability over labels.
+
+1. **Intended job:** boiling water for gongfu service, display/collection, or tea infusion. Do not buy an enamelled iron teapot for stovetop boiling [SRC-011; SRC-013].
+2. **Exact interior:** obtain clear photographs and written confirmation of enamel, oxide, lacquer, resin, or other treatment. “Unlined” in a listing is not enough [SRC-011; SRC-014].
+3. **Heat source:** verify gas, charcoal, radiant electric, and IH compatibility at model level. Regional identity does not answer this [SRC-012; SRC-014; SRC-015].
+4. **Usable capacity and full weight:** estimate normal fill below the shoulder, add one kilogram per liter of water, and test whether the resulting mass suits repeated pours.
+5. **Condition:** cracks, seepage, unstable repairs, deep pitting, persistent colored water, or unknown coatings outrank cosmetic patina. Request a seller-authorized leak test for a working purchase [SRC-017].
+6. **Handle, lid, and pour:** secure lugs, balanced handle, hand clearance, steam venting, lid control, unobstructed spout, and clean cutoff. A fixed handle affects storage and filling [SRC-014].
+7. **Construction and finish:** ask what mold system, interior treatment, exterior finish, lid material, and handle construction were used. Accept legitimate variation rather than searching for one “correct” recipe [SRC-009; SRC-010; SRC-011; SRC-012; SRC-014].
+8. **Provenance:** maker invoice, box/paperwork, prior-owner history, and object-level comparison are stronger than a single mark. Marks alone neither date nor authenticate [SRC-005; SRC-009; SRC-014].
+9. **Repair and return path:** prefer a maker/seller who states how cracks, loose handles, coatings, and repairs are handled. Suzuki Morihisa explicitly directs owners back to the studio for repair assessment [SRC-015].
+
+Broad, non-price tiers for the later article:
+
+- **Documented working kettle:** maker-identified, heat-intended, serviceable, with known finish and care instructions. This is the baseline functional tier, whether factory-produced or handmade.
+- **Craft-focused kettle:** documented hand mold/pattern/finishing work, lower-volume production, and stronger object-level refinement. The premium pays for labor, design, and provenance—not a guaranteed water effect.
+- **Artist/collector kettle:** significance rests on authorship, rarity, age, design, or documented history. Suitability for heating must be evaluated separately and may be lower than that of a modern working kettle.
+
+Red flags: “tetsubin” used for an enamelled teapot; no interior photograph; promises of treating iron deficiency; guaranteed sweeter tea; “ancient” or “handmade” supported only by a stamp; seller refusal to discuss leakage, repairs, or lining; and current product claims treated as independent science.
+
+## Disputed or Unsupported Claims
+
+| Claim encountered | Evidence status | Why it is disputed or unsupported | Article handling |
+|---|---|---|---|
+| “All tetsubin are Nambu ironware.” | Unsupported | Museum records document Kyoto/Takaoka examples and Yamagata is a separate designated tetsubin-producing tradition [SRC-004; SRC-005; SRC-006]. | Correct directly. Nambu is a major regional tradition, not the category definition. |
+| “The tetsubin was invented by one named maker in one exact year.” | Unsupported as a settled fact | The earliest appearance is described as unclear; later sources relay regional origin traditions at different levels [SRC-008; SRC-009]. | Use “traditionally attributed” and a broad Edo-period development. |
+| “A true tetsubin has completely bare iron inside.” | Unsupported | Documented heat-intended kettles can have an oxide film or interior lacquer; enamel is the critical teapot distinction in the cited modern production accounts [SRC-011; SRC-014]. | Define by boiling purpose and non-enamel interior, then name the actual finish. |
+| “Black interior means black-rust/kama-yaki and proves authenticity.” | Unsupported | Black appearance can result from oxide, lacquer, enamel, cashew/resin, or other treatments [SRC-011; SRC-013; SRC-014]. | Require maker documentation; do not authenticate by color. |
+| “Handmade kettles always change water more or better.” | Unsupported | SRC-018 found similarly small changes in both tested handmade Marunambu and machine-molded Mikasa Nanbu vessels; sample is too small for rankings. | Separate craft value from measured water performance. |
+| “Tetsubin softens water by lowering hardness.” | Unsupported | The direct kettle study saw small hardness increases in the tested Nanbu kettles and large increases in two unknown foreign kettles [SRC-018]. | Avoid literal “softens.” If used, reserve “soft/round” for reported sensory language. |
+| “Iron ions uniquely remove chlorine, which proves why the water tastes better.” | Unsupported | Iron/chlorine reaction is chemically possible, but the tetsubin study lacks an inert boiling control and residual chlorine fell in lacquered and uncoated kettles [SRC-018; SRC-019]. | Say ordinary heating and water chemistry are confounders; no unique causal proof. |
+| “Tetsubin water is always richer in absorbable Fe(II).” | Unsupported | Direct kettle research measured total iron only; pipe literature shows speciation varies with oxygen, pH, oxidants, and scale [SRC-018; SRC-019; SRC-020]. | Do not assign a species or dose without measurement. |
+| “A tetsubin treats iron deficiency or provides a medical benefit.” | Unsupported and out of scope | No located evidence establishes a therapeutic dose or clinical outcome for tetsubin use; the direct kettle result was small and non-speciated [SRC-018]. | Omit; explicitly reject medical/nutritional-treatment framing. |
+| “Every tea tastes sweeter, smoother, or better with tetsubin water.” | Reported, not demonstrated | Government promotion and workshops repeat the observation, while controlled tea-water research shows effects vary by mineral composition and tea type [SRC-003; SRC-021; SRC-022]. | Present as a variable sensory report and propose controlled comparison. |
+| “White scale is always good; red rust is always harmless.” | Unsupported as an absolute | Scale mineralogy and adhesion vary; visible/particulate iron can indicate active release. Workshop advice is product practice, not universal safety evidence [SRC-017; SRC-019]. | Distinguish stable film from turbidity, flakes, pitting, cracks, and off water. |
+| “A stamp proves age, maker, and authenticity.” | Unsupported | Marks became common in a historical period, unsigned museum objects exist, and modern maker examples may be unstamped [SRC-005; SRC-009; SRC-014]. | Treat marks as one provenance clue only. |
+| “All traditional kettles are IH-compatible.” | Unsupported | Workshop specifications conflict at product level [SRC-012; SRC-014; SRC-015]. | Verify the exact base/model and use moderate power. |
+| “There is one correct first-use ritual.” | Unsupported | Three established workshops give materially different rinse/boil/hard-water procedures [SRC-015; SRC-016; SRC-017]. | Follow exact maker guidance and state the conflict. |
+
+## Claim Matrix
+
+| Claim ID | Exact Claim | Classification | Confidence | Supporting Sources | Conflicts or Limits | Article Decision |
+|---|---|---|---|---|---|---|
+| CLM-001 | A tetsubin is a cast-iron vessel with spout, lid, and overhead handle used to boil and pour water. | Documented | High | SRC-005; SRC-006; SRC-007 | Historical forms vary in proportion and materials. | Use as the opening definition. |
+| CLM-002 | A modern enamelled iron teapot is not automatically suitable for direct heating. | Documented | High | SRC-011; SRC-013 | Maker-specific exceptions would need explicit instructions. | Use as the primary object distinction. |
+| CLM-003 | “Unlined” should not be equated with visually bare iron because boiling kettles may have oxide or interior lacquer treatments. | Documented | High | SRC-011; SRC-014 | Terminology varies by maker and retailer. | Define operationally as non-enamel and intended for boiling; identify finish separately. |
+| CLM-004 | Nambu ironware is associated with Morioka and Oshu and joins two different historical casting lineages. | Documented | High | SRC-003; SRC-009 | Origin narratives contain traditional attributions. | Use with separate Morioka and Oshu sentences. |
+| CLM-005 | Tetsubin are not exclusive to the Nambu tradition. | Documented | High | SRC-004; SRC-005; SRC-006 | Museum examples do not map every production center. | Use to prevent category/region confusion. |
+| CLM-006 | The exact first appearance and inventor of the tetsubin are not settled by the located evidence. | Documented uncertainty | High | SRC-008; SRC-009 | Horie relays a specific Koizumi tradition; it remains an attribution. | Use a cautious Edo-period development account. |
+| CLM-007 | Traditional Nambu kettle making can involve separate body, base, core, lid, spout, lug, and knob molds followed by casting, oxide treatment, coloring, and handle fitting. | Documented | High | SRC-009; SRC-010 | Industrial and other regional methods may differ. | Use as the anatomy-led production sequence. |
+| CLM-008 | In documented traditional arare work, the pattern is impressed point by point into the mold. | Documented | High | SRC-009; SRC-010 | Pattern appearance alone cannot establish manual production. | Use, followed immediately by the authentication caveat. |
+| CLM-009 | A traditional kama-yaki treatment can form an Fe3O4-rich oxide film that is retained on the interior. | Documented | High | SRC-009 | Oigen's current process uses related but maker-specific terminology and controls. | Use with attribution and temperature range, not as universal specification. |
+| CLM-010 | Current kettle interiors and exteriors use multiple finishes, including oxidation, natural lacquer, and cashew coating. | Documented | High | SRC-010; SRC-011; SRC-014 | Other makers may use other coatings. | Use to teach buyers to ask for exact finish. |
+| CLM-011 | Lid and handle materials are not reliable authenticity tests. | Documented | High | SRC-005; SRC-012; SRC-014 | The sample is illustrative rather than exhaustive. | Use copper/iron lid and copper/steel handle examples. |
+| CLM-012 | A maker mark alone cannot securely date or authenticate a tetsubin. | Documented inference | High | SRC-005; SRC-009; SRC-014 | Full connoisseurship requires object-level expertise beyond these sources. | Use in condition/provenance section. |
+| CLM-013 | In one direct study, four tested new Nanbu kettles changed low-hardness Hiroshima tap water much less than two tested foreign kettles of unknown manufacture. | Demonstrated | Medium | SRC-018 | Six objects; maker supplied Nanbu set; foreign composition unknown; no inert-kettle control. | Use only with full design and limitation sentence. |
+| CLM-014 | In that study, the maximum reported total iron release for an uncoated Nanbu kettle was about 0.03 mg/L during the discussed 30-minute period. | Demonstrated | Medium | SRC-018 | Total iron, not Fe(II); one water and small sample; longer curves differ. | Use to show magnitude can be small and condition-dependent. |
+| CLM-015 | The same study found altered amino-acid and tannin extraction in matcha prepared with waters from different kettle groups. | Demonstrated | Medium | SRC-018 | Chemical extraction, not blinded taste; matcha and 30-minute heating do not represent normal gongfu service. | Use as a narrow result, not an “improved tea” claim. |
+| CLM-016 | Water chemistry and existing scale can materially change corrosion and iron release from unlined cast iron. | Demonstrated | High | SRC-019; SRC-020 | Evidence is chiefly pipe-scale research at non-boiling temperatures. | Use as mechanism and reason not to universalize kettle results. |
+| CLM-017 | Source-water mineral composition can change tea extraction and sensory perception. | Demonstrated | High | SRC-021; SRC-022 | Tea type, protocol, and panel affect direction and preference. | Use to center base water before kettle mythology. |
+| CLM-018 | A tetsubin may alter water and tea differently depending on source water, finish, scale, and heating protocol. | Plausible | Medium | SRC-018; SRC-019; SRC-020; SRC-021 | Complete controlled gongfu experiments were not located. | Use as the main calibrated synthesis. |
+| CLM-019 | Tetsubin water is universally “softer” in the analytical hardness sense. | Unsupported | High | SRC-018 | Sensory “soft” is a separate subjective descriptor. | Reject literal hardness claim. |
+| CLM-020 | Iron is proven to be the unique cause of residual-chlorine loss during tetsubin boiling. | Unsupported | Medium | SRC-018; SRC-019 | Chemically possible, but no inert boiling control isolates it. | Reject causal certainty. |
+| CLM-021 | Tetsubin consistently supply a meaningful amount of Fe(II). | Unsupported | High | SRC-018; SRC-019; SRC-020 | Direct study measured total iron only and found small release; adjacent studies are not kettles. | Omit species/dose claims. |
+| CLM-022 | Tetsubin water treats iron deficiency or provides a therapeutic benefit. | Unsupported | High | SRC-018 | No clinical evidence or established therapeutic dose; explicitly out of scope. | State that the article makes no medical or nutritional-treatment claim. |
+| CLM-023 | Users and trade sources report rounder, mellower, or better-tasting water and tea from tetsubin. | Reported | Medium | SRC-003; SRC-015 | Promotional and workshop sources; subjective, expectation-prone, not universal. | Present only as a reason for blinded comparison. |
+| CLM-024 | A tetsubin improves every tea regardless of source water. | Unsupported | High | SRC-018; SRC-021; SRC-022 | Controlled tea evidence shows water effects vary by tea and water. | Reject. |
+| CLM-025 | For working use, the exact interior treatment and maker-stated heat suitability matter more than the word “tetsubin” in a listing. | Documented inference | High | SRC-011; SRC-013; SRC-014 | Seller terminology can be inconsistent. | Make the first buying check. |
+| CLM-026 | Established workshops instruct users to empty and dry their kettles promptly after use. | Documented trade practice | High | SRC-015; SRC-017 | Exact drying method varies; excessive dry heating is warned against. | Use as conservative daily care. |
+| CLM-027 | Stable mineral scale may reduce active corrosion, but scale behavior depends on water chemistry. | Plausible | Medium | SRC-016; SRC-017; SRC-019 | Independent evidence is from pipes, while kettle sources are maker guidance. | Say leave stable scale under maker guidance; avoid universal claims. |
+| CLM-028 | Small surface-rust spots do not necessarily make a kettle unusable if water stays clear and neutral. | Plausible | Low | SRC-017; SRC-019 | Workshop claim; no object-independent threshold; discoloration can signal active release. | Use cautiously, paired with stop-use warning signs. |
+| CLM-029 | Simmering tea to darken/stabilize rust is a documented workshop practice. | Plausible | Medium | SRC-017 | Controlled durability and cross-finish safety were not located. | Attribute to maker care, not universal restoration. |
+| CLM-030 | There is one universally correct first-use routine for all tetsubin. | Unsupported | High | SRC-015; SRC-016; SRC-017 | Established makers disagree on water hardness and repeat count. | Tell readers to follow model-specific instructions. |
+| CLM-031 | All tetsubin work on induction hobs. | Unsupported | High | SRC-012; SRC-014; SRC-015 | Compatibility differs by model and appliance sensing. | Require exact model verification. |
+| CLM-032 | Handmade status guarantees superior water performance. | Unsupported | Medium | SRC-018 | Small study cannot rank all methods, but it found no meaningful new-kettle difference between its two Nanbu production types. | Separate craft value from water claims. |
+| CLM-033 | An adherent white film, clear water, and no off odor are more useful service signals than interior color alone. | Plausible | Medium | SRC-017; SRC-019 | Not a substitute for inspecting cracks, coatings, or unknown repairs. | Use as part of a multi-signal condition check. |
+| CLM-034 | A premium artist or antique kettle may have lower practical suitability for daily heating than a documented modern working kettle. | Documented inference | Medium | SRC-005; SRC-009; SRC-015 | Depends on object-level condition and conservation priorities. | Use to separate collector and user buying goals. |
+
+## Open Questions and Research Limits
+
+1. No located study compares several identified, currently available unlined tetsubin against inert kettles with matched evaporation, common gongfu heating times, multiple waters, iron speciation, and blinded tasting.
+2. SRC-018 is the only peer-reviewed direct tetsubin water study located. It is valuable but small, over twenty years old, uses four Oigen-supplied Nanbu kettles and two unknown foreign kettles, and does not include a non-iron boiling control.
+3. Direct Fe(II)/Fe(III) speciation from tetsubin water under normal tea-service conditions remains unverified here.
+4. The effect of kettle age, accumulated scale, repeated wet/dry cycles, interior lacquer wear, and different oxidation processes on water is not adequately quantified.
+5. No independent study located here establishes that hard-water pre-scaling is superior to simple boil-and-discard conditioning across different makers and finishes.
+6. No controlled tetsubin study located here validates tea-tannin rust treatment across oxide-only, lacquered, resin-treated, repaired, and antique interiors.
+7. Historical origin accounts overlap but answer different questions: regional casting origins, chagama lineages, and the later spouted handled form. A specialist Japanese material-culture history could refine the chronology.
+8. Marks, workshop lineages, repairs, and age authentication need specialist catalogues and physical examination beyond a “101” article.
+9. “Mellow,” “round,” “thick,” “sweet,” and “soft” need operational sensory definitions before comparisons are meaningful.
+10. Retailer claims were intentionally excluded from independent evidence. Workshop sources remain useful only for their own methods and instructions.
+
+## Conclusions Safe to Use in the Article
+
+- A tetsubin is a cast-iron water-boiling and pouring vessel; it should be distinguished from a commonly enamelled iron teapot that is not intended for direct heat [SRC-005; SRC-006; SRC-011; SRC-013].
+- “Unlined” is best explained as non-enamel and heat-intended, not necessarily untreated bare metal [SRC-011; SRC-014].
+- Nambu is a major, well-documented tradition with distinct Morioka and Oshu roots, but tetsubin also belong to other Japanese casting histories, including Yamagata and Takaoka [SRC-003; SRC-004; SRC-006; SRC-009].
+- The exact first tetsubin and single inventor remain uncertain; a cautious Edo-period development from earlier kettle forms is defensible [SRC-005; SRC-008; SRC-009].
+- Traditional production can involve a fired loam/sand mold, a separate core and accessory molds, hand-impressed patterning, casting, high-temperature oxidation, coloring, and handle fitting [SRC-009; SRC-010].
+- Mold methods, finishes, lid materials, handle construction, and interior treatments vary. Name the workshop practice rather than turning it into a universal rule [SRC-010; SRC-011; SRC-012; SRC-014].
+- The best direct study found relatively small water changes and small total-iron release in its four tested new Nanbu kettles. It also found much larger changes in two unidentified foreign kettles, but the small and asymmetric sample prevents broad national or quality conclusions [SRC-018].
+- Water chemistry affects cast-iron corrosion and release, and source-water mineral composition affects tea extraction. That supports kettle-specific testing, not a guarantee that tetsubin water is better [SRC-019; SRC-020; SRC-021; SRC-022].
+- Sensory claims such as “rounder” or “sweeter” should be reported as observations and tested blind against the same water heated in an inert control [SRC-003; SRC-021].
+- Do not say a tetsubin analytically softens water, uniquely removes chlorine, always improves tea, provides a consistent Fe(II) dose, or treats iron deficiency [SRC-018; SRC-019; SRC-020].
+- For use and buying, prioritize intended purpose, known interior finish, heat-source compatibility, capacity/full weight, cracks/leaks, secure handle, controlled venting/pour, provenance, and a repair path [SRC-014; SRC-015; SRC-017].
+- Follow the exact maker's first-use and care instructions because established workshops disagree. The shared conservative core is moderate heat, headspace/steam venting, prompt emptying, complete drying, and no interior scrubbing [SRC-015; SRC-016; SRC-017].
+- Treat stable scale, cosmetic spots, active corrosion, and structural damage as different conditions. Persistent colored/off water, loose material, deep pitting, cracks, seepage, or unknown coatings require stopping routine use and seeking maker or specialist assessment [SRC-017; SRC-019].
