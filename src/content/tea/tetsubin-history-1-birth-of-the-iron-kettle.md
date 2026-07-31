@@ -32,7 +32,7 @@ Start with the **chagama** (茶釜), the iron kettle of chanoyu. A chagama has a
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-chagama.jpg" alt="Seventeenth-century Japanese iron chagama with a wide mouth and no pouring spout" loading="lazy" decoding="async" />
-  <figcaption><em>Kettle (Kama) with Willow and Cherry</em>, mid-seventeenth century, Ōnishi Gorōzaemon. The wide mouth and spoutless body identify a chagama. The Metropolitan Museum of Art, 2015.300.74a–b, public domain.</figcaption>
+  <figcaption><em>Kettle (Kama) with Willow and Cherry</em>, mid-seventeenth century, Ōnishi Gorōzaemon. The wide mouth and spoutless body identify a chagama. The Metropolitan Museum of Art, 2024.553.6a, b, public domain.</figcaption>
 </figure>
 
 <figure class="figure-center">
@@ -55,7 +55,7 @@ The shortest rule is functional. **Ladle from a spoutless mouth: chagama. Carry 
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-kama-furo.jpg" alt="Museum installation of an iron kama seated in a ceramic furo brazier beside a bamboo water ladle" loading="lazy" decoding="async" />
-  <figcaption><em>Kettle (Kama) and Brazier (Furo)</em>, eighteenth century, shown with a ladle in a museum installation. The Metropolitan Museum of Art, 39.34.1–.2, public domain.</figcaption>
+  <figcaption><em>Kettle (Kama) and Brazier (Furo)</em>, eighteenth century, shown with a ladle in a museum installation. The Metropolitan Museum of Art, 25.215.32, public domain.</figcaption>
 </figure>
 
 ### Sencha and the portable iron kettle
@@ -68,12 +68,12 @@ These are related developments, not one instantaneous invention. The imported st
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-hokusai-tea-fire.jpg" alt="Early nineteenth-century Japanese print of women preparing tea around a square fire-holder" loading="lazy" decoding="async" />
-  <figcaption>Katsushika Hokusai, <em>Women Preparing Tea Around the Fire-Holder</em>, 1816. The scene places hot-water preparation in domestic life rather than an abstract utensil genealogy. The Metropolitan Museum of Art, JP2676, public domain.</figcaption>
+  <figcaption>Katsushika Hokusai, <em>Women Preparing Tea Around the Fire-Holder</em>, 1816. The scene places hot-water preparation in domestic life rather than an abstract utensil genealogy. The Metropolitan Museum of Art, JP2330, public domain.</figcaption>
 </figure>
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-sencha-cups.jpg" alt="One small blue-and-white porcelain sencha cup with a lattice pattern" loading="lazy" decoding="async" />
-  <figcaption>One cup photographed from the <em>Set of Five Sencha Teacups with Lattice Pattern</em>, eighteenth century. The Metropolitan Museum of Art, 1975.268.673–677, public domain.</figcaption>
+  <figcaption>One cup photographed from the <em>Set of Five Sencha Teacups with Lattice Pattern</em>, eighteenth century. The Metropolitan Museum of Art, 1975.268.673, public domain.</figcaption>
 </figure>
 
 Steeped tea changed what hot water needed to do. Chanoyu centered a fixed hearth, a chagama, a ladle, and a formal sequence. Sencha gatherings could be more mobile. Water had to be heated, carried, and poured into smaller steeping vessels. A compact iron kettle with a handle and spout answered that practical problem brilliantly. It belonged beside the tea table, at a portable brazier, or in the home.
@@ -85,7 +85,7 @@ Steeped tea changed what hot water needed to do. Chanoyu centered a fixed hearth
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-sencha-set.jpg" alt="Lacquer panel painted with a nineteenth-century sencha tea set" loading="lazy" decoding="async" />
-  <figcaption>Shibata Zeshin, <em>Lacquer Paintings of Various Subjects: Sencha Tea Set</em>, 1882. By then sencha utensils formed a recognizable visual world of their own. The Metropolitan Museum of Art, 36.100.128, public domain.</figcaption>
+  <figcaption>Shibata Zeshin, <em>Lacquer Paintings of Various Subjects: Sencha Tea Set</em>, 1882. By then sencha utensils formed a recognizable visual world of their own. The Metropolitan Museum of Art, 36.100.108, public domain.</figcaption>
 </figure>
 
 This is where the evidence becomes frustrating. The form appears in the eighteenth century, but the identity of the first maker is **uncertain**. The curator-supervised Nambu history prepared by Kyoto Women’s University repeats a Morioka tradition: around 1750, the third Koizumi Nizaemon devised a small handled kettle with a spout for outdoor tea. Traditional Crafts Aoyama Square likewise places Nambu tetsubin development in the eighteenth century. Those sources support an important regional history. They do not establish that no similar vessel was made elsewhere, or that a surviving document from 1750 records a national invention.
@@ -199,6 +199,6 @@ Core history and terminology: [Traditional Crafts Aoyama Square, Nambu ironware]
 
 Sencha: [Kyoto National Museum, “Chanoyu: Tea in the Cultural Life of Kyoto”](https://www.kyohaku.go.jp/eng/exhibitions/special/chanoyu_2022/); [The Metropolitan Museum of Art on Baisaō](https://www.metmuseum.org/art/collection/search/816212); [The Met, <em>Japanese Bamboo Art: The Abbey Collection</em>](https://resources.metmuseum.org/resources/metpublications/pdf/Japanese_Bamboo_Art_The_Abbey_Collection.pdf); and [Japan’s Ministry of Agriculture, Forestry and Fisheries on Uji tea](https://www.maff.go.jp/e/policies/market/dento_syoku/menu/uzi_tea.html).
 
-Museum objects: [Smithsonian National Museum of Asian Art, FSC-M-30a-b](https://asia-archive.si.edu/object/FSC-M-30a-b/); [Princeton University Art Museum, 2019-302 a-b](https://artmuseum.princeton.edu/art/collections/objects/135940); [British Museum, 1969,0925.1.a-b](https://www.britishmuseum.org/collection/object/A_1969-0925-1-a-b); [Cleveland Museum of Art, 1980.11](https://clevelandart.org/art/1980.11), [2022.175](https://clevelandart.org/art/2022.175), and [2022.171.1](https://clevelandart.org/art/2022.171.1); and [The Metropolitan Museum of Art, 2015.300.74a–b](https://www.metmuseum.org/art/collection/search/913853), [39.34.1–.2](https://www.metmuseum.org/art/collection/search/39566), [JP2676](https://www.metmuseum.org/art/collection/search/54114), [1975.268.673–677](https://www.metmuseum.org/art/collection/search/63744), and [36.100.128](https://www.metmuseum.org/art/collection/search/57191).
+Museum objects: [Smithsonian National Museum of Asian Art, FSC-M-30a-b](https://asia-archive.si.edu/object/FSC-M-30a-b/); [Princeton University Art Museum, 2019-302 a-b](https://artmuseum.princeton.edu/art/collections/objects/135940); [British Museum, 1969,0925.1.a-b](https://www.britishmuseum.org/collection/object/A_1969-0925-1-a-b); [Cleveland Museum of Art, 1980.11](https://clevelandart.org/art/1980.11), [2022.175](https://clevelandart.org/art/2022.175), and [2022.171.1](https://clevelandart.org/art/2022.171.1); and [The Metropolitan Museum of Art, 2024.553.6a, b](https://www.metmuseum.org/art/collection/search/913853), [25.215.32](https://www.metmuseum.org/art/collection/search/39566), [JP2330](https://www.metmuseum.org/art/collection/search/54114), [1975.268.673](https://www.metmuseum.org/art/collection/search/63744), and [36.100.108](https://www.metmuseum.org/art/collection/search/57191).
 
 Every reproduced external image is recorded with its source URL and licence in the project image ledger; body images are credited in their captions, and the CC0 hero is the Smithsonian object FSC-M-30a-b linked above. The four explanatory SVGs are original. The brief also requested Princeton, British Museum, Kyoto Women’s University, and Government of Japan images; no reusable institutional file could be verified for the Princeton object, the British Museum endpoint was inaccessible, and the process photographs remain third-party copyrighted. Those photographs were not published. Open-access Smithsonian, Met, and Cleveland Museum of Art images were substituted instead.
