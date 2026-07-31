@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence limits for four Morioka maker marks</title>
+  <desc id="desc">A four-column panel records visible characters, reading, location, mark method, date range, complete-kettle context, source class, and confidence for Suzuki Morihisa, Kunzan, Iwachu, and Kamasada.</desc>
+  <rect width="1200" height="820" fill="#f4efe7"/>
+  <style>
+    text { font-family: system-ui, -apple-system, "Noto Sans JP", sans-serif; fill: #211d19; }
+    .title { font-family: Georgia, "Noto Serif JP", serif; font-size: 34px; font-weight: 700; }
+    .sub { font-size: 16px; fill: #675d53; }
+    .maker { font-size: 20px; font-weight: 700; }
+    .mark { font-family: "Noto Serif JP", "Yu Mincho", serif; font-size: 48px; font-weight: 700; }
+    .label { font-size: 13px; font-weight: 700; fill: #765a3d; letter-spacing: .04em; }
+    .body { font-size: 14px; }
+    .card { fill: #fffdf9; stroke: #c9b9a7; stroke-width: 1.5; }
+    .badge-high { fill: #dfe9dc; }
+    .badge-mid { fill: #eee3c8; }
+    .badge-low { fill: #ead8d2; }
+    .warning { fill: #fff; }
+  </style>
+
+  <text x="48" y="57" class="title">Marks: what is documented, and what is not</text>
+  <text x="48" y="87" class="sub">Characters are typeset readings, not traced facsimiles. Letterform comparison requires the source photographs.</text>
+
+  <g transform="translate(42 116)">
+    <rect width="270" height="605" rx="8" class="card"/>
+    <text x="20" y="38" class="maker">Suzuki Morihisa</text>
+    <text x="135" y="104" text-anchor="middle" class="mark">盛久</text>
+    <text x="20" y="145" class="label">READING</text><text x="20" y="168" class="body">Morihisa</text>
+    <text x="20" y="202" class="label">LOCATION</text><text x="20" y="225" class="body"><tspan x="20">Lower right of spout when</tspan><tspan x="20" dy="19">the kettle is turned over</tspan></text>
+    <text x="20" y="278" class="label">METHOD</text><text x="20" y="301" class="body"><tspan x="20">Wooden seal pressed into mould;</tspan><tspan x="20" dy="19">mark emerges as cast inscription</tspan></text>
+    <text x="20" y="354" class="label">DATE / GENERATION</text><text x="20" y="377" class="body"><tspan x="20">13th and 14th variants published;</tspan><tspan x="20" dy="19">full use range not established</tspan></text>
+    <text x="20" y="430" class="label">COMPLETE KETTLE?</text><text x="20" y="453" class="body"><tspan x="20">No: published historical crops lack</tspan><tspan x="20" dy="19">paired whole-object views</tspan></text>
+    <text x="20" y="506" class="label">SOURCE / CONFIDENCE</text><text x="20" y="529" class="body">Academic; variants documented</text>
+    <rect x="20" y="553" width="184" height="29" rx="14" class="badge-low"/>
+    <text x="112" y="573" text-anchor="middle" class="body">0 VERIFIED PAIRS</text>
+  </g>
+
+  <g transform="translate(324 116)">
+    <rect width="270" height="605" rx="8" class="card"/>
+    <text x="20" y="38" class="maker">Kunzan</text>
+    <text x="135" y="104" text-anchor="middle" class="mark">薫山</text>
+    <text x="20" y="145" class="label">READING</text><text x="20" y="168" class="body">Kunzan</text>
+    <text x="20" y="202" class="label">LOCATION</text><text x="20" y="225" class="body"><tspan x="20">Retail images suggest below spout;</tspan><tspan x="20" dy="19">not independently verified</tspan></text>
+    <text x="20" y="278" class="label">METHOD</text><text x="20" y="301" class="body"><tspan x="20">Not established; appearance does</tspan><tspan x="20" dy="19">not prove how lettering was formed</tspan></text>
+    <text x="20" y="354" class="label">DATE / GENERATION</text><text x="20" y="377" class="body"><tspan x="20">Range not established</tspan></text>
+    <text x="20" y="430" class="label">COMPLETE KETTLE?</text><text x="20" y="453" class="body"><tspan x="20">Retail pairings only; no workshop,</tspan><tspan x="20" dy="19">museum, or technical verification</tspan></text>
+    <text x="20" y="506" class="label">SOURCE / CONFIDENCE</text><text x="20" y="529" class="body">Retail discovery; uncertain</text>
+    <rect x="20" y="553" width="184" height="29" rx="14" class="badge-low"/>
+    <text x="112" y="573" text-anchor="middle" class="body">0 VERIFIED PAIRS</text>
+  </g>
+
+  <g transform="translate(606 116)">
+    <rect width="270" height="605" rx="8" class="card"/>
+    <text x="20" y="38" class="maker">Iwachu</text>
+    <text x="135" y="104" text-anchor="middle" class="mark">岩鋳</text>
+    <text x="20" y="145" class="label">READING</text><text x="20" y="168" class="body">Iwachū / IWACHU</text>
+    <text x="20" y="202" class="label">LOCATION</text><text x="20" y="225" class="body"><tspan x="20">Not stated on official mark page;</tspan><tspan x="20" dy="19">varies across product types</tspan></text>
+    <text x="20" y="278" class="label">METHOD</text><text x="20" y="301" class="body"><tspan x="20">Official English calls it a stamp;</tspan><tspan x="20" dy="19">manufacturing stage not disclosed</tspan></text>
+    <text x="20" y="354" class="label">DATE / GENERATION</text><text x="20" y="377" class="body"><tspan x="20">Four current variants shown in 2026;</tspan><tspan x="20" dy="19">introduction dates not published</tspan></text>
+    <text x="20" y="430" class="label">COMPLETE KETTLE?</text><text x="20" y="453" class="body"><tspan x="20">No: official page supplies detached</tspan><tspan x="20" dy="19">close-ups without object pairing</tspan></text>
+    <text x="20" y="506" class="label">SOURCE / CONFIDENCE</text><text x="20" y="529" class="body">Workshop; mark documented</text>
+    <rect x="20" y="553" width="184" height="29" rx="14" class="badge-low"/>
+    <text x="112" y="573" text-anchor="middle" class="body">0 VERIFIED PAIRS</text>
+  </g>
+
+  <g transform="translate(888 116)">
+    <rect width="270" height="605" rx="8" class="card"/>
+    <text x="20" y="38" class="maker">Kamasada</text>
+    <text x="135" y="104" text-anchor="middle" class="mark">南部 釜定</text>
+    <text x="20" y="145" class="label">READING</text><text x="20" y="168" class="body">Nanbu Kamasada</text>
+    <text x="20" y="202" class="label">LOCATION</text><text x="20" y="225" class="body"><tspan x="20">Retail reports below spout; a trade</tspan><tspan x="20" dy="19">page reports Latin text under lid</tspan></text>
+    <text x="20" y="278" class="label">METHOD</text><text x="20" y="301" class="body"><tspan x="20">Not established</tspan></text>
+    <text x="20" y="354" class="label">DATE / GENERATION</text><text x="20" y="377" class="body"><tspan x="20">Range not established; separate</tspan><tspan x="20" dy="19">Latin system reported in 2018</tspan></text>
+    <text x="20" y="430" class="label">COMPLETE KETTLE?</text><text x="20" y="453" class="body"><tspan x="20">Retail / trade pairings only; no</tspan><tspan x="20" dy="19">workshop or technical verification</tspan></text>
+    <text x="20" y="506" class="label">SOURCE / CONFIDENCE</text><text x="20" y="529" class="body">Retail / trade; uncertain</text>
+    <rect x="20" y="553" width="184" height="29" rx="14" class="badge-low"/>
+    <text x="112" y="573" text-anchor="middle" class="body">0 VERIFIED PAIRS</text>
+  </g>
+
+  <rect x="42" y="745" width="1116" height="46" rx="5" fill="#2b2b2b"/>
+  <text x="600" y="775" text-anchor="middle" font-size="18" font-weight="700" class="warning">Mark alone is not authentication.</text>
+</svg>
