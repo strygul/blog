@@ -2,7 +2,7 @@
 title: "Kyoto and Kansai: When the Iron Kettle Became Art Metal"
 pubDate: "2026-07-31"
 category: ["Tea", "Teapots", "Tetsubin", "Japanese Craft"]
-description: "Ryūbundō, Kibundō, and Unshikidō trace the Kyoto/Kansai kettle from lost-wax art metal and silver inlay through closure, imitation, and modern revival."
+description: "Ryūbundō, Kibundō, and Unshikidō trace the Kyoto/Kansai kettle through relief, inlay, closure, imitation, and modern revival."
 heroImage: "../../../public/tea/posts/tetsubin-history-5-kyoto-kansai/hero.jpg"
 ---
 
@@ -10,7 +10,7 @@ heroImage: "../../../public/tea/posts/tetsubin-history-5-kyoto-kansai/hero.jpg"
 
 ### Kyoto before the tetsubin
 
-Kyoto’s place in the kettle story is easy to overstate. The city had important tea-kettle and metalworking worlds long before the familiar tetsubin, but that does not make every Kyoto *chagama* a tetsubin or make Kyoto the birthplace of the spouted, handled vessel. A *chagama* is the broad-mouthed kettle of formal *chanoyu*: water is lifted with a ladle. A tetsubin has an overhead handle and a spout for boiling and pouring water. The distinction is not pedantry. It stops a long *chagama* genealogy from being quietly converted into a much older tetsubin genealogy.
+Kyoto’s place in the kettle story is easy to overstate. The city had important tea-kettle and metalworking worlds long before the familiar tetsubin, but that does not make every Kyoto *chagama* a tetsubin or make Kyoto the birthplace of the spouted, handled vessel. A *chagama* is the broad-mouthed kettle of formal *chanoyu*: water is lifted with a ladle. A tetsubin has an overhead handle and a spout for boiling and pouring water. This stops a long *chagama* genealogy from being quietly converted into a much older tetsubin genealogy.
 
 Kyoto did supply the dense craft setting in which the latter could become far more than a domestic boiler. Casters, model makers, engravers, polishers, metalworkers, lacquer specialists, and makers of fittings could concentrate a great deal of work in a small object. That ecology also reached beyond the city. Ōmi, now Shiga, was close enough to participate in the market and in workshop movement, but a regional connection is not a corporate family tree. The sources used here support an Ōmi association for Kibundō; they do not prove that every object called Kansai, or every story of apprenticeship, maps onto a direct Kyoto succession.
 

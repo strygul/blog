@@ -2,21 +2,19 @@
 title: "Takaoka: Recasting the Kyoto Kettle"
 pubDate: "2026-07-31"
 category: ["Tea", "Teapots", "Tetsubin", "Japanese Craft"]
-description: "Koryo Kinjudo, Ginshodo, and Shobee show how Takaoka's specialized metalworking network recasts Kyoto-style tetsubin for the present."
+description: "Koryo Kinjudo, Ginshodo, and Shobee show how Takaoka's production network makes contemporary tetsubin, including documented Kyoto-style utsushi without claiming a historical succession."
 heroImage: "../../../public/tea/posts/tetsubin-history-6-takaoka/hero.jpg"
 ---
 
-<div class="info-box">Takaoka's present iron kettles draw on a four-hundred-year metalworking network and often quote older Kyoto forms. The sources here distinguish a historical workshop, a modern brand, a specialist subcontractor, and an <em>utsushi</em> reproduction instead of treating those labels as interchangeable. Every mark is tied to a complete documented object where the evidence permits.</div>
-
-A kettle can look Kyoto-like, carry a brand, involve makers, and have no historical connection to the workshop named in a listing. Those facts describe visual reference, present manufacture, contracted labour, and provenance.
+<div class="info-box">Takaoka's present iron kettles draw on a four-hundred-year metalworking network, and some explicitly quote older Kyoto forms. The sources distinguish current brands, production roles, and an <em>utsushi</em> reproduction from historical workshop provenance instead of treating those labels as interchangeable. Every mark is tied to a complete documented object where the evidence permits.</div>
 
 ### A metalworking city before it was a kettle centre
 
-Takaoka’s casting industry begins in **1611**, when the second Maeda lord brought foundry workers to the new castle town. That is a metalworking history, not a tetsubin invention record. Official sources document a specialised division of modelling, casting, finishing, polishing, colouring, engraving, and inlay. They do not turn every current iron kettle into a surviving Edo workshop line.
+Takaoka’s casting industry begins in **1611**, when the second Maeda lord brought foundry workers to the new castle town. That is metalworking history, not a tetsubin invention record. Official sources document modelling, casting, finishing, polishing, colouring, engraving, and inlay, but not a surviving Edo line for every current kettle.
 
-The distinction becomes clearer beside Parts 1 and 5. The familiar handled, spouted tetsubin is an Edo-period object whose first maker is not securely known; a formal *chagama* is a separate, spoutless tea-ceremony kettle. Kyoto’s art-metal kettles supplied a rich vocabulary of relief, mixed-metal lids, engraved fields and inlay. Takaoka can participate in that vocabulary without being the place where a particular Kyoto house was founded. “Four hundred years” is useful regional context; it is not a maker-date, a mark-date, or a proof of body authorship.
+Parts 1 and 5 separate the Edo-period tetsubin from the spoutless *chagama* and document Kyoto’s art-metal vocabulary of relief, mixed-metal lids, engraved fields, and inlay. Takaoka can use that vocabulary without inheriting a Kyoto house. Four hundred years is regional context, not a maker date, mark date, or proof of authorship.
 
-Modern “Takaoka tetsubin” is therefore best read as a present category. The umbrella site groups Shobee, Koryo Kinjudo, and Ginshodo, while the producers’ own pages sharpen that picture: one restores a historical name, one identifies a manufacturing company and production director, and one joins a named kettle maker to a planning and wholesale company. None publishes a tetsubin mark chronology.
+Modern “Takaoka tetsubin” is a present category. The umbrella site groups Shobee, Koryo Kinjudo, and Ginshodo; producer pages document a restored name, a manufacturing company and director, and a maker working with a planning and wholesale company. None publishes a tetsubin mark chronology.
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Takaoka historical scope"><img src="/tea/posts/tetsubin-history-6-takaoka/takaoka-history.svg" alt="takaoka history evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>1611 is a regional casting anchor, not a dating shortcut for a kettle. Original diagram.</figcaption></figure>
 
@@ -28,9 +26,9 @@ Modern “Takaoka tetsubin” is therefore best read as a present category. The 
 
 ### The workshop is a network
 
-“Workshop” can be dangerous in a product description. Takaoka’s documented structure asks who performs a stage and who commissions it. A model maker may prepare the form; a caster makes the body; another specialist can polish, engrave, inlay or colour it; a brand may coordinate and sell it. Skill is real at each stage, but it should not be collapsed into one historical identity.
+“Workshop” can obscure who performs or commissions each stage. A model maker may prepare the form; a caster makes the body; others may polish, engrave, inlay, or colour it; a brand may coordinate and sell it. Those roles should not collapse into one historical identity.
 
-The visible result can make this difficult. Lost-wax casting can carry relief and undercut detail; engraving and inlay can add a second language after casting; colour can change the apparent depth of the iron. Yet the regional source lists these as available techniques, not a process sheet for each named kettle. It is inaccurate to look at a raised dragon and declare it lost wax, or to see a gleaming line and declare a particular hand responsible, unless the relevant object record says so. A present product title can identify a “wax-cast iron kettle” or “inlaid iron kettle”; it cannot prove which individual executed the operation.
+Lost-wax casting can carry relief; engraving, inlay, and colour can alter the surface after casting. The regional source lists available techniques, not a process sheet for each kettle. A raised dragon does not prove lost wax, and a gleaming line does not identify a hand without an object record. A product title can identify a wax-cast or inlaid kettle; it cannot identify who executed the operation.
 
 <figure class="figure-center"><img src="/tea/posts/tetsubin-history-6-takaoka/commons-hanging-kettle.jpg" alt="Small iron kettle hanging from an adjustable hook above an irori in a historic Japanese interior" loading="lazy" decoding="async" /><figcaption>A hanging kettle at Bōsō-no-Mura Museum in Chiba shows one use context clearly. It does not identify a Takaoka maker, technique, date, or production network. Photo: TANAKA Juuyoh, <a href="https://commons.wikimedia.org/wiki/File:Hanging_kettle_in_Japan.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>; resized without cropping.</figcaption></figure>
 
@@ -220,7 +218,7 @@ The atlas below is a map of evidence, not a ranking or a seal chart. It covers e
 | Takaoka — Ginshodo | `銀祥堂`, *Ginshōdō*. | Not established. | Not established. | Current Takaoka maker/seller; mark range and pairs not established. | Company identity **documented**; device **uncertain**. |
 | Takaoka — Shobee | `庄兵衛`, *Shōbē*; artist `喜多庄兵衛`, Kita Shōbē. | Not established. | Not established. | Miyazu collaboration from 2001; wax-cast series from 2014; zero mark pairs. | Artist/product context **documented**; device **uncertain**. |
 
-For any candidate kettle, begin with the complete body in clear views: underside, spout joins, handle lugs, lid underside and interior. Record the characters exactly, then the reading supplied by a reliable source; identify whether it is cast, impressed, engraved, chiseled, on a lid, box, label or certificate; and note precise location, date range, whole-object source and confidence. Next ask whether lid, handle, box and certificate demonstrably belong together. They can be replacements or later pairings. Marks can be copied; workshops changed devices and also made unmarked work. Style is evidence for comparison, not proof of maker, region, date or original assembly. “Maker not verified” is often the most useful result.
+For a candidate kettle, photograph the complete body, underside, spout joins, handle lugs, lid underside, and interior. Record the exact characters, reliable reading, method, location, date range, whole-object source, and confidence. Ask whether the lid, handle, box, and certificate belong together; replacements and copied marks exist. Style supports comparison, not maker, region, date, or assembly. “Maker not verified” is often the useful result.
 
 ### Sources and image credits
 
@@ -229,6 +227,6 @@ For any candidate kettle, begin with the complete body in clear views: underside
 - **Hero:** Met, [*Kettle (Kama) and Brazier (Furo)*, 25.215.32](https://www.metmuseum.org/art/collection/search/39566), public domain; unique derivative, comparison only.
 - **Images and diagrams:** Two open-licence Commons photographs are used as explicit geographic and use-context controls, never as Takaoka or maker attribution. Twenty-four original SVGs have accessible HTML equivalents; no restricted asset or facsimile was reused.
 
-Previous: [Kyoto and Kansai: The Kettle as Art Metal](/tea/tetsubin-history-5-kyoto-kansai)
+Previous: [Kyoto and Kansai: When the Iron Kettle Became Art Metal](/tea/tetsubin-history-5-kyoto-kansai)
 
 Next: [The Tetsubin Is Younger Than You Think](/tea/tetsubin-history-1-birth-of-the-iron-kettle)
