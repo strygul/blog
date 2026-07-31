@@ -20,7 +20,7 @@ Morioka’s tetsubin history is later. Tradition credits the third Koizumi Nizae
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-2-morioka/hero.jpg" alt="Unsigned iron tetsubin with peony and chrysanthemum decoration" loading="lazy" decoding="async" />
-  <figcaption><em>Botan kikuzu tetsubin</em>, an unsigned Edo–Meiji kettle displayed at the Iwate Prefectural Museum. Regional context only. Photo: EL Jones (User:Noroi), <a href="https://commons.wikimedia.org/wiki/File:Botan_kikuzu_teppin.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. Local copy was resized and JPEG-recompressed; not cropped.</figcaption>
+  <figcaption><em>Botan kikuzu tetsubin</em>, an unsigned Edo–Meiji kettle displayed at the Iwate Prefectural Museum. Regional context only. Photo: EL Jones (User:Noroi), <a href="https://commons.wikimedia.org/wiki/File:Botan_kikuzu_teppin.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>; resized/recompressed from the original; not cropped.</figcaption>
 </figure>
 
 ### The Morioka method
@@ -35,7 +35,7 @@ Horie says Morioka kettles were initially unmarked, then acquired freely written
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-2-morioka/morioka-object-02.jpg" alt="Shelves of iron kettles and colorful iron teapots at Morioka Handi-Works Square" loading="lazy" decoding="async" />
-  <figcaption>Iron kettles and colorful teapots in a regional display; no maker attribution is supplied. Photo: Dquai, <a href="https://commons.wikimedia.org/wiki/File:Teapots_in_the_Morioka_Handmade_Village.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Local copy was resized and JPEG-recompressed; not cropped.</figcaption>
+  <figcaption>Iron kettles and colorful teapots in a regional display; no maker attribution is supplied. Photo: Dquai, <a href="https://commons.wikimedia.org/wiki/File:Teapots_in_the_Morioka_Handmade_Village.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; resized/recompressed from the original; not cropped.</figcaption>
 </figure>
 
 <div class="info-box">Maker, museum, HOJO, retailer, and trade photographs are linked as evidence but not copied because no reusable licence was found. Open photographs here provide regional context without maker attribution. Original source-derived diagrams summarize chronology and evidence without reproducing marks or implying authentication.</div>
@@ -140,7 +140,7 @@ Evidence ceiling: zero verified mark/context pairs and no dated seal sequence.
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-2-morioka/morioka-workshop-01.jpg" alt="Walkway sign at Morioka Handi-Works Square pointing toward the Kunzan and Fujieda workshops" loading="lazy" decoding="async" />
-  <figcaption>A Handi-Works Square sign points toward Kunzan; it does not attribute a kettle. Photo: Dquai, <a href="https://commons.wikimedia.org/wiki/File:In_the_Morioka_Handi-Works_Square_01.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Local copy was resized and JPEG-recompressed; not cropped.</figcaption>
+  <figcaption>A Handi-Works Square sign points toward Kunzan; it does not attribute a kettle. Photo: Dquai, <a href="https://commons.wikimedia.org/wiki/File:In_the_Morioka_Handi-Works_Square_01.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; resized/recompressed from the original; not cropped.</figcaption>
 </figure>
 
 ### Iwachu
@@ -243,7 +243,7 @@ Evidence ceiling: zero verified mark/context pairs and no museum or workshop-arc
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-2-morioka/morioka-workshop-03.jpg" alt="Buildings and grounds at Morioka Handi-Works Square" loading="lazy" decoding="async" />
-  <figcaption>Handi-Works Square shows Morioka’s workshop network; it is not Kamasada’s Konyachō premises. Photo: Dquai, <a href="https://commons.wikimedia.org/wiki/File:A_visitor_attraction_in_Morioka.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Local copy was resized and JPEG-recompressed; not cropped.</figcaption>
+  <figcaption>Handi-Works Square shows Morioka’s workshop network; it is not Kamasada’s Konyachō premises. Photo: Dquai, <a href="https://commons.wikimedia.org/wiki/File:A_visitor_attraction_in_Morioka.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; resized/recompressed from the original; not cropped.</figcaption>
 </figure>
 
 ### Four workshops, one regional name
@@ -278,7 +278,7 @@ No single feature carries attribution. Arare is regional vocabulary; rough skin 
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-2-morioka/tetsubin-use-01.jpg" alt="Iron tetsubin resting over charcoal in a square hibachi" loading="lazy" decoding="async" />
-  <figcaption>A tetsubin over charcoal; function is clearer than maker, which is undocumented. Photo: サフィル, <a href="https://commons.wikimedia.org/wiki/File:JapaneseCastIronKettleOnBrasier_TetsubinOnHibachi.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Local copy was resized and JPEG-recompressed; not cropped.</figcaption>
+  <figcaption>A tetsubin over charcoal; function is clearer than maker, which is undocumented. Photo: サフィル, <a href="https://commons.wikimedia.org/wiki/File:JapaneseCastIronKettleOnBrasier_TetsubinOnHibachi.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>; resized/recompressed from the original; not cropped.</figcaption>
 </figure>
 
 ### Sources and image credits
