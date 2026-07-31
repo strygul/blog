@@ -15,7 +15,7 @@ Yamagata is often introduced with a round number: nine hundred years of casting.
 The same official account gives a second, later anchor. About four centuries ago, seventeen foundry workers were gathered into Dōmachi. The town became a concentrated casting district, making religious implements and daily goods. It was not a moment when every later Yamagata product appeared at once.
 
 <figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-4-yamagata/hero.jpg" alt="Dark Japanese iron tetsubin with overhead handle and short spout" loading="lazy" decoding="async" />
+  <img src="/tea/posts/tetsubin-history-4-yamagata/hero.jpg" alt="Spoutless sixteenth-century Japanese cast-iron Tenmyō kettle with a wide lid and side lugs" loading="lazy" decoding="async" />
   <figcaption><em>Tenmyō Kettle, Named “Taya Itome”</em>, sixteenth century, cast iron, Japan. This public-domain museum comparison is not attributed to Yamagata or any profiled workshop; it is used to show the older cast-kettle world that predates the tetsubin. The Metropolitan Museum of Art, 2024.553.7a–c, public domain; local 1600px JPEG derivative, resized/recompressed from the institutional original without cropping.</figcaption>
 </figure>
 
@@ -178,15 +178,15 @@ Evidence ceiling: no published tetsubin mark technique, location, device evoluti
 
 ### Three workshops, three continuities
 
-Seikodo, Kikuchi Hojudo, and Chobundo share a district, material standards, and the Yamagata ambition of thin, exact cast surfaces. Their continuity is not interchangeable. Seikodo gives a documented 1735 start, a later chagama specialization, and model-specific lost-wax, arare, iron-sand, and mixed-metal evidence. Kikuchi Hojudo gives the oldest written foundry record here—1604—plus a product history from shrine goods into domestic ware, but no reason to make that a tetsubin date or a mark chart. Chobundo gives a 1952 kettle-focused foundation and unusually exact current descriptions of thin-wall, one-use mould, spout, and lacquer-finish work.
+The workshops share regional standards, not one history. Seikodo’s 1735 record includes later chagama specialization and model-specific lost wax. Kikuchi Hojudo’s oldest written foundry record is 1604—not a tetsubin date. Chobundo’s 1952 kettle-focused account documents thin walls, one-use moulds, spouts, and lacquer.
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Comparison of three Yamagata workshops"><img src="/tea/posts/tetsubin-history-4-yamagata/yamagata-workshops-comparison.svg" alt="Three equal columns comparing Seikodo, Kikuchi Hojudo, and Chobundo across documented start, tetsubin relationship, mould evidence, surface, fittings, and current record" loading="lazy" decoding="async" /><figcaption>Equal fields make different records legible without ranking them. Original source-grounded diagram; the following table is the complete text equivalent.</figcaption></figure>
 
-| Producer | Documented start | Tetsubin relationship | Process record | Current evidence ceiling |
-| --- | --- | --- | --- | --- |
-| Seikodo | 1735; company incorporated 1966. | Workshop account begins with tetsubin; later chagama specialization; extensive current kettle range. | Lost wax and hand-pressed arare are named for particular models. | No published complete kettle-and-mark pairs. |
-| Kikuchi Hojudo | Oldest written foundry record: 1604. | Shrine and daily goods precede documented teapot context; do not make 1604 a tetsubin date. | Apprenticeship and casting reported; model mould route unestablished. | No published tetsubin mark guide or whole-object pairs. |
-| Chobundo | 1952. | Published studio account is kettle-focused. | Named models document thin walls, one-use moulds, handmade spout, and lacquer finish. | No published tetsubin mark guide or whole-object pairs. |
+| Producer | Documented start | Tetsubin relationship | Process record | Surface language | Lid / handle | Current evidence ceiling |
+| --- | --- | --- | --- | --- | --- | --- |
+| Seikodo | 1735; company incorporated 1966. | Workshop account begins with tetsubin; later chagama specialization; extensive current kettle range. | Lost wax and hand-pressed arare are named for particular models. | Relief, arare, iron sand, inlay, exact forms. | Copper/silver or iron-sand fittings. | No published complete kettle-and-mark pairs. |
+| Kikuchi Hojudo | Oldest written foundry record: 1604. | Shrine and daily goods precede documented teapot context; do not make 1604 a tetsubin date. | Apprenticeship and casting reported; model mould route unestablished. | Traditional and colored contemporary teapots. | Sword-inspired handles reported. | No published tetsubin mark guide or whole-object pairs. |
+| Chobundo | 1952. | Published studio account is kettle-focused. | Named models document thin walls, one-use moulds, handmade spout, and lacquer finish. | Plain Natsume, arare, pictorial relief. | Handmade spout; named lids. | No published tetsubin mark guide or whole-object pairs. |
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Comparison of Yamagata mark evidence"><img src="/tea/posts/tetsubin-history-4-yamagata/yamagata-marks.svg" alt="Three equal mark-evidence cards for Seikodo, Kikuchi Hojudo, and Chobundo, all showing documented workshop names but unknown kettle mark methods, locations, ranges, and zero verified pairs" loading="lazy" decoding="async" /><figcaption>The equal answer is not an invented seal: all three accessible mark records stop before object attribution. Original diagram.</figcaption></figure>
 
