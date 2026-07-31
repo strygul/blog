@@ -20,11 +20,11 @@ The late Edo, Meiji, and Taishō market altered the object’s ambition. Iron co
 
 The same period also generated the attribution problem. Export and collecting encouraged names, celebrated signatures, and later imitation. A bright lid or a large dragon can help compare an object with a documented one, but neither establishes the caster. The British Museum’s warning about Ryūbundō-signed copper lids is the useful corrective: a signature on a lid tells us about the lid unless the complete body and its assembly are independently recorded. A replaced handle, a later box, an invoice from a dealer, or a certificate can be real things without proving an original pairing.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kyoto and Omi lineage diagram"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kyoto-lineages.svg" alt="Source-qualified chronology separating Kyoto metalwork context, Ryubundo and Kibundo records, wartime disruption, and modern Unshikido revival without a direct succession arrow" loading="lazy" decoding="async" /><figcaption>Kyoto and Ōmi records placed beside, rather than inside, an invented succession. Original diagram.</figcaption></figure>
+<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kyoto and Omi lineage diagram"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kyoto-lineages.svg" alt="Source-qualified comparison showing Ryubundo's documented 1958 endpoint, incomplete later Kibundo chronology, and separate modern Unshikido revival with no proven bridge" loading="lazy" decoding="async" /><figcaption>Kyoto and Ōmi records placed beside, rather than inside, an invented succession. Original diagram.</figcaption></figure>
 
 | Diagram fact | Evidence limit |
 | --- | --- |
-| Ryūbundō, Kibundō/Ōmi, wartime disruption, and Unshikidō revival occupy related but different positions. | No direct succession between these workshops is established by the sources used here. |
+| Ryūbundō has a documented 1958 endpoint; Kibundō’s later chronology is incomplete; Unshikidō is a separate modern revival. | No proven bridge or direct succession between these workshop records is established. |
 
 ### A kettle becomes art metal
 
@@ -105,7 +105,7 @@ Princeton supplies a rare, complete context for `龍文堂造`: *Ryūbundō zō*
 
 **Chronology.** Kibundō (亀文堂) is strongly associated with Ōmi/Shiga in the records available here. Shiga’s exhibition material identifies Kibundō Shōhei—Hatano Shōhei (1813–1892)—as an Ōmi-related caster whose tetsubin became famous. The National Diet Library reference record reports that it found material describing Kibundō as connected with Ōmi and as a Ryūbundō pupil line. That is valuable lead evidence, but not enough to draw an unbroken arrow from Ryūbundō to every later Kibundō object. Teacher and workshop accounts need the same object-level discipline as marks.
 
-The later story is fragmentary. A dealer gives a late sequence and closure claim, but this is not converted into a precise date. Kibundō’s final workshop sequence needs a stronger archive.
+Kibundō’s final workshop sequence needs a stronger archive.
 
 **Process.** The accessible record does not supply a repeatable workshop process, mould route, or division of labour. Describe a documented object’s iron, lid material, relief, engraving, inlay, or fitting; do not call an elaborate body lost wax, hand chased, or a Ryūbundō copy from appearance.
 
