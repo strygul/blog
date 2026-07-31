@@ -51,9 +51,9 @@ The visible result can make this difficult. Lost-wax casting can carry relief an
 
 <div class="info-box"><strong>Evidence boundary:</strong> the current <a href="https://takaoka-iron-kettle.jp/pages/brands">Takaoka Tetsubin brand page</a> identifies 高陵金寿堂 / KORYOKINJUDO as a present label. It does not publish a historical archive, a maker-mark manual, or a complete kettle-and-mark pair that establishes a device sequence.</div>
 
-**Chronology.** Koryo Kinjudo (高陵金寿堂, *Kōryō Kinjūdō*; literally, roughly “Koryo gold-longevity hall”) is securely visible as a current Takaoka Tetsubin brand. The accessible material does not establish a founding year, founder, historic succession, relocation, closure, or revival. It would be easy to fill that gap with a name that sounds old; that is exactly the claim the evidence does not support. Here “modern brand” is a precise description, not an insult. It means the publication can document a current commercial identity while leaving historical workshop provenance open.
+**Chronology.** Koryo Kinjudo (高陵金寿堂, *Kōryō Kinjūdō*, roughly “Koryo gold-longevity hall”) is a documented current brand. Founding, founder, succession, relocation, closure and revival are not established; current commercial identity is not historical workshop provenance.
 
-**Network and process.** The brand sits inside the regional metalworking system described above. Takaoka’s official account supports model-making, casting, finishing, polishing, colouring, engraving and inlay as local specialist practices. It does not state that Koryo Kinjudo performs every one of them in-house, commissions any particular stage, or uses one mould method for all products. A kettle offered under the name may therefore be useful evidence of a current brand and design programme, but not enough to assign the casting or decorative work to a particular person.
+**Network and process.** Takaoka documents model-making, casting, finishing, polishing, colouring, engraving and inlay. It does not identify which Koryo Kinjudo stages are in-house or commissioned, nor a mould method or individual performer.
 
 **Visual language.** The honest visual description is deliberately broad: current Takaoka iron-kettle presentation joins iron bodies to the regional possibility of detailed surfaces, colour, engraving and inlay. No securely documented Koryo Kinjudo object record in the accessible sources establishes a fixed silhouette, repeating motif, lid type or handle construction as the brand’s historical diagnostic. Treat any apparent Kyoto resemblance as a prompt to examine construction and paperwork, not as a signature.
 
@@ -61,7 +61,8 @@ The visible result can make this difficult. Lost-wax casting can carry relief an
 
 **Identification and distinction.** The characters and romanization identify the current label. They are not a reconstructed seal. Neither the normal mark location nor the method—cast, impressed, engraved, chiseled, lid inscription, box inscription, label or certificate—is established here; nor is a date range or complete-object pair. The name’s distinction is this clean separation between documented current identity and unverified historical provenance. It gives the reader a way to describe a kettle accurately without promising a lineage that the published record has not earned.
 
-For now, the useful catalogue description is “current Koryo Kinjudo brand context; maker, date, mark and provenance not verified.”
+No earlier workshop relationship is established in the accessible material.
+
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Koryo Kinjudo chronology"><img src="/tea/posts/tetsubin-history-6-takaoka/koryo-chronology.svg" alt="koryo chronology evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>Current visibility is documented; historical continuity is not inferred. Original diagram.</figcaption></figure>
 
@@ -73,28 +74,30 @@ For now, the useful catalogue description is “current Koryo Kinjudo brand cont
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Koryo Kinjudo distinction"><img src="/tea/posts/tetsubin-history-6-takaoka/koryo-distinction.svg" alt="koryo distinction evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>The distinction is evidential, not a quality ranking. Original diagram.</figcaption></figure>
 
+| Koryo Kinjudo card record | Complete semantic equivalent |
+| --- | --- |
+| Chronology | `高陵金寿堂`, *Kōryō Kinjūdō* / KORYOKINJUDO is a **documented** current brand. Founding, founder, succession, relocation, closure and revival are not established. |
+| Process | Takaoka documents model-making, mould work, casting, finishing, polishing, colouring, engraving and inlay. Which stages Koryo Kinjudo performs or commissions, and its mould method, are not verified. |
+| Visual language | No fixed historic silhouette, motif, lid, handle or material diagnostic is verified. Kyoto resemblance is not attribution. |
+| Object | Model, date, dimensions, material, original fittings, provenance and readable mark context are not verified; **zero** complete kettle-and-mark pairs. |
+| Mark / distinction | Technique, location and range are not established; current label **documented**, isolated device/historical workshop claim **uncertain**. Brand attribution is not body authorship or provenance. |
+
 ### Identifying Koryo Kinjudo
 
 The mark record has one secure item and several explicit absences. 高陵金寿堂 is the brand name printed by the current Takaoka Tetsubin catalogue; the reading used there is KORYOKINJUDO. The method and normal location of a kettle mark, characters as they appear on a particular body, device chronology, and whole-kettle context have not been verified. An isolated body mark, lid, box, label or certificate should therefore be recorded as **uncertain**, not “confirmed Koryo Kinjudo.”
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Koryo Kinjudo mark audit"><img src="/tea/posts/tetsubin-history-6-takaoka/koryo-mark.svg" alt="koryo mark evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>Typeset name, not a copied mark. Original diagram.</figcaption></figure>
 
-| Field | Koryo Kinjudo record |
-| --- | --- |
-| Characters / reading | `高陵金寿堂`, *Kōryō Kinjūdō* / KORYOKINJUDO; current brand identity **documented**. |
-| Technique / location | Not verified for a tetsubin device. Do not guess cast, impressed, engraved, chiseled, lid, box, label or certificate. |
-| Date / complete-object context | Range not established; **zero** verified complete kettle-and-mark pairs in the accessible record. |
-| Confidence | Current label **documented**; isolated alleged mark or historical workshop attribution **uncertain**. |
 
 ### Ginshodo
 
 <div class="info-box"><strong>Evidence boundary:</strong> the <a href="https://takaoka-iron-kettle.jp/collections/ginshodo">Ginshodo collection</a> sells present objects under 銀祥堂 / GINSHODO, including titles that call some kettles “Ryubundou utsushi.” Those titles are sales context for a present homage; they are never proof that Ryūbundō made the object.</div>
 
-**Chronology.** Ginshodo (銀祥堂, *Ginshōdō*, “silver-auspicious hall”) is a present brand with a current product collection. The accessible page shows multiple current listings, but no independent workshop chronology: no founded date, named historical founder, succession chain, or documented location change. That is not a reason to dismiss the work. It is a reason to describe present retail evidence at its actual strength.
+**Chronology.** Ginshodo (銀祥堂, *Ginshōdō*, “silver-auspicious hall”) is a present brand with a current collection. Accessible material gives no founded date, historical founder, succession or location change.
 
-**Network and process.** The collection explicitly divides product categories into inlaid iron kettles and wax-cast iron kettles, while the regional account documents casting, finishing, polishing, colouring, engraving and inlay as specialist work. This supports a careful sentence: Ginshodo currently markets kettles described with these techniques or categories in the Takaoka context. It does not tell us which body was wax-cast, which specialist cut an inlay, whether all stages were in one workshop, or whether a named historic maker touched an object. “Wax-cast” and “inlaid” are useful object descriptions when tied to the stated product; they are not a family tree.
+**Network and process.** Ginshodo markets inlaid and wax-cast categories while the regional account documents specialist casting, finishing, polishing, colouring, engraving and inlay. The collection does not identify a body’s method, each performer, commissioned stage, or historic maker.
 
-**Visual language.** The listed Ginshodo titles make a vivid current language visible: peony, bamboo, plum, shippo-like patterning, treasure imagery, and named Ryūbundō *utsushi* forms. Such titles tell a reader what the seller offers now. They do not prove that the motif was invented by Ginshodo, that the particular pattern belongs to a historical Ryūbundō device, or that any unsigned kettle with a similar body shares its origin. This is a place to notice the copy relationship without converting it into false provenance.
+**Visual language.** Current titles name peony, bamboo, plum, shippo, treasure and Ryūbundō *utsushi* forms. They describe present sales, not a historic device, motif inventor or provenance.
 
 **Representative objects.** The best bounded examples are the current listings “Ginshodo Ryubundou Utsushi Arahada Komaru tetsubin” and “Ginshodo Ryubundou utsushi Arahada Hiram aru tetsubin.” They identify current titles, brand and sales context; their product pages do not provide a museum-grade historical provenance or a readable, complete mark audit. Calling them present catalogue examples is precise. Calling them Ryūbundō works would be false.
 
@@ -112,18 +115,20 @@ That wording is practical for a buyer as well as an editor. Preserve the listing
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Ginshodo distinction"><img src="/tea/posts/tetsubin-history-6-takaoka/ginshodo-distinction.svg" alt="ginshodo distinction evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>An explicit homage label should prevent, not enable, a provenance claim. Original diagram.</figcaption></figure>
 
+| Ginshodo card record | Complete semantic equivalent |
+| --- | --- |
+| Chronology | `銀祥堂`, *Ginshōdō* / GINSHODO is a **documented** current brand. Founded date, founder, succession and location change are not established. |
+| Process | Current categories say inlaid or wax-cast iron kettles; Takaoka documents casting, finishing, polishing, colouring, engraving and inlay. Body method and who performs or commissions each stage are not verified. |
+| Visual language | Current titles name peony, bamboo, plum, shippo, treasure and Ryūbundō *utsushi* forms. They do not prove inventor, historic device, material diagnostic or provenance. |
+| Object | Current `Ryubundou Utsushi Arahada Komaru` and `... Hiram aru` listings establish present title/brand/sales context only; model, date, dimensions, material, original fittings, historical provenance and mark context are not verified. |
+| Mark / distinction | Technique, location and range are not established; **zero** complete kettle-and-mark pairs. Current label **documented**, alleged historic device **uncertain**; *utsushi* is not Ryūbundō authorship. |
+
 ### Identifying Ginshodo
 
 `銀祥堂`, *Ginshōdō* / GINSHODO, is a **documented** current brand label. The current pages supply product-title context, not a mark manual. No accessible source here records a particular Ginshodo kettle mark’s making technique, location, characters as observed on the object, generation/date range, complete-object photograph, and provenance together. The honest record is therefore “not verified / evidence ceiling,” with **zero** secure kettle-and-mark pairs—not a typeset seal pretending to be evidence.
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Ginshodo mark audit"><img src="/tea/posts/tetsubin-history-6-takaoka/ginshodo-mark.svg" alt="ginshodo mark evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>Current brand name; no reconstructed seal. Original diagram.</figcaption></figure>
 
-| Field | Ginshodo record |
-| --- | --- |
-| Characters / reading | `銀祥堂`, *Ginshōdō* / GINSHODO; current brand identity **documented**. |
-| Technique / location | Not verified for a tetsubin mark. |
-| Date / complete-object context | Range not established; **zero** verified complete kettle-and-mark pairs located. |
-| Confidence | Current label **documented**; detached or alleged historical device **uncertain**. |
 
 ### Shobee
 
@@ -131,15 +136,15 @@ That wording is practical for a buyer as well as an editor. Preserve the listing
 
 **Chronology.** Shobee (庄兵衛, *Shōbē* / SHOBEE) is present in the current Takaoka brand list. The material consulted does not publish a founding date, named generations, inherited workshop, closure, or revival date. This is a profile of what is verifiable, not a claim that no richer archive exists. Until one is published or supplied, a chronological gap must remain a gap rather than an opportunity to borrow a neighbouring lineage.
 
-**Network and process.** Shobee belongs to the same documented Takaoka landscape of divided specialist work. That makes it plausible that more than one craft role can stand behind an object, but plausibility is not a credit line. The accessible brand listing does not say who models, moulds, casts, polishes, engraves, inlays, colours, assembles or sells a particular Shobee kettle. Readers should ask the seller for object-specific documentation; a future answer may establish a brand, a collaborator, or both, but those are different conclusions.
+**Network and process.** Shobee is in Takaoka’s documented specialist landscape, but the listing does not identify who models, moulds, casts, polishes, engraves, inlays, colours, assembles, sells or commissions a particular kettle.
 
 **Visual language.** A brand listing without an accessible full object dossier cannot establish a historically stable Shobee form. The regional frame still helps one look well: compare body proportions, the relation of lid to rim, the handle’s attachment, surface treatment, decorative technique and any paper trail. But none of these is an independent Shobee test. This is especially important in a market where Kyoto visual language is deliberately admired and reproduced.
 
-**Representative objects.** No accessible institutional or producer record binds a complete Shobee kettle to date, dimensions, original lid/handle, provenance and mark context. The representative-object card says so plainly. The profile does not recycle a photo from a seller or turn the brand-page logo into a mark. It has fewer illustrative particulars than a museum catalogue because the published evidence has fewer particulars.
+**Representative objects.** No accessible record binds a complete Shobee kettle to date, dimensions, original fittings, provenance and mark context. The zero-pair card is the evidence ceiling, not an invitation to turn a logo or sales photograph into a mark.
 
 **Identification and distinction.** 庄兵衛 and SHOBEE are documented present naming forms. A tetsubin mark’s physical technique, location, original characters observed on a body, range and whole-object pair are not verified. Shobee’s distinct contribution is a useful negative lesson: even a brand named on a focused Takaoka kettle site should not be inflated into an antique workshop attribution. The limits are not a failure of the object; they are the starting point for a responsible request for provenance.
 
-A good enquiry asks for the complete body, the inside, underside, lid underside, handle joins, any box or certificate, and the date each record entered the object’s history. It also asks whether the brand is a maker, a commissioning party, or both. Those questions cost less than converting a current label into an unearned antique pedigree.
+A good enquiry asks whether the brand is maker, commissioning party, or both.
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Shobee chronology"><img src="/tea/posts/tetsubin-history-6-takaoka/shobee-chronology.svg" alt="shobee chronology evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>Do not borrow chronology from a nearby maker. Original diagram.</figcaption></figure>
 
@@ -151,18 +156,20 @@ A good enquiry asks for the complete body, the inside, underside, lid underside,
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Shobee distinction"><img src="/tea/posts/tetsubin-history-6-takaoka/shobee-distinction.svg" alt="shobee distinction evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>Brand, maker, and provenance can align; they cannot be presumed to align. Original diagram.</figcaption></figure>
 
+| Shobee card record | Complete semantic equivalent |
+| --- | --- |
+| Chronology | `庄兵衛`, *Shōbē* / SHOBEE is a **documented** current brand. Founding, generations, inherited workshop, closure and revival are not established. |
+| Process | Takaoka documents divided specialist work. Who models, moulds, casts, polishes, engraves, inlays, colours, assembles, sells or commissions a Shobee kettle is not verified. |
+| Visual language | No historic Shobee form, body proportion, lid, handle, surface, material or decorative diagnostic is verified; Kyoto resemblance is not a maker test. |
+| Object | Model, date, dimensions, material, original lid/handle, provenance and mark context are not verified; **zero** complete kettle-and-mark pairs. |
+| Mark / distinction | Technique, location and range are not established; current identity **documented**, isolated device/historical provenance **uncertain**. Brand identity is not body attribution. |
+
 ### Identifying Shobee
 
 `庄兵衛`, *Shōbē* / SHOBEE, is a **documented** present brand identity. This post has not verified a Takaoka kettle mark made with those characters, nor a normal position, method, generation, date range, or complete object-and-mark pair. A reader who finds a label, box, lid or similar-looking device should retain it as part of the object record, but should label the maker attribution **uncertain** until body, fittings, mark and provenance are reunited.
 
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Shobee mark audit"><img src="/tea/posts/tetsubin-history-6-takaoka/shobee-mark.svg" alt="shobee mark evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>Known brand name; no simulated device. Original diagram.</figcaption></figure>
 
-| Field | Shobee record |
-| --- | --- |
-| Characters / reading | `庄兵衛`, *Shōbē* / SHOBEE; current brand identity **documented**. |
-| Technique / location | Not verified for a tetsubin device. |
-| Date / complete-object context | Range not established; **zero** verified complete kettle-and-mark pairs in the accessible record. |
-| Confidence | Present identity **documented**; isolated alleged mark or historical provenance **uncertain**. |
 
 ### Utsushi, revival, or a new regional tradition?
 
