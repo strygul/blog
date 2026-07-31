@@ -23,6 +23,11 @@ The record becomes firmer later. The museum reports documentary material in the 
 
 This was a broad casting economy. Buddhist fittings and bells belonged to it, but so did the things that absorbed daily punishment: cooking pots, cauldrons, bath-heating fittings, agricultural implements, and, later, industrial parts. The [Mizusawa foundry cooperative](https://oshu-nambutekki.com/about/) still describes a mixed cluster of traditional ironware, vehicle parts, construction machinery, agricultural machinery, and machine-tool castings. That combination is not a dilution of an art-kettle tradition. It is evidence of Mizusawa’s practical base.
 
+<figure class="figure-center">
+  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/met-water-jar.jpg" alt="Eighteenth-century Japanese cast-iron water jar with a rounded body and dragon relief" loading="lazy" decoding="async" />
+  <figcaption>An eighteenth-century Japanese cast-iron water jar in the Metropolitan Museum of Art. The museum records Japan only: it compares a functional cast vessel, not Mizusawa or Nambu production. Photo: The Met, <a href="https://www.metmuseum.org/art/collection/search/60061">object 36.120.680</a>, public domain; local 1609 × 1600 JPEG derivative, resized and recompressed from the institutional original with no crop.</figcaption>
+</figure>
+
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Parallel Mizusawa and Morioka histories">
   <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/morioka-mizusawa-history.svg" alt="Parallel timelines for Mizusawa and Morioka that converge under the modern Nambu name without ranking either center" loading="lazy" decoding="async" />
   <figcaption>Two histories, later joined. Mizusawa’s early continuity claim remains qualified; no older-is-better conclusion follows. Original source-grounded diagram.</figcaption>
@@ -33,6 +38,11 @@ This was a broad casting economy. Buddhist fittings and bells belonged to it, bu
 In the Edo period, Mizusawa lay within the Sendai domain of the Date house, not the Nambu domain. The [Tohoku Bureau of Economy, Trade and Industry](https://www.tohoku.meti.go.jp/s_densan/iwate_01.html) distinguishes the centers plainly: Morioka developed tea-ceremony kettles and iron water kettles under Nambu patronage, while old Mizusawa developed around everyday cast goods under Date rule. Ōshū City says Date protection helped Hada become known for pots and cauldrons.
 
 The contrast is about economic emphasis, not an absolute boundary. Mizusawa casters also made Buddhist objects and large commissions; Morioka casters also made daily goods and weapons. Nor does “utilitarian” mean crude. A cooking pot that must cast cleanly, survive heat cycles, sit steadily, and sell across a wide market demands disciplined moulding and finishing. The most useful distinction is what organized each center’s reputation: domain tea culture and specialist tea-kettle patronage in Morioka; a dense, adaptable foundry economy for ordinary use in Mizusawa.
+
+<figure class="figure-center">
+  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/met-kettle-brazier.jpg" alt="Japanese tea arrangement with an iron kettle on a brazier" loading="lazy" decoding="async" />
+  <figcaption>An eighteenth-century Japanese iron kettle and brazier in a tea arrangement, documented by the Metropolitan Museum of Art. The museum records Japan only: it compares tea use, not Mizusawa or Nambu production. Photo: The Met, <a href="https://www.metmuseum.org/art/collection/search/39566">object 25.215.32</a>, public domain; local 1600 × 1110 JPEG derivative, resized and recompressed from the institutional original with no crop.</figcaption>
+</figure>
 
 The Iwate museum describes Hada casters producing iron pots and cauldrons, Buddhist goods, copperware, and cannon under Sendai-domain regulation and support. After the domains were abolished, both centers lost political patrons. New transport and exhibition markets changed what survived. Mizusawa used the Tōhoku Main Line after its 1890 opening to extend sales as far as Hokkaidō and became Tōhoku’s leading center for practical cast goods, including pots, cauldrons, and bath-heating fittings. Morioka’s national reputation centered more visibly on tetsubin and tea kama.
 
@@ -50,7 +60,7 @@ On 17 February 1975, Nambu ironware received national Traditional Craft designat
 Exchange also does not erase continuing differences in organization. Mizusawa remains a large industrial-casting cluster alongside traditional workshops. Morioka retains a more visible concentration of studios associated with tea kettles and art names. Companies in either center can use hand work, machinery, fired moulds, green-sand moulds, or different routes for different product lines. The designation is a starting filter, not a complete manufacturing record.
 
 <figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/nambu-candle-stand.jpg" alt="Simple black Nambu iron candle stand" loading="lazy" decoding="async" />
+  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/nambu-candle-stand.jpg" alt="Simple black Nambu iron candle stand holding a white candle" loading="lazy" decoding="async" />
   <figcaption>A Nambu iron candle stand made in Iwate: the regional category extends beyond tea ware. Photo: ウィキ太郎 Wiki Taro, <a href="https://commons.wikimedia.org/wiki/File:%E5%8D%97%E9%83%A8%E9%89%84%E5%99%A8_%E7%87%AD%E5%8F%B0_Japanese_candle_stand_made_of_iron.jpg">exact Wikimedia Commons file page</a>, public domain; unchanged 2448 × 2448 original, with no cropping, resizing, or recompression.</figcaption>
 </figure>
 
@@ -208,11 +218,13 @@ Mizusawa’s importance does not depend on winning an age contest. Its better cl
 
 - **Curator-supervised context:** Kyoto Women’s University’s [Nambu Tekki history](https://artsandculture.google.com/story/nambu-tekki-kyoto-women-s-university/UAWBPlRYx2bcKA?hl=en) supports the two-center overview. Its images and those on government, museum, Oigen, and Oitomi pages have no confirmed reusable license and were not copied.
 
+- **Museum comparisons:** the Metropolitan Museum of Art records an [eighteenth-century cast-iron water jar](https://www.metmuseum.org/art/collection/search/60061) and [an eighteenth-century iron kettle and brazier](https://www.metmuseum.org/art/collection/search/39566) as public-domain Japanese objects. Their records give no Mizusawa, Ōshū, or Nambu provenance, so they are used only as explicitly limited functional-vessel and tea-use comparisons.
+
 - **Oigen:** [company chronology](https://oigen.jp/pages/corporate-overview), [workshop message](https://enjoy.oigen.jp/en/aboutoigen/message), [official mark guide](https://oigen.jp/blogs/contents/column06), [Dragon kettle](https://oigen.jp/products/tetsubin_ryumon), and [Maromi kettle](https://oigen.jp/products/tetsubin_maromi).
 
 - **Oitomi:** [history and process](https://oitomi.jp/oitomi-history/), [English history](https://oitomi.com/pages/history), [kettle catalogue](https://oitomi.com/collections/iron-kettles), [flat itome kettle](https://oitomi.com/products/nambu-ironware-iron-kettle-flat-and-round-itome-black-1-2l), [Seihoumaru trivet](https://oitomi.com/products/nambu-ironware-trivet-mat-seihoumaru-black), and [outside-workshop credit](https://oitomi.com/blogs/articles/the-world-of-nanbu-iron-kettles-by-traditional-craftsman-shingo-kikuchi).
 
-- **Images:** the exact file, creator, license, and modification status appear in each caption. The CC BY-SA 3.0 hero is an uncropped local 1600 × 1200 derivative; both public-domain regional utility photographs are unchanged originals. All fourteen SVGs are original source-grounded diagrams; no restricted image or mark form was copied or traced.
+- **Images:** the exact file, creator, rights statement or license, and modification status appear in each caption. The CC BY-SA 3.0 hero and the two public-domain Met comparisons are uncropped local derivatives; both public-domain regional utility photographs are unchanged originals. The Met objects are explicitly not given Mizusawa or Nambu provenance. All fourteen SVGs are original source-grounded diagrams; no restricted maker photograph or mark form was copied or traced.
 
 Previous: [Morioka: The Domain Kettle Becomes Nambu Ironware](/tea/tetsubin-history-2-morioka)
 
