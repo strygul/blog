@@ -103,5 +103,12 @@ figure.figure-scroll:focus-visible {
 	border-radius: 8px;
 }
 
+.prose table {
+	display: block;
+	max-width: 100%;
+	overflow-x: auto;
+	overscroll-behavior-inline: contain;
+}
+
 .prose table td, .prose table th { border: 1px solid rgb(var(--gray-light)); padding: .4em .6em; }
 .prose table th { text-align: left; }
