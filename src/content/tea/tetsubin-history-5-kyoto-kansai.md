@@ -105,7 +105,7 @@ Princeton supplies a rare, complete context for `龍文堂造`: *Ryūbundō zō*
 
 **Chronology.** Kibundō (亀文堂) is strongly associated with Ōmi/Shiga in the records available here. Shiga’s exhibition material identifies Kibundō Shōhei—Hatano Shōhei (1813–1892)—as an Ōmi-related caster whose tetsubin became famous. The National Diet Library reference record reports that it found material describing Kibundō as connected with Ōmi and as a Ryūbundō pupil line. That is valuable lead evidence, but not enough to draw an unbroken arrow from Ryūbundō to every later Kibundō object. Teacher and workshop accounts need the same object-level discipline as marks.
 
-The wartime and postwar story is fragmentary. A dealer gives a late sequence and closure claim, but this is not converted into a precise date. Wartime requisition and postwar household change disrupted luxury-kettle production; Kibundō’s final workshop sequence needs a stronger archive.
+The later story is fragmentary. A dealer gives a late sequence and closure claim, but this is not converted into a precise date. Kibundō’s final workshop sequence needs a stronger archive.
 
 **Process.** The accessible record does not supply a repeatable workshop process, mould route, or division of labour. Describe a documented object’s iron, lid material, relief, engraving, inlay, or fitting; do not call an elaborate body lost wax, hand chased, or a Ryūbundō copy from appearance.
 
