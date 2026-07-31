@@ -6,7 +6,7 @@ description: "Mizusawa's casting history predates the Nambu name attached to it.
 heroImage: "../../../public/tea/posts/tetsubin-history-3-mizusawa-oshu/hero.jpg"
 ---
 
-<div class="info-box">Mizusawa is often folded into a single four-hundred-year story of “Nambu ironware.” This post keeps its older Ōshū casting history separate from Morioka's domain-sponsored tea-kettle tradition, using municipal, museum, association, government, and workshop sources. Maker marks are shown with complete attributed objects because the name on one detachable part is not enough.</div>
+<div class="info-box">Mizusawa is often folded into a single four-hundred-year story of “Nambu ironware.” This post keeps its older Ōshū casting history separate from Morioka's domain-sponsored tea-kettle tradition, using municipal, museum, association, government, and workshop sources. Maker-mark claims stay separate from detachable parts; where complete-object evidence is absent, the limit is stated plainly.</div>
 
 ### Older than the name it now carries
 

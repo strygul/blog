@@ -16,7 +16,7 @@ The same official account gives a second, later anchor. About four centuries ago
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-4-yamagata/hero.jpg" alt="Spoutless sixteenth-century Japanese cast-iron Tenmyō kettle with a wide lid and side lugs" loading="lazy" decoding="async" />
-  <figcaption><em>Tenmyō Kettle, Named “Taya Itome”</em>, sixteenth century, cast iron, Japan. This public-domain museum comparison is not attributed to Yamagata or any profiled workshop; it is used to show the older cast-kettle world that predates the tetsubin. The Metropolitan Museum of Art, 2024.553.7a–c, public domain; local 1600px JPEG derivative, resized/recompressed from the institutional original without cropping.</figcaption>
+  <figcaption><em>Tenmyō Kettle, Named “Taya Itome”</em>, sixteenth century, cast iron, Japan. This public-domain museum comparison is not attributed to Yamagata or any profiled workshop; it is used to show the older cast-kettle world that predates the tetsubin. <a href="https://www.metmuseum.org/art/collection/search/913854">The Metropolitan Museum of Art, 2024.553.7a–c</a>, public domain; local 1600px JPEG derivative, resized/recompressed from the institutional original without cropping.</figcaption>
 </figure>
 
 The official craft record lists tea kettles, iron teapots, bronze vases, iron pots, ornaments, Buddhist statues, temple bells, and other cast work. A kettle workshop can grow out of this shared ecology without making the old regional date its own foundation date. The tetsubin itself remains an eighteenth-century form in the broader national chronology described in Part 1.

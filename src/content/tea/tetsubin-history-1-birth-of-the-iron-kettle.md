@@ -32,7 +32,7 @@ Start with the **chagama** (茶釜), the iron kettle of chanoyu. A chagama has a
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-chagama.jpg" alt="Seventeenth-century Japanese iron chagama with a wide mouth and no pouring spout" loading="lazy" decoding="async" />
-  <figcaption><em>Kettle (Kama) with Willow and Cherry</em>, mid-seventeenth century, Ōnishi Gorōzaemon. The wide mouth and spoutless body identify a chagama. The Metropolitan Museum of Art, 2024.553.6a, b, public domain.</figcaption>
+  <figcaption><em>Kettle (Kama) with Willow and Cherry</em>, mid-seventeenth century, Ōnishi Gorōzaemon. The wide mouth and spoutless body identify a chagama. <a href="https://www.metmuseum.org/art/collection/search/913853">The Metropolitan Museum of Art, 2024.553.6a, b</a>, public domain.</figcaption>
 </figure>
 
 <figure class="figure-center">
@@ -55,7 +55,7 @@ The shortest rule is functional. **Ladle from a spoutless mouth: chagama. Carry 
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-kama-furo.jpg" alt="Museum installation of an iron kama seated in a ceramic furo brazier beside a bamboo water ladle" loading="lazy" decoding="async" />
-  <figcaption><em>Kettle (Kama) and Brazier (Furo)</em>, eighteenth century, shown with a ladle in a museum installation. The Metropolitan Museum of Art, 25.215.32, public domain.</figcaption>
+  <figcaption><em>Kettle (Kama) and Brazier (Furo)</em>, eighteenth century, shown with a ladle in a museum installation. <a href="https://www.metmuseum.org/art/collection/search/39566">The Metropolitan Museum of Art, 25.215.32</a>, public domain.</figcaption>
 </figure>
 
 ### Sencha and the portable iron kettle
@@ -68,12 +68,12 @@ These are related developments, not one instantaneous invention. The imported st
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-hokusai-tea-fire.jpg" alt="Early nineteenth-century Japanese print of women preparing tea around a square fire-holder" loading="lazy" decoding="async" />
-  <figcaption>Katsushika Hokusai, <em>Women Preparing Tea Around the Fire-Holder</em>, 1816. The scene places hot-water preparation in domestic life rather than an abstract utensil genealogy. The Metropolitan Museum of Art, JP2330, public domain.</figcaption>
+  <figcaption>Katsushika Hokusai, <em>Women Preparing Tea Around the Fire-Holder</em>, 1816. The scene places hot-water preparation in domestic life rather than an abstract utensil genealogy. <a href="https://www.metmuseum.org/art/collection/search/54114">The Metropolitan Museum of Art, JP2330</a>, public domain.</figcaption>
 </figure>
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-sencha-cups.jpg" alt="One small blue-and-white porcelain sencha cup with a lattice pattern" loading="lazy" decoding="async" />
-  <figcaption>One cup photographed from the <em>Set of Five Sencha Teacups with Lattice Pattern</em>, eighteenth century. The Metropolitan Museum of Art, 1975.268.673, public domain.</figcaption>
+  <figcaption>One cup photographed from the <em>Set of Five Sencha Teacups with Lattice Pattern</em>, eighteenth century. <a href="https://www.metmuseum.org/art/collection/search/63744">The Metropolitan Museum of Art, 1975.268.673</a>, public domain.</figcaption>
 </figure>
 
 Steeped tea changed what hot water needed to do. Chanoyu centered a fixed hearth, a chagama, a ladle, and a formal sequence. Sencha gatherings could be more mobile. Water had to be heated, carried, and poured into smaller steeping vessels. A compact iron kettle with a handle and spout answered that practical problem brilliantly. It belonged beside the tea table, at a portable brazier, or in the home.
@@ -85,7 +85,7 @@ Steeped tea changed what hot water needed to do. Chanoyu centered a fixed hearth
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-sencha-set.jpg" alt="Lacquer panel painted with a nineteenth-century sencha tea set" loading="lazy" decoding="async" />
-  <figcaption>Shibata Zeshin, <em>Lacquer Paintings of Various Subjects: Sencha Tea Set</em>, 1882. By then sencha utensils formed a recognizable visual world of their own. The Metropolitan Museum of Art, 36.100.108, public domain.</figcaption>
+  <figcaption>Shibata Zeshin, <em>Lacquer Paintings of Various Subjects: Sencha Tea Set</em>, 1882. By then sencha utensils formed a recognizable visual world of their own. <a href="https://www.metmuseum.org/art/collection/search/57191">The Metropolitan Museum of Art, 36.100.108</a>, public domain.</figcaption>
 </figure>
 
 This is where the evidence becomes frustrating. The form appears in the eighteenth century, but the identity of the first maker is **uncertain**. The curator-supervised Nambu history prepared by Kyoto Women’s University repeats a Morioka tradition: around 1750, the third Koizumi Nizaemon devised a small handled kettle with a spout for outdoor tea. Traditional Crafts Aoyama Square likewise places Nambu tetsubin development in the eighteenth century. Those sources support an important regional history. They do not establish that no similar vessel was made elsewhere, or that a surviving document from 1750 records a national invention.
