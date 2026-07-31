@@ -32,6 +32,10 @@ Modern “Takaoka tetsubin” is therefore best read as a present category. The 
 
 The visible result can make this difficult. Lost-wax casting can carry relief and undercut detail; engraving and inlay can add a second language after casting; colour can change the apparent depth of the iron. Yet the regional source lists these as available techniques, not a process sheet for each named kettle. It is inaccurate to look at a raised dragon and declare it lost wax, or to see a gleaming line and declare a particular hand responsible, unless the relevant object record says so. A present product title can identify a “wax-cast iron kettle” or “inlaid iron kettle”; it cannot prove which individual executed the operation.
 
+<figure class="figure-center"><img src="/tea/posts/tetsubin-history-6-takaoka/commons-hanging-kettle.jpg" alt="Small iron kettle hanging from an adjustable hook above an irori in a historic Japanese interior" loading="lazy" decoding="async" /><figcaption>A hanging kettle at Bōsō-no-Mura Museum in Chiba shows one use context clearly. It does not identify a Takaoka maker, technique, date, or production network. Photo: TANAKA Juuyoh, <a href="https://commons.wikimedia.org/wiki/File:Hanging_kettle_in_Japan.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>; resized without cropping.</figcaption></figure>
+
+<figure class="figure-center"><img src="/tea/posts/tetsubin-history-6-takaoka/commons-tetsubin-tohoku.jpg" alt="Small one-cup Japanese iron kettle with a folding handle and pine-cone-shaped knob" loading="lazy" decoding="async" /><figcaption>A one-cup kettle photographed as a Tōhoku object. It is included as a geographic control: looking at it cannot move it to Takaoka, and a similar silhouette cannot move a Takaoka kettle to Tōhoku. Photo: Fg2, <a href="https://commons.wikimedia.org/wiki/File:Tetsubin1571.jpg">Wikimedia Commons</a>, public domain; local 800 × 665 JPEG unchanged.</figcaption></figure>
+
 <figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Takaoka production network"><img src="/tea/posts/tetsubin-history-6-takaoka/takaoka-production-network.svg" alt="takaoka production network evidence card; full record in adjacent table." loading="lazy" decoding="async" /><figcaption>Roles can be distributed. A brand name is not automatically the name of every person who worked on the object. Original diagram.</figcaption></figure>
 
 | Stage | Documented regional possibility | Attribution rule |
@@ -223,7 +227,7 @@ For any candidate kettle, begin with the complete body in clear views: underside
 - **Takaoka:** [Aoyama Square](https://kougeihin.jp/en/craft/0708/) documents specialist work; [Takaoka City](https://www.city.takaoka.toyama.jp/gyosei/kosodate_kyoiku/shochugakko/gakkouseikatsu/2/6253.html) records 1611 casting, not producer foundations.
 - **Producers:** [Koryo Kinjudo](https://www.takaokadouki.net/%E6%96%B0%E7%9D%80%E6%83%85%E5%A0%B1/%E9%AB%98%E9%99%B5%E9%87%91%E5%AF%BF%E5%A0%82/), [Ginshodo](https://www.ginshodo.jp/profile.html), and [Miyazu/Shobee](https://miyaz.jp/jp/index.php?id=9) supply the first-party history and role statements. Product titles never prove Ryūbundō authorship; images were not reused.
 - **Hero:** Met, [*Kettle (Kama) and Brazier (Furo)*, 25.215.32](https://www.metmuseum.org/art/collection/search/39566), public domain; unique derivative, comparison only.
-- **Diagrams:** Twenty-four original SVGs with accessible HTML equivalents; no restricted asset or facsimile was reused.
+- **Images and diagrams:** Two open-licence Commons photographs are used as explicit geographic and use-context controls, never as Takaoka or maker attribution. Twenty-four original SVGs have accessible HTML equivalents; no restricted asset or facsimile was reused.
 
 Previous: [Kyoto and Kansai: The Kettle as Art Metal](/tea/tetsubin-history-5-kyoto-kansai)
 
