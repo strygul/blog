@@ -131,13 +131,6 @@ The same restraint applies to the nineteenth-century boom more generally. Some k
 
 The regional story is not a relay race in which one city invents the kettle and hands it intact to the next. It is a network of older casting centers, patronage systems, tea cultures, specialist metalworkers, and later revivals.
 
-<figure class="figure-center">
-  <a href="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-regions-map.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the tetsubin regions map full size in a new tab">
-    <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-regions-map.svg" alt="Schematic map locating Morioka, Mizusawa and Oshu, Yamagata, Kyoto and Omi, and Takaoka" loading="lazy" decoding="async" />
-  </a>
-  <figcaption>The places in this series contributed different histories. The map is a bridge, not a claim that all roads lead from one founding workshop. Diagram by the author.</figcaption>
-</figure>
-
 **Morioka** developed a tea-kettle tradition under the Nambu domain. Official and curator-supervised accounts describe the domain inviting kama makers from Kyoto and Kōshū during the seventeenth century. This is the setting for the Koizumi circa-1750 tradition and for later Nambu tetsubin. Domain patronage mattered: it supported makers, designs, and a market for tea objects.
 
 **Mizusawa, now part of Ōshū**, tells an older and different story. The Kyoto Women’s University history connects local casting to the Ōshū Fujiwara world of the twelfth century. Its historical strength was broad everyday casting, not simply elite tea kettles. Morioka and Mizusawa later exchanged techniques, and today both production areas fall under the Nambu ironware designation. The modern umbrella is real; so are the separate histories beneath it.
