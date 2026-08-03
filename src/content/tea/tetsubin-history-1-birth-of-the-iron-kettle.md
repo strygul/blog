@@ -1,5 +1,5 @@
 ---
-title: "The Tetsubin Is Younger Than You Think"
+title: "Tetsubin History, Part 1: The Birth of the Iron Kettle"
 pubDate: "2026-07-31"
 category:
   - "Tea"
