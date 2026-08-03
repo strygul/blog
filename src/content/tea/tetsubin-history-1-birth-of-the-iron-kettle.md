@@ -11,7 +11,7 @@ heroImage: "../../../public/tea/posts/tetsubin-history-1-birth-of-the-iron-kettl
 ---
 
 <div class="info-box">
-This series began with four HOJO articles, but the dates and origin stories have been checked against museum catalogues, Japanese government and craft-association records, official workshop histories, and curator-supervised research. Where those sources disagree, I show the disagreement rather than forcing an exact answer. The borrowed photographs are credited in their captions; the maps and diagrams are my own.
+This series began with [HOJO's general tetsubin article](https://hojotea.com/categ_e/tetsubin.htm) and its profiles of [Suzuki Morihisa](https://hojotea.com/item_e/suzuki.htm), [Kunzan](https://hojotea.com/item_e/kunzan.htm), and [Seikodo](https://hojotea.com/item_e/seikodo.htm). They inspired the questions here, but the dates and origin stories have been checked against museum catalogues, Japanese government and craft-association records, official workshop histories, and curator-supervised research. Where those sources disagree, I show the disagreement rather than forcing an exact answer. The borrowed photographs are credited in their captions; the maps and diagrams are my own.
 </div>
 
 ### A kettle with an older shadow
@@ -46,8 +46,10 @@ The **tetsubin** (鉄瓶) brings the two features together: an overhead handle a
 
 Finally there is the enamelled iron **kyūsu** (急須). This is a brewing pot: tea leaves and hot water go inside, and an enamel lining prevents the liquor from contacting raw iron. Many are colorful, compact, and sold outside Japan as “tetsubin teapots.” They are perfectly good kyūsu. They are poor water boilers, because direct flame can damage the enamel, coating, and fittings.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Comparison of four Japanese iron vessel types">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-object-types.svg" alt="Diagram comparing chagama, tedorikama, tetsubin, and enamelled iron kyusu" loading="lazy" decoding="async" />
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-object-types.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the comparison of four Japanese iron vessel types diagram full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-object-types.svg" alt="Diagram comparing chagama, tedorikama, tetsubin, and enamelled iron kyusu" loading="lazy" decoding="async" />
+  </a>
   <figcaption>The quick identification test: mouth, spout, handle, interior, then intended use. Diagram by the author.</figcaption>
 </figure>
 
@@ -92,8 +94,10 @@ This is where the evidence becomes frustrating. The form appears in the eighteen
 
 So the careful wording is: **Morioka tradition credits Koizumi Nizaemon with a circa-1750 innovation, while the first tetsubin in Japan remains unproven.** “Is said to be the origin” is evidence about the tradition itself, not a substitute for a dated workshop ledger or securely provenanced object.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Timeline comparing regional casting and tetsubin history">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-history-timeline.svg" alt="Two-track timeline separating old regional casting traditions from the later history of the tetsubin" loading="lazy" decoding="async" />
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-history-timeline.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the regional casting and tetsubin history timeline full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-history-timeline.svg" alt="Two-track timeline separating old regional casting traditions from the later history of the tetsubin" loading="lazy" decoding="async" />
+  </a>
   <figcaption>The two-track timeline prevents a medieval casting date from becoming a medieval tetsubin date. Diagram by the author.</figcaption>
 </figure>
 
@@ -127,8 +131,10 @@ The same restraint applies to the nineteenth-century boom more generally. Some k
 
 The regional story is not a relay race in which one city invents the kettle and hands it intact to the next. It is a network of older casting centers, patronage systems, tea cultures, specialist metalworkers, and later revivals.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Map of the tetsubin regions covered in this series">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-regions-map.svg" alt="Schematic map locating Morioka, Mizusawa and Oshu, Yamagata, Kyoto and Omi, and Takaoka" loading="lazy" decoding="async" />
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-regions-map.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the tetsubin regions map full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-regions-map.svg" alt="Schematic map locating Morioka, Mizusawa and Oshu, Yamagata, Kyoto and Omi, and Takaoka" loading="lazy" decoding="async" />
+  </a>
   <figcaption>The places in this series contributed different histories. The map is a bridge, not a claim that all roads lead from one founding workshop. Diagram by the author.</figcaption>
 </figure>
 
@@ -161,8 +167,10 @@ The maker begins with a design: capacity, profile, wall thickness, mouth, spout,
 
 A separate inner core—the **nakago**—creates the cavity. The gap between core and outer mould determines the iron wall. Too wide makes a needlessly heavy kettle. Too narrow or uneven risks failure. The spout needs its own mould and must meet the body cleanly enough for molten iron to flow through the complete space.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Eight-step tetsubin casting process diagram">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-casting-process.svg" alt="Eight-step diagram from tetsubin design and mould making through casting, finishing, and assembly" loading="lazy" decoding="async" />
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-casting-process.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the eight-step tetsubin casting process diagram full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-casting-process.svg" alt="Eight-step diagram from tetsubin design and mould making through casting, finishing, and assembly" loading="lazy" decoding="async" />
+  </a>
   <figcaption>The common logic of casting. Mould material, pattern work, firing, coloring, rust treatment, and division of labor differ by region and workshop. Diagram by the author.</figcaption>
 </figure>
 
@@ -189,9 +197,7 @@ The later regional posts will go deeper into workshops, marks, patterns, and rev
   <figcaption>A porcelain kyūsu makes the functional test plain: this smaller side-handled vessel steeps and serves sencha; it is not a water-boiling tetsubin. <em>Teapot from Tea Set with Chinese Landscape</em>, 1893–1914. <a href="https://clevelandart.org/art/2022.171.1">Cleveland Museum of Art, 2022.171.1</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>. Resized only.</figcaption>
 </figure>
 
-The next stop is Morioka, where domain-sponsored chagama making, the Koizumi account, workshop succession, and the later Nambu identity can be examined without making them stand in for all of Japan.
-
-Next: [Morioka: The Domain Kettle Becomes Nambu Ironware](/tea/tetsubin-history-2-morioka)
+This is the first of six articles. The next five will look at Morioka; Mizusawa and Ōshū; Yamagata; Kyoto and Kansai; and Takaoka—without making any one regional history stand in for all of Japan.
 
 ### Sources and image credits
 
