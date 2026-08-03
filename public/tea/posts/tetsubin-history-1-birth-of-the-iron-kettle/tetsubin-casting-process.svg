@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Common casting sequence for a tetsubin</title>
+  <desc id="desc">Eight steps run from design through moulds, casting, finishing, and assembly, with a note that mould, coloring, and rust treatment vary.</desc>
+  <rect width="1200" height="700" fill="#faf8f4"/>
+  <style>
+    text{fill:#2b2b2b;font-family:Inter,ui-sans-serif,system-ui,sans-serif}.serif{font-family:Georgia,"Times New Roman",serif}.box{fill:#f1ede6;stroke:#2b2b2b;stroke-width:2}.rust{fill:#8b4a32}.blue{fill:#496b78}.num,.light{fill:#faf8f4}.num{font-size:22px;font-weight:700}.label{font-size:20px;font-weight:700}.small{font-size:16px}.arrow{fill:none;stroke:#8b4a32;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}
+  </style>
+  <text x="55" y="60" class="serif" font-size="38" font-weight="700">A common casting sequence</text>
+  <text x="55" y="94" font-size="20">The shared logic is simple. The workshop-specific decisions are not.</text>
+  <defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0l10 5-10 5z" class="rust"/></marker></defs>
+  <g transform="translate(55 145)"><rect width="235" height="145" rx="18" class="box"/><circle cx="34" cy="34" r="21" class="rust"/><text x="34" y="42" text-anchor="middle" class="num">1</text><path d="M75 54h112M75 76h78M75 98h98" stroke="#496b78" stroke-width="5"/><text x="118" y="128" text-anchor="middle" class="label">Design</text></g>
+  <path d="M295 217h42" class="arrow" marker-end="url(#a)"/>
+  <g transform="translate(350 145)"><rect width="235" height="145" rx="18" class="box"/><circle cx="34" cy="34" r="21" class="rust"/><text x="34" y="42" text-anchor="middle" class="num">2</text><path d="M80 105Q90 47 150 45q60 2 70 60" fill="none" stroke="#496b78" stroke-width="9"/><text x="118" y="128" text-anchor="middle" class="label">Outer mould</text></g>
+  <path d="M590 217h42" class="arrow" marker-end="url(#a)"/>
+  <g transform="translate(645 145)"><rect width="235" height="145" rx="18" class="box"/><circle cx="34" cy="34" r="21" class="rust"/><text x="34" y="42" text-anchor="middle" class="num">3</text><path d="M91 104Q98 56 150 54q52 2 59 50" fill="#496b78"/><text x="118" y="128" text-anchor="middle" class="label">Core / nakago</text></g>
+  <path d="M885 217h42" class="arrow" marker-end="url(#a)"/>
+  <g transform="translate(940 145)"><rect width="205" height="145" rx="18" class="box"/><circle cx="34" cy="34" r="21" class="rust"/><text x="34" y="42" text-anchor="middle" class="num">4</text><path d="M72 92q70-54 97-8-45 7-89 31z" fill="#496b78"/><text x="102" y="128" text-anchor="middle" class="label">Spout mould</text></g>
+  <path d="M1040 295v51" class="arrow" marker-end="url(#a)"/>
+  <g transform="translate(910 365)"><rect width="235" height="145" rx="18" class="box"/><circle cx="34" cy="34" r="21" class="rust"/><text x="34" y="42" text-anchor="middle" class="num">5</text><path d="M118 40l-20 43h15l-16 33 42-47h-17l18-29z" class="rust"/><text x="118" y="128" text-anchor="middle" class="label">Casting</text></g>
+  <path d="M905 437h-42" class="arrow" marker-end="url(#a)"/>
+  <g transform="translate(615 365)"><rect width="235" height="145" rx="18" class="box"/><circle cx="34" cy="34" r="21" class="rust"/><text x="34" y="42" text-anchor="middle" class="num">6</text><path d="M85 105Q95 50 150 45q55 5 65 60" fill="#496b78"/><path d="M150 35v82M105 44l85 66M195 44l-85 66" stroke="#faf8f4" stroke-width="4"/><text x="118" y="128" text-anchor="middle" class="label">Mould removal</text></g>
+  <path d="M610 437h-42" class="arrow" marker-end="url(#a)"/>
+  <g transform="translate(320 365)"><rect width="235" height="145" rx="18" class="box"/><circle cx="34" cy="34" r="21" class="rust"/><text x="34" y="42" text-anchor="middle" class="num">7</text><path d="M88 96l67-45 12 19-67 45zM163 46l18-12 12 19-18 12z" fill="#496b78"/><text x="118" y="128" text-anchor="middle" class="label">Finishing</text></g>
+  <path d="M315 437h-42" class="arrow" marker-end="url(#a)"/>
+  <g transform="translate(55 365)"><rect width="205" height="145" rx="18" class="box"/><circle cx="34" cy="34" r="21" class="rust"/><text x="34" y="42" text-anchor="middle" class="num">8</text><path d="M63 102Q102 23 145 102" fill="none" stroke="#496b78" stroke-width="9"/><rect x="82" y="76" width="40" height="19" rx="8" class="rust"/><text x="102" y="128" text-anchor="middle" class="label">Handle / lid</text></g>
+  <rect x="55" y="565" width="1090" height="80" rx="16" fill="#496b78"/>
+  <text x="600" y="598" text-anchor="middle" class="light" font-size="19" font-weight="700">Regional and workshop differences matter</text>
+  <text x="600" y="626" text-anchor="middle" class="light" font-size="17">Mould type, pattern transfer, coloring, oxide treatment, wall thickness, and division of labor all vary.</text>
+</svg>
