@@ -66,19 +66,25 @@ Suzuki's long lineage can make the workshop sound like one master working alone.
 
 The current [product catalogue](https://suzukimorihisa.com/en/collections/all) is much livelier than the word “traditional” might suggest. There are calm arare surfaces and fine ribs, but also broad grooves, flower patterns, and playful geometries. The nearly spherical *Hinomaru* is linked to the thirteenth head; the interlaced *Temari* to the fifteenth. Tradition here is not one frozen shape. It is a workshop continuing to design.
 
+**Watch:** Pen magazine visits the sixteenth Suzuki Morihisa and looks at how the studio brings a contemporary expression to four centuries of casting tradition.
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/B_3B5q2kBgk" title="Suzuki Morihisa Studio — Pen magazine feature" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 The published mark evidence is useful but limited. Horie's paper shows `盛久`, read *Morihisa*, in variants associated with the thirteenth and fourteenth heads. These body marks were pressed into the mould with wooden seals and usually sit low near the spout. The figure does not show complete kettles, so a similar mark on an unknown object is a promising clue—not a complete attribution.
 
-<div class="image-gallery two-up" role="group" aria-label="Suzuki Morihisa tetsubin and maker marks">
+<div class="image-gallery studio-gallery" role="group" aria-label="Suzuki Morihisa tetsubin and maker marks">
   <figure class="full-size">
-    <img src="/tea/posts/tetsubin-history-2-morioka/suzuki-tetsubin.jpg" alt="Suzuki Morihisa Hinomaru tetsubin" loading="lazy" decoding="async" />
+    <a href="/tea/posts/tetsubin-history-2-morioka/suzuki-tetsubin.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Suzuki Morihisa Hinomaru tetsubin image full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-2-morioka/suzuki-tetsubin.jpg" alt="Suzuki Morihisa Hinomaru tetsubin" loading="lazy" decoding="async" />
+    </a>
     <figcaption>The small <em>Hinomaru</em> tetsubin, designed by the thirteenth Suzuki Morihisa. Photo: <a href="https://suzukimorihisa.com/en/products/%E6%97%A5%E3%81%AE%E4%B8%B8%E5%BD%A2%E9%89%84%E7%93%B6-%E5%B0%8F">Suzuki Morihisa Studio</a>.</figcaption>
   </figure>
   <figure class="full-size">
-    <img src="/tea/posts/tetsubin-history-2-morioka/suzuki-mark.jpg" alt="Published Suzuki Morihisa marks reading Morihisa" loading="lazy" decoding="async" />
+    <a href="/tea/posts/tetsubin-history-2-morioka/suzuki-mark.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the published Suzuki Morihisa marks image full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-2-morioka/suzuki-mark.jpg" alt="Published Suzuki Morihisa marks reading Morihisa" loading="lazy" decoding="async" />
+    </a>
     <figcaption>Published <code>盛久</code> marks associated with the thirteenth head (left) and fourteenth (right). Source: <a href="https://www.jstage.jst.go.jp/article/sfj/70/5/70_255/_pdf/-char/ja">Horie 2019, fig. 7</a>. A match is a clue, not proof.</figcaption>
   </figure>
 </div>
@@ -97,13 +103,17 @@ Its [current catalogue](https://nanbu93.jp/collections/all) resists easy stereot
 
 The mark evidence is thinner. Retailers report `薫山`, read *Kunzan*, and sometimes `南部盛岡`, or *Nambu Morioka*. I found no workshop guide showing how those marks were made, where every version appears, or when each was used. An original box, invoice, catalogue match, or confirmation from the workshop would therefore carry far more weight than the surface pattern alone.
 
-<div class="image-gallery two-up" role="group" aria-label="Kunzan tetsubin and maker mark">
+<div class="image-gallery studio-gallery" role="group" aria-label="Kunzan tetsubin and maker mark">
   <figure class="full-size">
-    <img src="/tea/posts/tetsubin-history-2-morioka/kunzan-tetsubin.jpg" alt="Kunzan Natsume-form tetsubin with cherry-blossom decoration" loading="lazy" decoding="async" />
+    <a href="/tea/posts/tetsubin-history-2-morioka/kunzan-tetsubin.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Kunzan Natsume Sakura tetsubin image full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-2-morioka/kunzan-tetsubin.jpg" alt="Kunzan Natsume-form tetsubin with cherry-blossom decoration" loading="lazy" decoding="async" />
+    </a>
     <figcaption>The 1.8-litre <em>Natsume Sakura</em> tetsubin. Photo: <a href="https://nanbu93.jp/products/natsume-gata-sakura-1-8l">Kunzan</a>.</figcaption>
   </figure>
   <figure class="full-size">
-    <img src="/tea/posts/tetsubin-history-2-morioka/kunzan-mark.jpg" alt="Seller-attributed Kunzan body mark beneath a tetsubin" loading="lazy" decoding="async" />
+    <a href="/tea/posts/tetsubin-history-2-morioka/kunzan-mark.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Kunzan maker mark image full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-2-morioka/kunzan-mark.jpg" alt="Seller-attributed Kunzan body mark beneath a tetsubin" loading="lazy" decoding="async" />
+    </a>
     <figcaption><a href="https://hurumono.net/2024/04/03/buy-tetsubinn/">An antique dealer</a> identifies the square body stamp as <code>薫山</code>. The dealer's historical account conflicts with workshop sources, so this is seller attribution, not independent authentication.</figcaption>
   </figure>
 </div>
@@ -120,6 +130,8 @@ The business became Iwashimizu Foundry in 1950 and expanded its integrated facto
 
 Iwachu explains the difference through two production routes. Its [tetsubin process](https://iwachu.co.jp/en/pages/manufacturing-process) uses the traditional fired mould, hand-pressed patterns, a core and separate spout, an oxide-treated interior, and exterior lacquer. Its [teapot and kitchenware process](https://iwachu.co.jp/en/pages/teapot-kitchenware-process) includes automated moulding and vitreous enamel inside the teapots.
 
+**Watch:** Tierra Zen offers a visual overview of how Iwachu ironware is made, from mould work and casting to finishing.
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/o6AuxztRkYM" title="Iwachu ironware production" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -128,13 +140,17 @@ This is more than a workshop detail. It is a practical safety test. An enamelled
 
 Iwachu publishes four current `岩鋳` or `IWACHU` devices on its authenticity page. They can support a present-day Iwachu identification, but the page does not date each design or show where every mark sits on a complete kettle. A logo tells you less than sellers often suggest.
 
-<div class="image-gallery two-up" role="group" aria-label="Iwachu tetsubin and maker stamp">
+<div class="image-gallery studio-gallery" role="group" aria-label="Iwachu tetsubin and maker stamp">
   <figure class="full-size">
-    <img src="/tea/posts/tetsubin-history-2-morioka/iwachu-tetsubin.jpg" alt="Iwachu 23-type Nambu-form arare tetsubin" loading="lazy" decoding="async" />
+    <a href="/tea/posts/tetsubin-history-2-morioka/iwachu-tetsubin.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Iwachu model 11001 tetsubin image full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-2-morioka/iwachu-tetsubin.jpg" alt="Iwachu 23-type Nambu-form arare tetsubin" loading="lazy" decoding="async" />
+    </a>
     <figcaption>Iwachu's model 11001, a 23-type Nambu-form arare tetsubin. Photo: <a href="https://iwachu.co.jp/en/products/11001">Iwachu</a>.</figcaption>
   </figure>
   <figure class="full-size">
-    <img src="/tea/posts/tetsubin-history-2-morioka/iwachu-mark.png" alt="Official Iwachu rectangular stamp reading Iwachu in Japanese" loading="lazy" decoding="async" />
+    <a href="/tea/posts/tetsubin-history-2-morioka/iwachu-mark.png" target="_blank" rel="noopener noreferrer" aria-label="Open the Iwachu maker stamp image full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-2-morioka/iwachu-mark.png" alt="Official Iwachu rectangular stamp reading Iwachu in Japanese" loading="lazy" decoding="async" />
+    </a>
     <figcaption>One current official <code>岩鋳</code> stamp. Iwachu presents it as a quality mark but does not supply a dating sequence. Photo: <a href="https://iwachu.co.jp/en/pages/about-us">Iwachu authenticity page</a>.</figcaption>
   </figure>
 </div>
@@ -155,19 +171,25 @@ Two institutional accounts help explain the work. A [Japan Economic Foundation p
 
 A [Toramonten production guide](https://toramonten.com/en-eu/blogs/column/nanbu-ironware-tetsubin-guide) adds a useful current-workshop detail: it reports that Kamasada uses *yaki-gata* fired moulds and *yakinuki* (“burn-off”) across its line, then treats the bare-iron interior with urushi and charcoal heat. Toramonten sells Kamasada work, so I treat this as a workshop-linked retailer account of current practice—not proof that every historical Kamasada kettle followed the same process.
 
+**Watch:** Toramonten's 35-minute documentary follows a Kamasada tetsubin through mould making, casting, and finishing.
+
 <div class="video-embed">
 <iframe src="https://www.youtube.com/embed/5DOeuBQnSVw" title="Kamasada tetsubin production" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Retail pages report `南部 釜定` below the spout on some work and `KAMASADA` with a year beneath the lid on a modern line. No workshop or museum guide establishes a complete historical sequence for those marks. The famous rough surface is no shortcut either; other workshops use rough casting skins. With Kamasada, as with the other makers, the whole kettle and its history matter more than one attractive clue.
 
-<div class="image-gallery two-up" role="group" aria-label="Kamasada tetsubin and maker mark">
+<div class="image-gallery studio-gallery" role="group" aria-label="Kamasada tetsubin and maker mark">
   <figure class="full-size">
-    <img src="/tea/posts/tetsubin-history-2-morioka/kamasada-tetsubin.jpg" alt="Kamasada Akinomi large-arare tetsubin photographed from the front" loading="lazy" decoding="async" />
+    <a href="/tea/posts/tetsubin-history-2-morioka/kamasada-tetsubin.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Kamasada Akinomi tetsubin image full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-2-morioka/kamasada-tetsubin.jpg" alt="Kamasada Akinomi large-arare tetsubin photographed from the front" loading="lazy" decoding="async" />
+    </a>
     <figcaption>An owner's Kamasada <em>Akinomi</em> large-arare tetsubin. Photo: <a href="https://fishingandcoffee.com/?p=7370">FISH&amp;CO.</a></figcaption>
   </figure>
   <figure class="full-size">
-    <img src="/tea/posts/tetsubin-history-2-morioka/kamasada-mark.jpg" alt="Kamasada body mark below the spout reading Nambu Kamasada" loading="lazy" decoding="async" />
+    <a href="/tea/posts/tetsubin-history-2-morioka/kamasada-mark.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Kamasada body mark image full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-2-morioka/kamasada-mark.jpg" alt="Kamasada body mark below the spout reading Nambu Kamasada" loading="lazy" decoding="async" />
+    </a>
     <figcaption>The same kettle below the spout, where the raised mark reads <code>南部 釜定</code>—<em>Nambu Kamasada</em>. Photo: <a href="https://fishingandcoffee.com/?p=7370">FISH&amp;CO.</a></figcaption>
   </figure>
 </div>
