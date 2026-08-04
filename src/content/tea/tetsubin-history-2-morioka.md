@@ -68,10 +68,16 @@ The current [product catalogue](https://suzukimorihisa.com/en/collections/all) i
 
 The published mark evidence is useful but limited. Horie's paper shows `盛久`, read *Morihisa*, in variants associated with the thirteenth and fourteenth heads. These body marks were pressed into the mould with wooden seals and usually sit low near the spout. The figure does not show complete kettles, so a similar mark on an unknown object is a promising clue—not a complete attribution.
 
-<figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-2-morioka/suzuki-morihisa-lineage.svg" alt="Timeline of the Suzuki casting family, the hereditary Morihisa name, and the current sixteenth head" loading="lazy" decoding="async" />
-  <figcaption>The Suzuki story has several beginnings: domain service, the hereditary Morihisa name, and the current succession. Original diagram.</figcaption>
-</figure>
+<div class="image-gallery two-up" role="group" aria-label="Suzuki Morihisa tetsubin and maker marks">
+  <figure class="full-size">
+    <img src="/tea/posts/tetsubin-history-2-morioka/suzuki-tetsubin.jpg" alt="Suzuki Morihisa Hinomaru tetsubin" loading="lazy" decoding="async" />
+    <figcaption>The small <em>Hinomaru</em> tetsubin, designed by the thirteenth Suzuki Morihisa. Photo: <a href="https://suzukimorihisa.com/en/products/%E6%97%A5%E3%81%AE%E4%B8%B8%E5%BD%A2%E9%89%84%E7%93%B6-%E5%B0%8F">Suzuki Morihisa Studio</a>.</figcaption>
+  </figure>
+  <figure class="full-size">
+    <img src="/tea/posts/tetsubin-history-2-morioka/suzuki-mark.jpg" alt="Published Suzuki Morihisa marks reading Morihisa" loading="lazy" decoding="async" />
+    <figcaption>Published <code>盛久</code> marks associated with the thirteenth head (left) and fourteenth (right). Source: <a href="https://www.jstage.jst.go.jp/article/sfj/70/5/70_255/_pdf/-char/ja">Horie 2019, fig. 7</a>. A match is a clue, not proof.</figcaption>
+  </figure>
+</div>
 
 ## Kunzan: A Branch Becomes Its Own Workshop
 
@@ -87,10 +93,16 @@ Its [current catalogue](https://nanbu93.jp/collections/all) resists easy stereot
 
 The mark evidence is thinner. Retailers report `薫山`, read *Kunzan*, and sometimes `南部盛岡`, or *Nambu Morioka*. I found no workshop guide showing how those marks were made, where every version appears, or when each was used. An original box, invoice, catalogue match, or confirmation from the workshop would therefore carry far more weight than the surface pattern alone.
 
-<figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-2-morioka/morioka-workshop-01.jpg" alt="Walkway sign at Morioka Handi-Works Square pointing toward the Kunzan and Fujieda workshops" loading="lazy" decoding="async" />
-  <figcaption>A sign at Morioka Handi-Works Square points toward Kunzan: a twentieth-century workshop inside a much older regional craft. Photo: Dquai, <a href="https://commons.wikimedia.org/wiki/File:In_the_Morioka_Handi-Works_Square_01.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Unchanged original file.</figcaption>
-</figure>
+<div class="image-gallery two-up" role="group" aria-label="Kunzan tetsubin and maker mark">
+  <figure class="full-size">
+    <img src="/tea/posts/tetsubin-history-2-morioka/kunzan-tetsubin.jpg" alt="Kunzan Natsume-form tetsubin with cherry-blossom decoration" loading="lazy" decoding="async" />
+    <figcaption>The 1.8-litre <em>Natsume Sakura</em> tetsubin. Photo: <a href="https://nanbu93.jp/products/natsume-gata-sakura-1-8l">Kunzan</a>.</figcaption>
+  </figure>
+  <figure class="full-size">
+    <img src="/tea/posts/tetsubin-history-2-morioka/kunzan-mark.jpg" alt="Seller-attributed Kunzan body mark beneath a tetsubin" loading="lazy" decoding="async" />
+    <figcaption><a href="https://hurumono.net/2024/04/03/buy-tetsubinn/">An antique dealer</a> identifies the square body stamp as <code>薫山</code>. The dealer's historical account conflicts with workshop sources, so this is seller attribution, not independent authentication.</figcaption>
+  </figure>
+</div>
 
 ## Iwachu: Craft at Industrial Scale
 
@@ -108,10 +120,16 @@ This is more than a workshop detail. It is a practical safety test. An enamelled
 
 Iwachu publishes four current `岩鋳` or `IWACHU` devices on its authenticity page. They can support a present-day Iwachu identification, but the page does not date each design or show where every mark sits on a complete kettle. A logo tells you less than sellers often suggest.
 
-<figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-2-morioka/iwachu-construction.svg" alt="Diagram comparing Iwachu's traditional tetsubin process with its automated enamelled teapot process" loading="lazy" decoding="async" />
-  <figcaption>One company, two documented routes: traditional water boilers and enamelled brewing pots should not be confused. Original diagram.</figcaption>
-</figure>
+<div class="image-gallery two-up" role="group" aria-label="Iwachu tetsubin and maker stamp">
+  <figure class="full-size">
+    <img src="/tea/posts/tetsubin-history-2-morioka/iwachu-tetsubin.jpg" alt="Iwachu 23-type Nambu-form arare tetsubin" loading="lazy" decoding="async" />
+    <figcaption>Iwachu's model 11001, a 23-type Nambu-form arare tetsubin. Photo: <a href="https://iwachu.co.jp/en/products/11001">Iwachu</a>.</figcaption>
+  </figure>
+  <figure class="full-size">
+    <img src="/tea/posts/tetsubin-history-2-morioka/iwachu-mark.png" alt="Official Iwachu rectangular stamp reading Iwachu in Japanese" loading="lazy" decoding="async" />
+    <figcaption>One current official <code>岩鋳</code> stamp. Iwachu presents it as a quality mark but does not supply a dating sequence. Photo: <a href="https://iwachu.co.jp/en/pages/about-us">Iwachu authenticity page</a>.</figcaption>
+  </figure>
+</div>
 
 ## Kamasada: One Maker, One Kettle
 
@@ -129,10 +147,16 @@ Two institutional accounts help explain the work. A [Japan Economic Foundation p
 
 Retail pages report `南部 釜定` below the spout on some work and `KAMASADA` with a year beneath the lid on a modern line. No workshop or museum guide establishes a complete historical sequence for those marks. The famous rough surface is no shortcut either; other workshops use rough casting skins. With Kamasada, as with the other makers, the whole kettle and its history matter more than one attractive clue.
 
-<figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-2-morioka/kamasada-lineage.svg" alt="Timeline of Kamasada from the Miya family roots through wartime dismantling, rebuilding, and the current workshop" loading="lazy" decoding="async" />
-  <figcaption>Kamasada's history is a sequence of family roots, a named shop, interruption, and rebuilding—not one uninterrupted foundation date. Original diagram.</figcaption>
-</figure>
+<div class="image-gallery two-up" role="group" aria-label="Kamasada tetsubin and maker mark">
+  <figure class="full-size">
+    <img src="/tea/posts/tetsubin-history-2-morioka/kamasada-tetsubin.jpg" alt="Kamasada Akinomi large-arare tetsubin photographed from the front" loading="lazy" decoding="async" />
+    <figcaption>An owner's Kamasada <em>Akinomi</em> large-arare tetsubin. Photo: <a href="https://fishingandcoffee.com/?p=7370">FISH&amp;CO.</a></figcaption>
+  </figure>
+  <figure class="full-size">
+    <img src="/tea/posts/tetsubin-history-2-morioka/kamasada-mark.jpg" alt="Kamasada body mark below the spout reading Nambu Kamasada" loading="lazy" decoding="async" />
+    <figcaption>The same kettle below the spout, where the raised mark reads <code>南部 釜定</code>—<em>Nambu Kamasada</em>. Photo: <a href="https://fishingandcoffee.com/?p=7370">FISH&amp;CO.</a></figcaption>
+  </figure>
+</div>
 
 ## What the Four Workshops Teach Us
 
@@ -163,7 +187,7 @@ The main regional sources are the [Nambu ironware association](https://www.ginga
 
 Workshop sources are linked where they are used. Suzuki Morihisa, Kunzan, and Iwachu provide first-party histories and process descriptions. Kamasada's history and process are supported by Morioka City, the Japan Economic Foundation, Toraya, the Nambu association, and the Cabinet Office. Retail sources were used only where no workshop or institutional mark guide was available.
 
-Image credits and licences appear in the captions. The three diagrams used here are original and source-derived. Restricted workshop photographs and unlicensed mark images were linked as sources but not reproduced.
+Image credits and source links appear in the captions. The studio, publication, dealer, and owner photographs are reproduced for editorial identification; reuse permission has not been confirmed.
 
 Previous: [The Birth of the Iron Kettle](/tea/tetsubin-history-1-birth-of-the-iron-kettle)
 

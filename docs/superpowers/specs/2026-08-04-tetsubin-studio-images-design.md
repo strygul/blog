@@ -11,9 +11,9 @@ Replace the existing diagram or generic workshop image in each studio section wi
 - Suzuki Morihisa: an official current tetsubin and a published `盛久` mark.
 - Kunzan: an official current tetsubin and a sourced `薫山` mark.
 - Iwachu: an official current tetsubin and an official `岩鋳`/`IWACHU` stamp.
-- Kamasada: a retailer-attributed current tetsubin and a sourced `釜定`/`KAMASADA` mark.
+- Kamasada: an owner-attributed current tetsubin and a sourced `釜定`/`KAMASADA` mark.
 
-Reuse the blog's existing `.image-gallery` pattern. Store copies locally so the article does not depend on hotlinked images.
+Reuse the blog's existing `.image-gallery` pattern. Add one shared `.two-up` figure rule so captioned pairs have equal columns and wrap on narrow screens. Store copies locally so the article does not depend on hotlinked images.
 
 ## Editorial Rules
 
