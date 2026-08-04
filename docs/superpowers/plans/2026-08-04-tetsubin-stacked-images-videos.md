@@ -198,3 +198,39 @@ git add src/styles/blog-post.css src/content/tea/tetsubin-history-2-morioka.md
 git diff --cached --check
 git commit -m "fix(tea): enlarge studio galleries and replace blocked video"
 ```
+
+### Task 3: Isolate Studio Galleries and Improve Media Context
+
+**Files:**
+- Modify: `src/styles/blog-post.css:23-47`
+- Modify: `src/content/tea/tetsubin-history-2-morioka.md`
+
+**Interfaces:**
+- Consumes: four vertical studio galleries and the Tea-wide `public/css/f1-seals.css`
+- Produces: a dedicated `.studio-gallery` layout unaffected by `.two-up` half-width rules, eight full-size image links, and three video descriptions
+
+- [ ] **Step 1: Run the failing override check**
+
+```bash
+node -e "const fs=require('node:fs');const css=fs.readFileSync('src/styles/blog-post.css','utf8');const md=fs.readFileSync('src/content/tea/tetsubin-history-2-morioka.md','utf8');if((md.match(/image-gallery studio-gallery/g)||[]).length!==4||(md.match(/image-gallery two-up/g)||[]).length!==0||(md.match(/target=\"_blank\" rel=\"noopener noreferrer\" aria-label=\"Open the .* image full size in a new tab\"/g)||[]).length!==8||(md.match(/Watch:/g)||[]).length!==3||!css.includes('.image-gallery.studio-gallery'))process.exit(1)"
+```
+
+Expected: exits with status 1 because all four studio galleries still use the Tea-wide `.two-up` class.
+
+- [ ] **Step 2: Rename and fully size the studio layout**
+
+Change the four article wrappers from `image-gallery two-up` to `image-gallery studio-gallery`. Rename the matching shared CSS selectors and explicitly set `display: flex`, `align-items: stretch`, `width: 100%`, and `max-width: none` on the gallery figures so `f1-seals.css` cannot restore its grid previews or intrinsic image widths. Wrap all eight images in descriptive self-links using `target="_blank"` and `rel="noopener noreferrer"`.
+
+Add these descriptions directly before their matching embeds:
+
+```markdown
+**Watch:** Pen magazine visits the sixteenth Suzuki Morihisa and looks at how the studio brings a contemporary expression to four centuries of casting tradition.
+
+**Watch:** Tierra Zen offers a visual overview of how Iwachu ironware is made, from mould work and casting to finishing.
+
+**Watch:** Toramonten's 35-minute documentary follows a Kamasada tetsubin through mould making, casting, and finishing.
+```
+
+- [ ] **Step 3: Verify and publish**
+
+Run the Step 1 check, `npm run build -- --silent`, and generated-HTML checks for four `studio-gallery` wrappers, eight new-tab image links, and three video descriptions. Commit the fix, open a focused follow-up PR, squash-merge it to `main`, wait for the Pages deployment, and verify the public HTML contains the studio class and 1100px rule.
