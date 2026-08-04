@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Suzuki Morihisa chronology</title>
+  <desc id="desc">Four milestones: the unresolved 1625 or 1641 beginning, the twelfth head adopting Morihisa as the hereditary name, the old shop moving in 1885, and the sixteenth head succeeding in 2023.</desc>
+  <rect width="1200" height="400" fill="#f5f0e7"/>
+  <style>text{font-family:system-ui,-apple-system,"Noto Sans JP",sans-serif;fill:#211d19}.title{font:700 38px Georgia,"Noto Serif JP",serif}.sub{font-size:22px;fill:#665d53}.year{font-size:28px;font-weight:800;fill:#8a4b2a}.body{font-size:24px}.line{stroke:#9d7458;stroke-width:6}.dot{fill:#8a4b2a;stroke:#f5f0e7;stroke-width:6}</style>
+  <text x="54" y="62" class="title">Suzuki Morihisa — lineage record</text>
+  <text x="54" y="98" class="sub">Workshop sources and Horie disagree on the opening date</text>
+  <line x1="105" y1="192" x2="1095" y2="192" class="line"/>
+  <g text-anchor="middle">
+    <circle cx="130" cy="192" r="16" class="dot"/><text x="130" y="154" class="year">1625 / 1641</text><text x="130" y="238" class="body"><tspan x="130">Unresolved start</tspan><tspan x="130" dy="30">of family service</tspan></text>
+    <circle cx="450" cy="192" r="16" class="dot"/><text x="450" y="154" class="year">12th head</text><text x="450" y="238" class="body"><tspan x="450">Morihisa becomes</tspan><tspan x="450" dy="30">hereditary name</tspan></text>
+    <circle cx="770" cy="192" r="16" class="dot"/><text x="770" y="154" class="year">1885</text><text x="770" y="238" class="body"><tspan x="770">Workshop moves</tspan><tspan x="770" dy="30">after 1884 fire</tspan></text>
+    <circle cx="1070" cy="192" r="16" class="dot"/><text x="1070" y="154" class="year">2023</text><text x="1070" y="238" class="body"><tspan x="1070">16th Morihisa</tspan><tspan x="1070" dy="30">succeeds</tspan></text>
+  </g>
+  <text x="54" y="365" class="sub">Active family workshop; dates are evidence labels, not an uninterrupted object chronology.</text>
+</svg>

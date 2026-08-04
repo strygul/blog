@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Evidence limits for four Morioka maker marks</title>
+  <desc id="desc">Four cards record characters, romanization, location, method, date or generation range, complete-kettle context, source class, and confidence for Suzuki Morihisa, Kunzan, Iwachu, and Kamasada. All have zero verified complete-kettle and mark pairs. Mark alone is not authentication.</desc>
+  <rect width="1200" height="900" fill="#f4efe7"/>
+  <style>text{font-family:system-ui,-apple-system,"Noto Sans JP",sans-serif;fill:#211d19}.title{font:700 36px Georgia,"Noto Serif JP",serif}.sub{font-size:17px;fill:#675d53}.maker{font-size:21px;font-weight:800}.mark{font:700 45px "Noto Serif JP","Yu Mincho",serif}.label{font-size:13px;font-weight:800;fill:#8a4b2a;letter-spacing:.04em}.body{font-size:14px}.card{fill:#fffdf9;stroke:#c9b9a7;stroke-width:1.5}.badge{fill:#ead8d2}.badge-text{font-size:14px;font-weight:800}.warning{fill:#fff;font-size:19px;font-weight:800}</style>
+  <text x="48" y="57" class="title">Marks: what is documented, and what is not</text><text x="48" y="88" class="sub">Typeset readings, not facsimiles; compare source photographs and the complete object</text>
+
+  <g transform="translate(42 116)"><rect width="270" height="660" rx="9" class="card"/><text x="20" y="36" class="maker">Suzuki Morihisa</text>
+    <text x="20" y="66" class="label">CHARACTERS</text><text x="135" y="117" text-anchor="middle" class="mark">盛久</text><text x="20" y="145" class="label">ROMANIZATION</text><text x="20" y="167" class="body">Morihisa</text>
+    <text x="20" y="197" class="label">LOCATION</text><text x="20" y="219" class="body"><tspan x="20">Low near spout, viewed with</tspan><tspan x="20" dy="19">the kettle inverted</tspan></text>
+    <text x="20" y="269" class="label">METHOD</text><text x="20" y="291" class="body"><tspan x="20">Wooden seal pressed in mould;</tspan><tspan x="20" dy="19">cast relief inscription</tspan></text>
+    <text x="20" y="341" class="label">DATE / GENERATION RANGE</text><text x="20" y="363" class="body"><tspan x="20">13th + 14th variants published;</tspan><tspan x="20" dy="19">full use range unknown</tspan></text>
+    <text x="20" y="413" class="label">COMPLETE-KETTLE CONTEXT</text><text x="20" y="435" class="body"><tspan x="20">Published crops lack paired</tspan><tspan x="20" dy="19">whole-object views</tspan></text>
+    <text x="20" y="485" class="label">SOURCE CLASS</text><text x="20" y="507" class="body"><tspan x="20">Academic (Horie) + workshop</tspan><tspan x="20" dy="19">lineage; retail discovery only</tspan></text>
+    <text x="20" y="557" class="label">CONFIDENCE</text><text x="20" y="579" class="body"><tspan x="20">Variants documented; isolated</tspan><tspan x="20" dy="19">attribution uncertain</tspan></text><rect x="20" y="616" width="184" height="28" rx="14" class="badge"/><text x="112" y="635" text-anchor="middle" class="badge-text">0 VERIFIED PAIRS</text></g>
+
+  <g transform="translate(324 116)"><rect width="270" height="660" rx="9" class="card"/><text x="20" y="36" class="maker">Kunzan</text>
+    <text x="20" y="66" class="label">CHARACTERS</text><text x="135" y="117" text-anchor="middle" class="mark">薫山</text><text x="20" y="145" class="label">ROMANIZATION</text><text x="20" y="167" class="body">Kunzan; also Nambu Morioka</text>
+    <text x="20" y="197" class="label">LOCATION</text><text x="20" y="219" class="body"><tspan x="20">Retail images suggest below</tspan><tspan x="20" dy="19">spout; not independently verified</tspan></text>
+    <text x="20" y="269" class="label">METHOD</text><text x="20" y="291" class="body"><tspan x="20">Not established; appearance</tspan><tspan x="20" dy="19">does not prove formation method</tspan></text>
+    <text x="20" y="341" class="label">DATE / GENERATION RANGE</text><text x="20" y="363" class="body">Range not established</text>
+    <text x="20" y="413" class="label">COMPLETE-KETTLE CONTEXT</text><text x="20" y="435" class="body"><tspan x="20">Retail pairings only; no workshop,</tspan><tspan x="20" dy="19">museum, or technical pair</tspan></text>
+    <text x="20" y="485" class="label">SOURCE CLASS</text><text x="20" y="507" class="body"><tspan x="20">Retail discovery; workshop</tspan><tspan x="20" dy="19">history does not document mark</tspan></text>
+    <text x="20" y="557" class="label">CONFIDENCE</text><text x="20" y="579" class="body">Uncertain</text><rect x="20" y="616" width="184" height="28" rx="14" class="badge"/><text x="112" y="635" text-anchor="middle" class="badge-text">0 VERIFIED PAIRS</text></g>
+
+  <g transform="translate(606 116)"><rect width="270" height="660" rx="9" class="card"/><text x="20" y="36" class="maker">Iwachu</text>
+    <text x="20" y="66" class="label">CHARACTERS</text><text x="135" y="117" text-anchor="middle" class="mark">岩鋳</text><text x="20" y="145" class="label">ROMANIZATION</text><text x="20" y="167" class="body">Iwachu; Latin IWACHU</text>
+    <text x="20" y="197" class="label">LOCATION</text><text x="20" y="219" class="body"><tspan x="20">Not stated; regional convention</tspan><tspan x="20" dy="19">cannot fill the gap</tspan></text>
+    <text x="20" y="269" class="label">METHOD</text><text x="20" y="291" class="body"><tspan x="20">Company says seals / stamps;</tspan><tspan x="20" dy="19">manufacturing stage unstated</tspan></text>
+    <text x="20" y="341" class="label">DATE / GENERATION RANGE</text><text x="20" y="363" class="body"><tspan x="20">Current in 2026; individual</tspan><tspan x="20" dy="19">introduction dates unstated</tspan></text>
+    <text x="20" y="413" class="label">COMPLETE-KETTLE CONTEXT</text><text x="20" y="435" class="body"><tspan x="20">Four isolated official devices;</tspan><tspan x="20" dy="19">no model-level object pair</tspan></text>
+    <text x="20" y="485" class="label">SOURCE CLASS</text><text x="20" y="507" class="body">First-party company page</text>
+    <text x="20" y="557" class="label">CONFIDENCE</text><text x="20" y="579" class="body"><tspan x="20">Current devices documented;</tspan><tspan x="20" dy="19">other specifics uncertain</tspan></text><rect x="20" y="616" width="184" height="28" rx="14" class="badge"/><text x="112" y="635" text-anchor="middle" class="badge-text">0 VERIFIED PAIRS</text></g>
+
+  <g transform="translate(888 116)"><rect width="270" height="660" rx="9" class="card"/><text x="20" y="36" class="maker">Kamasada</text>
+    <text x="20" y="66" class="label">CHARACTERS</text><text x="135" y="117" text-anchor="middle" class="mark">南部 釜定</text><text x="20" y="145" class="label">ROMANIZATION</text><text x="20" y="167" class="body">Nambu Kamasada; KAMASADA</text>
+    <text x="20" y="197" class="label">LOCATION</text><text x="20" y="219" class="body"><tspan x="20">Retail: below spout; trade:</tspan><tspan x="20" dy="19">Latin text beneath lid</tspan></text>
+    <text x="20" y="269" class="label">METHOD</text><text x="20" y="291" class="body">Not established</text>
+    <text x="20" y="341" class="label">DATE / GENERATION RANGE</text><text x="20" y="363" class="body"><tspan x="20">Range unknown; Latin system</tspan><tspan x="20" dy="19">reported on a 2018 line</tspan></text>
+    <text x="20" y="413" class="label">COMPLETE-KETTLE CONTEXT</text><text x="20" y="435" class="body"><tspan x="20">Retail / trade pairings only;</tspan><tspan x="20" dy="19">no independently verified pair</tspan></text>
+    <text x="20" y="485" class="label">SOURCE CLASS</text><text x="20" y="507" class="body"><tspan x="20">Retail + trade discovery; civic</tspan><tspan x="20" dy="19">history verifies workshop only</tspan></text>
+    <text x="20" y="557" class="label">CONFIDENCE</text><text x="20" y="579" class="body">Uncertain</text><rect x="20" y="616" width="184" height="28" rx="14" class="badge"/><text x="112" y="635" text-anchor="middle" class="badge-text">0 VERIFIED PAIRS</text></g>
+
+  <rect x="42" y="812" width="1116" height="50" rx="6" fill="#2f3c43"/><text x="600" y="844" text-anchor="middle" class="warning">Mark alone is not authentication.</text>
+</svg>
