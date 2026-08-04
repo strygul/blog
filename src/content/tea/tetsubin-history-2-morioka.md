@@ -1,6 +1,6 @@
 ---
 title: "Morioka: The Domain Kettle Becomes Nambu Ironware"
-pubDate: "2026-07-31"
+pubDate: "2026-08-04"
 category: ["Tea", "Teapots", "Tetsubin", "Japanese Craft"]
 description: "Four Morioka workshops show how domain-sponsored tea-kettle casting became Nambu ironware: Suzuki Morihisa, Kunzan, Iwachu, and Kamasada."
 heroImage: "../../../public/tea/posts/tetsubin-history-2-morioka/hero.jpg"
