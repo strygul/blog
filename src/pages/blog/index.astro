@@ -9,7 +9,6 @@ const base = import.meta.env.BASE_URL;
 
 const categories = [
 	{ label: 'Tea', posts: await getCollection('tea'), basePath: `${base}tea` },
-	{ label: 'Teapots for Sale', posts: await getCollection('teapots-for-sale'), basePath: `${base}tea/teapots-for-sale` },
 	{ label: 'God Is Dead', posts: await getCollection('god-is-dead'), basePath: `${base}god-is-dead` },
 	{ label: 'Ballet', posts: await getCollection('ballet'), basePath: `${base}ballet` },
 	{ label: 'Blog', posts: await getCollection('blog'), basePath: `${base}blog` },
