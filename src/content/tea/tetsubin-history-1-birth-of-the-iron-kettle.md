@@ -11,7 +11,7 @@ heroImage: "../../../public/tea/posts/tetsubin-history-1-birth-of-the-iron-kettl
 ---
 
 <div class="info-box">
-This series began with [HOJO's general tetsubin article](https://hojotea.com/categ_e/tetsubin.htm) and its profiles of [Suzuki Morihisa](https://hojotea.com/item_e/suzuki.htm), [Kunzan](https://hojotea.com/item_e/kunzan.htm), and [Seikodo](https://hojotea.com/item_e/seikodo.htm). I followed those pages expecting a fairly simple workshop history. Instead, the dates opened one question after another. I checked them against museum catalogues, Japanese government and craft-association records, official workshop histories, and curator-supervised research. Where the sources disagree, I leave the disagreement visible. Borrowed photographs are credited in their captions; the diagrams are my own.
+This series began with <a href="https://hojotea.com/categ_e/tetsubin.htm">HOJO's general tetsubin article</a> and its profiles of <a href="https://hojotea.com/item_e/suzuki.htm">Suzuki Morihisa</a>, <a href="https://hojotea.com/item_e/kunzan.htm">Kunzan</a>, and <a href="https://hojotea.com/item_e/seikodo.htm">Seikodo</a>. I followed those pages expecting a fairly simple workshop history. Instead, the dates opened one question after another. I checked them against museum catalogues, Japanese government and craft-association records, official workshop histories, and curator-supervised research. Where the sources disagree, I leave the disagreement visible. Borrowed photographs are credited in their captions; the diagrams are my own.
 </div>
 
 ## A Kettle with an Older Shadow
