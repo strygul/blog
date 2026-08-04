@@ -2,9 +2,9 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Display every studio's kettle and maker-mark images vertically at full article width, embed three production videos, and add carefully attributed Toramonten production details to Parts 1 and 2.
+**Goal:** Display every studio's kettle and maker-mark images vertically at up to 1100px wide, embed three playable production videos, and add carefully attributed Toramonten production details to Parts 1 and 2.
 
-**Architecture:** Reuse the existing article markup conventions and shared responsive video wrapper. Change only the article-scoped `.two-up` figure sizing, add three standard YouTube iframe blocks, and insert one concise source-backed production note in each article.
+**Architecture:** Reuse the existing article markup conventions and shared responsive video wrapper. Let only `.two-up` galleries break out of the 720px prose column, keep captions readable, use embeddable YouTube videos, and retain the two concise source-backed production notes.
 
 **Tech Stack:** Astro content collections, Markdown with inline HTML, shared CSS, npm build verification
 
@@ -124,4 +124,77 @@ Expected: build exits with status 0 and generates the Part 2 article with both e
 git add src/styles/blog-post.css src/content/tea/tetsubin-history-1-birth-of-the-iron-kettle.md src/content/tea/tetsubin-history-2-morioka.md
 git diff --cached --check
 git commit -m "edit(tea): improve tetsubin media and production notes"
+```
+
+### Task 2: Correct Gallery Width and Suzuki Playback
+
+**Files:**
+- Modify: `src/styles/blog-post.css:23-38`
+- Modify: `src/content/tea/tetsubin-history-2-morioka.md:69-71`
+
+**Interfaces:**
+- Consumes: the existing vertical `.image-gallery.two-up` layout and `.video-embed` wrapper
+- Produces: centered galleries up to 1100px wide, readable captions, and an embeddable Suzuki Morihisa video
+
+- [ ] **Step 1: Run the failing corrective check**
+
+```bash
+node -e "const fs=require('node:fs');const css=fs.readFileSync('src/styles/blog-post.css','utf8');const md=fs.readFileSync('src/content/tea/tetsubin-history-2-morioka.md','utf8');if(!css.includes('width: min(1100px, calc(100vw - 2rem))')||!css.includes('transform: translateX(-50%)')||!css.includes('.image-gallery.two-up figcaption')||!md.includes('youtube.com/embed/B_3B5q2kBgk')||md.includes('youtube.com/embed/kNEEbDtYcaI'))process.exit(1)"
+```
+
+Expected: exits with status 1 because the gallery is still limited by the prose column and the blocked Suzuki video ID remains.
+
+- [ ] **Step 2: Let the gallery break out of the prose column**
+
+Extend the existing layout rules to:
+
+```css
+.image-gallery.two-up {
+	flex-direction: column;
+	width: min(1100px, calc(100vw - 2rem));
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
+
+.image-gallery.two-up > figure {
+	margin: 0;
+	text-align: center;
+}
+
+.image-gallery.two-up > figure img {
+	width: 100%;
+}
+
+.image-gallery.two-up figcaption {
+	max-width: 720px;
+	margin-inline: auto;
+}
+```
+
+- [ ] **Step 3: Replace the blocked Suzuki video**
+
+Replace only the Suzuki iframe with:
+
+```html
+<iframe src="https://www.youtube.com/embed/B_3B5q2kBgk" title="Suzuki Morihisa Studio — Pen magazine feature" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+
+- [ ] **Step 4: Run corrective and build verification**
+
+Run the Step 1 command again. Expected: exits with status 0.
+
+Run:
+
+```bash
+npm run build -- --silent
+```
+
+Expected: exits with status 0 and the generated Part 2 page contains `B_3B5q2kBgk` but not `kNEEbDtYcaI`.
+
+- [ ] **Step 5: Commit the correction**
+
+```bash
+git add src/styles/blog-post.css src/content/tea/tetsubin-history-2-morioka.md
+git diff --cached --check
+git commit -m "fix(tea): enlarge studio galleries and replace blocked video"
 ```
