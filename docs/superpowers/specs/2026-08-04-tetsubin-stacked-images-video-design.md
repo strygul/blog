@@ -6,9 +6,11 @@ Make each studio's kettle and maker-mark photographs easier to inspect, show the
 
 ## Design
 
-- Keep the existing two-figure gallery markup and change only its scoped `.two-up` layout so figures appear vertically at the full available article width.
+- Keep the existing two-figure gallery markup and change only its scoped `.two-up` layout so figures appear vertically.
+- Let the `.two-up` gallery break out of the 720px prose column to a centered maximum width of 1100px, while retaining a one-rem viewport gutter on smaller screens.
+- Expand each image to the gallery width. Keep captions centered within a 720px maximum width for readable line lengths.
 - Preserve the order in every studio section: representative kettle first, maker mark second, with each caption directly below its image.
-- Embed `https://www.youtube.com/watch?v=kNEEbDtYcaI` in the Suzuki Morihisa section beside the workshop-process discussion and before the maker-mark guidance.
+- Replace the Suzuki Morihisa video `kNEEbDtYcaI`, whose owner disables external playback, with `https://www.youtube.com/watch?v=B_3B5q2kBgk`, which the official workshop site recommends and YouTube reports as embeddable. Keep it beside the workshop-process discussion and before the maker-mark guidance.
 - Embed `https://www.youtube.com/watch?v=o6AuxztRkYM` in the Iwachu section after the production-route comparison and before the practical safety distinction.
 - Embed `https://www.youtube.com/watch?v=5DOeuBQnSVw` in the Kamasada section after the paragraph about the workshop's hand operations and before the paragraph about maker marks.
 - Reuse the blog's existing responsive `.video-embed` wrapper and iframe attributes for all three videos. Use descriptive titles and do not autoplay.
@@ -19,8 +21,9 @@ Make each studio's kettle and maker-mark photographs easier to inspect, show the
 ## Verification
 
 - Build the site successfully.
-- Confirm all four `.two-up` galleries render as one-column flex layouts.
+- Confirm all four `.two-up` galleries render as one-column layouts up to 1100px wide and retain mobile gutters.
 - Confirm the generated article contains all three YouTube embeds and their accessible titles.
+- Confirm YouTube reports `playableInEmbed: true` for the replacement Suzuki video.
 - Confirm both articles link Toramonten and retain their existing historical conclusions.
 
 ## Scope
