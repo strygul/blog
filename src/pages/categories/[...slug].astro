@@ -10,9 +10,8 @@ import { SITE_TITLE } from '../../consts';
 export async function getStaticPaths() {
 	const blogPosts = await getCollection('blog');
 	const teaPosts = await getCollection('tea');
-	const teapotsForSalePosts = await getCollection('teapots-for-sale');
 	const godIsDeadPosts = await getCollection('god-is-dead');
-	const allPosts = [...blogPosts, ...teaPosts, ...teapotsForSalePosts, ...godIsDeadPosts];
+	const allPosts = [...blogPosts, ...teaPosts, ...godIsDeadPosts];
 
 	// Extract all categories from all posts (handling arrays)
 	const allCategories = allPosts.flatMap((post) => post.data.category);
@@ -37,7 +36,6 @@ type Props = {
 	posts: Array<
 		| Awaited<ReturnType<typeof getCollection<'blog'>>>[number]
 		| Awaited<ReturnType<typeof getCollection<'tea'>>>[number]
-		| Awaited<ReturnType<typeof getCollection<'teapots-for-sale'>>>[number]
 		| Awaited<ReturnType<typeof getCollection<'god-is-dead'>>>[number]
 	>;
 };
@@ -159,9 +157,7 @@ const categoryDescription = `Posts in the “${category}” category on ${SITE_T
 							const basePath =
 								post.collection === 'tea'
 									? `${base}tea`
-									: post.collection === 'teapots-for-sale'
-										? `${base}tea/teapots-for-sale`
-										: post.collection === 'god-is-dead'
+									: post.collection === 'god-is-dead'
 											? `${base}god-is-dead`
 											: `${base}blog`;
 							return (
