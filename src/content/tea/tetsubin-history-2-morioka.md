@@ -66,6 +66,10 @@ Suzuki's long lineage can make the workshop sound like one master working alone.
 
 The current [product catalogue](https://suzukimorihisa.com/en/collections/all) is much livelier than the word “traditional” might suggest. There are calm arare surfaces and fine ribs, but also broad grooves, flower patterns, and playful geometries. The nearly spherical *Hinomaru* is linked to the thirteenth head; the interlaced *Temari* to the fifteenth. Tradition here is not one frozen shape. It is a workshop continuing to design.
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/kNEEbDtYcaI" title="Suzuki Morihisa tetsubin production" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 The published mark evidence is useful but limited. Horie's paper shows `盛久`, read *Morihisa*, in variants associated with the thirteenth and fourteenth heads. These body marks were pressed into the mould with wooden seals and usually sit low near the spout. The figure does not show complete kettles, so a similar mark on an unknown object is a promising clue—not a complete attribution.
 
 <div class="image-gallery two-up" role="group" aria-label="Suzuki Morihisa tetsubin and maker marks">
@@ -116,6 +120,10 @@ The business became Iwashimizu Foundry in 1950 and expanded its integrated facto
 
 Iwachu explains the difference through two production routes. Its [tetsubin process](https://iwachu.co.jp/en/pages/manufacturing-process) uses the traditional fired mould, hand-pressed patterns, a core and separate spout, an oxide-treated interior, and exterior lacquer. Its [teapot and kitchenware process](https://iwachu.co.jp/en/pages/teapot-kitchenware-process) includes automated moulding and vitreous enamel inside the teapots.
 
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/o6AuxztRkYM" title="Iwachu ironware production" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 This is more than a workshop detail. It is a practical safety test. An enamelled Iwachu teapot is made for steeping tea and should not be placed over direct flame. A traditional tetsubin is made to boil water. If you are unsure which object you have, look inside before looking at the logo.
 
 Iwachu publishes four current `岩鋳` or `IWACHU` devices on its authenticity page. They can support a present-day Iwachu identification, but the page does not date each design or show where every mark sits on a complete kettle. A logo tells you less than sellers often suggest.
@@ -144,6 +152,12 @@ The workshop's history also contains a real break. Wartime controls forced it to
 Modern Kamasada work is closely associated with Miya Nobuho and with spare, controlled forms. Rough yuzu-like surfaces, low round bodies, broad iron handles, and quiet silhouettes allow the casting itself to carry the design. The [Cabinet Office](https://www8.cao.go.jp/shokun/hatsurei/r06aki/meibo_hosho/hosho-03iwate.pdf) records Miya receiving the Yellow Ribbon Medal in 2024 for excellence in hand moulding. That is the documented honor; it is not a Living National Treasure designation.
 
 Two institutional accounts help explain the work. A [Japan Economic Foundation profile](https://www.jef.or.jp/journal/pdf/172th_Japanese_Craft.pdf) counts about forty hand operations. A [Toraya exhibition account](https://assets.toraya-group.co.jp/__/_files/toraya/pdf/press_release/20160818_252.pdf), prepared with Kamasada, counts about eighty. They divide the work differently, but agree on the important point: one craftsperson carries a kettle through the sequence instead of handing each stage to a separate specialist.
+
+A [Toramonten production guide](https://toramonten.com/en-eu/blogs/column/nanbu-ironware-tetsubin-guide) adds a useful current-workshop detail: it reports that Kamasada uses *yaki-gata* fired moulds and *yakinuki* (“burn-off”) across its line, then treats the bare-iron interior with urushi and charcoal heat. Toramonten sells Kamasada work, so I treat this as a workshop-linked retailer account of current practice—not proof that every historical Kamasada kettle followed the same process.
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/5DOeuBQnSVw" title="Kamasada tetsubin production" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 Retail pages report `南部 釜定` below the spout on some work and `KAMASADA` with a year beneath the lid on a modern line. No workshop or museum guide establishes a complete historical sequence for those marks. The famous rough surface is no shortcut either; other workshops use rough casting skins. With Kamasada, as with the other makers, the whole kettle and its history matter more than one attractive clue.
 
@@ -185,7 +199,7 @@ That is where the next article goes.
 
 The main regional sources are the [Nambu ironware association](https://www.ginga.or.jp/nanbu/making.html), [Morioka City's craft history](https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/024/890/2syou.pdf), [Traditional Crafts Aoyama Square](https://kougeihin.jp/craft/0701/), and Horie's [2019 Iwate University paper](https://www.jstage.jst.go.jp/article/sfj/70/5/70_255/_pdf/-char/ja).
 
-Workshop sources are linked where they are used. Suzuki Morihisa, Kunzan, and Iwachu provide first-party histories and process descriptions. Kamasada's history and process are supported by Morioka City, the Japan Economic Foundation, Toraya, the Nambu association, and the Cabinet Office. Retail sources were used only where no workshop or institutional mark guide was available.
+Workshop sources are linked where they are used. Suzuki Morihisa, Kunzan, and Iwachu provide first-party histories and process descriptions. Kamasada's history and process are supported by Morioka City, the Japan Economic Foundation, Toraya, the Nambu association, the Cabinet Office, and Toramonten's workshop-linked production account. Retail sources were used only for explicitly attributed current-process or mark evidence where no first-party guide was available.
 
 Image credits and source links appear in the captions. The studio, publication, dealer, and owner photographs are reproduced for editorial identification; reuse permission has not been confirmed.
 

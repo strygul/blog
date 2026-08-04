@@ -20,11 +20,17 @@
 	height: auto;
 }
 
+.image-gallery.two-up {
+	flex-direction: column;
+}
+
 .image-gallery.two-up > figure {
-	flex: 1 1 18rem;
-	min-width: 16rem;
 	margin: 0;
 	text-align: center;
+}
+
+.image-gallery.two-up > figure img {
+	width: 100%;
 }
 
 .image-gallery-large {
