@@ -67,7 +67,7 @@ Suzuki's long lineage can make the workshop sound like one master working alone.
 The current [product catalogue](https://suzukimorihisa.com/en/collections/all) is much livelier than the word “traditional” might suggest. There are calm arare surfaces and fine ribs, but also broad grooves, flower patterns, and playful geometries. The nearly spherical *Hinomaru* is linked to the thirteenth head; the interlaced *Temari* to the fifteenth. Tradition here is not one frozen shape. It is a workshop continuing to design.
 
 <div class="video-embed">
-<iframe src="https://www.youtube.com/embed/kNEEbDtYcaI" title="Suzuki Morihisa tetsubin production" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/B_3B5q2kBgk" title="Suzuki Morihisa Studio — Pen magazine feature" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 The published mark evidence is useful but limited. Horie's paper shows `盛久`, read *Morihisa*, in variants associated with the thirteenth and fourteenth heads. These body marks were pressed into the mould with wooden seals and usually sit low near the spout. The figure does not show complete kettles, so a similar mark on an unknown object is a promising clue—not a complete attribution.

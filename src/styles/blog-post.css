@@ -22,6 +22,9 @@
 
 .image-gallery.two-up {
 	flex-direction: column;
+	width: min(1100px, calc(100vw - 2rem));
+	margin-left: 50%;
+	transform: translateX(-50%);
 }
 
 .image-gallery.two-up > figure {
@@ -31,6 +34,11 @@
 
 .image-gallery.two-up > figure img {
 	width: 100%;
+}
+
+.image-gallery.two-up figcaption {
+	max-width: 720px;
+	margin-inline: auto;
 }
 
 .image-gallery-large {
