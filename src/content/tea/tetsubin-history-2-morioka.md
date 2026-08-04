@@ -3,7 +3,7 @@ title: "Morioka: The Domain Kettle Becomes Nambu Ironware"
 pubDate: "2026-08-04"
 category: ["Tea", "Teapots", "Tetsubin", "Japanese Craft"]
 description: "Four Morioka workshops show how domain-sponsored tea-kettle casting became Nambu ironware: Suzuki Morihisa, Kunzan, Iwachu, and Kamasada."
-heroImage: "../../../public/tea/posts/tetsubin-history-2-morioka/hero.jpg"
+heroImage: "../../../public/tea/posts/tetsubin-history-2-morioka/hero.png"
 ---
 
 <div class="info-box">HOJO’s Suzuki and Kunzan visits are checked here against workshop, association, government, museum, and research sources. Dates and marks remain within those sources’ limits.</div>
@@ -19,8 +19,8 @@ Morioka’s tetsubin history is later. Tradition credits the third Koizumi Nizae
 “Nambu ironware” now covers both Morioka and Mizusawa/Ōshū, centers with different histories joined institutionally and commercially in the modern period. This article stays in Morioka; the next returns to Mizusawa.
 
 <figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-2-morioka/hero.jpg" alt="Unsigned iron tetsubin with peony and chrysanthemum decoration" loading="lazy" decoding="async" />
-  <figcaption><em>Botan kikuzu tetsubin</em>, an unsigned Edo–Meiji kettle displayed at the Iwate Prefectural Museum. Regional context only. Photo: EL Jones (User:Noroi), <a href="https://commons.wikimedia.org/wiki/File:Botan_kikuzu_teppin.jpg">Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>; resized/recompressed from the original; not cropped.</figcaption>
+  <img src="/tea/posts/tetsubin-history-2-morioka/hero.png" alt="Illustration of a decorated iron tetsubin with an arched handle" loading="lazy" decoding="async" />
+  <figcaption>Illustration supplied for this post.</figcaption>
 </figure>
 
 ### The Morioka method
