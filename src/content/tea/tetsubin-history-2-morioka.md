@@ -170,16 +170,6 @@ Rough skin is strongly associated with Kamasada, yet other workshops use it too.
   </figure>
 </div>
 
-## What the Four Workshops Show
-
-The four workshops share a city and a craft name, but they do not work in the same way.
-
-Suzuki Morihisa carries a domain lineage through a team workshop. Kunzan grew from apprenticeship into an independent house. Iwachu combines traditional kettle work with factory production. Kamasada gives one maker control over much of the process.
-
-Their patterns overlap. Arare dots, rough skin, lines, and flower designs belong to a wider regional vocabulary. Start with the full object: body, spout, lid, handle, interior, seams, and mark. Then compare it with a complete workshop example.
-
-A mark is useful when its reading, position, and date make sense together. A mark by itself is not enough. When the evidence stops, “Morioka tetsubin, maker uncertain” is a better description than a famous name chosen from one surface detail.
-
 Next: [Mizusawa and Ōshū](/tea/tetsubin-history-3-mizusawa-oshu)
 
 ## Sources and Image Credits

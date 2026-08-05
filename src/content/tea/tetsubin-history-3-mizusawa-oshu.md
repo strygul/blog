@@ -111,20 +111,6 @@ Oitomi does not publish a dependable guide to kettle seals. Its website document
   </figure>
 </div>
 
-## How to Identify a Mizusawa Tetsubin
-
-Start with function. An unenameled tetsubin is made to boil water. An enamelled iron teapot is made to steep tea and should not be heated over direct flame.
-
-Then record the whole object. Photograph the body, base, spout, lid, handle, interior, seams, and every mark. A lid or handle may have been replaced.
-
-Next, compare exact models. Arare dots, ribs, flowers, and rough surfaces appear across several workshops. A close catalogue match is more useful than a pattern by itself.
-
-For Oigen, compare the model and mark with the company's published guide. For Oitomi, first check whether the product page names Oitomi or another maker. Do not turn a shop label into a workshop attribution.
-
-Sometimes the best description is simply “Mizusawa/Ōshū tetsubin, maker and date uncertain.” That is better than forcing an unsupported name onto the kettle.
-
-Mizusawa's strength is not one famous pattern. It is a casting town that kept changing with its market. Oigen and Oitomi show two ways that tradition continues: a large manufacturer with several production routes, and a family workshop connected to a wider network of makers.
-
 ## Sources and Image Credits
 
 The main regional sources are the [Ōshū City Traditional Industry Hall](https://www.city.oshu.iwate.jp/kanko/osusume/4/4/1614.html), the [Iwate Prefectural Museum](https://www2.pref.iwate.jp/~hp0910/tayori/101p4.pdf), [Traditional Crafts Aoyama Square](https://kougeihin.jp/craft/0701/), the [Tohoku Bureau of Economy, Trade and Industry](https://www.tohoku.meti.go.jp/s_densan/iwate_01.html), and the [Mizusawa foundry cooperative](https://oshu-nambutekki.com/about/).
