@@ -55,6 +55,7 @@ Make Parts 1–3 easier to read and give Parts 2 and 3 the same flexible worksho
 - Prefer short sentences and common words.
 - Keep paragraphs focused on one idea.
 - Avoid repeated caveats, research-process language, dense tables, and small diagrams.
+- Remove generic identification checklists and closing summaries from Parts 1–3. Keep identification advice only when it is specific to a workshop's documented patterns, construction, or marks.
 - Use `##` headings for substantial sections.
 - Use the existing centered figure and studio-gallery styles so images remain fully visible at desktop and narrow widths.
 - Keep source links close to factual claims and image captions.

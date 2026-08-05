@@ -14,6 +14,7 @@
 - Explain Nambu ironware as a craft name covering Morioka and Mizusawa/Ōshū, not a place.
 - Prefer short sentences, common words, and paragraphs focused on one idea.
 - Keep workshop sections substantial; do not create many small headings.
+- Remove generic identification checklists and repeated closing summaries; keep only workshop-specific pattern, construction, and mark guidance.
 - Do not publish licensing, reuse, cropping, resizing, or recompression commentary.
 - Do not use `figure-scroll` in Parts 1–3.
 - Do not present patterns or seals as stronger evidence than the sources support.
@@ -83,7 +84,7 @@ Use ordinary centered figure markup and the path `/tea/posts/tetsubin-history/ja
 
 - [ ] **Step 3: Remove duplicated and process-heavy media commentary**
 
-Remove the Morioka display photo from the regional section. Remove the sentence about workshop photo reuse permission from `How a Tetsubin Is Made`. Keep useful source links and historical claims.
+Remove the Morioka display photo from the regional section. Remove the sentence about workshop photo reuse permission from `How a Tetsubin Is Made`. Remove `How to Read the Rest of This Series`, including its generic checklist and repeated conclusion. Keep useful source links and historical claims.
 
 - [ ] **Step 4: Run focused checks**
 
@@ -133,7 +134,7 @@ State what each documented seal reads and where it is usually found. Where evide
 
 - [ ] **Step 4: Keep only useful supporting material**
 
-Keep videos only when they directly show the workshop or its process. Keep the final workshop comparison if it adds information not already repeated in the closing prose; otherwise remove it from the article.
+Keep videos only when they directly show the workshop or its process. Remove `What the Four Workshops Show`; the workshop profiles already make those comparisons.
 
 - [ ] **Step 5: Run focused checks**
 
@@ -183,7 +184,11 @@ Order the section as location, short history, family-workshop-and-retailer diffe
 
 Remove `morioka-mizusawa-history.svg` and `oigen-oitomi-comparison.svg` references because the shared map and workshop prose now carry those points. Delete the files only after confirming no article references them.
 
-- [ ] **Step 6: Run focused checks**
+- [ ] **Step 6: Remove the generic identification conclusion**
+
+Remove `How to Identify a Mizusawa Tetsubin` in full. The Oigen and Oitomi profiles already contain the useful workshop-specific pattern and mark guidance.
+
+- [ ] **Step 7: Run focused checks**
 
 ```bash
 rg -n '^## |japan-regional-centers|studio-gallery' src/content/tea/tetsubin-history-3-mizusawa-oshu.md
@@ -193,7 +198,7 @@ rg -ni 'licen[cs]|reuse|cropp|resiz|recompress|figure-scroll' src/content/tea/te
 
 Expected: map plus Oigen and Oitomi profiles; no Morioka work image, redundant diagram, or banned process language.
 
-- [ ] **Step 7: Commit Part 3**
+- [ ] **Step 8: Commit Part 3**
 
 ```bash
 git add src/content/tea/tetsubin-history-3-mizusawa-oshu.md public/tea/posts/tetsubin-history-3-mizusawa-oshu
