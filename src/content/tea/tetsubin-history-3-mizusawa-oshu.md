@@ -88,6 +88,13 @@ The workshop traces its beginning to 1848, when Oikawa Rigenta founded Hōshōd�
 
 Oitomi describes a process that runs from mould making to final dispatch. Iron is melted in a cupola and poured into sand moulds. The casting is cleaned and ground. A tetsubin is heated inside to form a protective oxide layer, then the body, lid, and handle are colored and fitted.
 
+<figure class="figure-center">
+  <div class="video-embed">
+    <iframe src="https://www.youtube.com/embed/DsquAxKLeqg" title="Oitomi Nambu tetsubin production process" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <figcaption>Oitomi’s video shows its tetsubin process, from mould making and casting to coloring and assembly.</figcaption>
+</figure>
+
 What makes Oitomi different is its double role. It makes its own goods, but it also sells work by named makers and nearby workshops. A product page may credit Oitomi, Shōkadō, Seiryūdō, or another craftsperson. The seller name alone therefore does not always identify the maker.
 
 Oitomi's own range is broad. The *Ume Maruko* uses a round body and plum-blossom surface. The *Heisei Round Arare* uses a classic field of raised dots and was designed by the sixth generation in 1989. Other models use lines, dragonflies, gourds, smooth skin, and modern colors.
