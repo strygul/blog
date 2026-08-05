@@ -47,6 +47,13 @@ The current head is [Suzuki Morihisa Shigeo, the sixteenth](https://suzukimorihi
 
 Suzuki Morihisa is special because it combines a long domain lineage with active design. Its [catalogue](https://suzukimorihisa.com/en/collections/all) includes arare dots and fine ribs, but also broad grooves, flowers, and playful geometry. The round *Hinomaru* and woven-looking *Temari* show that the workshop does not repeat one old shape.
 
+<figure class="figure-center">
+  <div class="video-embed">
+    <iframe src="https://www.youtube.com/embed/B_3B5q2kBgk" title="Suzuki Morihisa Studio — Pen magazine feature" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <figcaption>The video introduces the sixteenth Suzuki Morihisa and shows how the workshop brings modern design into its long casting tradition.</figcaption>
+</figure>
+
 A surface pattern can suggest Suzuki Morihisa, but it cannot prove the workshop. Look for an exact model match and then check the body mark. Published examples show <code>盛久</code>, read *Morihisa*, pressed into the body with a wooden seal. It is often placed low near the spout. Horie's paper shows different forms linked to the thirteenth and fourteenth heads.
 
 <div class="image-gallery studio-gallery" role="group" aria-label="Suzuki Morihisa tetsubin and maker marks">
@@ -101,6 +108,13 @@ The company became Iwashimizu Foundry in 1950 and expanded its factory in the ea
 
 What makes Iwachu special is that it uses different production routes. Its [traditional tetsubin process](https://iwachu.co.jp/en/pages/manufacturing-process) uses fired moulds, hand-pressed patterns, an oxide-treated interior, and exterior lacquer. Its [teapot and kitchenware process](https://iwachu.co.jp/en/pages/teapot-kitchenware-process) can include automated moulding and enamel.
 
+<figure class="figure-center">
+  <div class="video-embed">
+    <iframe src="https://www.youtube.com/embed/o6AuxztRkYM" title="Iwachu ironware production" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <figcaption>This overview shows how Iwachu ironware moves from mould preparation and casting to finishing.</figcaption>
+</figure>
+
 This difference also helps identification. An unenameled interior points toward a water-boiling tetsubin. A smooth enamelled interior points toward a teapot that should not go over direct flame. On the outside, Iwachu uses arare, lines, floral relief, and many modern colors. The pattern alone is not enough.
 
 Iwachu publishes several current <code>岩鋳</code> and <code>IWACHU</code> marks. The rectangular Japanese stamp below is one official form. The company does not provide a full date range for every mark, so use the stamp together with the model, interior, and catalogue.
@@ -131,6 +145,13 @@ The workshop was dismantled under wartime controls in 1945. It reopened in 1954 
 Modern Kamasada work is closely linked to Miya Nobuho. Its special quality is restraint: low round bodies, wide handles, simple lines, and rough yuzu-like surfaces. A [Japan Economic Foundation profile](https://www.jef.or.jp/journal/pdf/172th_Japanese_Craft.pdf) and a [Toraya exhibition account](https://assets.toraya-group.co.jp/__/_files/toraya/pdf/press_release/20160818_252.pdf) divide the steps differently, but both describe one craftsperson carrying a kettle through much of the process.
 
 The [Toramonten guide](https://toramonten.com/en-eu/blogs/column/nanbu-ironware-tetsubin-guide) says current Kamasada kettles use fired moulds and a burn-off treatment inside. Those details help explain the work, but they are not a shortcut for identifying an old kettle.
+
+<figure class="figure-center">
+  <div class="video-embed">
+    <iframe src="https://www.youtube.com/embed/5DOeuBQnSVw" title="Kamasada tetsubin production" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <figcaption>This documentary follows a Kamasada tetsubin through mould making, casting, and finishing.</figcaption>
+</figure>
 
 Rough skin is strongly associated with Kamasada, yet other workshops use it too. Look for the complete shape and an exact model match. Reported marks include <code>南部 釜定</code> below the spout and <code>KAMASADA</code> with a year beneath the lid on a modern line. There is no published guide covering every historical mark.
 
