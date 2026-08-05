@@ -47,6 +47,7 @@ Make Parts 1–3 easier to read and give Parts 2 and 3 the same flexible worksho
 - Give a short regional history centered on Mizusawa's practical casting tradition.
 - Profile Oigen and Oitomi using the same flexible order as the Part 2 workshop sections.
 - Reuse current representative work images and add missing work or seal images only when a reliable workshop or product source exists.
+- Embed Oitomi's official production video in its workshop profile with a short caption below it.
 - If a workshop does not publish a dependable kettle-seal guide, say that plainly instead of inventing an identification rule.
 - Remove licensing and image-production commentary from the published text and captions.
 

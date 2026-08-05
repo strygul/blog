@@ -178,7 +178,7 @@ Order the section as location, short history, factory-and-craft difference, repr
 
 - [ ] **Step 4: Rewrite the Oitomi profile**
 
-Order the section as location, short history, family-workshop-and-retailer difference, representative works, pattern/construction clues, then seals. Use a studio gallery with the current Ume Maruko image and one additional work if supported. If no dependable kettle seal is published, say so in one sentence.
+Order the section as location, short history, family-workshop-and-retailer difference, representative works, pattern/construction clues, then seals. After the process paragraph, embed Oitomi's official production video at `https://www.youtube.com/embed/DsquAxKLeqg` using the existing centered video figure and a short caption below it. Use a studio gallery with the current Ume Maruko image and one additional work if supported. If no dependable kettle seal is published, say so in one sentence.
 
 - [ ] **Step 5: Remove redundant Part 3 diagrams**
 
