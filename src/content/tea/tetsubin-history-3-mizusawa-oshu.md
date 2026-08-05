@@ -1,231 +1,173 @@
 ---
-title: "Mizusawa: The Other History Inside the Nambu Name"
-pubDate: "2026-07-31"
-category: ["Tea", "Teapots", "Tetsubin", "Japanese Craft"]
-description: "Mizusawa's casting history predates the Nambu name attached to it. Oigen and Oitomi show how this practical lineage differs from—and converged with—Morioka."
-heroImage: "../../../public/tea/posts/tetsubin-history-3-mizusawa-oshu/hero.jpg"
+title: "Tetsubin History, Part 3: Mizusawa and Ōshū"
+pubDate: "2026-08-05"
+category:
+  - "Tea"
+  - "Teapots"
+  - "Tetsubin"
+  - "Japanese Craft"
+description: "Mizusawa grew from a practical casting town into the second great center of Nambu ironware. Oigen and Oitomi show how that tradition still changes."
+heroImage: "../../../public/tea/posts/tetsubin-history-3-mizusawa-oshu/hero.png"
 ---
 
-<div class="info-box">Mizusawa is often folded into a single four-hundred-year story of “Nambu ironware.” This post keeps its older Ōshū casting history separate from Morioka's domain-sponsored tea-kettle tradition, using municipal, museum, association, government, and workshop sources. Maker-mark claims stay separate from detachable parts; where complete-object evidence is absent, the limit is stated plainly.</div>
+[Part 2](/tea/tetsubin-history-2-morioka) followed four Morioka workshops. Their stories grew from the Nambu domain, where tea kettles and art casting became an important part of the local craft.
 
-### Older than the name it now carries
+Mizusawa followed another path. It belonged to the Date domain and built its reputation on the iron objects people used every day. Pots, cauldrons, tools, and later machine parts mattered as much as tea ware. Morioka and Mizusawa now share the name **Nambu ironware**, but they did not begin as one tradition.
 
-Mizusawa is not Morioka with an earlier starting date. The two centers grew under different patrons, around different product mixes, and within different working economies. They later exchanged techniques and now share a protected name, but that convergence should not turn their histories into a contest.
+## Mizusawa Before the Nambu Name
 
-The [Ōshū City Traditional Industry Hall](https://www.city.oshu.iwate.jp/kanko/osusume/4/4/1614.html) repeats the local origin tradition: in the late Heian period, Fujiwara no Kiyohira invited casters from Ōmi to the Fujiwara base at Toyoda in present-day Esashi. The [Iwate Prefectural Museum’s 2004 exhibition note](https://www2.pref.iwate.jp/~hp0910/tayori/101p4.pdf) gives the necessary limit. Archaeological moulds confirm that casters worked in the Hiraizumi world, but the museum says there is no clear evidence for the story that the same group moved south and continued directly into later Mizusawa casting. The twelfth-century claim is therefore a **documented regional tradition with archaeological context, not a proved workshop lineage**.
+Mizusawa is now part of Ōshū City in southern Iwate. Local histories often give its casting tradition an age of about nine hundred years. The story begins with Fujiwara no Kiyohira, who is said to have invited casters from Ōmi to the Hiraizumi area in the late Heian period.
 
-The record becomes firmer later. The museum reports documentary material in the Chiba family and a casting site from the later fourteenth century at Hada. It describes Oikawa Kiemon Mitsuhiro, who began casting in 1683 after learning within that local world, as a reviving figure. Ōshū City similarly places medieval production of pots and cauldrons before casting became established in present Hada. Those dated anchors matter more than squeezing nine centuries into a single unbroken family tree.
+That story needs one limit. Archaeologists have found moulds that prove casting took place in the wider Hiraizumi world. They have not proved that the same group moved south and continued directly into the later workshops of Mizusawa. The [Iwate Prefectural Museum](https://www2.pref.iwate.jp/~hp0910/tayori/101p4.pdf) treats the old story as local tradition, not an unbroken family record.
 
-<figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/hero.jpg" alt="Dark Nambu iron kettle with an overhead handle and low spout" loading="lazy" decoding="async" />
-  <figcaption>A complete Nambu tetsubin, maker and production center undocumented. It illustrates object type, not an Oigen or Oitomi attribution. Photo: Misakubo, <a href="https://commons.wikimedia.org/wiki/File:Nambu_Tetsubin.jpg">exact Wikimedia Commons file page</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>; local 1600 × 1200 JPEG derivative, resized and recompressed from the original with no crop.</figcaption>
-</figure>
+The history becomes firmer in the late fourteenth century. The museum records a casting site at Hada and documents connected casting families. It also describes Oikawa Kiemon Mitsuhiro, who began working there in 1683, as an important figure in the revival of local production.
 
-This was a broad casting economy. Buddhist fittings and bells belonged to it, but so did the things that absorbed daily punishment: cooking pots, cauldrons, bath-heating fittings, agricultural implements, and, later, industrial parts. The [Mizusawa foundry cooperative](https://oshu-nambutekki.com/about/) still describes a mixed cluster of traditional ironware, vehicle parts, construction machinery, agricultural machinery, and machine-tool castings. That combination is not a dilution of an art-kettle tradition. It is evidence of Mizusawa’s practical base.
+Those records give Mizusawa something better than a perfect legend: several clear points in a long local history. Casting existed in the region during the medieval period. Hada had an established working community by the later Middle Ages. Named casters appear more clearly in the Edo record. The gaps remain, but the tradition does not depend on pretending they are filled.
 
-<figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/met-water-jar.jpg" alt="Eighteenth-century Japanese cast-iron water jar with a rounded body and dragon relief" loading="lazy" decoding="async" />
-  <figcaption>An eighteenth-century Japanese cast-iron water jar in the Metropolitan Museum of Art. The museum records Japan only: it compares a functional cast vessel, not Mizusawa or Nambu production. Photo: The Met, <a href="https://www.metmuseum.org/art/collection/search/60061">object 36.120.680</a>, public domain; local 1609 × 1600 JPEG derivative, resized and recompressed from the institutional original with no crop.</figcaption>
-</figure>
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Parallel Mizusawa and Morioka histories">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/morioka-mizusawa-history.svg" alt="Parallel timelines for Mizusawa and Morioka that converge under the modern Nambu name without ranking either center" loading="lazy" decoding="async" />
-  <figcaption>Two histories, later joined. Mizusawa’s early continuity claim remains qualified; no older-is-better conclusion follows. Original source-grounded diagram.</figcaption>
-</figure>
-
-### Under the Date domain
-
-In the Edo period, Mizusawa lay within the Sendai domain of the Date house, not the Nambu domain. The [Tohoku Bureau of Economy, Trade and Industry](https://www.tohoku.meti.go.jp/s_densan/iwate_01.html) distinguishes the centers plainly: Morioka developed tea-ceremony kettles and iron water kettles under Nambu patronage, while old Mizusawa developed around everyday cast goods under Date rule. Ōshū City says Date protection helped Hada become known for pots and cauldrons.
-
-The contrast is about economic emphasis, not an absolute boundary. Mizusawa casters also made Buddhist objects and large commissions; Morioka casters also made daily goods and weapons. Nor does “utilitarian” mean crude. A cooking pot that must cast cleanly, survive heat cycles, sit steadily, and sell across a wide market demands disciplined moulding and finishing. The most useful distinction is what organized each center’s reputation: domain tea culture and specialist tea-kettle patronage in Morioka; a dense, adaptable foundry economy for ordinary use in Mizusawa.
+This already makes Mizusawa different from the Morioka story. Morioka's best-known workshops grew around seventeenth-century service to the Nambu domain. Mizusawa's identity came from a wider community of casters, spread across families and ordinary production.
 
 <figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/met-kettle-brazier.jpg" alt="Japanese tea arrangement with an iron kettle on a brazier" loading="lazy" decoding="async" />
-  <figcaption>An eighteenth-century Japanese iron kettle and brazier in a tea arrangement, documented by the Metropolitan Museum of Art. The museum records Japan only: it compares tea use, not Mizusawa or Nambu production. Photo: The Met, <a href="https://www.metmuseum.org/art/collection/search/39566">object 25.215.32</a>, public domain; local 1600 × 1110 JPEG derivative, resized and recompressed from the institutional original with no crop.</figcaption>
+  <a href="/tea/posts/tetsubin-history-2-morioka/suzuki-tetsubin.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Suzuki Morihisa Hinomaru tetsubin image full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-2-morioka/suzuki-tetsubin.jpg" alt="Suzuki Morihisa Hinomaru tetsubin from the Morioka tradition" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>The Suzuki Morihisa <em>Hinomaru</em> represents Morioka's workshop-centered tea-kettle tradition. Photo: <a href="https://suzukimorihisa.com/en/products/%E6%97%A5%E3%81%AE%E4%B8%B8%E5%BD%A2%E9%89%84%E7%93%B6-%E5%B0%8F">Suzuki Morihisa Studio</a>.</figcaption>
 </figure>
 
-The Iwate museum describes Hada casters producing iron pots and cauldrons, Buddhist goods, copperware, and cannon under Sendai-domain regulation and support. After the domains were abolished, both centers lost political patrons. New transport and exhibition markets changed what survived. Mizusawa used the Tōhoku Main Line after its 1890 opening to extend sales as far as Hokkaidō and became Tōhoku’s leading center for practical cast goods, including pots, cauldrons, and bath-heating fittings. Morioka’s national reputation centered more visibly on tetsubin and tea kama.
+The difference is easy to exaggerate. Mizusawa also made Buddhist objects and large commissions. Morioka also made household goods. The useful distinction is not what each place was allowed to make, but what organized its economy. Morioka became known for domain-supported tea ware. Mizusawa became a dense casting town built around practical demand.
+
+## A Casting Town Built on Everyday Work
+
+During the Edo period, Mizusawa lay inside the Sendai domain of the Date house. The Date authorities supported and regulated its casters. Hada became known for cooking pots and cauldrons, while its workshops also produced bells, Buddhist fittings, copper goods, and cannon.
+
+Practical does not mean simple. A cooking pot must cast cleanly, sit steadily, survive repeated heating, and sell at a price ordinary households can afford. Making thousands of useful objects requires control over moulds, metal, finishing, and distribution. Those skills later helped Mizusawa move into industrial work without abandoning traditional ironware.
+
+The end of the domains in the nineteenth century removed the old political patrons. Railways created another kind of opportunity. After the Tōhoku Main Line reached the region in 1890, Mizusawa makers sold pots, cauldrons, and bath-heating fittings across northern Japan and into Hokkaidō.
+
+That market rewarded range. A foundry might make a household pot, an agricultural part, and a decorative object within the same local network. The [Mizusawa foundry cooperative](https://oshu-nambutekki.com/about/) still describes a cluster that includes traditional ironware, vehicle parts, construction machinery, agricultural machinery, and machine-tool castings.
+
+The twentieth century made that flexibility essential. Wartime controls redirected iron and restricted ordinary kettle production. After the war, aluminum, stainless steel, gas appliances, and electric kettles reduced the need for a heavy iron boiler in many homes. A town tied to one product could have collapsed. Mizusawa could instead move skills and equipment between cookware, industrial parts, and traditional goods.
 
 <figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/mizusawa-station-wind-chimes.jpg" alt="Rows of Nambu iron wind chimes hanging at Mizusawa Station" loading="lazy" decoding="async" />
-  <figcaption>Cast-iron wind chimes installed at Mizusawa Station: regional production in public daily life, not a maker attribution. Photo: 広瀬川, <a href="https://commons.wikimedia.org/wiki/File:Mizusawa_station%27s_wind_chime.JPG">exact Wikimedia Commons file page</a>, public domain; unchanged 2048 × 1152 original, with no cropping, resizing, or recompression.</figcaption>
+  <a href="/tea/posts/tetsubin-history-3-mizusawa-oshu/mizusawa-tetsubin.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Oigen Yachigusa tetsubin image full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/mizusawa-tetsubin.jpg" alt="Oigen Yachigusa tetsubin with vertical ribs and a broad base" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Oigen's Ōshū-made <em>Yachigusa</em> shows the Mizusawa tradition as a practical modern kettle: broad-based, movable-handled, and made for several heat sources. Photo: <a href="https://oigen.jp/products/tetsubin_chigusa12">Oigen</a>.</figcaption>
 </figure>
 
-### When Morioka and Mizusawa became Nambu
+This is the center of Mizusawa's story. Its craft survived because it could change jobs. The same place that preserved sand-mould skills also learned modern factory production. The same companies that made kettles also made cookware and industrial castings.
 
-The modern umbrella did not descend intact from either domain. [Traditional Crafts Aoyama Square](https://kougeihin.jp/craft/0701/) says technical exchange between the two centers advanced after Meiji. In 1959, the Morioka and Mizusawa cooperatives formed the Iwate Nambu Ironware Cooperative Federation. The [Tohoku METI history](https://www.tohoku.meti.go.jp/s_densan/iwate_01.html) describes the federation as a prefecture-wide organization created to protect common interests and develop the industry. That institutional event explains why Date-domain Mizusawa goods now carry a name derived from the Nambu side.
+Mizusawa therefore gives us a less romantic but more useful picture of tradition. A craft does not survive by repeating one old object forever. It survives when people can use its skills in a changing world.
 
-On 17 February 1975, Nambu ironware received national Traditional Craft designation, one of the first group designated under the new system. The protected production area includes both Morioka and Ōshū, and the specification names shared materials and techniques: sand moulds, *hiki-gata* or *kome-gata* forming, pattern pressing or surface texturing where applicable, mould firing or drying, lacquer-and-iron coloring, and heat treatment for cooking vessels. These standards describe a living production category. They do not retroactively make a medieval Hada pot “Nambu” in its original political setting.
+## How Two Traditions Became Nambu Ironware
 
-Exchange also does not erase continuing differences in organization. Mizusawa remains a large industrial-casting cluster alongside traditional workshops. Morioka retains a more visible concentration of studios associated with tea kettles and art names. Companies in either center can use hand work, machinery, fired moulds, green-sand moulds, or different routes for different product lines. The designation is a starting filter, not a complete manufacturing record.
+The name creates confusion because Mizusawa was never part of the Nambu domain. It entered modern Nambu ironware through cooperation, technical exchange, and national craft policy.
+
+Morioka and Mizusawa exchanged techniques more actively after the Meiji Restoration. Their producers faced many of the same pressures: lost patrons, new transport, cheaper metals, changing kitchens, war controls, and postwar appliances. They remained different centers, but they increasingly shared markets and methods.
+
+In 1959, the Morioka and Mizusawa cooperatives formed the Iwate Nambu Ironware Cooperative Federation. That decision placed both areas under one modern industry organization. It also explains why a product made in the old Date-domain area can now carry a name taken from the Nambu side.
+
+On 17 February 1975, Nambu ironware received national Traditional Craft designation. The protected production area included Morioka and present-day Ōshū. The standards described shared materials and processes, including sand moulds, surface patterning, mould firing or drying, traditional coloring, and heat treatment.
+
+The designation joined the two centers without making their pasts identical. A medieval Hada pot did not suddenly become Nambu ironware in its original setting. The name describes the modern regional craft. History still asks us to remember what came before it.
 
 <figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/nambu-candle-stand.jpg" alt="Simple black Nambu iron candle stand holding a white candle" loading="lazy" decoding="async" />
-  <figcaption>A Nambu iron candle stand made in Iwate: the regional category extends beyond tea ware. Photo: ウィキ太郎 Wiki Taro, <a href="https://commons.wikimedia.org/wiki/File:%E5%8D%97%E9%83%A8%E9%89%84%E5%99%A8_%E7%87%AD%E5%8F%B0_Japanese_candle_stand_made_of_iron.jpg">exact Wikimedia Commons file page</a>, public domain; unchanged 2448 × 2448 original, with no cropping, resizing, or recompression.</figcaption>
+  <a href="/tea/posts/tetsubin-history-3-mizusawa-oshu/morioka-mizusawa-history.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the Morioka and Mizusawa history comparison full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/morioka-mizusawa-history.svg" alt="Diagram comparing Morioka and Mizusawa before their modern union under Nambu ironware" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Morioka and Mizusawa began under different domains and around different products. Their organizations joined in 1959, followed by national designation in 1975.</figcaption>
 </figure>
 
-### Oigen
+That difference is still visible. Morioka has a strong public image of named masters, tea kettles, and art casting. Mizusawa remains closely connected to broad manufacturing. Neither is more authentic. They show two ways a casting tradition can continue.
 
-<div class="info-box"><strong>Open the evidence:</strong> Oigen’s <a href="https://oigen.jp/pages/corporate-overview">official chronology</a>, <a href="https://enjoy.oigen.jp/en/aboutoigen/message">workshop message</a>, <a href="https://oigen.jp/blogs/contents/column06">mark history</a>, and current <a href="https://oigen.jp/products/tetsubin_ryumon">fired-mould</a> and <a href="https://oigen.jp/products/tetsubin_maromi">standard kettle</a> pages. The photographs remain on Oigen’s site; no reusable license was found, so none is republished here.</div>
+## Oigen: Craft Inside a Modern Factory
 
-**Chronology.** Oigen’s date is unusually candid. The company gives 1852 as its foundation but explains that no exact founding record survives; it adopted the birth year of founder Oikawa Genjūrō as the commemorative date. “Founded in 1852” is therefore a company convention, not a recovered shop ledger. The business sold pots and cauldrons across Tōhoku, modernized its furnace, and later diverted to military-related fixtures during the war. Oigen incorporated in 1947 and returned to household tools.
+Oigen is the clearest example of Mizusawa moving between craft and industry.
 
-Its official history records a postwar move from fired moulds toward green-sand moulding, national department-store distribution, factory modernization after a 1960s United States visit, and Danish production equipment in the 1970s. It also records design programs, cookware, industrial manhole production, exports, and renewed training of fired-mould kettle craftspeople after the 2011 earthquake. This is an industrial workshop history with craft production inside it, not a single master making every object by one unchanged method.
+The company uses 1852 as its founding year, while explaining that no exact founding record survives. The year is based on the birth of founder Oikawa Genjūrō. That makes it a useful company date, not the date of a recovered opening document.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oigen chronology">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-lineage.svg" alt="Oigen chronology from the qualified 1852 date through incorporation, modernization, and current identity" loading="lazy" decoding="async" />
-  <figcaption>Oigen’s company chronology, including its own caveat about 1852. Original source-grounded diagram.</figcaption>
+Oigen first built its business around pots and cauldrons. It later modernized its furnace, incorporated in 1947, expanded distribution, installed new production equipment, and moved into cookware and industrial casting. It also continued making tetsubin.
+
+The important point is that Oigen does not use one process for everything. Some products come from repeatable company-scale moulding. Certain expensive kettles use the slower *yakigata* method, in which a fired mould is broken after casting. Current product pages sometimes name the craftsperson responsible for a particular design.
+
+In both routes, the finished surface begins in the mould. Lines, dots, and relief are shaped before molten iron enters. After casting, the body must be cleaned and finished, the interior treated, and the handle and lid fitted. The difference lies in how the mould is made, how often it can be used, and how much individual work a model receives. “Made by Oigen” therefore describes a company; the product page tells us which part of that company's practice we are seeing.
+
+The Dragon kettle makes that range visible. Oigen credits traditional craftsperson Oikawa Eiki and describes more than eighty operations. The relief is formed by hand in the mould, the handle is fixed, and the rough pictorial surface is far from the regular arare dots many people expect from Nambu ironware.
+
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-tetsubin.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Oigen Dragon tetsubin image full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-tetsubin.jpg" alt="Oigen Dragon tetsubin with hand-formed relief decoration" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Oigen's <em>Dragon</em> tetsubin represents the company's labor-intensive fired-mould work inside a much larger manufacturing business. Photo: <a href="https://oigen.jp/products/tetsubin_ryumon">Oigen</a>.</figcaption>
 </figure>
 
-**Process.** Oigen says all products pass through several craftspeople’s hands. Its history documents multiple moulding eras, while current pages identify certain expensive kettles as individually made *yakigata* work. The 1.7-litre Dragon kettle, for example, credits traditional craftsperson Oikawa Eiki, over eighty fired-mould operations, hand-formed relief, a fixed fitted handle, a cast-iron body and lid, a steel handle, and lacquer finishes inside and out. Its Maromi arare kettle is a smaller current company form with a movable handle. Neither route can be assigned to an unidentified object from logo alone.
+Other Oigen kettles are quieter and more practical. The catalogue includes round and flat bodies, fixed and movable handles, arare, ribs, relief pictures, and plain surfaces. Oigen also makes pans, rice cookers, tableware, and outdoor goods.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oigen production routes">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-production-routes.svg" alt="Oigen company-scale casting and named fired-mould kettle routes with unknown model mapping" loading="lazy" decoding="async" />
-  <figcaption>Oigen’s documented production contexts. The precise route remains model-specific. Original diagram.</figcaption>
+This variety matters when identifying an object. There is no single “Oigen shape.” Start with the exact model and how it was made. A company name can cover several kinds of production.
+
+Oigen does publish a useful guide to its current and recent marks. The older house name `南部盛榮堂` appears on traditional tea goods. Latin `OIGEN` marks changed around 2015, although older forms stayed in use on some lines. These marks can support an identification, but they are not a precise dating system. The founding year inside a logo is company history, not the manufacture date of the kettle.
+
+## Oitomi: Workshop, Shop, and Maker
+
+Oitomi shows another side of Mizusawa. It presents itself as an eight-generation family workshop, but it is also a shop that sells work from other nearby makers.
+
+The workshop traces its beginning to 1848, when Oikawa Rigenta founded Hōshōdō in Hada. Oitomi says he made kettles for the Date house. The wider casting economy makes that claim plausible, though the accessible public record does not give us a domain appointment document.
+
+The name `及富`, read *Oitomi*, came from fifth-generation Oikawa Tominoshin. The company says that generation also began overseas sales in the 1950s. The history is less detailed than Oigen's corporate timeline, but it describes a workshop that remained tied to Hada while finding new customers.
+
+Oitomi explains its current process from mould making to dispatch. Iron is melted in a *koshiki* cupola and poured into sand moulds. Workers remove the baked sand, grind the casting, and heat a tetsubin to form a protective oxide layer inside. The body, lid, and handle are then colored and fitted.
+
+The catalogue adds an important detail: not every kettle sold by Oitomi is made by Oitomi. Some *yakigata* kettles are credited to named craftspeople and other workshops, including Shōkadō and Seiryūdō. That openness is helpful. It lets a buyer separate the seller from the actual maker.
+
+This is not unusual in a craft town. A workshop can make its own goods, finish or distribute other work, and maintain relationships with specialists nearby. The website may carry all of those objects under one shopfront. Read the maker line as carefully as the product title. When another craftsperson is named, that credit is part of the kettle's identity rather than a minor sales detail.
+
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-3-mizusawa-oshu/oitomi-tetsubin.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Oitomi Ume Maruko tetsubin image full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oitomi-tetsubin.jpg" alt="Oitomi Ume Maruko tetsubin with rounded body and plum blossom surface" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Oitomi's <em>Ume Maruko</em> is a current in-house kettle with a rounded body and plum-blossom surface. Photo: <a href="https://oitomi.com/products/nambu-ironware-iron-kettle-ume-maruko-black-1-2l">Oitomi</a>.</figcaption>
 </figure>
 
-**Visual language.** The current catalogue joins Mizusawa’s daily-tool logic to a broad design program. Compact arare kettles, tall or flattened bodies, fixed and movable handles, relief pictures, pots, pans, rice cookers, and serving pieces sit under one company identity. The Maromi form deliberately raises the waist and divides arare from a plain lower field; the Dragon uses relief and a fixed handle; other cooking vessels prioritize broad contact surfaces. Variety is the evidence. “Oigen shape” is too vague to authenticate anything.
+The range is broad. Oitomi sells unenameled kettles for boiling water, dual-use kettle-and-teapot forms, and enamelled teapots. It uses arare, fine lines, flowers, dragonflies, gourds, and contemporary colors. Fixed and movable handles both appear.
 
-That range also prevents an easy craft-versus-industry split. A repeatable daily vessel can embody careful design and hand finishing, while a named fired-mould kettle can pass through a company’s wider production and sales system. The useful questions are concrete: which model, which mould route, which credited maker, which interior, and which date?
+Again, there is no single house silhouette. A catalogue match should lead to the product page, named maker, interior, size, and construction—not end the investigation.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oigen product range">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-product-range.svg" alt="Schematic comparison of Oigen compact kettle, fired-mould relief kettle, and daily cookware" loading="lazy" decoding="async" />
-  <figcaption>Three documented product contexts, shown schematically and not traced from product photography. Original diagram.</figcaption>
+Oitomi's public pages do not offer a complete guide to kettle marks. They document the workshop name and show an `OITOMI` mark on a trivet, but that does not establish a standard mark for every kettle. A box or shop receipt may prove where an object was sold without proving who cast it.
+
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-oitomi-comparison.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the Oigen and Oitomi comparison full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-oitomi-comparison.svg" alt="Diagram comparing Oigen and Oitomi as two current Mizusawa businesses" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Oigen and Oitomi carry the same regional tradition through different kinds of business.</figcaption>
 </figure>
 
-**Evidence-based distinction.** Oigen is strongest when described as an integrated Mizusawa manufacturer that moved repeatedly between daily utility, industrial production, design, and the preservation or renewal of labor-intensive kettle work. Its name does not promise one mould system, one surface, or one artisan. Current product pages sometimes name an individual maker and process; where they do, preserve that model-level credit. Where they do not, do not invent it.
+## How to Read a Mizusawa Kettle
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oigen evidence ladder">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-source-ladder.svg" alt="Oigen evidence ladder from official chronology and mark guide to weaker retailer discovery, with missing archive pairs" loading="lazy" decoding="async" />
-  <figcaption>The evidence is strong for company history and current devices, thinner for an isolated historical kettle. Original diagram.</figcaption>
-</figure>
+Mizusawa's history makes simple authentication rules especially unreliable. Its workshops made many kinds of goods, shared skills, adopted new machinery, and sold through overlapping networks. A familiar surface can point toward the region without identifying one maker.
 
-### Identifying Oigen
+Start with function. An unenameled tetsubin is made to boil water. An enamelled iron teapot is made to steep tea and should not be heated over direct flame. Size, color, and a strainer can help, but the interior gives the clearest first answer.
 
-Oigen publishes the most useful mark guide in this pair. It says its devices are cast into the product and normally appear on the back, underside, or bottom. The old house identity `南部盛榮堂` (*Nambu Seieidō*) remains on traditional tea-related goods. An older Latin `OIGEN` device entered use around the early 2000s and was replaced by a new identity in 2015, though the company deliberately retains the old form on its Tenka outdoor series and reported in April 2025 that replacement was still incomplete on some other goods. The current system includes a fuller `OIGEN / CAST IRON 1852 / MADE IN JAPAN` arrangement and a simplified `OIGEN JAPAN` form for small or collaborative products.
+Then record the whole object. Photograph the body, base, spout, lid, handle, interior, seams, and every mark before separating the parts. A lid or handle may have been replaced. A name on one detachable piece does not automatically identify the body.
 
-Those are documented device families, not a complete dating chart. The guide gives broad location categories rather than model-by-model placement. Its close views are not paired with two complete kettles, and current product notices warn that genuine Oigen goods may lack either `南部盛榮堂` or `OIGEN` depending on product and year. The foundation date within a current logo is branding, not the object’s manufacture date.
+Construction can narrow the search. Check whether the handle moves, whether the lid is iron or another metal, how the spout joins the body, and whether the base shows signs of the moulding route. None of these details proves a maker alone. Together they can rule out an impossible catalogue match and show which workshop deserves a closer look.
 
-| Field | Verified record |
-| --- | --- |
-| Technique | Cast into the product; official Japanese uses *ikomareru kokuin*. |
-| Location | Back, underside, or bottom in the official guide; exact kettle location varies or is unstated. |
-| Characters / reading | `南部盛榮堂`, *Nambu Seieidō*; older and current Latin `OIGEN` devices. |
-| Date range | House mark historically used and retained on tea ware; older Latin mark early 2000s–2015 with limited continued use; current identity from 2015. Exact model ranges incomplete. |
-| Complete-kettle context | Official close-ups and model notices, but zero verified complete-kettle/mark pairs in the accessible guide. Some genuine products are explicitly unmarked. |
-| Source class | First-party mark history, company chronology, and product pages. |
-| Confidence | **Documented** device families and general technique; isolated-object attribution or dating remains **uncertain**. |
+Look for exact matches, not general resemblance. Compare the kettle with a workshop catalogue, dated box, receipt, model number, or direct confirmation from the maker. Arare dots, rough casting skin, fine ribs, and plum patterns appear across more than one workshop.
 
-Evidence ceiling: three official current/historical device families, zero verified complete-kettle/mark pairs, and no complete model-by-model date sequence.
+For Oigen, a current mark and model page can give a strong identification, though it may not give a precise year. For Oitomi, check whether the page names Oitomi itself or another workshop as maker. If the trail stops at a shop label, say so.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oigen marks">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-mark-evidence.svg" alt="Oigen mark families, dates, general locations, and zero complete-kettle pair evidence ceiling" loading="lazy" decoding="async" />
-  <figcaption>Oigen mark evidence and its ceiling. Typeset names are not logo facsimiles. Original diagram.</figcaption>
-</figure>
+Keep the evidence connected. A mark photographed without the kettle loses its location. A box without the object may have been paired later. A receipt is strongest when its date, model, and buyer history still make sense together. The goal is not to collect the largest number of clues, but to find clues that describe the same object.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oigen attribution check">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oigen-attribution-check.svg" alt="Five-step Oigen attribution check beginning with the complete object and ending with provenance" loading="lazy" decoding="async" />
-  <figcaption>Use a device with model, construction, fittings, and provenance—not by itself. Original diagram.</figcaption>
-</figure>
+The honest description may be broad: **“Mizusawa/Ōshū tetsubin, maker and date uncertain.”** That is not a failure. It separates what the object shows from what a seller hopes it might be.
 
-### Oitomi
+Mizusawa does not need an unbroken nine-hundred-year kettle story to be important. Its real achievement is more interesting. A town of practical casters survived the loss of its domain, expanded through rail and industry, joined a wider Nambu identity, and still supports businesses as different as Oigen and Oitomi.
 
-<div class="info-box"><strong>Open the evidence:</strong> Oitomi’s <a href="https://oitomi.jp/oitomi-history/">official history and process page</a>, English <a href="https://oitomi.com/pages/history">history</a>, current <a href="https://oitomi.com/collections/iron-kettles">kettle catalogue</a>, <a href="https://oitomi.com/products/nambu-ironware-iron-kettle-flat-and-round-itome-black-1-2l">flat itome kettle record</a>, <a href="https://oitomi.com/products/nambu-ironware-trivet-mat-seihoumaru-black">Seihoumaru trivet record</a>, and <a href="https://oitomi.com/blogs/articles/the-world-of-nanbu-iron-kettles-by-traditional-craftsman-shingo-kikuchi">outside-workshop credit example</a>. The photographs are linked, not copied; the site reserves copyright and gives no reusable license.</div>
+Morioka shows how named workshops carried a tea-kettle tradition forward. Mizusawa shows how a casting town kept changing what iron could do. Modern Nambu ironware contains both stories.
 
-**Chronology.** Oitomi says Oikawa Rigenta founded Hōshōdō in Hada in 1848 and worked as a kettle maker for the Date house. This is a first-party lineage statement; I found no independent domain appointment record in the accessible museum or government sources. The date is plausible within the documented Hada casting economy, but the role should remain attributed to the workshop.
+## Sources and Image Credits
 
-The name `及富` is read *Oitomi*. The workshop explains that it was taken from fifth-generation Oikawa Tominoshin and voices the wish to “extend wealth” through ironware. It describes the business as eight generations old and says the fifth generation began overseas sales in the 1950s. Again, these are useful workshop records, not a dated seal sequence or complete company archive. They establish the identity Oitomi presents today while leaving several transitions unstated.
+The main regional sources are the [Ōshū City Traditional Industry Hall](https://www.city.oshu.iwate.jp/kanko/osusume/4/4/1614.html), the [Iwate Prefectural Museum](https://www2.pref.iwate.jp/~hp0910/tayori/101p4.pdf), [Traditional Crafts Aoyama Square](https://kougeihin.jp/craft/0701/), the [Tohoku Bureau of Economy, Trade and Industry](https://www.tohoku.meti.go.jp/s_densan/iwate_01.html), and the [Mizusawa foundry cooperative](https://oshu-nambutekki.com/about/).
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oitomi chronology">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oitomi-lineage.svg" alt="Oitomi workshop-reported chronology from Hoshodo in 1848 through the end of domain patronage to the current workshop" loading="lazy" decoding="async" />
-  <figcaption>Oitomi’s first-party chronology, with its source class visible. Original diagram.</figcaption>
-</figure>
+Oigen's [company history](https://oigen.jp/pages/corporate-overview), [mark guide](https://oigen.jp/blogs/contents/column06), and current product pages support its section. Oitomi's [history and process](https://oitomi.jp/oitomi-history/), [English history](https://oitomi.com/pages/history), [kettle catalogue](https://oitomi.com/collections/iron-kettles), and named-maker articles support its section. Picture sources are linked in the captions.
 
-**Process.** Oitomi describes an integrated path from mould making through casting, finishing, coloring, and dispatch. It melts iron in a *koshiki* cupola; after pouring, workers remove baked sand and grind the casting. For tetsubin, *kama-yaki* at roughly 900°C forms an internal oxide layer, then body, lid, and handle are colored and finished. This is a clearer workshop-specific chain than generic “handmade” language.
-
-It also contains an important qualification. Oitomi’s own current article says many products are made in-house, while the shop also carries *yakigata* kettles made by craftspeople from other nearby workshops. Listings credit Shōkadō’s Kikuchi Shingo, Seiryūdō’s Oikawa Kōsei, and other named studios. The honest catalogue reading therefore separates **seller**, **workshop**, and **object maker**. Buying through Oitomi does not automatically make every listed kettle an Oitomi casting.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oitomi production route">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oitomi-production-route.svg" alt="Oitomi sequence from sand mould and cupola pour through grinding, kettle baking, coloring, and fittings, with outside-workshop limit" loading="lazy" decoding="async" />
-  <figcaption>Oitomi’s integrated process and the catalogue boundary around outside-workshop kettles. Original diagram.</figcaption>
-</figure>
-
-**Product categories.** The catalogue distinguishes unenameled water-boiling tetsubin, two-in-one kettle-and-teapot forms, and teapot-only vessels. A current 1.2-litre flat itome kettle has a wide base, cast-iron body, steel handle, high-temperature oxide treatment, and compatibility with induction and other stovetops. The page says the interior is not enamelled. Other listings deliberately add a removable strainer or specify tabletop brewing. Function must be read from the model record and interior, not from color or size.
-
-Surface vocabulary is broad: arare, fine itome lines, horse-skin texture, dragonflies, gourds, blossoms, wood grain, and contemporary colors. Fixed and movable handles coexist. The range reflects Mizusawa’s historic willingness to cast for changing everyday use, but no motif uniquely identifies Oitomi. More importantly, the breadth of credited makers means even a catalogue match may identify the offered model while naming a different actual workshop.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oitomi product range">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oitomi-product-range.svg" alt="Schematic comparison of Oitomi catalogue categories for kettle, dual-use vessel, and teapot" loading="lazy" decoding="async" />
-  <figcaption>Catalogue categories by intended use. Schematic original; no product photograph was traced.</figcaption>
-</figure>
-
-**Evidence-based distinction.** Oitomi’s strongest evidence is not a supposed house silhouette. It is the workshop’s stated in-house chain, its 1848 Hōshōdō lineage claim, and an unusually transparent current catalogue that sometimes names other makers. That transparency should make attribution more precise, not less: cite the product page, model, named craftsperson or workshop, interior route, and purchase record together.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oitomi kettle anatomy">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oitomi-kettle-anatomy.svg" alt="Complete kettle diagram showing body, base, spout, lid, handle, interior, and unknown mark zone" loading="lazy" decoding="async" />
-  <figcaption>The minimum complete-object record needed before discussing a mark. Original diagram.</figcaption>
-</figure>
-
-### Identifying Oitomi
-
-Oitomi’s accessible first-party pages do **not** publish a tetsubin maker-mark guide. They document the workshop name `及富`, read *Oitomi*, and one current Seihoumaru trivet page reports a Latin `OITOMI` “stamp” on the reverse. That is a complete accessory context, not kettle evidence. The page does not establish how the trivet device was formed, give a precise date for the phrase “that particular period,” or connect it to a tetsubin body. Nor do the accessible pages give a standard kettle location, historic kettle variants, introduction dates, or complete-kettle/mark pairs.
-
-That absence matters because the same shop lists products explicitly credited to other workshops and named artisans. A name on a box, invoice, web order, or seller page may document the retail channel rather than the casting. An observed body mark must be recorded exactly, with photographs of the entire kettle and its position, then checked with Oitomi or the named maker. Do not reverse-engineer an expected `及富` seal from the brand name.
-
-| Field | Verified record |
-| --- | --- |
-| Technique | The trivet page calls its Latin device a “stamp”; the forming method is unstated. No tetsubin method is established. |
-| Location | Reverse of the current Seihoumaru trivet. No standard kettle location is established. |
-| Characters / reading | Latin `OITOMI` on the trivet; `及富`, read *Oitomi*, is the documented workshop name but is not established as a kettle mark. |
-| Date range | The trivet page says the emblem was used “during that particular period” without defining the dates. The reported 1848 lineage is not a mark date. |
-| Complete-kettle context | One official complete-trivet/mark context; zero verified complete-kettle/mark pairs. |
-| Source class | First-party workshop history, process, catalogue, and trivet product page; no museum or technical kettle-mark publication found. |
-| Confidence | **Documented** for that accessory context; **uncertain** for any alleged Oitomi kettle mark. |
-
-Evidence ceiling: one current complete-trivet/mark context, zero verified complete-kettle/mark pairs, no published kettle-mark technique or location, and no dated historical sequence. The correct kettle identification may be the separately credited artisan or workshop rather than Oitomi.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oitomi mark evidence">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oitomi-mark-evidence.svg" alt="Oitomi workshop-name record, current trivet mark, and zero complete-kettle pair evidence ceiling" loading="lazy" decoding="async" />
-  <figcaption>The documented trivet device and the unknown kettle-mark record must stay separate. Original source-grounded diagram.</figcaption>
-</figure>
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Oitomi attribution check">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/oitomi-attribution-check.svg" alt="Decision path separating Oitomi as seller from a named outside workshop or unverified maker" loading="lazy" decoding="async" />
-  <figcaption>Read seller and maker fields separately. Original diagram.</figcaption>
-</figure>
-
-### What remains different
-
-Oigen and Oitomi share Hada, the Mizusawa industrial ecology, and the modern Nambu designation. They do not share one company history or one product route. Oigen’s record emphasizes scale, postwar moulding change, factory modernization, design systems, and a documented family of cast-in corporate devices. Oitomi presents an integrated workshop chain and a broad shop in which in-house goods sit beside kettles explicitly credited to other makers. Oigen has the stronger published mark evidence; Oitomi’s current catalogue is especially useful for keeping seller and maker apart.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Mizusawa mark comparison">
-  <img src="/tea/posts/tetsubin-history-3-mizusawa-oshu/mizusawa-marks.svg" alt="Comparison of Oigen documented marks and Oitomi unknown mark record with complete-object warnings" loading="lazy" decoding="async" />
-  <figcaption>Equal fields expose unequal evidence. Unknown does not mean absent; it means not established in the accessible record. Original diagram.</figcaption>
-</figure>
-
-| Producer | Strongest documented identity evidence | Process evidence | Mark ceiling |
-| --- | --- | --- | --- |
-| Oigen | Qualified 1852 convention, 1947 company, model-level official pages, current mark guide. | Multiple company contexts; specific fired-mould kettles named separately. | Three official device families; zero verified whole-kettle/mark pairs. |
-| Oitomi | Workshop-reported 1848 Hōshōdō lineage; integrated process; explicit outside-maker credits. | Moulding through dispatch described in-house, with some catalogue kettles made elsewhere. | One current trivet device documented; no kettle-mark guide and zero verified kettle pairs. |
-
-The general warning remains the same as in Morioka. A lid, handle, box, or certificate can be a replacement or later pairing. A signed lid authenticates only the lid unless the body is independently connected. Marks can be copied, and workshops also sold unmarked work. Arare, rough skin, a familiar spout, or “Mizusawa style” is comparison evidence, never proof. The smallest honest conclusion may be “Ōshū/Mizusawa-type iron kettle, maker and date uncertain.”
-
-Mizusawa’s importance does not depend on winning an age contest. Its better claim is more interesting: medieval evidence and local memory, Date-domain household production, Meiji market expansion and technical exchange, an enduring industrial cluster, and two current firms that show different ways practical casting can carry history forward.
-
-### Sources and image credits
-
-- **Regional history:** [Ōshū City Traditional Industry Hall](https://www.city.oshu.iwate.jp/kanko/osusume/4/4/1614.html), [Iwate Prefectural Museum, “Nambu Ironware—Morioka and Mizusawa”](https://www2.pref.iwate.jp/~hp0910/tayori/101p4.pdf), [Iwate Prefecture](https://www.pref.iwate.jp/kensei/profile/1000655/1021500.html), [Tohoku METI](https://www.tohoku.meti.go.jp/s_densan/iwate_01.html), [Traditional Crafts Aoyama Square](https://kougeihin.jp/craft/0701/), and the [Mizusawa foundry cooperative](https://oshu-nambutekki.com/about/).
-
-- **Curator-supervised context:** Kyoto Women’s University’s [Nambu Tekki history](https://artsandculture.google.com/story/nambu-tekki-kyoto-women-s-university/UAWBPlRYx2bcKA?hl=en) supports the two-center overview. Its images and those on government, museum, Oigen, and Oitomi pages have no confirmed reusable license and were not copied.
-
-- **Museum comparisons:** the Metropolitan Museum of Art records an [eighteenth-century cast-iron water jar](https://www.metmuseum.org/art/collection/search/60061) and [an eighteenth-century iron kettle and brazier](https://www.metmuseum.org/art/collection/search/39566) as public-domain Japanese objects. Their records give no Mizusawa, Ōshū, or Nambu provenance, so they are used only as explicitly limited functional-vessel and tea-use comparisons.
-
-- **Oigen:** [company chronology](https://oigen.jp/pages/corporate-overview), [workshop message](https://enjoy.oigen.jp/en/aboutoigen/message), [official mark guide](https://oigen.jp/blogs/contents/column06), [Dragon kettle](https://oigen.jp/products/tetsubin_ryumon), and [Maromi kettle](https://oigen.jp/products/tetsubin_maromi).
-
-- **Oitomi:** [history and process](https://oitomi.jp/oitomi-history/), [English history](https://oitomi.com/pages/history), [kettle catalogue](https://oitomi.com/collections/iron-kettles), [flat itome kettle](https://oitomi.com/products/nambu-ironware-iron-kettle-flat-and-round-itome-black-1-2l), [Seihoumaru trivet](https://oitomi.com/products/nambu-ironware-trivet-mat-seihoumaru-black), and [outside-workshop credit](https://oitomi.com/blogs/articles/the-world-of-nanbu-iron-kettles-by-traditional-craftsman-shingo-kikuchi).
-
-- **Images:** the exact file, creator, rights statement or license, and modification status appear in each caption. The CC BY-SA 3.0 hero and the two public-domain Met comparisons are uncropped local derivatives; both public-domain regional utility photographs are unchanged originals. The Met objects are explicitly not given Mizusawa or Nambu provenance. All fourteen SVGs are original source-grounded diagrams; no restricted maker photograph or mark form was copied or traced.
-
-Previous: [Morioka: The Domain Kettle Becomes Nambu Ironware](/tea/tetsubin-history-2-morioka)
+Previous: [Morioka and Nambu Ironware](/tea/tetsubin-history-2-morioka)
 
 Next: [Yamagata: Thin Walls, Precise Surfaces, and Three Living Traditions](/tea/tetsubin-history-4-yamagata)
