@@ -39,7 +39,7 @@ What stands out is control. Yamagata kettles are often lighter than they appear.
 
 ## Seikodo: Detailed Surfaces and Lost Wax
 
-Seikodo works in Dōmachi, Yamagata's old casting district. Its [prefectural profile](https://craft.yamagata-export.jp/wp-content/uploads/2024/06/02_Cast-metal%EF%BC%88final-version%EF%BC%89_2024.pdf) traces the family workshop to 1735, when its first head, Kiroku, made tetsubin.
+Seikodo was based in Dōmachi, Yamagata's old casting district. Its [prefectural profile](https://craft.yamagata-export.jp/wp-content/uploads/2024/06/02_Cast-metal%EF%BC%88final-version%EF%BC%89_2024.pdf) traces the family workshop to 1735, when its first head, Kiroku, made tetsubin.
 
 Later generations pushed the surface work further. The sixth head, Tokutaro, became known for lost-wax casting. The eighth head also studied Japanese painting and brought that eye for composition to tea kettles and chagama. In its later catalogues, the workshop offered both tea-ceremony kettles and a wide range of tetsubin.
 

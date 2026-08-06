@@ -38,7 +38,7 @@
 
 - [ ] **Step 1: Collect only representative workshop images**
 
-Use first-party Seikodo and Kikuchi Hojudo product pages plus the Yamagata prefectural catalogue for Chobundo. Save two clearly named kettle images per workshop. Use the strongest landscape or square Yamagata-work image as `hero.jpg`; do not add generic comparison photographs or diagram cards.
+Use first-party Seikodo and Kikuchi Hojudo product pages plus the Yamagata prefectural catalogue for Chobundo. Save two clearly named kettle images per workshop. Generate `hero.jpg` as a wide graphite tetsubin illustration using the Parts 1–3 heroes as style references; keep the complete kettle inside the frame. Do not add generic comparison photographs or diagram cards.
 
 - [ ] **Step 2: Write the article**
 

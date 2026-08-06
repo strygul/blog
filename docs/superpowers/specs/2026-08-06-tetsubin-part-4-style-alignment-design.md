@@ -18,7 +18,7 @@ Publish Part 4 as a clear continuation of Parts 1–3, focused on Yamagata and t
 - Use short sentences, common words, and focused paragraphs.
 - Keep useful uncertainty in one plain sentence instead of repeating evidence warnings.
 - Use real workshop work images in the existing `studio-gallery` layout and link each image to its full-size local file.
-- Use a Yamagata-work image for the hero and preserve its full composition.
+- Use a new wide graphite tetsubin illustration for the hero, matching the established Parts 1–3 cover style and preserving the full kettle with generous margins.
 - Do not use generic kettle photos, evidence tables, `figure-scroll`, or the draft's twenty text-heavy SVG cards.
 - Do not discuss licensing, reuse permission, image processing, or research administration in the post.
 - Do not invent a seal. If a workshop publishes no dependable mark guide, say so briefly.
