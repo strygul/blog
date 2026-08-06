@@ -30,6 +30,7 @@
 - Create: `public/tea/posts/tetsubin-history-4-yamagata/kikuchi-hojudo-tetsubin-2.jpg`
 - Create: `public/tea/posts/tetsubin-history-4-yamagata/chobundo-tetsubin-1.jpg`
 - Create: `public/tea/posts/tetsubin-history-4-yamagata/chobundo-tetsubin-2.jpg`
+- Modify: `src/content/tea/tetsubin-history-3-mizusawa-oshu.md`
 
 **Interfaces:**
 - Consumes: the merged Parts 1–3 structure, shared map, first-party workshop pages, and the Yamagata prefectural craft catalogue.
@@ -52,16 +53,16 @@ Use this heading order:
 ## Sources and Image Credits
 ```
 
-Open with the Part 3 link and shared map. Keep each workshop profile in the order location, history, difference, representative work, pattern clues, then mark guidance. Add one `studio-gallery` containing two full-size linked figures per workshop.
+Open with the Part 3 link and shared map. Keep each workshop profile in the order location, history, difference, representative work, pattern clues, then mark guidance. Add one `studio-gallery` containing two full-size linked figures per workshop. Update Part 3's forward-link label to `Yamagata`. Do not add a Part 5 link before that post is published.
 
 - [ ] **Step 3: Run focused content checks**
 
 ```bash
-rg -n '^title: "Tetsubin History, Part 4:|^## |japan-regional-centers|studio-gallery|Previous:|Next:' src/content/tea/tetsubin-history-4-yamagata.md
+rg -n '^title: "Tetsubin History, Part 4:|^## |japan-regional-centers|studio-gallery|Previous:' src/content/tea/tetsubin-history-4-yamagata.md
 rg -ni 'licen[cs]|reuse permission|cropp|resiz|recompress|figure-scroll|^\|' src/content/tea/tetsubin-history-4-yamagata.md
 ```
 
-Expected: the required title, six headings, shared map, three galleries, and both navigation links are present; the second command has no matches.
+Expected: the required title, six headings, shared map, three galleries, and previous-post link are present; the second command has no matches.
 
 ### Task 2: Verify and publish
 

@@ -126,4 +126,4 @@ Oigen's company history, mark guide, and product pages support its profile. Oito
 
 Previous: [Morioka and Nambu Ironware](/tea/tetsubin-history-2-morioka)
 
-Next: [Yamagata: Thin Walls, Precise Surfaces, and Three Living Traditions](/tea/tetsubin-history-4-yamagata)
+Next: [Yamagata](/tea/tetsubin-history-4-yamagata)

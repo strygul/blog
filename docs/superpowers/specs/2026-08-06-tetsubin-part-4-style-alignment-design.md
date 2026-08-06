@@ -11,7 +11,7 @@ Publish Part 4 as a clear continuation of Parts 1–3, focused on Yamagata and t
 - Explain Yamagata's casting history and general method in two short sections.
 - Give Seikodo, Kikuchi Hojudo, and Chobundo one substantial `##` section each.
 - Within each workshop section, cover location, short history, distinctive work, representative objects, useful pattern clues, and marks where documented.
-- End with sources plus previous/next navigation.
+- End with sources and a previous-post link. Do not link forward until Part 5 is published.
 
 ## Language and media
 
