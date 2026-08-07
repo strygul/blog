@@ -5,6 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
   - "Teapots"
+  - "Yixing"
 description: "Xian Piao from Qing to Factory #1: 1960s sizes (~140cc and ~100cc), mold variants, lid seals (线漂), and Taiwan’s Ba Le name."
 heroImage: "../../../public/tea/posts/early-teapots-the-appreciation-of-xian-piao-series/intro.png"
 ---

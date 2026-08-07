@@ -5,6 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
   - "Teapots"
+  - "Yixing"
 description: "A practical guide to understanding and identifying “Ting Ji” teapots—from their Factory-era origins to the subtle details that separate genuine pieces from reproductions"
 heroImage: "../../../public/tea/posts/early-teapots-appreciation-of-early-teapots-with-the-ting-ji-seal/intro.png"
 heroImageMaxHeight: 800

@@ -4,6 +4,7 @@ pubDate: "2025-12-16"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "Translation of Chapter 1 Early-Period Teapots, Order versus Chaos"
 heroImage: "../../assets/tea/early-teapots-1/intro.png"
 ---

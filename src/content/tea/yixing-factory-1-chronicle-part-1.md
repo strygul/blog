@@ -4,6 +4,7 @@ pubDate: "2026-06-16"
 category:
   - "Tea"
   - "Teapots"
+  - "Yixing"
 description: "How Yixing Factory #1 rose from post-war cooperatives to the center of the 1980s zisha boom—translated from a Taiwanese chronicle, with notes for collectors."
 heroImage: "../../../public/tea/posts/yixing-factory-1-chronicle-part-1/hero-tools.png"
 ---

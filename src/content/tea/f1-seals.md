@@ -1,7 +1,9 @@
 ---
 title: "Yixing Factory 1 Seals"
 pubDate: "2025-11-02"
-category: "Tea"
+category:
+  - "Tea"
+  - "Yixing"
 description: "A collection of Yixing Factory 1 seals"
 heroImage: "../../assets/tea/f1-seals/intro.png"
 ---
@@ -421,4 +423,3 @@ positioned alongside the traditional “Jingxi” inscription.
     <figcaption>"Made-by" variant C</figcaption>
   </figure>
 </div>
-

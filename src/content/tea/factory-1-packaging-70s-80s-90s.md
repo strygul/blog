@@ -1,7 +1,9 @@
 ---
 title: "Factory 1 Packaging: 70s, 80s, 90s"
 pubDate: "2026-01-04"
-category: "Tea"
+category:
+  - "Tea"
+  - "Yixing"
 description: "Evolution of packaging of Yixing Factory 1 Teapots"
 heroImage: "../../assets/tea/factory-1-packaging-70s-80s-90s/intro.png"
 ---

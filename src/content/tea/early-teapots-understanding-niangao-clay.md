@@ -4,6 +4,7 @@ pubDate: "2025-11-19"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "A dive into what is niangao clay"
 heroImage: "../../../public/tea/posts/early-teapots-understanding-niangao-clay/intro.png"
 ---
@@ -68,4 +69,3 @@ In comparison photos, you’ll typically see red clay, niangao clay (Rice-Cake C
 ##### Final Thoughts
 
 Niangao clay (Rice-Cake Clay) represents a brief but memorable chapter in Yixing teapot history—a blend of geological luck, traditional craftsmanship, and the patina of time. For collectors and tea lovers, it offers both aesthetic charm and solid brewing performance without the need for exaggeration or mythmaking. If you come across a genuine piece, enjoy it for what it is: a unique snapshot of Yixing’s rich clay heritage.
-

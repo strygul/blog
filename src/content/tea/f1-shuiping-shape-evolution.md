@@ -1,7 +1,9 @@
 ---
 title: "F1 Shuiping Shape Evolution"
 pubDate: "2025-11-13"
-category: "Tea"
+category:
+  - "Tea"
+  - "Yixing"
 description: "Illustration of the evolution of the F1 shuiping shape though different eras"
 heroImage: "../../assets/tea/f1-shuiping-shape-evolution/intro.png"
 ---
