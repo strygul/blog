@@ -4,8 +4,9 @@ import { basename, join } from 'node:path';
 import test from 'node:test';
 
 const teaDirectory = new URL('../src/content/tea/', import.meta.url);
-const groupNames = new Set(['Yixing', 'Tetsubin', 'Other']);
+const groupNames = new Set(['Yixing', 'Tetsubin', 'Other', 'My Teaware Collection']);
 const expectedExceptions = new Map([
+	['factory-1-70s-xi-shi-76ml', 'My Teaware Collection'],
 	['resources', 'Other'],
 	['the-other-99-water-for-tea', 'Other'],
 	['tetsubin-history-1-birth-of-the-iron-kettle', 'Tetsubin'],
@@ -38,4 +39,19 @@ test('every tea post belongs to exactly one tea subcategory', () => {
 		);
 		assert.deepEqual(groups, [expectedExceptions.get(id) ?? 'Yixing'], id);
 	}
+});
+
+test('the first collection post contains its group, facts, and ordered photographs', () => {
+	const filename = join(teaDirectory.pathname, 'factory-1-70s-xi-shi-76ml.md');
+	const markdown = readFileSync(filename, 'utf8');
+	assert.equal(readCategories(filename).includes('My Teaware Collection'), true);
+	for (const fact of ['Mid-1970s', 'Hongni', '76 ml', '10 seconds', '7.6 ml/s', '83.3 g']) {
+		assert.ok(markdown.includes(fact), fact);
+	}
+
+	const positions = Array.from({ length: 11 }, (_, index) =>
+		markdown.indexOf(`xi_shi_${String(index + 1).padStart(2, '0')}.jpg`),
+	);
+	assert.ok(positions.every((position) => position >= 0));
+	assert.deepEqual(positions, [...positions].sort((a, b) => a - b));
 });
