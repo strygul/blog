@@ -1,28 +1,46 @@
 ---
 import { type CollectionEntry, getCollection, render } from 'astro:content';
+import TeaCategoryPage from '../../components/TeaCategoryPage.astro';
+import { TEA_CATEGORIES, type TeaCategory } from '../../consts';
 import BlogPost from '../../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('tea');
-	return posts.map((post) => ({
+	const articlePaths = posts.map((post) => ({
 		params: { slug: post.id },
-		props: post,
+		props: { post },
 	}));
-}
-type Props = CollectionEntry<'tea'>;
+	const categoryPaths = TEA_CATEGORIES.map((category) => ({
+		params: { slug: category.slug },
+		props: {
+			category,
+			posts: posts
+				.filter((post) =>
+					post.data.category.some((tag) => tag.toLowerCase() === category.tag.toLowerCase()),
+				)
+				.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+		},
+	}));
 
-const post = Astro.props;
-const { Content } = await render(post);
+	return [...articlePaths, ...categoryPaths];
+}
+
+interface Props {
+	post?: CollectionEntry<'tea'>;
+	category?: TeaCategory;
+	posts?: CollectionEntry<'tea'>[];
+}
+
+const { post, category, posts = [] } = Astro.props;
+const Content = post ? (await render(post)).Content : undefined;
 ---
 
-<BlogPost {...post.data}>
-	<Content />
-</BlogPost>
-
-
-
-
-
-
-
-
+{
+	post && Content ? (
+		<BlogPost {...post.data}>
+			<Content />
+		</BlogPost>
+	) : category ? (
+		<TeaCategoryPage category={category} posts={posts} />
+	) : null
+}

@@ -34,3 +34,11 @@ export const PAGE_INDEX_SUBTITLES = {
 	godIsDead: 'Notes on how software engineering and AI have killed him.',
 	ballet: 'Notes from the stalls.',
 } as const;
+
+export const TEA_CATEGORIES = [
+	{ slug: 'yixing', title: 'Yixing', tag: 'Yixing' },
+	{ slug: 'tetsubins', title: 'Tetsubins', tag: 'Tetsubin' },
+	{ slug: 'other', title: 'Other', tag: 'Other' },
+] as const;
+
+export type TeaCategory = (typeof TEA_CATEGORIES)[number];
