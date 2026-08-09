@@ -13,7 +13,6 @@ interface Props {
 
 const { category, posts } = Astro.props;
 const base = import.meta.env.BASE_URL;
-const description = `${posts.length} tea article${posts.length === 1 ? '' : 's'} about ${category.title}.`;
 ---
 
 <!doctype html>
@@ -21,7 +20,7 @@ const description = `${posts.length} tea article${posts.length === 1 ? '' : 's'}
 	<head>
 		<BaseHead
 			title={`${category.title} — Tea — ${SITE_TITLE}`}
-			description={description}
+			description={category.description}
 			image={posts[0]?.data.heroImage}
 		/>
 		<style>
@@ -30,6 +29,7 @@ const description = `${posts.length} tea article${posts.length === 1 ? '' : 's'}
 			}
 			.category-header {
 				margin-bottom: 2rem;
+				text-align: center;
 			}
 			.category-header h1 {
 				margin: 0 0 0.5rem;
@@ -37,6 +37,7 @@ const description = `${posts.length} tea article${posts.length === 1 ? '' : 's'}
 			.category-header p {
 				margin: 0;
 				color: rgb(var(--gray));
+				font-size: 0.8rem;
 			}
 		</style>
 	</head>
@@ -46,7 +47,7 @@ const description = `${posts.length} tea article${posts.length === 1 ? '' : 's'}
 			<section>
 				<div class="category-header">
 					<h1>{category.title}</h1>
-					<p>{posts.length} post{posts.length !== 1 ? 's' : ''} in this category</p>
+					<p>{category.description}</p>
 				</div>
 				<TeaCardGrid
 					items={posts.map((post) => ({

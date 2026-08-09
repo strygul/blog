@@ -52,3 +52,23 @@ test('each category card inherits the newest post hero and date', () => {
 		assert.equal(dateTime(categoryCard), dateTime(postCard), `${slug} date`);
 	}
 });
+
+test('subcategory headings are centered and use smaller editorial descriptions', () => {
+	const descriptions = {
+		yixing: 'Articles on Yixing clay, teapots, makers, seals, and Factory 1 history.',
+		tetsubins:
+			'Articles on Japanese cast-iron kettles, their history, workshops, and regional traditions.',
+		other: 'Tea notes beyond teaware, from water and brewing to useful resources.',
+	};
+
+	for (const [slug, description] of Object.entries(descriptions)) {
+		const html = readPage(`tea/${slug}`);
+		const header = html.match(/<div class="category-header"[\s\S]*?<\/div>/)?.[0] ?? '';
+		assert.ok(header.includes(description), `${slug} description`);
+		assert.doesNotMatch(html, /\d+ posts? in this category/);
+	}
+
+	const yixing = readPage('tea/yixing');
+	assert.match(yixing, /\.category-header[^{}]*\{[^}]*text-align:center/);
+	assert.match(yixing, /\.category-header[^{}]* p[^{}]*\{[^}]*font-size:\.8rem/);
+});

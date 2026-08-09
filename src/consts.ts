@@ -36,9 +36,25 @@ export const PAGE_INDEX_SUBTITLES = {
 } as const;
 
 export const TEA_CATEGORIES = [
-	{ slug: 'yixing', title: 'Yixing', tag: 'Yixing' },
-	{ slug: 'tetsubins', title: 'Tetsubins', tag: 'Tetsubin' },
-	{ slug: 'other', title: 'Other', tag: 'Other' },
+	{
+		slug: 'yixing',
+		title: 'Yixing',
+		tag: 'Yixing',
+		description: 'Articles on Yixing clay, teapots, makers, seals, and Factory 1 history.',
+	},
+	{
+		slug: 'tetsubins',
+		title: 'Tetsubins',
+		tag: 'Tetsubin',
+		description:
+			'Articles on Japanese cast-iron kettles, their history, workshops, and regional traditions.',
+	},
+	{
+		slug: 'other',
+		title: 'Other',
+		tag: 'Other',
+		description: 'Tea notes beyond teaware, from water and brewing to useful resources.',
+	},
 ] as const;
 
 export type TeaCategory = (typeof TEA_CATEGORIES)[number];
