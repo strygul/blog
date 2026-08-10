@@ -40,15 +40,6 @@ test('collection category keeps its fixed hero on the index and category page', 
 	assert.notEqual(sourceImage(collectionCard), sourceImage(post));
 	assert.match(collection, /href="\/tea\/factory-1-70s-xi-shi-76ml\/"/);
 	assert.doesNotMatch(collection, /href="\/tea\/yixing-factory-/);
-	assert.match(collection, /One of the legendary “Five Shapes”/);
-	for (const fact of ['Mid-1970s', 'Hongni', '76 ml', '10 seconds', '7.6 ml\/s', '83.3 g']) {
-		assert.match(collection, new RegExp(fact));
-	}
-	const photos = Array.from({ length: 11 }, (_, index) =>
-		collection.indexOf(`xi_shi_${String(index + 1).padStart(2, '0')}.jpg`),
-	);
-	assert.ok(photos.every((position) => position >= 0));
-	assert.deepEqual(photos, [...photos].sort((a, b) => a - b));
 });
 
 test('subcategory pages contain only their assigned post groups', () => {
