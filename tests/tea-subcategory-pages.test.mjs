@@ -53,7 +53,7 @@ test('each category card inherits the newest post hero and date', () => {
 	}
 });
 
-test('subcategory headings are centered and use smaller editorial descriptions', () => {
+test('subcategory headings are centered and use editorial descriptions at body size', () => {
 	const descriptions = {
 		yixing: 'Articles on Yixing clay, teapots, makers, seals, and Factory 1 history.',
 		tetsubins:
@@ -70,5 +70,7 @@ test('subcategory headings are centered and use smaller editorial descriptions',
 
 	const yixing = readPage('tea/yixing');
 	assert.match(yixing, /\.category-header[^{}]*\{[^}]*text-align:center/);
-	assert.match(yixing, /\.category-header[^{}]* p[^{}]*\{[^}]*font-size:\.8rem/);
+	const paragraphRule =
+		yixing.match(/\.category-header[^{}]* p[^{}]*\{([^}]*)\}/)?.[1] ?? '';
+	assert.doesNotMatch(paragraphRule, /font-size:/);
 });
