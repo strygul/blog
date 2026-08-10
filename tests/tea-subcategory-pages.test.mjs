@@ -13,15 +13,33 @@ function linkedCard(html, href) {
 }
 
 const imageSource = (html) => html.match(/<img[^>]+src="([^"]+)"/)?.[1];
+const sourceImage = (html) => imageSource(html)?.replace(/_[^/]+(?=\.[^.]+$)/, '');
 const dateTime = (html) => html.match(/<time[^>]+datetime="([^"]+)"/)?.[1];
 const firstPostCard = (html) => html.match(/<ul[^>]*>[\s\S]*?(<a [\s\S]*?<\/a>)/)?.[1];
 
-test('tea index links to the three subcategories in order', () => {
+test('tea index links to the four subcategories in order', () => {
 	const html = readPage('tea');
-	const links = ['/tea/yixing/', '/tea/tetsubins/', '/tea/other/'];
+	const links = [
+		'/tea/yixing/',
+		'/tea/tetsubins/',
+		'/tea/other/',
+		'/tea/my-teaware-collection/',
+	];
 	const positions = links.map((href) => html.indexOf(`href="${href}"`));
 	assert.ok(positions.every((position) => position >= 0));
 	assert.deepEqual(positions, [...positions].sort((a, b) => a - b));
+});
+
+test('collection category keeps its fixed hero on the index and category page', () => {
+	const index = readPage('tea');
+	const collection = readPage('tea/my-teaware-collection');
+	const post = readPage('tea/factory-1-70s-xi-shi-76ml');
+	const collectionCard = linkedCard(index, '/tea/my-teaware-collection/');
+
+	assert.equal(sourceImage(collectionCard), sourceImage(collection));
+	assert.notEqual(sourceImage(collectionCard), sourceImage(post));
+	assert.match(collection, /href="\/tea\/factory-1-70s-xi-shi-76ml\/"/);
+	assert.doesNotMatch(collection, /href="\/tea\/yixing-factory-/);
 });
 
 test('subcategory pages contain only their assigned post groups', () => {
@@ -59,6 +77,7 @@ test('subcategory headings are centered and use editorial descriptions at body s
 		tetsubins:
 			'Articles on Japanese cast-iron kettles, their history, workshops, and regional traditions.',
 		other: 'Tea notes beyond teaware, from water and brewing to useful resources.',
+		'my-teaware-collection': 'My personal collection of teaware',
 	};
 
 	for (const [slug, description] of Object.entries(descriptions)) {

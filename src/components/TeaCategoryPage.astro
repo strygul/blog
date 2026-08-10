@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import { SITE_TITLE, type TeaCategory } from '../consts';
 import BaseHead from './BaseHead.astro';
@@ -21,7 +22,7 @@ const base = import.meta.env.BASE_URL;
 		<BaseHead
 			title={`${category.title} — Tea — ${SITE_TITLE}`}
 			description={category.description}
-			image={posts[0]?.data.heroImage}
+			image={category.fixedHero ?? posts[0]?.data.heroImage}
 		/>
 		<style>
 			main {
@@ -38,12 +39,25 @@ const base = import.meta.env.BASE_URL;
 				margin: 0;
 				color: rgb(var(--gray));
 			}
+			.category-hero img {
+				display: block;
+				width: 100%;
+				margin: 0 auto 2rem;
+				border-radius: 12px;
+			}
 		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
 			<section>
+				{
+					category.fixedHero && (
+						<div class="category-hero">
+							<Image src={category.fixedHero} alt="" loading="eager" fetchpriority="high" />
+						</div>
+					)
+				}
 				<div class="category-header">
 					<h1>{category.title}</h1>
 					<p>{category.description}</p>

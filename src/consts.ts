@@ -1,3 +1,5 @@
+import teawareCollectionHero from './assets/tea/my-teaware-collection/hero.png';
+
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
@@ -41,6 +43,7 @@ export const TEA_CATEGORIES = [
 		title: 'Yixing',
 		tag: 'Yixing',
 		description: 'Articles on Yixing clay, teapots, makers, seals, and Factory 1 history.',
+		fixedHero: undefined,
 	},
 	{
 		slug: 'tetsubins',
@@ -48,12 +51,21 @@ export const TEA_CATEGORIES = [
 		tag: 'Tetsubin',
 		description:
 			'Articles on Japanese cast-iron kettles, their history, workshops, and regional traditions.',
+		fixedHero: undefined,
 	},
 	{
 		slug: 'other',
 		title: 'Other',
 		tag: 'Other',
 		description: 'Tea notes beyond teaware, from water and brewing to useful resources.',
+		fixedHero: undefined,
+	},
+	{
+		slug: 'my-teaware-collection',
+		title: 'My Teaware Collection',
+		tag: 'My Teaware Collection',
+		description: 'My personal collection of teaware',
+		fixedHero: teawareCollectionHero,
 	},
 ] as const;
 

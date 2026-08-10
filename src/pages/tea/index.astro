@@ -22,8 +22,8 @@ const categoryCards = TEA_CATEGORIES.map((category) => {
 		href: `${base}tea/${category.slug}/`,
 		title: category.title,
 		pubDate: latestPost.data.pubDate,
-		heroImage: latestPost.data.heroImage,
-		heroImageMaxHeight: latestPost.data.heroImageMaxHeight,
+		heroImage: category.fixedHero ?? latestPost.data.heroImage,
+		heroImageMaxHeight: category.fixedHero ? undefined : latestPost.data.heroImageMaxHeight,
 	};
 });
 ---
@@ -60,5 +60,4 @@ const categoryCards = TEA_CATEGORIES.map((category) => {
 		<Footer />
 	</body>
 </html>
-
 
