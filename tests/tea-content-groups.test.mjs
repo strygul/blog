@@ -54,4 +54,12 @@ test('the first collection post contains its group, facts, and ordered photograp
 	);
 	assert.ok(positions.every((position) => position >= 0));
 	assert.deepEqual(positions, [...positions].sort((a, b) => a - b));
+	assert.equal(
+		markdown.match(/<figure class="full-size">\s*<img src="\/tea\/posts\/factory-1-70s-xi-shi-76ml\/xi_shi_\d{2}\.jpg"/g)?.length,
+		11,
+	);
+	assert.deepEqual(
+		readFileSync(new URL('../src/assets/tea/factory-1-70s-xi-shi-76ml/intro.jpg', import.meta.url)),
+		readFileSync(new URL('../public/tea/posts/factory-1-70s-xi-shi-76ml/xi_shi_01.jpg', import.meta.url)),
+	);
 });
