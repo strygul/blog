@@ -45,9 +45,23 @@ test('the first collection post contains its group, facts, and ordered photograp
 	const filename = join(teaDirectory.pathname, 'factory-1-70s-xi-shi-76ml.md');
 	const markdown = readFileSync(filename, 'utf8');
 	assert.equal(readCategories(filename).includes('My Teaware Collection'), true);
-	for (const fact of ['Mid-1970s', 'Hongni', '76 ml', '10 seconds', '7.6 ml/s', '83.3 g']) {
+	for (const fact of [
+		'Factory: Factory 1',
+		'Shape: Xi Shi',
+		'Period: Mid-1970s',
+		'Clay: Hongni',
+		'Capacity: 76 ml',
+		'Pour: 10 seconds (7.6 ml/s)',
+		'Weight: 83.3 g',
+	]) {
 		assert.ok(markdown.includes(fact), fact);
 	}
+	assert.doesNotMatch(markdown, /^\|/m);
+	assert.match(markdown, /<div class="collection-photos">/);
+	assert.match(
+		readFileSync(new URL('../src/styles/blog-post.css', import.meta.url), 'utf8'),
+		/\.collection-photos\s*\{[^}]*width:\s*min\(1020px, calc\(100vw - 2em\)\)/s,
+	);
 
 	const positions = Array.from({ length: 11 }, (_, index) =>
 		markdown.indexOf(`xi_shi_${String(index + 1).padStart(2, '0')}.jpg`),
