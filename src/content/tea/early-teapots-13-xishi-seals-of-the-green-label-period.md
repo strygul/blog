@@ -4,6 +4,7 @@ pubDate: "2025-12-12"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "An atlas of the Xishi seals from the Green Label Period"
 heroImage: "../../../public/tea/posts/early-teapots-13-xishi-seals-of-the-green-label-period/intro.png"
 ---

@@ -5,6 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
   - "Teapots"
+  - "Yixing"
 description: "The appreciation and original names of \"Five Shape Pots\""
 heroImage: "../../../public/tea/posts/early-teapots-five-shape-pots/intro.png"
 ---

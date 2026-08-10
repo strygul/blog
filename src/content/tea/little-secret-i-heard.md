@@ -4,6 +4,7 @@ pubDate: "2026-02-22"
 category:
   - "tea"
   - "teapots"
+  - "Yixing"
 description: "A secret trick from an old collector how to recognize an authentic old Yixing teapot"
 ---
 Just heard from a collector with more than 50 years of experience that when a dry Yixing teapot is filled to about 80% 

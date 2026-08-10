@@ -40,6 +40,7 @@ const tea = defineCollection({
 				.transform((val) => (Array.isArray(val) ? val : [val])),
 			heroImage: image().optional(),
 			heroImageMaxHeight: z.number().positive().optional(),
+			showHero: z.boolean().optional(),
 		}),
 });
 

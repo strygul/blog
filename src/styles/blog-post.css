@@ -73,6 +73,21 @@
 	height: auto;
 }
 
+.collection-photos {
+	width: min(1020px, calc(100vw - 2em));
+	margin: 1.5em 0 1.5em 50%;
+	transform: translateX(-50%);
+}
+
+.collection-photos figure {
+	margin: 1.5em 0;
+}
+
+.collection-photos img {
+	display: block;
+	width: 100%;
+}
+
 figure.figure-center {
 	text-align: center;
 	margin: 1em 0;

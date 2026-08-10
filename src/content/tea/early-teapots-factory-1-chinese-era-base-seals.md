@@ -5,6 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
   - "Teapots"
+  - "Yixing"
 description: "Late-period Factory #1 teapots with cyclical year base seals (1987–1998)—Hong Kong orders, Geng Wu (1990) authenticity, labels, and the final Wu Yin batch."
 heroImage: "../../../public/tea/posts/early-teapots-factory-1-chinese-era-base-seals/intro.png"
 ---

@@ -4,6 +4,7 @@ pubDate: "2025-11-27"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "Key Points for Early Yixing Collectors"
 heroImage: "../../../public/tea/posts/early-teapots-the-tingji-seal/intro.png"
 ---

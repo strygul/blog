@@ -5,6 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
   - "Teapots"
+  - "Yixing"
 description: "How Factory #1 used Green, White, and Laser export and brand labels from the late 1970s through 1997—history, seals, clay, and what changed in workmanship."
 heroImage: "../../../public/tea/posts/early-teapots-factory-1-green-white-and-laser-labels/intro.png"
 ---
