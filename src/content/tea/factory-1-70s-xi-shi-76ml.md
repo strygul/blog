@@ -10,20 +10,24 @@ heroImage: "../../assets/tea/factory-1-70s-xi-shi-76ml/intro.jpg"
 ---
 
 <p class="collection-details">
-Factory: Factory 1<br />
-Shape: Xi Shi<br />
-Period: Mid-1970s<br />
-Clay: Hongni<br />
-Capacity: 76 ml<br />
-Pour: 10 seconds (7.6 ml/s)<br />
-Weight: 83.3 g
+<b>Made by:</b> Factory 1<br />
+<b>Shape:</b> Xi Shi<br />
+<b>Period:</b> Mid-1970s<br />
+<b>Clay:</b> Hongni<br />
+<b>Capacity:</b> 76 ml<br />
+<b>Pour:</b> 10 seconds (7.6 ml/s)<br />
+<b>Weight:</b> 83.3 g
 </p>
 
 One of the legendary “Five Shapes” that every serious Factory 1 or Yixing collector is supposed to own. I haven’t had the chance to use it yet, but I already appreciate it immensely.
 
 I love its simple yet elegant form. I also think the silver-rim repair only adds to its character.
 
-If you look closely, there is also a seal under the lid. I have no idea what it means 🫣. I assume it simply says “Xi Shi,” since writing shape names on lids was common practice during Factory 1’s early period. But I can’t read it, so I don’t know for sure. I’m still investigating.
+If you look closely, there is also a seal under the lid. I have no idea what it means 🫣. I assumed it simply says 
+“Xi Shi,” since writing shape names on lids was common practice during Factory 1’s early period. But people who could 
+read it say that it does not look like it says "Xi Shi", and that they think that it is the author's mark. It was not a
+common practice to put personal marks during Cultural Revolution, however. Thus, is it is indeed a maker's mark, it is
+is very possible that this teapot is from late 70s Green Label period.
 
 <div class="collection-photos">
 
