@@ -17,13 +17,13 @@ const sourceImage = (html) => imageSource(html)?.replace(/_[^/]+(?=\.[^.]+$)/, '
 const dateTime = (html) => html.match(/<time[^>]+datetime="([^"]+)"/)?.[1];
 const firstPostCard = (html) => html.match(/<ul[^>]*>[\s\S]*?(<a [\s\S]*?<\/a>)/)?.[1];
 
-test('tea index links to the four subcategories in order', () => {
+test('tea index orders subcategories by their newest post date', () => {
 	const html = readPage('tea');
 	const links = [
-		'/tea/yixing/',
+		'/tea/my-teaware-collection/',
 		'/tea/tetsubins/',
 		'/tea/other/',
-		'/tea/my-teaware-collection/',
+		'/tea/yixing/',
 	];
 	const positions = links.map((href) => html.indexOf(`href="${href}"`));
 	assert.ok(positions.every((position) => position >= 0));
@@ -35,9 +35,13 @@ test('collection category keeps its fixed hero on the index and category page', 
 	const collection = readPage('tea/my-teaware-collection');
 	const post = readPage('tea/factory-1-70s-xi-shi-76ml');
 	const collectionCard = linkedCard(index, '/tea/my-teaware-collection/');
+	const postCard = linkedCard(collection, '/tea/factory-1-70s-xi-shi-76ml/');
 
 	assert.equal(sourceImage(collectionCard), sourceImage(collection));
 	assert.notEqual(sourceImage(collectionCard), sourceImage(post));
+	assert.ok(imageSource(postCard));
+	assert.equal(sourceImage(postCard), sourceImage(post));
+	assert.match(post, /<div class="hero-image"/);
 	assert.match(collection, /href="\/tea\/factory-1-70s-xi-shi-76ml\/"/);
 	assert.doesNotMatch(collection, /href="\/tea\/yixing-factory-/);
 });
@@ -59,14 +63,16 @@ test('subcategory pages contain only their assigned post groups', () => {
 	assert.doesNotMatch(other, /href="\/tea\/tetsubin-history-/);
 });
 
-test('each category card inherits the newest post hero and date', () => {
+test('each category card inherits the newest post date and dynamic hero', () => {
 	const index = readPage('tea');
 
-	for (const slug of ['yixing', 'tetsubins', 'other']) {
+	for (const slug of ['yixing', 'tetsubins', 'other', 'my-teaware-collection']) {
 		const categoryCard = linkedCard(index, `/tea/${slug}/`);
 		const postCard = firstPostCard(readPage(`tea/${slug}`));
 		assert.ok(postCard, `Missing first post card for ${slug}`);
-		assert.equal(imageSource(categoryCard), imageSource(postCard), `${slug} hero`);
+		if (slug !== 'my-teaware-collection') {
+			assert.equal(imageSource(categoryCard), imageSource(postCard), `${slug} hero`);
+		}
 		assert.equal(dateTime(categoryCard), dateTime(postCard), `${slug} date`);
 	}
 });
@@ -91,5 +97,5 @@ test('subcategory headings are centered and use editorial descriptions at body s
 	assert.match(yixing, /\.category-header[^{}]*\{[^}]*text-align:center/);
 	const paragraphRule =
 		yixing.match(/\.category-header[^{}]* p[^{}]*\{([^}]*)\}/)?.[1] ?? '';
-	assert.doesNotMatch(paragraphRule, /font-size:/);
+	assert.match(paragraphRule, /font-size:\s*1em/);
 });

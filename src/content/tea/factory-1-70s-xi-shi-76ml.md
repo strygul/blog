@@ -6,7 +6,8 @@ category:
   - "Teapots"
   - "My Teaware Collection"
 description: "A mid-1970s Factory 1 Xi Shi teapot in hongni, with a 76 ml capacity."
-heroImage: "../../assets/tea/factory-1-70s-xi-shi-76ml/intro.jpg"
+heroImage: "../../assets/tea/factory-1-70s-xi-shi-76ml/intro.png"
+showHero: true
 ---
 
 <p class="collection-details">
@@ -23,11 +24,15 @@ One of the legendary “Five Shapes” that every serious Factory 1 or Yixing co
 
 I love its simple yet elegant form. I also think the silver-rim repair only adds to its character.
 
-If you look closely, there is also a seal under the lid. I have no idea what it means 🫣. I assumed it simply says 
-“Xi Shi,” since writing shape names on lids was common practice during Factory 1’s early period. But people who could 
-read it say that it does not look like it says "Xi Shi", and that they think that it is the author's mark. It was not a
-common practice to put personal marks during Cultural Revolution, however. Thus, is it is indeed a maker's mark, it is
-is very possible that this teapot is from late 70s Green Label period.
+If you look closely, there is also a seal under the lid. I have no idea what it means 🫣.
+
+I initially assumed it simply says “Xi Shi,” since writing shape names on lids was common practice during Factory 1’s
+early period. But people who can actually read it say it does not look like “Xi Shi” and think it might instead be the
+maker’s mark.
+
+Putting personal marks on teapots was not common practice during the Cultural Revolution, however. So, if it is indeed
+a maker’s mark, there is a good chance this teapot is actually from the late-70s Green Label period.
+
 
 <div class="collection-photos">
 

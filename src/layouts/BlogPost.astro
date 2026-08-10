@@ -17,6 +17,7 @@ type CollectionData =
 
 type Props = CollectionData & {
 	jsonLdType?: 'BlogPosting' | 'AboutPage';
+	showHero?: boolean;
 	/** Root-relative path under `public/` for share previews (og:image, JSON-LD). */
 	socialImageSrc?: string;
 };
@@ -30,6 +31,7 @@ const {
 	heroImageMaxHeight,
 	category,
 	jsonLdType = 'BlogPosting',
+	showHero = true,
 	socialImageSrc,
 } = Astro.props;
 // category is now an array, check if it includes 'Tea'
@@ -155,9 +157,9 @@ const structuredData =
 		<Header />
 		<main>
 			<article>
-				<div class:list={['hero-image', { 'hero-image--max-height': heroImageMaxHeight != null }]}>
-					{
-						heroImage && (
+				{
+					showHero && heroImage && (
+						<div class:list={['hero-image', { 'hero-image--max-height': heroImageMaxHeight != null }]}>
 							<Image
 								width={1020}
 								height={510}
@@ -177,9 +179,9 @@ const structuredData =
 										: undefined
 								}
 							/>
-						)
-					}
-				</div>
+						</div>
+					)
+				}
 				<div class="prose">
 					<div class="title">
 						<div class="date">

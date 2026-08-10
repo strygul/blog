@@ -44,9 +44,10 @@ test('every tea post belongs to exactly one tea subcategory', () => {
 test('the first collection post contains its group, facts, and ordered photographs', () => {
 	const filename = join(teaDirectory.pathname, 'factory-1-70s-xi-shi-76ml.md');
 	const markdown = readFileSync(filename, 'utf8');
+	const visibleText = markdown.replace(/<[^>]+>/g, '');
 	assert.equal(readCategories(filename).includes('My Teaware Collection'), true);
 	for (const fact of [
-		'Factory: Factory 1',
+		'Made by: Factory 1',
 		'Shape: Xi Shi',
 		'Period: Mid-1970s',
 		'Clay: Hongni',
@@ -54,7 +55,7 @@ test('the first collection post contains its group, facts, and ordered photograp
 		'Pour: 10 seconds (7.6 ml/s)',
 		'Weight: 83.3 g',
 	]) {
-		assert.ok(markdown.includes(fact), fact);
+		assert.ok(visibleText.includes(fact), fact);
 	}
 	assert.doesNotMatch(markdown, /^\|/m);
 	assert.match(markdown, /<div class="collection-photos">/);
@@ -72,8 +73,8 @@ test('the first collection post contains its group, facts, and ordered photograp
 		markdown.match(/<figure class="full-size">\s*<img src="\/tea\/posts\/factory-1-70s-xi-shi-76ml\/xi_shi_\d{2}\.jpg"/g)?.length,
 		11,
 	);
-	assert.deepEqual(
-		readFileSync(new URL('../src/assets/tea/factory-1-70s-xi-shi-76ml/intro.jpg', import.meta.url)),
+	assert.notDeepEqual(
+		readFileSync(new URL('../src/assets/tea/factory-1-70s-xi-shi-76ml/intro.png', import.meta.url)),
 		readFileSync(new URL('../public/tea/posts/factory-1-70s-xi-shi-76ml/xi_shi_01.jpg', import.meta.url)),
 	);
 });

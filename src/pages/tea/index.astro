@@ -25,7 +25,7 @@ const categoryCards = TEA_CATEGORIES.map((category) => {
 		heroImage: category.fixedHero ?? latestPost.data.heroImage,
 		heroImageMaxHeight: category.fixedHero ? undefined : latestPost.data.heroImageMaxHeight,
 	};
-});
+}).sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
 ---
 
 <!doctype html>
@@ -60,4 +60,3 @@ const categoryCards = TEA_CATEGORIES.map((category) => {
 		<Footer />
 	</body>
 </html>
-

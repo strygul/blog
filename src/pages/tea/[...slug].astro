@@ -37,7 +37,10 @@ const Content = post ? (await render(post)).Content : undefined;
 
 {
 	post && Content ? (
-		<BlogPost {...post.data}>
+		<BlogPost
+			{...post.data}
+			showHero={post.data.showHero ?? !post.data.category.includes('My Teaware Collection')}
+		>
 			<Content />
 		</BlogPost>
 	) : category ? (
