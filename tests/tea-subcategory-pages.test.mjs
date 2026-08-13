@@ -1,6 +1,8 @@
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import test from 'node:test';
+import { fileURLToPath } from 'node:url';
+import sharp from 'sharp';
 
 const readPage = (path) =>
 	readFileSync(new URL(`../dist/${path}/index.html`, import.meta.url), 'utf8');
@@ -61,6 +63,61 @@ test('subcategory pages contain only their assigned post groups', () => {
 	assert.match(other, /href="\/tea\/resources\/"/);
 	assert.match(other, /href="\/tea\/the-other-99-water-for-tea\/"/);
 	assert.doesNotMatch(other, /href="\/tea\/tetsubin-history-/);
+});
+
+test('tetsubin cards and opened posts use the same original hero image', () => {
+	const category = readPage('tea/tetsubins');
+	const slugs = [
+		'tetsubin-history-1-birth-of-the-iron-kettle',
+		'tetsubin-history-2-morioka',
+		'tetsubin-history-3-mizusawa-oshu',
+		'tetsubin-history-4-yamagata',
+	];
+
+	for (const slug of slugs) {
+		const expectedSource = `/tea/posts/${slug}/hero.png`;
+		const card = linkedCard(category, `/tea/${slug}/`);
+		const post = readPage(`tea/${slug}`);
+		assert.equal(imageSource(card), expectedSource, `${slug} card hero`);
+		assert.equal(imageSource(post), expectedSource, `${slug} post hero`);
+	}
+});
+
+test('tetsubin hero backgrounds match the website background', async () => {
+	const slugs = [
+		'tetsubin-history-1-birth-of-the-iron-kettle',
+		'tetsubin-history-2-morioka',
+		'tetsubin-history-3-mizusawa-oshu',
+		'tetsubin-history-4-yamagata',
+	];
+	const websiteBackground = [249, 249, 249];
+
+	for (const slug of slugs) {
+		const image = fileURLToPath(new URL(`../public/tea/posts/${slug}/hero.png`, import.meta.url));
+		const { data, info } = await sharp(image).removeAlpha().raw().toBuffer({ resolveWithObject: true });
+		const borderDepth = 24;
+
+		for (let y = 0; y < info.height; y += 1) {
+			for (let x = 0; x < info.width; x += 1) {
+				if (
+					x >= borderDepth &&
+					y >= borderDepth &&
+					x < info.width - borderDepth &&
+					y < info.height - borderDepth
+				) {
+					continue;
+				}
+
+				const offset = (y * info.width + x) * info.channels;
+				const color = Array.from(data.subarray(offset, offset + 3));
+				const isLightNeutralPaper = Math.min(...color) >= 235 && Math.max(...color) - Math.min(...color) <= 4;
+
+				if (isLightNeutralPaper) {
+					assert.deepEqual(color, websiteBackground, `${slug} background at (${x}, ${y})`);
+				}
+			}
+		}
+	}
 });
 
 test('each category card inherits the newest post date and dynamic hero', () => {

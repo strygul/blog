@@ -10,6 +10,7 @@ export interface TeaCardItem {
 	title: string;
 	pubDate: Date;
 	heroImage?: TeaPostData['heroImage'];
+	heroImageSrc?: string;
 	heroImageMaxHeight?: number;
 }
 
@@ -25,7 +26,16 @@ const { items } = Astro.props;
 		items.map((item) => (
 			<li>
 				<a href={item.href}>
-					{item.heroImage && (
+					{item.heroImageSrc ? (
+						<img
+							src={item.heroImageSrc}
+							alt=""
+							width="720"
+							height="405"
+							loading="lazy"
+							decoding="async"
+						/>
+					) : item.heroImage ? (
 						<Image
 							width={720}
 							height={360}
@@ -44,7 +54,7 @@ const { items } = Astro.props;
 									: undefined
 							}
 						/>
-					)}
+					) : null}
 					<h5 class="title">{item.title}</h5>
 					<p class="date">
 						<FormattedDate date={item.pubDate} />

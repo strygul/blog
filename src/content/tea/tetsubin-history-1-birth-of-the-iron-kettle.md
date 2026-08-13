@@ -8,6 +8,7 @@ category:
   - "Japanese Craft"
 description: "The iron-casting traditions are ancient. The familiar Japanese iron kettle is not. A sourced history of how sencha, household life, and regional foundries created the tetsubin."
 heroImage: "../../../public/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/hero.png"
+heroImageSrc: "/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/hero.png"
 ---
 
 <div class="info-box">

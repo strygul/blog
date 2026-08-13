@@ -8,6 +8,7 @@ category:
   - "Japanese Craft"
 description: "Yamagata casting is known for thin walls, precise shapes, and carefully finished surfaces. Seikodo, Kikuchi Hojudo, and Chobundo show three sides of the tradition."
 heroImage: "../../../public/tea/posts/tetsubin-history-4-yamagata/hero.png"
+heroImageSrc: "/tea/posts/tetsubin-history-4-yamagata/hero.png"
 ---
 
 [Part 3](/tea/tetsubin-history-3-mizusawa-oshu) followed the practical casting tradition of Mizusawa. This part moves southwest to Yamagata City, where kettle makers developed a different style of their own.
