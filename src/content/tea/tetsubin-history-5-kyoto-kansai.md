@@ -1,241 +1,98 @@
 ---
-title: "Kyoto and Kansai: When the Iron Kettle Became Art Metal"
-pubDate: "2026-07-31"
-category: ["Tea", "Teapots", "Tetsubin", "Japanese Craft"]
-description: "Ryūbundō, Kibundō, and Unshikidō trace the Kyoto/Kansai kettle from lost-wax art metal and silver inlay through closure, imitation, and modern revival."
-heroImage: "../../../public/tea/posts/tetsubin-history-5-kyoto-kansai/hero.jpg"
+title: "Tetsubin History, Part 5: Kyoto and Kansai"
+pubDate: "2026-08-13"
+category:
+  - "Tea"
+  - "Teapots"
+  - "Tetsubin"
+  - "Japanese Craft"
+description: "Kyoto and nearby Ōmi turned the iron kettle into art metal. Ryūbundō, Kibundō, and Unshikidō show the tradition, its attribution problems, and its modern revival."
+heroImage: "../../../public/tea/posts/tetsubin-history-5-kyoto-kansai/hero.png"
 ---
 
-<div class="info-box">Kyoto iron kettles are unusually vulnerable to copied dates, swapped signed lids, and confident auction attributions. This post gives museum records priority, uses workshop and institutional research for the modern revival, and labels disputed dates and uncertain marks openly. Decoration is evidence to examine, not proof of origin.</div>
+[Part 4](/tea/tetsubin-history-4-yamagata) followed the precise casting tradition of Yamagata. This part moves west to Kyoto and nearby Ōmi, where the iron kettle became a surface for relief, engraving, inlay, and mixed metals.
 
-### Kyoto before the tetsubin
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history/japan-regional-centers.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the map of Japan's main tetsubin regions full size in a new tab">
+    <img src="/tea/posts/tetsubin-history/japan-regional-centers.svg" alt="Map of Japan marking Morioka, Mizusawa in Oshu, Yamagata, Takaoka, and Kyoto-Omi" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Kyoto and Ōmi sit southwest of the northern and central casting regions visited in the earlier parts.</figcaption>
+</figure>
 
-Kyoto’s place in the kettle story is easy to overstate. The city had important tea-kettle and metalworking worlds long before the familiar tetsubin, but that does not make every Kyoto *chagama* a tetsubin or make Kyoto the birthplace of the spouted, handled vessel. A *chagama* is the broad-mouthed kettle of formal *chanoyu*: water is lifted with a ladle. A tetsubin has an overhead handle and a spout for boiling and pouring water. The distinction is not pedantry. It stops a long *chagama* genealogy from being quietly converted into a much older tetsubin genealogy.
+## Kyoto and the Iron Kettle
 
-Kyoto did supply the dense craft setting in which the latter could become far more than a domestic boiler. Casters, model makers, engravers, polishers, metalworkers, lacquer specialists, and makers of fittings could concentrate a great deal of work in a small object. That ecology also reached beyond the city. Ōmi, now Shiga, was close enough to participate in the market and in workshop movement, but a regional connection is not a corporate family tree. The sources used here support an Ōmi association for Kibundō; they do not prove that every object called Kansai, or every story of apprenticeship, maps onto a direct Kyoto succession.
+Kyoto had important tea-kettle and metalworking traditions long before the familiar tetsubin. That does not make every Kyoto *chagama* a tetsubin or make Kyoto the birthplace of the spouted iron kettle. A *chagama* is the broad-mouthed kettle used in formal *chanoyu*, where water is lifted with a ladle. A tetsubin has an overhead handle and a spout for boiling and pouring water.
 
-<figure class="figure-center"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/hero.jpg" alt="Eighteenth-century Japanese iron and brass vessel with a brass lid, arched handle, short spout, and wave relief" loading="lazy" decoding="async" /><figcaption><em>Teapot (or Winepot)</em>, Japan, eighteenth century, iron and brass, 15.9 cm high and 18.4 cm long. The Metropolitan Museum of Art, 36.120.674a, b, public domain; local 1448 × 1600 JPEG derivative from the institutional original, resized and recompressed without cropping. It is a securely catalogued Japanese comparison object, not attributed to Kyoto, Ryūbundō, Kibundō, or Unshikidō.</figcaption></figure>
+What Kyoto offered was a dense network of specialists. Casters, engravers, polishers, lacquer workers, inlay artists, and makers of lids and handles could concentrate many techniques in one object. The same craft world extended into Ōmi, now Shiga Prefecture, but a regional connection does not prove that one workshop descended directly from another.
 
-The late Edo, Meiji, and Taishō market altered the object’s ambition. Iron could be deliberately rough on one field and burnished on another. A bronze or copper lid set up a tonal contrast. Relief could turn a wall into a landscape or a vine. Engraving cut a line into metal; inlay set a different metal into a prepared recess. Those are separate operations, not interchangeable décor words. “Lost wax” is a casting route in which a sacrificial wax model creates the mould; it must not be inferred merely because a relief is complicated.
+<figure class="figure-center">
+  <img src="/tea/posts/tetsubin-history-5-kyoto-kansai/hero.jpg" alt="Eighteenth-century Japanese iron and brass vessel with a brass lid, arched handle, short spout, and wave relief" loading="lazy" decoding="async" />
+  <figcaption><em>Teapot (or Winepot)</em>, Japan, eighteenth century, iron and brass. <a href="https://www.metmuseum.org/art/collection/search/60042">The Metropolitan Museum of Art, 36.120.674a, b</a>, public domain. It is a securely catalogued Japanese comparison object, not a Kyoto workshop attribution.</figcaption>
+</figure>
 
-The same period also generated the attribution problem. Export and collecting encouraged names, celebrated signatures, and later imitation. A bright lid or a large dragon can help compare an object with a documented one, but neither establishes the caster. The British Museum’s warning about Ryūbundō-signed copper lids is the useful corrective: a signature on a lid tells us about the lid unless the complete body and its assembly are independently recorded. A replaced handle, a later box, an invoice from a dealer, or a certificate can be real things without proving an original pairing.
+## When a Kettle Became Art Metal
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kyoto and Omi lineage diagram"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kyoto-lineages.svg" alt="Source-qualified comparison showing Ryubundo's documented 1958 endpoint, incomplete later Kibundo chronology, and separate modern Unshikido revival with no proven bridge" loading="lazy" decoding="async" /><figcaption>Kyoto and Ōmi records placed beside, rather than inside, an invented succession. Original diagram.</figcaption></figure>
+During the late Edo, Meiji, and Taishō periods, an iron kettle could be both useful and highly worked. A maker might leave one part of the body rough and burnish another, set a bronze or copper lid against dark iron, build a landscape in relief, or add lines of gold and silver.
 
-| Diagram fact | Evidence limit |
-| --- | --- |
-| Ryūbundō has a documented 1958 endpoint; Kibundō’s later chronology is incomplete; Unshikidō is a separate modern revival. | No proven bridge or direct succession between these workshop records is established. |
+These techniques should be named carefully. Engraving cuts a line into metal. Inlay sets another metal into a prepared surface. Kyoto *nunome-zōgan* uses fine crosshatching to hold hammered gold or silver. Lost-wax casting uses a sacrificial wax model to make the mould; elaborate relief alone does not prove that process.
 
-### A kettle becomes art metal
+The same market that rewarded decoration also created an attribution problem. Famous names were copied, lids were exchanged, and boxes or certificates could become separated from the kettle they first accompanied. A dragon, vine, bright lid, or crescent handle can guide comparison, but none identifies a workshop by itself.
 
-The best way to read a Kansai kettle is to begin with the complete thing. Does the body have a spout and an overhead handle? Is the interior raw iron or enamelled? How do the spout, rim, feet, lugs, lid, knob, and handle meet? Then look at finish: cast texture, chased or engraved line, burnished area, applied relief, inlaid wire or sheet, and any lacquer or coloring. This produces a description that can survive a change in attribution.
+<div class="image-gallery studio-gallery" role="group" aria-label="Two unattributed iron-kettle comparison photographs">
+  <figure class="full-size">
+    <a href="/tea/posts/tetsubin-history-5-kyoto-kansai/commons-tetsubin-2005.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the unattributed tetsubin photograph full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-5-kyoto-kansai/commons-tetsubin-2005.jpg" alt="Unattributed black iron kettle with a broad flat body photographed outdoors" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>An unattributed tetsubin photographed in Denmark in 2005. Its body, lid, and handle can be described without assigning a famous workshop. Photo: Blanu, <a href="https://commons.wikimedia.org/wiki/File:Tetsubin_2005.jpg">Wikimedia Commons</a>, CC BY-SA 3.0.</figcaption>
+  </figure>
+  <figure class="full-size">
+    <a href="/tea/posts/tetsubin-history-5-kyoto-kansai/commons-kanazawa-interior.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Kanazawa interior photograph full size in a new tab">
+      <img src="/tea/posts/tetsubin-history-5-kyoto-kansai/commons-kanazawa-interior.jpg" alt="Museum room in Kanazawa with a small iron kettle on a decorated brazier beside a low table" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>A tetsubin displayed on a brazier at the Nishi Chaya Museum in Kanazawa. The photograph provides use context, not evidence for a Kyoto maker. Photo: TANAKA Juuyoh, <a href="https://commons.wikimedia.org/wiki/File:Japanese_traditional_house_interior%3B_%E9%87%91%E6%B2%A2_%E8%A5%BF%E8%8C%B6%E5%B1%8B%E8%B3%87%E6%96%99%E9%A4%A8(%E3%81%AB%E3%81%97%E3%81%A1%E3%82%83%E3%82%84_%E3%81%97%E3%82%8A%E3%82%87%E3%81%86%E3%81%8B%E3%82%93).jpg">Wikimedia Commons</a>, CC BY 2.0.</figcaption>
+  </figure>
+</div>
 
-The Princeton Ryūbundō kettle gives a strong example because the museum preserves the whole assembly, date range, dimensions, medium, ownership history, and an inscription location. It is large—44 × 31.5 × 26 cm—made of iron, and dated late nineteenth to early twentieth century. Its crescent-shaped wrought-iron handle, spout, bronze lid, and the lid-bottom inscription remain distinct observations. The object’s provenance is also concrete: it passed through the Dickes family to Princeton in 2019. That is a stronger foundation than a detached close-up offered without a collection record.
+## Ryūbundō: A Famous Name and a Signed Lid
 
-The British Museum kettle is useful in a different way: it makes visible a mixed surface—rough lower body, burnished upper field—and gold and silver grapevine inlay, while its collection note warns against treating a familiar signed copper lid as enough proof of the body. The object becomes a lesson in technique and uncertainty at once. We can say that an inlay exists on that catalogue object. We cannot use it to declare that all visually similar vines are Ryūbundō, that all Kansai relief was made by lost wax, or that a loose lid repairs a broken provenance chain.
+Ryūbundō is the best-known Kyoto name in this story, but even its starting date is unsettled. HOJO repeats 1764. The [Princeton University Art Museum](https://artmuseum.princeton.edu/art/collections/objects/135940) instead identifies Shikata Yasunosuke (1786–1841) as the founder and traces eight generations through 1958. The dates should remain separate rather than being forced into one neat line.
 
-Smithsonian FSC-M-30a-b supplies another bounded comparison. Its catalogue identifies a Japanese tetsubin in cast iron, bronze, and gold inlay, broadly dated from the nineteenth to the early twentieth century. It does not name a maker or place the kettle in Kyoto, so its record supports those materials and that date range—nothing more.
+Princeton's *Large kettle with crescent handle* is a stronger anchor than an isolated mark. The museum dates the complete iron kettle to the late nineteenth or early twentieth century, records its 44 × 31.5 × 26 cm dimensions and family provenance, and locates `龍文堂造`—*Ryūbundō zō*, “made by Ryūbundō”—on the underside of its bronze lid.
 
-The Kyoto City Official Guide defines *nunome-zōgan* more precisely than the loose label “inlay.” A fine texture or crosshatching is cut into an iron surface, then gold or silver is hammered into it to form the design. This is official context for a major Kyoto inlay method, not evidence that every Kyoto kettle, or every inlaid kettle, used it.
+That last detail matters. The [British Museum](https://www.britishmuseum.org/collection/object/A_1969-0925-1-a-b) warns that Ryūbundō-signed copper lids can be found on kettles made by other workshops. The inscription identifies the lid unless the complete body and its assembly are also documented. Rough and burnished fields, gold and silver vine inlay, a bronze lid, or a crescent handle remain comparison clues rather than proof.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kyoto mark evidence diagram"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kyoto-marks.svg" alt="Comparison separating Ryubundo lid inscription evidence, Kibundo workshop identity, and Unshikido current workshop identity, with a lid is not body warning" loading="lazy" decoding="async" /><figcaption>The first question for a mark is which part carries it. Original diagram.</figcaption></figure>
+## Kibundō: Ōmi and the Limits of Lineage
 
-| Diagram fact | Evidence limit |
-| --- | --- |
-| Princeton documents `龍文堂造` beneath its Ryūbundō lid; Kibundō and Unshikidō names are documented workshop identities. | A mark on a lid, name on a box, or style match does not independently authenticate a cast body. |
+Kibundō, written `亀文堂`, is closely associated with Ōmi and Shiga. A [Shiga exhibition record](https://www.biwako-visitors.jp/event/detail/24262/) identifies Hatano Shōhei (1813–1892) as an Ōmi-related caster whose tetsubin became famous. A [National Diet Library reference record](https://crd.ndl.go.jp/reference/entry/index.php?id=1000133829&amp;page=ref_view) reports material describing a connection with Ryūbundō.
 
-### Ryūbundō
+That is useful history, but it is not a complete succession chart. The accessible institutional record does not provide a reliable sequence of Kibundō kettle marks, a repeatable workshop process, or a museum catalogue joining a complete body, date, dimensions, provenance, and readable mark.
 
-<div class="info-box"><strong>Open the evidence:</strong> Princeton’s <a href="https://artmuseum.princeton.edu/art/collections/objects/135940">complete Ryūbundō object record</a>, the <a href="https://www.britishmuseum.org/collection/object/A_1969-0925-1-a-b">British Museum comparison and lid warning</a>, and the supplied <a href="https://hojotea.com/categ_e/tetsubin.htm">HOJO Kyoto overview</a>. Museum records carry object claims; HOJO’s 1764 date is retained only as a conflicting retailer claim.</div>
+For an unknown kettle, sculptural relief, a copper lid, a turtle motif, or an Ōmi story is only a place to begin. The workshop name is documented; an isolated `亀文堂` mark still needs the body, fittings, object history, and a trustworthy comparison.
 
-**Chronology.** HOJO gives 1764 as a beginning. Princeton instead identifies founder Shikata Yasunosuke (1786–1841), who took the Ryūbundō name after moving from Tamba to Kyoto, and describes eight generations through Shōwa 33 (1958). The sources do not resolve the conflict: **1764 is disputed/repeated; the museum’s life dates and active chronology are the secure anchors.** The 1958 endpoint belongs to this named studio, not to Kyoto production as a whole.
+## Unshikidō: A Modern Kyoto Revival
 
-**Process.** Princeton records a cast-iron body, wrought crescent handle, and bronze lid. The British Museum comparison records rough and burnished fields, gold/silver vine inlay, and a gilt-copper knob on the lid; its materials field lists iron, silver, and gold. These facts do not establish lost-wax casting, a universal recipe, or a generation-by-generation production system.
+Unshikidō shows why it is too simple to say that Kyoto tetsubin disappeared. Its [current workshop account](https://doukiya.com/) describes a Meiji-period training history and a modern collaboration among casting, forging, silverwork, inlay, and finishing specialists. The account documents present Kyoto practice, not an unbroken line from Ryūbundō or Kibundō.
 
-**Visual language.** Dark iron can become a field for bright metal, line, or relief. Princeton’s large body rises from a flat rounded bottom; the British Museum comparison pairs vine inlay with differently finished fields. A bronze lid, crescent handle, burnished shoulder, or vine helps comparison, never identification.
+The workshop's silver-cover series combines iron and copper casting, raised silverwork, forged iron, Kyoto inlay, lacquer, and iron-solution coloring. Its inlay series returns the technique to cast bodies, and the workshop says each object takes four to six months. These are current first-party process claims, not a recipe for identifying an older kettle.
 
-**Representative object.** Princeton’s *Large kettle with crescent handle*, accession 2019-302 a–b, is iron, late nineteenth–early twentieth century, 44 × 31.5 × 26 cm, and a 2019 Dickes-family gift. The museum records the complete object, provenance, and lid inscription. Its name does not transfer to every crescent handle.
+The [2015 Kyoto Design Award](https://kyoto-design.net/award_work/2015/11.html) records the silver-cover series, while the Royal College of Art's [2016 Tetsubin Project](https://www.rca.ac.uk/research-innovation/projects/tetsubin-project/) confirms Kyoto as a contemporary production center. The workshop name `雲色堂`, *Unshikidō*, belongs to that living context. It is not a published guide to historic marks.
 
-**Evidence-based distinction.** Ryūbundō is distinct in this post because the evidence joins a named Kyoto studio, a dated complete museum object, mixed-metal and surface vocabulary, and an unusually explicit warning about mismatched signed lids. The warning is part of the profile, not an embarrassment to edit away.
+<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kyoto and Omi workshop chronology">
+  <img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kyoto-lineages.svg" alt="Source-qualified comparison showing Ryubundo's documented 1958 endpoint, incomplete later Kibundo chronology, and a separate modern Unshikido revival with no proven bridge" loading="lazy" decoding="async" />
+  <figcaption>The three records sit beside one another; the sources do not prove a direct succession between them. Original diagram.</figcaption>
+</figure>
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Ryubundo chronology"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/ryubundo-lineage.svg" alt="Ryubundo chronology showing disputed 1764, founder Shikata Yasunosuke 1786 to 1841, eight generations, and 1958 endpoint" loading="lazy" decoding="async" /><figcaption>Keep the repeated 1764 claim visible without turning it into a settled foundation date. Original diagram.</figcaption></figure>
+<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kyoto workshop mark evidence">
+  <img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kyoto-marks.svg" alt="Comparison separating a documented Ryubundo lid inscription from the documented Kibundo and Unshikido workshop names" loading="lazy" decoding="async" />
+  <figcaption>A mark on a lid, a name on a box, and a complete kettle are three different kinds of evidence. Original diagram.</figcaption>
+</figure>
 
-| Ryūbundō chronology | Exact record | Limit |
-| --- | --- | --- |
-| Foundation accounts | HOJO repeats 1764; Princeton names Shikata Yasunosuke (1786–1841) as founder. | Relationship between dates unestablished. |
-| Active endpoint | Princeton: eight generations through Shōwa 33 / 1958. | Studio endpoint, not Kyoto extinction. |
+## Sources and Image Credits
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Ryubundo process"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/ryubundo-process.svg" alt="Ryubundo card listing a Princeton cast iron body, wrought crescent handle and bronze lid, plus British Museum surface methods and gilt-copper lid knob, with a lost wax warning" loading="lazy" decoding="async" /><figcaption>Observed construction is kept separate from an unproven universal casting route. Original diagram.</figcaption></figure>
+The main object sources are Princeton University Art Museum's [Ryūbundō kettle](https://artmuseum.princeton.edu/art/collections/objects/135940), the [British Museum comparison and lid warning](https://www.britishmuseum.org/collection/object/A_1969-0925-1-a-b), and the Smithsonian National Museum of Asian Art's [Japanese cast-iron, bronze, and gold-inlay kettle](https://asia-archive.si.edu/object/FSC-M-30a-b/). HOJO's [Kyoto overview](https://hojotea.com/categ_e/tetsubin.htm) is used only for its conflicting 1764 claim.
 
-| Ryūbundō construction | Exact evidence | Limit |
-| --- | --- | --- |
-| Princeton object | Cast iron, wrought crescent handle, bronze lid. | One complete object; not every studio object. |
-| British Museum comparison | Rough/lustrous fields and gold/silver vine inlay. | Comparison object; no general lost-wax claim. |
+The Shiga exhibition and National Diet Library records support Kibundō's Ōmi association. Unshikidō's workshop site, the Kyoto Design Award, and the Royal College of Art support the modern revival. Links appear where each source is used.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Ryubundo representative object"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/ryubundo-object.svg" alt="Princeton Ryubundo kettle record with late nineteenth to early twentieth century date, iron, 44 by 31 point 5 by 26 centimetres, and Dickes provenance" loading="lazy" decoding="async" /><figcaption>Complete-object record, dimensions, and provenance are the comparison unit. Original diagram.</figcaption></figure>
+The hero is an AI-generated interpretive image of an unmarked art-metal tetsubin. It is not a reproduction of, or attribution to, Ryūbundō, Kibundō, Unshikidō, or any historical object. The Met and Wikimedia comparison photographs are credited in their captions. The two diagrams are original.
 
-| Representative object | Secure catalogue data |
-| --- | --- |
-| Princeton 2019-302 a–b | *Large kettle with crescent handle*, Ryūbundō, late nineteenth–early twentieth century, iron, 44 × 31.5 × 26 cm; Dickes family provenance and 2019 Princeton gift. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Ryubundo visual language"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/ryubundo-language.svg" alt="Ryubundo comparison vocabulary of rough casting skin, burnished field, grapevine relief or inlay, bronze lid, and wrought handle with style-only warning" loading="lazy" decoding="async" /><figcaption>Art-metal vocabulary is evidence to compare, never a self-sufficient attribution test. Original diagram.</figcaption></figure>
-
-| Visual-language fact | Attribution ceiling |
-| --- | --- |
-| Rough/burnished fields, vine inlay, bronze lid, and wrought handle appear in documented comparisons. | Any one feature can occur elsewhere or be replaced. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Ryubundo attribution check"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/ryubundo-attribution.svg" alt="Four-step Ryubundo attribution check requiring complete body, separately recorded fittings, exact inscription record, and provenance" loading="lazy" decoding="async" /><figcaption>Construction, mark, fittings, and provenance must agree. Original diagram.</figcaption></figure>
-
-| Attribution step | Why it is required |
-| --- | --- |
-| Complete body, fittings, exact mark, provenance | A Ryūbundō-signed copper lid may be fitted to another body. |
-
-### Identifying Ryūbundō
-
-Princeton supplies a rare, complete context for `龍文堂造`: *Ryūbundō zō*, “made by Ryūbundō,” appears on the underside of the lid of its complete kettle. The technique is described as an inscription; a cast, impressed, engraved, or chiseled method is not stated in the accessible catalogue, so it should not be invented. The whole object is late nineteenth to early twentieth century, but that is not a full device chronology. The British Museum’s separate warning makes the confidence precise: the lid inscription is **documented**; an isolated lid is **uncertain** evidence for a body.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Ryubundo mark audit"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/ryubundo-mark.svg" alt="Ryubundo mark audit recording Japanese characters, reading, underside lid location, late nineteenth to early twentieth century whole-object date, and lid versus body confidence" loading="lazy" decoding="async" /><figcaption>Typeset reading, not a copied seal. The mark is documented on a lid underside. Original diagram.</figcaption></figure>
-
-| Field | Verified Ryūbundō record |
-| --- | --- |
-| Characters / reading | `龍文堂造`, *Ryūbundō zō*, “made by Ryūbundō.” |
-| Technique / location | Inscription; underside of Princeton object’s lid. Exact forming method not stated. |
-| Date / context | Complete object: late nineteenth–early twentieth century; device range not established. |
-| Confidence | Lid inscription **documented**; detached lid or body identification **uncertain** without complete-object evidence. |
-
-### Kibundō
-
-<div class="info-box"><strong>Open the evidence:</strong> the <a href="https://www.biwako-visitors.jp/event/detail/24262/">Shiga exhibition record</a> for Hatano Shōhei, the National Diet Library’s <a href="https://crd.ndl.go.jp/reference/entry/index.php?id=1000133829&amp;page=ref_view">reference record</a>, and institutional comparison sources named in the ledger. These establish an Ōmi/Shiga relationship more securely than the many unverified market labels.</div>
-
-**Chronology.** Kibundō (亀文堂) is strongly associated with Ōmi/Shiga in the records available here. Shiga’s exhibition material identifies Kibundō Shōhei—Hatano Shōhei (1813–1892)—as an Ōmi-related caster whose tetsubin became famous. The National Diet Library reference record reports that it found material describing Kibundō as connected with Ōmi and as a Ryūbundō pupil line. That is valuable lead evidence, but not enough to draw an unbroken arrow from Ryūbundō to every later Kibundō object. Teacher and workshop accounts need the same object-level discipline as marks.
-
-Kibundō’s final workshop sequence needs a stronger archive.
-
-**Process.** The accessible record does not supply a repeatable workshop process, mould route, or division of labour. Describe a documented object’s iron, lid material, relief, engraving, inlay, or fitting; do not call an elaborate body lost wax, hand chased, or a Ryūbundō copy from appearance.
-
-**Visual language.** Iron bodies, sculptural relief, mixed-metal lids and knobs, and close-looking imagery join the same art-metal conversation as Kyoto. “Kansai style,” a dragon, a vine, a turtle allusion, a copper lid, or an Ōmi name is a research direction, not authentication.
-
-**Representative-object limit.** No accessible museum catalogue tied a Kibundō tetsubin to complete body, secure date, dimensions, provenance, and readable mark context. Auction and dealer images are not substituted. The secure unit is the Ōmi/Shiga association and Hatano Shōhei’s life dates, not an invented object catalogue.
-
-**Evidence-based distinction.** Kibundō’s value here is precisely that it tests the boundary of Kyoto. It makes the Kyoto–Ōmi relationship visible while forcing the reader to resist turning a neighboring region or a reported pupil connection into a direct succession.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kibundo lineage"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kibundo-lineage.svg" alt="Kibundo card identifying Hatano Shohei 1813 to 1892, Omi Shiga association, and evidence limit against a direct succession arrow" loading="lazy" decoding="async" /><figcaption>Ōmi association is documented; direct succession is not. Original diagram.</figcaption></figure>
-
-| Kibundō chronology | Exact record | Limit |
-| --- | --- | --- |
-| Shōhei | Hatano Shōhei (1813–1892), Ōmi-related caster in Shiga exhibition material. | Does not date every object. |
-| Ryūbundō relationship | NDL reference record reports a pupil connection. | No direct workshop-succession arrow drawn. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kibundo process limit"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kibundo-process.svg" alt="Kibundo process card distinguishing object comparison from unestablished mould route and workshop division of labour" loading="lazy" decoding="async" /><figcaption>Elaborate appearance does not identify a casting route. Original diagram.</figcaption></figure>
-
-| Kibundō process fact | Limit |
-| --- | --- |
-| Iron bodies and elaborate art-metal surfaces are relevant comparisons. | No published model-level mould route or complete production sequence was verified. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kibundo representative object limit"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kibundo-object.svg" alt="Kibundo evidence ceiling saying no accessible museum object with full date dimensions provenance and mark context was verified" loading="lazy" decoding="async" /><figcaption>The honest representative-object card records the missing museum catalogue rather than borrowing an auction claim. Original diagram.</figcaption></figure>
-
-| Representative-object audit | Result |
-| --- | --- |
-| Complete body, date, dimensions, provenance, and mark-context image in an accessible institutional record | Not verified for publication; isolated-object attribution remains **uncertain**. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kibundo visual language"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kibundo-language.svg" alt="Kibundo visual comparison card listing iron body relief mixed metal fittings engraving and inlay with copied mark warning" loading="lazy" decoding="async" /><figcaption>Shared art-metal vocabulary is not a maker test. Original diagram.</figcaption></figure>
-
-| Visual-language fact | Attribution ceiling |
-| --- | --- |
-| Relief, mixed-metal fittings, engraving, and inlay belong to the comparison vocabulary. | Style alone cannot prove Kibundō, Ōmi, Kyoto, date, or original assembly. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kibundo attribution"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kibundo-attribution.svg" alt="Kibundo attribution sequence from location claim to body mark, fittings, and style-only warning" loading="lazy" decoding="async" /><figcaption>Ōmi is a research direction, not a stamp of certainty. Original diagram.</figcaption></figure>
-
-| Attribution requirement | Reason |
-| --- | --- |
-| Source/date, exact body mark, original-fitting evidence, complete context | An Ōmi relation and an attractive style do not authenticate an unproven kettle. |
-
-### Identifying Kibundō
-
-`亀文堂`, *Kibundō*, means approximately “turtle-pattern hall,” but translating the name does not make an observed device genuine. The workshop identity and Ōmi/Shiga connection are documented; the accessible record does not provide a museum-backed tetsubin mark guide with technique, normal body location, device sequence, generation range, and two complete kettle-and-mark pairs. The method, location, and date range are therefore **not established**. The confidence for the workshop name is **documented**; an isolated `亀文堂` mark is **uncertain** until connected to a complete object and secure provenance.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Kibundo mark audit"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/kibundo-mark.svg" alt="Kibundo mark audit giving characters reading unestablished technique location and range, no verified whole-kettle pair, and uncertain isolated attribution" loading="lazy" decoding="async" /><figcaption>Known workshop name; no reconstructed seal. Original diagram.</figcaption></figure>
-
-| Field | Verified Kibundō record |
-| --- | --- |
-| Characters / reading | `亀文堂`, *Kibundō*; documented workshop name. |
-| Technique / location / range | Not established for a tetsubin device in the accessible institutional record. |
-| Complete-object context | No verified complete kettle-and-mark pair located for publication. |
-| Confidence | Workshop identity **documented**; isolated device attribution **uncertain**. |
-
-### Unshikidō
-
-<div class="info-box"><strong>Open the evidence:</strong> <a href="https://doukiya.com/">Unshikidō / Dōkiya’s current workshop account</a>, its linked <a href="https://kyoto-design.net/award_work/2015/11.html">2015 Kyoto Design Award record</a>, and the Royal College of Art’s <a href="https://www.rca.ac.uk/research-innovation/projects/tetsubin-project/">2016 Tetsubin Project</a>. The workshop’s photographs are inspected as research links only: its footer says all rights reserved, so they are not copied or traced here.</div>
-
-**Chronology.** Unshikidō corrects the phrase “Kyoto tetsubin disappeared.” Its account gives a Meiji-period training narrative: Wada Minosuke learned from Amemiya Kinjudō in Shimogyō. It describes a thirteenth generation, collaboration with Shōjudō after a workplace move, a 2015 award link, and a 2020 site launch. That documents contemporary Kyoto work and revival, not a seamless Ryūbundō or Kibundō line.
-
-**Process.** The current silver-cover series combines iron/copper casting, silver *uchimono* (raised work), iron forging, and Kyoto inlay. Silver is raised from inside; iron is colored with lacquer and *tetsushō* (iron solution). The inlay series describes experiments returning inlay to cast bodies, and each object takes a stated four to six months. These are first-party current claims, not a Meiji recipe.
-
-**Visual language.** Silver sheathing, polished silver over coloured iron, inlay, specialist collaboration, and one tea-jar-like profile are explicit present-day choices. They show Kyoto technique being reassembled now, not a device for dating older objects.
-
-**Representative-object limit.** Silver-cover and Inlay series are tied to the workshop’s own materials/process account, but no museum-style dimensions, accession provenance, or dated mark-context catalogue is published. This is strong current-practice evidence, weak historic authentication.
-
-**Evidence-based distinction.** Unshikidō’s distinction is not an unproved claim to replace Ryūbundō. It is a living collaborative revival that makes present Kyoto production visible while leaving the historical gaps visible too.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Unshikido lineage"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/unshikido-lineage.svg" alt="Unshikido card showing Meiji-period workshop narrative current thirteenth generation collaboration a 2015 award link and 2020 web launch" loading="lazy" decoding="async" /><figcaption>Current workshop evidence supports revival, not an unbroken succession claim. Original diagram.</figcaption></figure>
-
-| Unshikidō chronology | Exact record | Limit |
-| --- | --- | --- |
-| Current workshop account | Meiji-period narrative; thirteenth generation; three-party collaboration after move. | First-party account; no direct Ryūbundō/Kibundō succession proved. |
-| Dated current anchors | Linked 2015 Kyoto Design Award; workshop site opened 2020. | Current recognition/site evidence, not a full historical archive. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Unshikido process"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/unshikido-process.svg" alt="Unshikido current process card showing iron and copper casting silver raised work iron forging Kyoto inlay lacquer and iron solution coloring and four to six month duration" loading="lazy" decoding="async" /><figcaption>Named contemporary process, attributed to the workshop. Original diagram.</figcaption></figure>
-
-| Current process claim | Scope |
-| --- | --- |
-| Iron/copper casting, silver raised work, forging, Kyoto inlay, lacquer/iron-solution colour, four to six months. | First-party description of current series, not every historic Kyoto kettle. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Unshikido representative objects"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/unshikido-object.svg" alt="Unshikido representative current series card describing silver cover and inlay series materials and the lack of museum style dimensions provenance and mark catalogue" loading="lazy" decoding="async" /><figcaption>Current series are well tied to the workshop; antique-dating data are not supplied. Original diagram.</figcaption></figure>
-
-| Representative current record | Secure data / limit |
-| --- | --- |
-| Silver-cover and Inlay series | Workshop ties techniques and materials to current series; individual museum-style dimensions, provenance, and historic mark contexts are not published. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Unshikido visual language"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/unshikido-language.svg" alt="Unshikido visual language card with silver sheathing polished silver coloured iron Kyoto inlay tea jar profile and warning against historic attribution" loading="lazy" decoding="async" /><figcaption>Contemporary mixed-metal decisions describe a current practice, not a timeless Kyoto signature. Original diagram.</figcaption></figure>
-
-| Visual-language fact | Attribution ceiling |
-| --- | --- |
-| Silver sheathing, polished silver, coloured iron, Kyoto inlay, tea-jar-like profile in one series. | Not a historical Kyoto maker or date test. |
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Unshikido attribution"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/unshikido-attribution.svg" alt="Unshikido card distinguishing current workshop documented context from uncertain historic style resemblance and requiring complete body lid box and certificate context" loading="lazy" decoding="async" /><figcaption>Contemporary documentation cannot authenticate an older look-alike. Original diagram.</figcaption></figure>
-
-| Attribution requirement | Reason |
-| --- | --- |
-| Complete body, lid, box/certificate, mark and provenance tied together | A modern revival or stylistic resemblance does not prove an antique lineage. |
-
-### Identifying Unshikidō
-
-`雲色堂`, *Unshikidō*, is a documented current workshop identity and registered trademark of Nishimura Shōjudō according to the workshop page. It is not a published historic tetsubin mark sequence. No accessible museum or workshop record here establishes a mark technique, normal location, date range, or complete kettle-and-mark pair for a historical Unshikidō body. The name and current workshop context are **documented**; an isolated historical name, lid, box, or certificate remains **uncertain** until it is tied to the complete body.
-
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Unshikido mark audit"><img src="/tea/posts/tetsubin-history-5-kyoto-kansai/unshikido-mark.svg" alt="Unshikido mark audit listing the documented current workshop name and unestablished historic technique location device range and whole kettle pair" loading="lazy" decoding="async" /><figcaption>Typeset identity, not a reconstructed seal. Original diagram.</figcaption></figure>
-
-| Field | Verified Unshikidō record |
-| --- | --- |
-| Characters / reading | `雲色堂`, *Unshikidō*; current workshop identity. |
-| Technique / location / historic range | Not established in the accessible record. |
-| Complete-object context | No museum-style historic complete kettle-and-mark pair verified for this post. |
-| Confidence | Current workshop identity **documented**; isolated historical attribution **uncertain**. |
-
-### Closure is not the same as extinction
-
-The three profiles explain why “Kyoto died” is too simple. Unshikidō’s first-party history says wartime metal requisitions and the resulting material shortages forced many Kyoto tetsubin businesses to close; it does not identify Kibundō among them. Ryūbundō has a well-recorded endpoint in 1958, while Kibundō’s later chronology is incomplete and should not be patched with dealer certainty. Unshikidō’s present workshop account documents making and a deliberate revival of inlaid Kyoto kettles. These facts do not make an uninterrupted line, but together they rule out the blunt claim that Kyoto tetsubin production is extinct.
-
-The remaining authentication rule is deliberately repetitive. A signed lid does not authenticate the body. Lids, handles, boxes, labels, certificates, and invoices can be replacements or later pairings. Famous marks have been copied, workshops changed devices, and some work was unmarked. Decoration can locate an object in a visual conversation; it cannot settle a maker, location, date, or original assembly. For an unproven object, “Japanese iron kettle, Kyoto/Kansai comparison possible; maker, date, and fittings uncertain” is often a better answer than a famous name.
-
-### Sources and image credits
-
-- **Ryūbundō:** Princeton University Art Museum, [*Large kettle with crescent handle*, 2019-302 a–b](https://artmuseum.princeton.edu/art/collections/objects/135940), supplies maker, date range, iron medium, 44 × 31.5 × 26 cm dimensions, lid-bottom inscription, and provenance. The [British Museum object A.1969-0925.1.a–b](https://www.britishmuseum.org/collection/object/A_1969-0925-1-a-b) supplies the mixed-surface/inlay comparison and lid warning. HOJO’s [Kyoto overview](https://hojotea.com/categ_e/tetsubin.htm) is used only for its conflicting 1764 claim.
-- **Institutional and Kyoto craft comparisons:** Smithsonian National Museum of Asian Art [FSC-M-30a-b](https://asia-archive.si.edu/object/FSC-M-30a-b/) supplies only its broad date, Japanese origin, and catalogued cast iron, bronze, and gold-inlay materials. The Kyoto City Official Guide’s [Kyo-zōgan history](https://kyoto.travel/en/travel-inspiration/kyoto-craftmanship-various-crafts/) supplies the *nunome-zōgan* definition; neither source attributes a kettle to one of the three profiled workshops.
-- **Kibundō:** Shiga’s [Kibundō Shōhei exhibition record](https://www.biwako-visitors.jp/event/detail/24262/) and the National Diet Library [reference record](https://crd.ndl.go.jp/reference/entry/index.php?id=1000133829&amp;page=ref_view) support the Ōmi/Shiga context and reported Ryūbundō relation. They do not supply a museum-grade complete-object/mark catalogue.
-- **Unshikidō:** [current workshop account](https://doukiya.com/) documents its revival narrative, current collaborations, silver-cover/inlay series, and 2020 site launch; the [2015 Kyoto Design Award record](https://kyoto-design.net/award_work/2015/11.html) identifies the silver-cover series, and the [Royal College of Art Tetsubin Project](https://www.rca.ac.uk/research-innovation/projects/tetsubin-project/) confirms Kyoto as a contemporary production centre in 2016. Workshop claims remain attributed.
-- **Hero:** Metropolitan Museum of Art, [*Teapot (or Winepot)*, 36.120.674a, b](https://www.metmuseum.org/art/collection/search/60042), eighteenth-century Japanese iron and brass, public domain. The local JPEG is a unique 1448 × 1600 optimized derivative of the Met institutional original, with no crop. It is a Japanese comparison object only, not a Kyoto or producer attribution.
-- **Images:** All twenty SVGs are original source-grounded cards, 1200px wide, with adjacent text tables. No workshop, dealer, auction, HOJO, or restricted museum photograph was copied, embedded, or traced. Mark names are typeset readings, never seal facsimiles. Image licences and rejected candidates are recorded in the image ledger.
-
-Previous: [Yamagata: Thin Walls, Precise Surfaces, and Three Living Traditions](/tea/tetsubin-history-4-yamagata)
-
-Next: [Takaoka: Recasting the Kyoto Kettle](/tea/tetsubin-history-6-takaoka)
+Previous: [Yamagata](/tea/tetsubin-history-4-yamagata)
