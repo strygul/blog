@@ -2,9 +2,9 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Replace the four Tetsubin History hero images with faithful redraws in the rough coal-and-graphite style of the main `/tea/` hero.
+**Goal:** Replace the four Tetsubin History hero images with faithful redraws in the loose coal-and-graphite style shared by the main `/tea/` and `/tea/my-teaware-collection/` heroes.
 
-**Architecture:** This is an asset-only change. Each current Tetsubin hero supplies the subject and composition reference, while `src/assets/tea/main.png` supplies the rendering-style reference; the built-in image-generation tool creates one replacement at a time. Each selected result is normalized to the existing 1672×941 PNG contract and written to the existing path, so every current page and metadata consumer updates without code changes.
+**Architecture:** This is an asset-only change. Each current Tetsubin hero supplies the subject and composition reference, while `src/assets/tea/main.png` and `src/assets/tea/my-teaware-collection/hero.png` jointly define the rendering language; the built-in image-generation tool creates one replacement at a time. Each selected result is normalized to the existing 1672×941 PNG contract and written to the existing path, so every current page and metadata consumer updates without code changes.
 
 **Tech Stack:** Built-in image generation, local image inspection, Sharp 0.34.3, Astro 5.15.3, Node test runner.
 
@@ -12,7 +12,8 @@
 
 - Modify only the four existing `hero.png` assets listed below plus implementation documentation.
 - Preserve each kettle's silhouette, proportions, viewing angle, handle, spout, lid, surface pattern, ornamental details, and left-right orientation.
-- Match `src/assets/tea/main.png`: rough dark coal/graphite, uneven pressure, imperfect contours, loose cross-hatching, smudging, tonal buildup, and natural paper-white ground.
+- Match both `src/assets/tea/main.png` and `src/assets/tea/my-teaware-collection/hero.png`: rough dark coal/graphite, uneven pressure, imperfect contours, loose overlapping strokes, broad smudged shading, simplified detail, visible construction marks, and natural paper-white ground.
+- Reject crisp outlines, uniform stippling, polished symmetry, dense micro-detail, technical illustration, etching, and engraving aesthetics even if the four outputs match one another.
 - Keep each replacement at exactly 1672×941 pixels in PNG format.
 - Keep the kettle centered, clearly readable at card size, and at approximately the same scale and margins as the current hero.
 - Do not add text, color, labels, borders, watermarks, people, extra teaware, or unrelated objects.
@@ -22,7 +23,8 @@
 
 ## File map
 
-- Reference only: `src/assets/tea/main.png` — establishes the graphite style.
+- Reference only: `src/assets/tea/main.png` — establishes the rough graphite texture and tonal range.
+- Reference only: `src/assets/tea/my-teaware-collection/hero.png` — establishes loose observational mark-making and simplified teaware rendering.
 - Modify: `public/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/hero.png` — Part 1 kettle.
 - Modify: `public/tea/posts/tetsubin-history-2-morioka/hero.png` — Part 2 kettle.
 - Modify: `public/tea/posts/tetsubin-history-3-mizusawa-oshu/hero.png` — Part 3 kettle.
@@ -35,38 +37,40 @@
 
 **Files:**
 - Reference: `src/assets/tea/main.png`
+- Reference: `src/assets/tea/my-teaware-collection/hero.png`
 - Modify: `public/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/hero.png`
 - Temporary: `tmp/imagegen/tetsubin-part-1-generated.png`
 
 **Interfaces:**
-- Consumes: the current Part 1 hero as the subject/composition reference and `src/assets/tea/main.png` as the style reference.
+- Consumes: the current Part 1 hero as the subject/composition reference and both existing Tea heroes as equal style references.
 - Produces: a valid 1672×941 Part 1 `hero.png` at the unchanged public path.
 
-- [ ] **Step 1: Inspect both input images at original detail**
+- [ ] **Step 1: Inspect all three input images at original detail**
 
 Use the local image viewer on:
 
 ```text
 public/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/hero.png
 src/assets/tea/main.png
+src/assets/tea/my-teaware-collection/hero.png
 ```
 
 Confirm the Part 1 subject is the wide arare-patterned kettle with a high rounded handle, left-facing spout, circular lid, and floral lid knob.
 
 - [ ] **Step 2: Generate a style-transfer replacement**
 
-Use the built-in image-generation tool with both local paths as references and this prompt:
+Use the built-in image-generation tool with all three local paths as references and this prompt:
 
 ```text
 Use case: style-transfer
 Asset type: 16:9 website article hero image
-Input images: Image 1 is the edit target and exact kettle/composition reference; Image 2 is the rendering-style reference.
-Primary request: Redraw the kettle from Image 1 in the rough coal-and-graphite drawing language of Image 2.
+Input images: Image 1 is the edit target and exact kettle/composition reference; Images 2 and 3 are equal rendering-style references.
+Primary request: Redraw the kettle from Image 1 in the loose, visibly handmade coal-and-graphite language shared by Images 2 and 3.
 Subject: Preserve the Part 1 kettle's wide rounded body, dense arare surface, left-facing spout, high rounded handle, circular patterned lid, floral lid knob, proportions, viewing angle, and left-right orientation.
-Style/medium: Dark handmade graphite and charcoal on natural paper-white ground; uneven pressure, imperfect contours, loose cross-hatching, smudged tonal buildup, and visible hand-worked texture. It should feel expressive and materially drawn, not like clean product line art.
+Style/medium: Rough handmade graphite and soft charcoal on natural near-white paper; overlapping searching strokes, uneven pressure, irregular contours, broad rubbed shading, soft highlights, smudges, and visible construction marks. Simplify the arare and ornament into suggestive hand-drawn marks. It must look like an immediate observational sketch by the same artist as Images 2 and 3, not a precise product rendering.
 Composition/framing: Wide 16:9 landscape; center the full kettle with generous safe margins for a later center crop; keep its visual scale close to Image 1; allow only loose grounding strokes beneath it.
 Constraints: Change only the drawing medium and surface treatment. Preserve the subject identity and composition. No text, color, labels, border, watermark, people, additional objects, or cropped handle/spout.
-Avoid: polished technical illustration, vector-clean contours, photorealism, gray gradient backdrop, decorative scene elements.
+Avoid: polished technical illustration, vector-clean contours, uniform stippling, dense micro-detail, antique engraving, etching, photorealism, gray gradient backdrop, decorative scene elements.
 ```
 
 - [ ] **Step 3: Save and normalize the selected result**
@@ -101,31 +105,32 @@ git commit -m "art(tea): redraw tetsubin part 1 hero in graphite"
 
 **Files:**
 - Reference: `src/assets/tea/main.png`
+- Reference: `src/assets/tea/my-teaware-collection/hero.png`
 - Modify: `public/tea/posts/tetsubin-history-2-morioka/hero.png`
 - Temporary: `tmp/imagegen/tetsubin-part-2-generated.png`
 
 **Interfaces:**
-- Consumes: the current Part 2 hero as the subject/composition reference and `src/assets/tea/main.png` as the style reference.
+- Consumes: the current Part 2 hero as the subject/composition reference and both existing Tea heroes as equal style references.
 - Produces: a valid 1672×941 Part 2 `hero.png` at the unchanged public path.
 
-- [ ] **Step 1: Inspect both input images at original detail**
+- [ ] **Step 1: Inspect all three input images at original detail**
 
 Confirm the Part 2 subject is the broad, low kettle with a high rounded handle, long left-facing spout, banded body, wave ornament, textured lower body, and floral lid knob.
 
 - [ ] **Step 2: Generate a style-transfer replacement**
 
-Use the built-in image-generation tool with the Part 2 hero as Image 1 and `src/assets/tea/main.png` as Image 2:
+Use the built-in image-generation tool with the Part 2 hero as Image 1, `src/assets/tea/main.png` as Image 2, and `src/assets/tea/my-teaware-collection/hero.png` as Image 3:
 
 ```text
 Use case: style-transfer
 Asset type: 16:9 website article hero image
-Input images: Image 1 is the edit target and exact kettle/composition reference; Image 2 is the rendering-style reference.
-Primary request: Redraw the kettle from Image 1 in the rough coal-and-graphite drawing language of Image 2.
+Input images: Image 1 is the edit target and exact kettle/composition reference; Images 2 and 3 are equal rendering-style references.
+Primary request: Redraw the kettle from Image 1 in the loose, visibly handmade coal-and-graphite language shared by Images 2 and 3.
 Subject: Preserve the Part 2 kettle's broad low body, long left-facing spout, high rounded handle, circular lid, floral lid knob, horizontal bands, wave ornament, textured lower body, proportions, viewing angle, and left-right orientation.
-Style/medium: Dark handmade graphite and charcoal on natural paper-white ground; uneven pressure, imperfect contours, loose cross-hatching, smudged tonal buildup, and visible hand-worked texture. It should feel expressive and materially drawn, not like clean product line art.
+Style/medium: Rough handmade graphite and soft charcoal on natural near-white paper; overlapping searching strokes, uneven pressure, irregular contours, broad rubbed shading, soft highlights, smudges, and visible construction marks. Simplify the wave band and textures into suggestive hand-drawn marks. It must look like an immediate observational sketch by the same artist as Images 2 and 3, not a precise product rendering.
 Composition/framing: Wide 16:9 landscape; center the full kettle with generous safe margins for a later center crop; keep its visual scale close to Image 1; allow only loose grounding strokes beneath it.
 Constraints: Change only the drawing medium and surface treatment. Preserve the subject identity and composition. No text, color, labels, border, watermark, people, additional objects, or cropped handle/spout.
-Avoid: polished technical illustration, vector-clean contours, photorealism, gray gradient backdrop, decorative scene elements.
+Avoid: polished technical illustration, vector-clean contours, uniform stippling, dense micro-detail, antique engraving, etching, photorealism, gray gradient backdrop, decorative scene elements.
 ```
 
 - [ ] **Step 3: Save and normalize the selected result**
@@ -157,31 +162,32 @@ git commit -m "art(tea): redraw tetsubin part 2 hero in graphite"
 
 **Files:**
 - Reference: `src/assets/tea/main.png`
+- Reference: `src/assets/tea/my-teaware-collection/hero.png`
 - Modify: `public/tea/posts/tetsubin-history-3-mizusawa-oshu/hero.png`
 - Temporary: `tmp/imagegen/tetsubin-part-3-generated.png`
 
 **Interfaces:**
-- Consumes: the current Part 3 hero as the subject/composition reference and `src/assets/tea/main.png` as the style reference.
+- Consumes: the current Part 3 hero as the subject/composition reference and both existing Tea heroes as equal style references.
 - Produces: a valid 1672×941 Part 3 `hero.png` at the unchanged public path.
 
-- [ ] **Step 1: Inspect both input images at original detail**
+- [ ] **Step 1: Inspect all three input images at original detail**
 
 Confirm the Part 3 subject is the taller domed arare kettle with a left-facing spout, high rounded handle, arare lid, floral lid knob, and repeating arch ornament around the lower band.
 
 - [ ] **Step 2: Generate a style-transfer replacement**
 
-Use the built-in image-generation tool with the Part 3 hero as Image 1 and `src/assets/tea/main.png` as Image 2:
+Use the built-in image-generation tool with the Part 3 hero as Image 1, `src/assets/tea/main.png` as Image 2, and `src/assets/tea/my-teaware-collection/hero.png` as Image 3:
 
 ```text
 Use case: style-transfer
 Asset type: 16:9 website article hero image
-Input images: Image 1 is the edit target and exact kettle/composition reference; Image 2 is the rendering-style reference.
-Primary request: Redraw the kettle from Image 1 in the rough coal-and-graphite drawing language of Image 2.
+Input images: Image 1 is the edit target and exact kettle/composition reference; Images 2 and 3 are equal rendering-style references.
+Primary request: Redraw the kettle from Image 1 in the loose, visibly handmade coal-and-graphite language shared by Images 2 and 3.
 Subject: Preserve the Part 3 kettle's tall domed arare body, left-facing spout, high rounded handle, arare lid, floral lid knob, repeating arch ornament around the lower band, proportions, viewing angle, and left-right orientation.
-Style/medium: Dark handmade graphite and charcoal on natural paper-white ground; uneven pressure, imperfect contours, loose cross-hatching, smudged tonal buildup, and visible hand-worked texture. It should feel expressive and materially drawn, not like clean product line art.
+Style/medium: Rough handmade graphite and soft charcoal on natural near-white paper; overlapping searching strokes, uneven pressure, irregular contours, broad rubbed shading, soft highlights, smudges, and visible construction marks. Simplify the arare and arch band into suggestive hand-drawn marks. It must look like an immediate observational sketch by the same artist as Images 2 and 3, not a precise product rendering.
 Composition/framing: Wide 16:9 landscape; center the full kettle with generous safe margins for a later center crop; keep its visual scale close to Image 1; allow only loose grounding strokes beneath it.
 Constraints: Change only the drawing medium and surface treatment. Preserve the subject identity and composition. No text, color, labels, border, watermark, people, additional objects, or cropped handle/spout.
-Avoid: polished technical illustration, vector-clean contours, photorealism, gray gradient backdrop, decorative scene elements.
+Avoid: polished technical illustration, vector-clean contours, uniform stippling, dense micro-detail, antique engraving, etching, photorealism, gray gradient backdrop, decorative scene elements.
 ```
 
 - [ ] **Step 3: Save and normalize the selected result**
@@ -213,31 +219,32 @@ git commit -m "art(tea): redraw tetsubin part 3 hero in graphite"
 
 **Files:**
 - Reference: `src/assets/tea/main.png`
+- Reference: `src/assets/tea/my-teaware-collection/hero.png`
 - Modify: `public/tea/posts/tetsubin-history-4-yamagata/hero.png`
 - Temporary: `tmp/imagegen/tetsubin-part-4-generated.png`
 
 **Interfaces:**
-- Consumes: the current Part 4 hero as the subject/composition reference and `src/assets/tea/main.png` as the style reference.
+- Consumes: the current Part 4 hero as the subject/composition reference and both existing Tea heroes as equal style references.
 - Produces: a valid 1672×941 Part 4 `hero.png` at the unchanged public path.
 
-- [ ] **Step 1: Inspect both input images at original detail**
+- [ ] **Step 1: Inspect all three input images at original detail**
 
 Confirm the Part 4 subject is the upright kettle with a tall rounded handle, upturned left-facing spout, domed arare body, elaborate lid, floral lid knob, and scrolling lower ornament.
 
 - [ ] **Step 2: Generate a style-transfer replacement**
 
-Use the built-in image-generation tool with the Part 4 hero as Image 1 and `src/assets/tea/main.png` as Image 2:
+Use the built-in image-generation tool with the Part 4 hero as Image 1, `src/assets/tea/main.png` as Image 2, and `src/assets/tea/my-teaware-collection/hero.png` as Image 3:
 
 ```text
 Use case: style-transfer
 Asset type: 16:9 website article hero image
-Input images: Image 1 is the edit target and exact kettle/composition reference; Image 2 is the rendering-style reference.
-Primary request: Redraw the kettle from Image 1 in the rough coal-and-graphite drawing language of Image 2.
+Input images: Image 1 is the edit target and exact kettle/composition reference; Images 2 and 3 are equal rendering-style references.
+Primary request: Redraw the kettle from Image 1 in the loose, visibly handmade coal-and-graphite language shared by Images 2 and 3.
 Subject: Preserve the Part 4 kettle's upright proportions, tall rounded handle, upturned left-facing spout, domed arare body, elaborate lid, floral lid knob, scrolling lower ornament, viewing angle, and left-right orientation.
-Style/medium: Dark handmade graphite and charcoal on natural paper-white ground; uneven pressure, imperfect contours, loose cross-hatching, smudged tonal buildup, and visible hand-worked texture. It should feel expressive and materially drawn, not like clean product line art.
+Style/medium: Rough handmade graphite and soft charcoal on natural near-white paper; overlapping searching strokes, uneven pressure, irregular contours, broad rubbed shading, soft highlights, smudges, and visible construction marks. Simplify the arare, lid, and scrolling band into suggestive hand-drawn marks. It must look like an immediate observational sketch by the same artist as Images 2 and 3, not a precise product rendering.
 Composition/framing: Wide 16:9 landscape; center the full kettle with generous safe margins for a later center crop; keep its visual scale close to Image 1; allow only loose grounding strokes beneath it.
 Constraints: Change only the drawing medium and surface treatment. Preserve the subject identity and composition. No text, color, labels, border, watermark, people, additional objects, or cropped handle/spout.
-Avoid: polished technical illustration, vector-clean contours, photorealism, gray gradient backdrop, decorative scene elements.
+Avoid: polished technical illustration, vector-clean contours, uniform stippling, dense micro-detail, antique engraving, etching, photorealism, gray gradient backdrop, decorative scene elements.
 ```
 
 - [ ] **Step 3: Save and normalize the selected result**
@@ -275,7 +282,11 @@ git commit -m "art(tea): redraw tetsubin part 4 hero in graphite"
 - Consumes: the four normalized hero assets from Tasks 1–4.
 - Produces: a verified production build and visual confirmation of both card and article contexts.
 
-- [ ] **Step 1: Validate all four image contracts together**
+- [ ] **Step 1: Compare all four outputs against both authoritative references**
+
+Inspect the complete set beside `src/assets/tea/main.png` and `src/assets/tea/my-teaware-collection/hero.png`. Reject any output that is materially cleaner, more precise, more uniformly stippled, or more engraving-like than either reference. Confirm the four images share line looseness, graphite density, tonal range, smudging, paper tone, and simplification.
+
+- [ ] **Step 2: Validate all four image contracts together**
 
 Run:
 
@@ -285,7 +296,7 @@ node --input-type=module -e "import sharp from 'sharp'; const files=['public/tea
 
 Expected: four lines ending in `png 1672 941`.
 
-- [ ] **Step 2: Run the complete automated verification suite**
+- [ ] **Step 3: Run the complete automated verification suite**
 
 ```bash
 npm test
@@ -293,15 +304,15 @@ npm test
 
 Expected: the Astro production build succeeds and every Node test passes.
 
-- [ ] **Step 3: Start the local site for visual QA**
+- [ ] **Step 4: Start the local site for visual QA**
 
 ```bash
 npm run dev -- --host 127.0.0.1
 ```
 
-Keep the process running while completing Step 4.
+Keep the process running while completing Step 5.
 
-- [ ] **Step 4: Inspect rendered pages at desktop and mobile widths**
+- [ ] **Step 5: Inspect rendered pages at desktop and mobile widths**
 
 Use the in-app browser workflow to inspect:
 
@@ -318,7 +329,7 @@ At approximately 1440px and 390px viewport widths, confirm:
 - the Part 1 article hero is sharp, centered, and uncropped;
 - titles, dates, descriptions, spacing, and navigation are unchanged.
 
-- [ ] **Step 5: Confirm change scope**
+- [ ] **Step 6: Confirm change scope**
 
 ```bash
 git status --short
@@ -327,7 +338,7 @@ git diff --name-only HEAD~4..HEAD
 
 Expected: the four hero paths are the only implementation files changed after the already committed design and plan documentation. `tmp/imagegen/` remains untracked or ignored and is not staged.
 
-- [ ] **Step 6: Record the final prompts and paths in the handoff**
+- [ ] **Step 7: Record the final prompts and paths in the handoff**
 
 Report that built-in image generation was used, link the four final workspace paths, and include the four prompt specs from Tasks 1–4. Do not claim completion unless the metadata checks, `npm test`, and visual QA all pass.
 
@@ -335,4 +346,4 @@ Report that built-in image generation was used, link the four final workspace pa
 
 - Spec coverage: Tasks 1–4 cover each authorized asset, visual invariants, style matching, file path stability, dimensions, and format. Task 5 covers automated and visual verification plus change-scope enforcement.
 - Placeholder scan: the plan contains no deferred implementation instructions; the runtime-generated source path is captured to a fixed temporary destination immediately after each tool call.
-- Interface consistency: every task consumes the same style reference and its own current hero, produces the same 1672×941 PNG contract, and retains the exact path already consumed by Astro.
+- Interface consistency: every task consumes the same two style references and its own current hero, produces the same 1672×941 PNG contract, and retains the exact path already consumed by Astro.
