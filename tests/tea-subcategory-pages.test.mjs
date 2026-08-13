@@ -63,6 +63,24 @@ test('subcategory pages contain only their assigned post groups', () => {
 	assert.doesNotMatch(other, /href="\/tea\/tetsubin-history-/);
 });
 
+test('tetsubin cards and opened posts use the same original hero image', () => {
+	const category = readPage('tea/tetsubins');
+	const slugs = [
+		'tetsubin-history-1-birth-of-the-iron-kettle',
+		'tetsubin-history-2-morioka',
+		'tetsubin-history-3-mizusawa-oshu',
+		'tetsubin-history-4-yamagata',
+	];
+
+	for (const slug of slugs) {
+		const expectedSource = `/tea/posts/${slug}/hero.png`;
+		const card = linkedCard(category, `/tea/${slug}/`);
+		const post = readPage(`tea/${slug}`);
+		assert.equal(imageSource(card), expectedSource, `${slug} card hero`);
+		assert.equal(imageSource(post), expectedSource, `${slug} post hero`);
+	}
+});
+
 test('each category card inherits the newest post date and dynamic hero', () => {
 	const index = readPage('tea');
 

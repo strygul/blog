@@ -23,6 +23,7 @@ const categoryCards = TEA_CATEGORIES.map((category) => {
 		title: category.title,
 		pubDate: latestPost.data.pubDate,
 		heroImage: category.fixedHero ?? latestPost.data.heroImage,
+		heroImageSrc: category.fixedHero ? undefined : latestPost.data.heroImageSrc,
 		heroImageMaxHeight: category.fixedHero ? undefined : latestPost.data.heroImageMaxHeight,
 	};
 }).sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
