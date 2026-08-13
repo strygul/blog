@@ -8,6 +8,7 @@ category:
   - "Japanese Craft"
 description: "Four Morioka workshops show how one regional tradition can produce very different kettles, patterns, and marks."
 heroImage: "../../../public/tea/posts/tetsubin-history-2-morioka/hero.png"
+heroImageSrc: "/tea/posts/tetsubin-history-2-morioka/hero.png"
 ---
 
 [Part 1](/tea/tetsubin-history-1-birth-of-the-iron-kettle) introduced the main tetsubin regions of Japan. This part visits Morioka in Iwate Prefecture and four workshops that still shape its ironware.

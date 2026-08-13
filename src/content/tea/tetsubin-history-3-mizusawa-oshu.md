@@ -8,6 +8,7 @@ category:
   - "Japanese Craft"
 description: "Mizusawa grew from a practical casting town into the second main center of Nambu ironware. Oigen and Oitomi show how that tradition works today."
 heroImage: "../../../public/tea/posts/tetsubin-history-3-mizusawa-oshu/hero.png"
+heroImageSrc: "/tea/posts/tetsubin-history-3-mizusawa-oshu/hero.png"
 ---
 
 [Part 2](/tea/tetsubin-history-2-morioka) visited four workshops in Morioka. This part moves south to Mizusawa, now part of Ōshū City in Iwate Prefecture.
