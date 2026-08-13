@@ -22,8 +22,8 @@ const firstPostCard = (html) => html.match(/<ul[^>]*>[\s\S]*?(<a [\s\S]*?<\/a>)/
 test('tea index orders subcategories by their newest post date', () => {
 	const html = readPage('tea');
 	const links = [
-		'/tea/my-teaware-collection/',
 		'/tea/tetsubins/',
+		'/tea/my-teaware-collection/',
 		'/tea/other/',
 		'/tea/yixing/',
 	];
@@ -72,6 +72,7 @@ test('tetsubin cards and opened posts use the same original hero image', () => {
 		'tetsubin-history-2-morioka',
 		'tetsubin-history-3-mizusawa-oshu',
 		'tetsubin-history-4-yamagata',
+		'tetsubin-history-5-kyoto-kansai',
 	];
 
 	for (const slug of slugs) {
@@ -89,6 +90,7 @@ test('tetsubin hero backgrounds match the website background', async () => {
 		'tetsubin-history-2-morioka',
 		'tetsubin-history-3-mizusawa-oshu',
 		'tetsubin-history-4-yamagata',
+		'tetsubin-history-5-kyoto-kansai',
 	];
 	const websiteBackground = [249, 249, 249];
 

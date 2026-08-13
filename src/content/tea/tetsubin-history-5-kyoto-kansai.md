@@ -8,6 +8,7 @@ category:
   - "Japanese Craft"
 description: "Kyoto and nearby Ōmi turned the iron kettle into art metal. Ryūbundō, Kibundō, and Unshikidō show the tradition, its attribution problems, and its modern revival."
 heroImage: "../../../public/tea/posts/tetsubin-history-5-kyoto-kansai/hero.png"
+heroImageSrc: "/tea/posts/tetsubin-history-5-kyoto-kansai/hero.png"
 ---
 
 [Part 4](/tea/tetsubin-history-4-yamagata) followed the precise casting tradition of Yamagata. This part moves west to Kyoto and nearby Ōmi, where the iron kettle became a surface for relief, engraving, inlay, and mixed metals.
