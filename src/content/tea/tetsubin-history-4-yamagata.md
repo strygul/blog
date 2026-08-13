@@ -128,3 +128,5 @@ The main regional sources are [Traditional Crafts Aoyama Square](https://kougeih
 Kikuchi Hojudo's official history and product pages support its profile and photographs. The Government of Japan workshop profile adds the postwar history and design details. Links appear where each source is used.
 
 Previous: [Mizusawa and Ōshū](/tea/tetsubin-history-3-mizusawa-oshu)
+
+Next: [Kyoto and Kansai](/tea/tetsubin-history-5-kyoto-kansai)
