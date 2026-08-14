@@ -14,6 +14,7 @@ const expectedExceptions = new Map([
 	['tetsubin-history-3-mizusawa-oshu', 'Tetsubin'],
 	['tetsubin-history-4-yamagata', 'Tetsubin'],
 	['tetsubin-history-5-kyoto-kansai', 'Tetsubin'],
+	['tetsubin-history-6-takaoka', 'Tetsubin'],
 ]);
 
 function readCategories(file) {

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Parallel histories of Mizusawa and Morioka</title>
+  <desc id="desc">Mizusawa's Hiraizumi origin tradition, documented medieval casting, Date-domain utilitarian work, Meiji exchange, and the Nambu umbrella are shown beside Morioka's Nambu-domain tea-kettle history. Neither line is ranked.</desc>
+  <style>.bg{fill:#f4efe5}.head{font:700 32px Georgia,serif;fill:#231f1b}.sub{font:18px Arial,sans-serif;fill:#5d554d}.label{font:700 25px Arial,sans-serif;fill:#fff}.date{font:700 19px Arial,sans-serif;fill:#7b2f26}.body{font:17px Arial,sans-serif;fill:#28231f}.note{font:italic 16px Arial,sans-serif;fill:#5d554d}.m{fill:#9b4f3f}.r{fill:#315d64}.card{fill:#fff;stroke:#c9bba7;stroke-width:2}.line{stroke:#8f8271;stroke-width:5}.dotm{fill:#9b4f3f}.dotr{fill:#315d64}</style>
+  <rect class="bg" width="1200" height="700"/><text class="head" x="60" y="62">Two histories inside one modern name</text><text class="sub" x="60" y="93">Parallel chronology — not an age or quality ranking</text>
+  <rect class="m" x="60" y="125" width="180" height="50" rx="7"/><text class="label" x="88" y="158">Mizusawa</text>
+  <line class="line" x1="150" y1="196" x2="150" y2="590"/>
+  <circle class="dotm" cx="150" cy="218" r="11"/><rect class="card" x="190" y="188" width="430" height="72" rx="7"/><text class="date" x="210" y="216">late 11th–12th c.</text><text class="body" x="210" y="242">Hiraizumi caster tradition; continuity unproved</text>
+  <circle class="dotm" cx="150" cy="315" r="11"/><rect class="card" x="190" y="280" width="430" height="76" rx="7"/><text class="date" x="210" y="309">14th c. / 1683</text><text class="body" x="210" y="335">documented Hada casting / Oikawa revival</text>
+  <circle class="dotm" cx="150" cy="416" r="11"/><rect class="card" x="190" y="380" width="430" height="78" rx="7"/><text class="date" x="210" y="410">Date-domain period</text><text class="body" x="210" y="436">pots, cauldrons, Buddhist goods, cannon</text>
+  <circle class="dotm" cx="150" cy="520" r="11"/><rect class="card" x="190" y="484" width="430" height="78" rx="7"/><text class="date" x="210" y="514">Meiji onward</text><text class="body" x="210" y="540">rail markets and exchange between centers</text>
+  <rect class="r" x="690" y="125" width="180" height="50" rx="7"/><text class="label" x="722" y="158">Morioka</text>
+  <line class="line" x1="780" y1="196" x2="780" y2="590"/>
+  <circle class="dotr" cx="780" cy="245" r="11"/><rect class="card" x="820" y="206" width="320" height="84" rx="7"/><text class="date" x="840" y="236">17th c.</text><text class="body" x="840" y="262">Nambu patronage;</text><text class="body" x="840" y="282">tea-kettle specialists</text>
+  <circle class="dotr" cx="780" cy="365" r="11"/><rect class="card" x="820" y="326" width="320" height="84" rx="7"/><text class="date" x="840" y="356">18th c.</text><text class="body" x="840" y="382">regional tradition credits</text><text class="body" x="840" y="402">Koizumi tetsubin</text>
+  <circle class="dotr" cx="780" cy="490" r="11"/><rect class="card" x="820" y="451" width="320" height="84" rx="7"/><text class="date" x="840" y="481">1914 onward</text><text class="body" x="840" y="507">research institute,</text><text class="body" x="840" y="527">interruption, revival</text>
+  <rect x="275" y="610" width="650" height="58" rx="29" fill="#d8b769"/><text class="body" x="359" y="638" style="font-weight:700;font-size:20px">1959 federation → 1975 national designation</text><text class="note" x="397" y="660">shared umbrella; separate earlier histories remain</text>
+</svg>

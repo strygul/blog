@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Map of Japanese regions important to tetsubin history</title>
+  <desc id="desc">A simplified map of central and northern Honshu places Morioka, Mizusawa and Oshu, Yamagata, Takaoka, and Kyoto and Omi in their geographic order from northeast to southwest.</desc>
+  <rect width="1200" height="700" fill="#faf8f4"/>
+  <style>
+    text{fill:#2b2b2b;font-family:Inter,ui-sans-serif,system-ui,sans-serif}.serif{font-family:Georgia,"Times New Roman",serif}.land{fill:#e8e3da;stroke:#2b2b2b;stroke-width:3}.route{fill:none;stroke:#b7afa3;stroke-width:3;stroke-dasharray:8 8}.rust{fill:#8b4a32}.blue{fill:#496b78}.label{font-size:22px;font-weight:700}.small{font-size:16px}.leader{stroke:#2b2b2b;stroke-width:2}
+  </style>
+  <text x="55" y="58" class="serif" font-size="38" font-weight="700">Several centers, not one straight lineage</text>
+  <text x="55" y="91" font-size="20">Simplified geography: the labeled places follow their real northeast-to-southwest positions on Honshu.</text>
+
+  <!-- Honshu, simplified but geographically oriented northeast to southwest -->
+  <path class="land" d="M294 574 L345 536 L405 506 L462 474 L522 449 L579 410 L631 371 L681 329 L719 278 L751 218 L777 148 L821 111 L867 127 L885 173 L872 220 L838 264 L804 301 L771 337 L726 372 L679 403 L633 437 L577 469 L519 498 L461 528 L397 557 L337 590 Z"/>
+  <!-- Shikoku gives the southwest coastline visual context -->
+  <path class="land" d="M305 605 L356 590 L414 596 L446 620 L403 643 L340 640 L296 622 Z"/>
+  <path d="M824 184 Q806 235 739 301 Q610 398 466 430 Q401 470 352 515" class="route"/>
+
+  <circle cx="824" cy="184" r="12" class="rust"/>
+  <line x1="836" y1="181" x2="924" y2="154" class="leader"/>
+  <text x="940" y="153" class="label">Morioka</text>
+  <text x="940" y="177" class="small">early chagama / tetsubin center</text>
+
+  <circle cx="814" cy="235" r="12" class="blue"/>
+  <line x1="826" y1="238" x2="880" y2="245" class="leader"/>
+  <text x="895" y="245" class="label">Mizusawa / Ōshū</text>
+  <text x="895" y="269" class="small">older casting; modern Nambu region</text>
+
+  <circle cx="739" cy="301" r="12" class="rust"/>
+  <line x1="751" y1="303" x2="865" y2="321" class="leader"/>
+  <text x="880" y="322" class="label">Yamagata</text>
+  <text x="880" y="346" class="small">old casting center; thin tea wares</text>
+
+  <rect x="454" y="418" width="24" height="24" rx="3" class="blue"/>
+  <line x1="454" y1="430" x2="327" y2="404" class="leader"/>
+  <text x="106" y="400" class="label">Takaoka</text>
+  <text x="106" y="424" class="small">historic art-metal and inlay center</text>
+
+  <path d="M339 515l13-13 13 13-13 13z" class="rust"/>
+  <line x1="339" y1="516" x2="267" y2="526" class="leader"/>
+  <text x="60" y="511" class="label">Kyoto / Ōmi</text>
+  <text x="60" y="535" class="small">art-kettle and reinterpretation center</text>
+
+  <rect x="785" y="425" width="360" height="208" rx="18" fill="#f1ede6"/>
+  <text x="813" y="465" class="serif" font-size="24" font-weight="700">Legend</text>
+  <circle cx="825" cy="506" r="10" class="rust"/><text x="850" y="513" font-size="17">original / early center</text>
+  <circle cx="825" cy="545" r="10" class="blue"/><text x="850" y="552" font-size="17">modern umbrella (Nambu)</text>
+  <rect x="815" y="575" width="20" height="20" rx="3" class="blue"/><text x="850" y="592" font-size="17">historical art-metal center</text>
+  <path d="M815 619l10-10 10 10-10 10z" class="rust"/><text x="850" y="625" font-size="17">reinterpretation / revival center</text>
+</svg>
