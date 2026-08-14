@@ -4,6 +4,7 @@ pubDate: "2025-11-18"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "Mica Flakes, Carbon Spots, and What They Really Mean in Yixing Clay from 60s and 70s"
 heroImage: "../../../public/tea/posts/early-teapots-clay-60s-and-70s/intro.png"
 ---

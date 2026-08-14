@@ -4,6 +4,7 @@ pubDate: "2026-03-10"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "An introduction to the Gao Tang Po (GTP) teapot series, explaining its naming, origins in early Factory #1 production, and the key features collectors use to distinguish authentic pieces from different decades."
 heroImage: "../../../public/tea/posts/early-teapots-appreciation-of-the-gao-tang-po/intro.png"
 ---

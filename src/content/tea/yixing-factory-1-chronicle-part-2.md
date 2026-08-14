@@ -4,6 +4,7 @@ pubDate: "2026-06-17"
 category:
   - "Tea"
   - "Teapots"
+  - "Yixing"
 description: "The final state-era decade of Yixing Factory #1: exhibitions, awards, cross-strait exchange, and the 1997-1998 restructuring that ended the classic factory-pot period."
 heroImage: "../../../public/tea/posts/yixing-factory-1-chronicle-part-1/hero-tools.png"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The Tetsubin Is Younger Than You Think"
+title: "Tetsubin History, Part 1: The Birth of the Iron Kettle"
 pubDate: "2026-07-31"
 category:
   - "Tea"
@@ -7,198 +7,203 @@ category:
   - "Tetsubin"
   - "Japanese Craft"
 description: "The iron-casting traditions are ancient. The familiar Japanese iron kettle is not. A sourced history of how sencha, household life, and regional foundries created the tetsubin."
-heroImage: "../../../public/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/hero.jpg"
+heroImage: "../../../public/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/hero.png"
+heroImageSrc: "/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/hero.png"
 ---
 
 <div class="info-box">
-This series began with four HOJO articles, but the dates and origin stories have been checked against museum catalogues, Japanese government and craft-association records, official workshop histories, and curator-supervised research. Where those sources disagree, I show the disagreement rather than forcing an exact answer. The borrowed photographs are credited in their captions; the maps and diagrams are my own.
+This series began with <a href="https://hojotea.com/categ_e/tetsubin.htm">HOJO's general tetsubin article</a> and its profiles of <a href="https://hojotea.com/item_e/suzuki.htm">Suzuki Morihisa</a>, <a href="https://hojotea.com/item_e/kunzan.htm">Kunzan</a>, and <a href="https://hojotea.com/item_e/seikodo.htm">Seikodo</a>. I followed those pages expecting a fairly simple workshop history. Instead, the dates opened one question after another. I checked them against museum catalogues, Japanese government and craft-association records, official workshop histories, and curator-supervised research. Where the sources disagree, I leave the disagreement visible. Borrowed photographs are credited in their captions; the diagrams are my own.
 </div>
 
-### A kettle with an older shadow
+## A Kettle with an Older Shadow
 
-The tetsubin looks ancient enough to have been waiting beside the first Japanese tea bowl. It is black iron, usually severe in outline, and it seems perfectly at home over charcoal. Add the famous claim that Nambu ironware has four hundred years of history—or that Mizusawa casting reaches back nine hundred—and the conclusion appears obvious: the kettle must be just as old.
+When I began reading about tetsubin, the story looked almost too neat. Nambu ironware has four hundred years of history. Mizusawa casting reaches back nine hundred. The black iron kettle looks ancient enough to have been sitting beside Japanese tea from the beginning.
+
+So the kettle must be just as old.
 
 It is not.
 
-Iron casting in several Japanese regions is genuinely old. The familiar vessel with a pouring spout and an overhead handle is younger. The strongest sources place its emergence in the eighteenth century, when steeped-leaf tea was spreading through Japan, but they do not give us a secure national invention date. That distinction is the key to the whole series: **the age of a foundry is not the age of every object it now makes**.
+The casting traditions are genuinely old. The familiar vessel with a pouring spout and an overhead handle is younger. The strongest sources place its emergence in the eighteenth century, alongside the spread of steeped-leaf tea, but none gives us a secure national invention date.
 
-This age mismatch causes more confusion than any decorative pattern or maker’s mark. A Morioka workshop can inherit a seventeenth-century chagama lineage and make a nineteenth-century object. Mizusawa can have a medieval casting tradition without having made tetsubin in the twelfth century. Takaoka can contribute old alloy, inlay, and coloring knowledge to much later kettles. Kyoto can become famous for refined art kettles without being the birthplace of Japanese iron casting.
+That gap became the thread I kept pulling. A Morioka workshop can inherit a seventeenth-century chagama lineage and make a nineteenth-century object. Mizusawa can have a medieval casting tradition without having made tetsubin in the twelfth century. Takaoka can bring old inlay and coloring skills to much later kettles. Kyoto can become famous for refined art kettles without being the birthplace of Japanese iron casting.
 
-The names matter because each name carries a different use. Before following the chronology, we need to put four vessels back in their proper places.
+In other words: **the age of a foundry is not the age of every object it now makes**.
 
-### Four objects that should not share one name
+Once I saw that distinction, the tidy story began to come apart. The next problem was even more basic: what exactly are we calling a tetsubin?
 
-Start with the **chagama** (茶釜), the iron kettle of chanoyu. A chagama has a broad mouth and no pouring spout. It is installed over a hearth or brazier; hot water is lifted out with a bamboo ladle. Calling it a tetsubin is not a harmless translation. The absence of a spout changes the entire action around the vessel.
+## Four Objects That Should Not Share One Name
+
+Search for an old Japanese iron kettle and you will quickly meet four different objects wearing each other's names. Sellers do it. Auction listings do it. Even museum translations are not always consistent. Before following dates and makers, we need to put the objects back in their proper places.
+
+Start with the **chagama** (茶釜), the iron kettle of chanoyu. It has a broad mouth and no pouring spout. You do not lift it and pour from it; you go to it with a bamboo ladle. Calling it a tetsubin is therefore more than a loose translation. Remove the spout and the entire action around the vessel changes.
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-chagama.jpg" alt="Seventeenth-century Japanese iron chagama with a wide mouth and no pouring spout" loading="lazy" decoding="async" />
-  <figcaption><em>Kettle (Kama) with Willow and Cherry</em>, mid-seventeenth century, Ōnishi Gorōzaemon. The wide mouth and spoutless body identify a chagama. <a href="https://www.metmuseum.org/art/collection/search/913853">The Metropolitan Museum of Art, 2024.553.6a, b</a>, public domain. Resized only.</figcaption>
+  <figcaption><em>Kettle (Kama) with Willow and Cherry</em>, mid-seventeenth century, Ōnishi Gorōzaemon. The wide mouth and spoutless body identify a chagama. <a href="https://www.metmuseum.org/art/collection/search/913853">The Metropolitan Museum of Art, 2024.553.6a, b</a>.</figcaption>
 </figure>
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/cleveland-crane-chagama.jpg" alt="Spoutless Muromachi-period iron tea kettle with a broad lid, side lugs, and crane decoration" loading="lazy" decoding="async" />
-  <figcaption><em>Kettle with Crane Design</em>, 1392–1573. Its broad lid, side lugs, and lack of a pouring spout show how a chagama can differ in silhouette from the cylindrical example above. <a href="https://clevelandart.org/art/1980.11">Cleveland Museum of Art, 1980.11</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>. Resized only.</figcaption>
+  <figcaption><em>Kettle with Crane Design</em>, 1392–1573. Its broad lid, side lugs, and lack of a pouring spout show how a chagama can differ in silhouette from the cylindrical example above. <a href="https://clevelandart.org/art/1980.11">Cleveland Museum of Art, 1980.11</a>.</figcaption>
 </figure>
 
-A **tedorikama** (手取釜) is literally a hand-carrying kama: a handled kettle related to the chagama family. Forms vary, but the useful distinction is that it has an overhead carrying handle while ordinarily retaining the open, unspouted logic of a kama. It helps explain how portability entered the story; it should not be treated as proof that the fully developed tetsubin already existed.
+A **tedorikama** (手取釜) is literally a hand-carrying kama. It adds the overhead handle while ordinarily keeping the open, unspouted logic of the chagama. This is an important step: the kettle can now travel. But portability alone does not make it a tetsubin.
 
-The **tetsubin** (鉄瓶) brings the two features together: an overhead handle and a projecting spout. It is a vessel for **boiling and pouring water**. Traditional interiors are not covered in vitreous enamel. The interior may acquire an oxide layer through workshop treatment and use, but that is not the glassy coating found in modern iron teapots.
+The **tetsubin** (鉄瓶) brings the two features together: the overhead handle and the projecting spout. Now the same vessel can **boil, travel, and pour water**. Its traditional interior is not covered in vitreous enamel. It may develop an oxide layer through workshop treatment and use, but that is not the glassy lining found in modern iron teapots.
 
-Finally there is the enamelled iron **kyūsu** (急須). This is a brewing pot: tea leaves and hot water go inside, and an enamel lining prevents the liquor from contacting raw iron. Many are colorful, compact, and sold outside Japan as “tetsubin teapots.” They are perfectly good kyūsu. They are poor water boilers, because direct flame can damage the enamel, coating, and fittings.
+Finally we arrive at the object most often sold outside Japan as a “tetsubin teapot”: the enamelled iron **kyūsu** (急須). This one brews tea. Leaves and hot water go inside, while the enamel keeps the liquor away from raw iron. These pots can be colorful, compact, and perfectly good at their job. Put one on direct flame, however, and you may damage the enamel, coating, or fittings. It is a kyūsu, not a water boiler.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Comparison of four Japanese iron vessel types">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-object-types.svg" alt="Diagram comparing chagama, tedorikama, tetsubin, and enamelled iron kyusu" loading="lazy" decoding="async" />
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-object-types.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the comparison of four Japanese iron vessel types diagram full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-object-types.svg" alt="Diagram comparing chagama, tedorikama, tetsubin, and enamelled iron kyusu" loading="lazy" decoding="async" />
+  </a>
   <figcaption>The quick identification test: mouth, spout, handle, interior, then intended use. Diagram by the author.</figcaption>
 </figure>
 
-The shortest rule is functional. **Ladle from a spoutless mouth: chagama. Carry by a handle but no spout: tedorikama. Boil and pour through a spout: tetsubin. Steep tea behind enamel: iron kyūsu.** Shapes overlap, historical catalogues use terms unevenly, and hybrid objects exist, but those four questions prevent most modern sales-language errors.
+The easiest way through the naming mess is to ignore the sales label and watch what the object does. **Ladle from a spoutless mouth: chagama. Carry by a handle but no spout: tedorikama. Boil and pour through a spout: tetsubin. Steep tea behind enamel: iron kyūsu.**
+
+Hybrid forms exist and historical catalogues use the terms unevenly. Still, this little functional test catches most modern mistakes—and perhaps saves an enamelled teapot from somebody's gas burner.
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-kama-furo.jpg" alt="Museum installation of an iron kama seated in a ceramic furo brazier beside a bamboo water ladle" loading="lazy" decoding="async" />
-  <figcaption><em>Kettle (Kama) and Brazier (Furo)</em>, eighteenth century, shown with a ladle in a museum installation. <a href="https://www.metmuseum.org/art/collection/search/39566">The Metropolitan Museum of Art, 25.215.32</a>, public domain. Resized only.</figcaption>
+  <figcaption><em>Kettle (Kama) and Brazier (Furo)</em>, eighteenth century, shown with a ladle in a museum installation. <a href="https://www.metmuseum.org/art/collection/search/39566">The Metropolitan Museum of Art, 25.215.32</a>.</figcaption>
 </figure>
 
-### Sencha and the portable iron kettle
+## Sencha and the Portable Iron Kettle
 
-The tetsubin makes more historical sense when placed beside sencha rather than pushed backward into the older history of powdered tea.
+Once the four vessels are separated, the tetsubin stops looking like an ancient mystery. It appears at almost exactly the moment when it becomes useful.
 
-Steeped-leaf tea culture arrived from China with the Ōbaku Zen world in the seventeenth century. The Kyoto National Museum describes sencha as one of the new forms of Chinese culture brought into Japan during the Edo period. The Metropolitan Museum of Art identifies the monk Baisaō (1675–1763), “the old man who sells tea,” as a key figure in popularizing the Chinese style of steeped tea. In 1738, according to Japan’s Ministry of Agriculture, Forestry and Fisheries, Nagatani Sōen developed the Uji hand-rolling method that became foundational for later Japanese green-tea production.
+The missing piece is sencha.
 
-These are related developments, not one instantaneous invention. The imported steeped-tea practice, Baisaō’s public and literati culture, improved domestic processing, and household consumption unfolded across decades. “Sencha arrived in the seventeenth century and spread in the eighteenth” is a useful summary as long as it does not pretend the drink, production method, utensils, and ceremony all appeared on the same day.
+Steeped-leaf tea culture arrived from China with the Ōbaku Zen world in the seventeenth century. The Kyoto National Museum describes sencha as one of the new forms of Chinese culture brought into Japan during the Edo period. The Metropolitan Museum of Art identifies the monk Baisaō (1675–1763)—“the old man who sells tea”—as a key figure in popularizing the Chinese style of steeped tea. Then, in 1738, Nagatani Sōen developed the Uji hand-rolling method that became foundational for later Japanese green-tea production, according to Japan’s Ministry of Agriculture, Forestry and Fisheries.
+
+History did not flip a switch in 1738. The imported practice, Baisaō's public tea culture, improved domestic processing, and household consumption spread over decades. But together they changed the world around hot water.
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-hokusai-tea-fire.jpg" alt="Early nineteenth-century Japanese print of women preparing tea around a square fire-holder" loading="lazy" decoding="async" />
-  <figcaption>Katsushika Hokusai, <em>Women Preparing Tea Around the Fire-Holder</em>, 1816. The scene places hot-water preparation in domestic life rather than an abstract utensil genealogy. <a href="https://www.metmuseum.org/art/collection/search/54114">The Metropolitan Museum of Art, JP2330</a>, public domain. Resized only.</figcaption>
+  <figcaption>Katsushika Hokusai, <em>Women Preparing Tea Around the Fire-Holder</em>, 1816. The scene places hot-water preparation in domestic life rather than an abstract utensil genealogy. <a href="https://www.metmuseum.org/art/collection/search/54114">The Metropolitan Museum of Art, JP2330</a>.</figcaption>
 </figure>
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-sencha-cups.jpg" alt="One small blue-and-white porcelain sencha cup with a lattice pattern" loading="lazy" decoding="async" />
-  <figcaption>One cup photographed from the <em>Set of Five Sencha Teacups with Lattice Pattern</em>, eighteenth century. <a href="https://www.metmuseum.org/art/collection/search/63744">The Metropolitan Museum of Art, 1975.268.673</a>, public domain. Resized only.</figcaption>
+  <figcaption>One cup photographed from the <em>Set of Five Sencha Teacups with Lattice Pattern</em>, eighteenth century. <a href="https://www.metmuseum.org/art/collection/search/63744">The Metropolitan Museum of Art, 1975.268.673</a>.</figcaption>
 </figure>
 
-Steeped tea changed what hot water needed to do. Chanoyu centered a fixed hearth, a chagama, a ladle, and a formal sequence. Sencha gatherings could be more mobile. Water had to be heated, carried, and poured into smaller steeping vessels. A compact iron kettle with a handle and spout answered that practical problem brilliantly. It belonged beside the tea table, at a portable brazier, or in the home.
+Chanoyu centered a fixed hearth, a chagama, a ladle, and a formal sequence. Sencha could move. Its hot water had to move with it: heated at a portable brazier, carried to the tea table, then poured neatly into smaller steeping vessels.
+
+Suddenly the handle and spout are not decorative details. They are the whole solution.
+
+A compact iron kettle could sit beside the tea table or in the home, survive heat, keep the hand away from the body, and pour without a ladle. The tetsubin makes far more historical sense beside sencha than when pushed backward into the older world of powdered tea.
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/cleveland-sencha-brazier.jpg" alt="Tall cream stoneware brazier decorated with coin motifs and an opening for the fire" loading="lazy" decoding="async" />
-  <figcaption><em>Brazier with Coins Motif</em>, 1893–1914. This tall stoneware ryōro is the portable type of brazier used to heat water at sencha gatherings. <a href="https://clevelandart.org/art/2022.175">Cleveland Museum of Art, 2022.175</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>. Resized only.</figcaption>
+  <figcaption><em>Brazier with Coins Motif</em>, 1893–1914. This tall stoneware ryōro is the portable type of brazier used to heat water at sencha gatherings. <a href="https://clevelandart.org/art/2022.175">Cleveland Museum of Art, 2022.175</a>.</figcaption>
 </figure>
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/met-sencha-set.jpg" alt="Lacquer panel painted with a nineteenth-century sencha tea set" loading="lazy" decoding="async" />
-  <figcaption>Shibata Zeshin, <em>Lacquer Paintings of Various Subjects: Sencha Tea Set</em>, 1882. By then sencha utensils formed a recognizable visual world of their own. <a href="https://www.metmuseum.org/art/collection/search/57191">The Metropolitan Museum of Art, 36.100.108</a>, public domain. Resized only.</figcaption>
+  <figcaption>Shibata Zeshin, <em>Lacquer Paintings of Various Subjects: Sencha Tea Set</em>, 1882. By then sencha utensils formed a recognizable visual world of their own. <a href="https://www.metmuseum.org/art/collection/search/57191">The Metropolitan Museum of Art, 36.100.108</a>.</figcaption>
 </figure>
 
-This is where the evidence becomes frustrating. The form appears in the eighteenth century, but the identity of the first maker is **uncertain**. The curator-supervised Nambu history prepared by Kyoto Women’s University repeats a Morioka tradition: around 1750, the third Koizumi Nizaemon devised a small handled kettle with a spout for outdoor tea. Traditional Crafts Aoyama Square likewise places Nambu tetsubin development in the eighteenth century. Those sources support an important regional history. They do not establish that no similar vessel was made elsewhere, or that a surviving document from 1750 records a national invention.
+This is where I wanted the sources to give me a maker, a date, and a satisfying moment of invention. They refused.
 
-So the careful wording is: **Morioka tradition credits Koizumi Nizaemon with a circa-1750 innovation, while the first tetsubin in Japan remains unproven.** “Is said to be the origin” is evidence about the tradition itself, not a substitute for a dated workshop ledger or securely provenanced object.
+The form appears in the eighteenth century, but its first maker remains **uncertain**. A curator-supervised Nambu history prepared by Kyoto Women’s University repeats the Morioka tradition that, around 1750, the third Koizumi Nizaemon devised a small handled kettle with a spout for outdoor tea. Traditional Crafts Aoyama Square also places the development of Nambu tetsubin in the eighteenth century.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Timeline comparing regional casting and tetsubin history">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-history-timeline.svg" alt="Two-track timeline separating old regional casting traditions from the later history of the tetsubin" loading="lazy" decoding="async" />
+That is good evidence for Morioka's own history. It is not proof that nobody elsewhere made a similar vessel, or that a surviving workshop ledger records a national invention in 1750.
+
+So the honest answer is less tidy: **Morioka tradition credits Koizumi Nizaemon with a circa-1750 innovation, while the first tetsubin in Japan remains unproven.** “Is said to be the origin” tells us that the tradition exists. It does not turn the tradition into a dated object.
+
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-history-timeline.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the regional casting and tetsubin history timeline full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-history-timeline.svg" alt="Two-track timeline separating old regional casting traditions from the later history of the tetsubin" loading="lazy" decoding="async" />
+  </a>
   <figcaption>The two-track timeline prevents a medieval casting date from becoming a medieval tetsubin date. Diagram by the author.</figcaption>
 </figure>
 
-### From household tool to Meiji art object
+## From Household Tool to Meiji Art Object
 
-By the late Edo period, the tetsubin had moved beyond a clever solution to pouring hot water. It was becoming a field for display.
+The first tetsubin solved a practical problem. It did not take long before makers gave it another job: to be admired.
 
-The ordinary kettle remained ordinary: durable iron, a stable base, enough volume for the household, a handle that kept the hand away from heat. The irori, the sunken hearth in a Japanese room, gave such kettles a natural home. Iron held heat, survived daily use, and could move from fire to tea setting without the ladle choreography of a formal chagama.
+The ordinary kettle remained ordinary—and useful. It had durable iron, a stable base, enough volume for the household, and a handle that kept the hand away from heat. The irori, the sunken hearth in a Japanese room, gave it a natural home. Iron held heat, survived daily use, and could move from fire to tea setting without the ladle choreography of a formal chagama.
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/irori-hearth.jpg" alt="Traditional Japanese irori hearth set into a floor, with an iron kettle suspended above charcoal" loading="lazy" decoding="async" />
-  <figcaption>The household setting matters as much as the tea room. An irori with suspended ironware. Photo: JosephCoston, via <a href="https://commons.wikimedia.org/wiki/File:Irori_Hearth.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Resized only.</figcaption>
+  <figcaption>The household setting matters as much as the tea room. An irori with suspended ironware. Photo: JosephCoston, via <a href="https://commons.wikimedia.org/wiki/File:Irori_Hearth.jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
 
-At the same time, makers transformed the body into a metal canvas. Surface texture could shift from rough casting skin to disciplined arare dots. Lids could be bronze. Handles could be forged and ornamented. Gold and silver could be inlaid into iron. Relief landscapes, birds, flowers, calligraphy, and deliberately irregular skins turned a boiler into an art object.
+But an iron body is also a tempting canvas. Makers shifted from rough casting skin to disciplined arare dots. They fitted bronze lids and forged ornamented handles. They inlaid gold and silver into iron. Landscapes, birds, flowers, calligraphy, and deliberately irregular surfaces turned a boiler into an art object.
 
-The late Edo–Meiji transition is visible in museum catalogues. Princeton University Art Museum’s public-domain record for a large Ryūbundō kettle dates it to the late nineteenth or early twentieth century and identifies an inscription under the lid. The British Museum’s eighteenth-to-nineteenth-century kettle combines a rough lower body with a burnished upper section and gold-and-silver grapevine inlay. Its curators add a warning collectors should remember: Ryūbundō-signed copper lids occur so often that some may have been fitted to bodies by other makers.
+You can watch this transformation in museum catalogues. Princeton University Art Museum dates a large Ryūbundō kettle to the late nineteenth or early twentieth century and records an inscription beneath its lid. The British Museum holds an eighteenth-to-nineteenth-century kettle with a rough lower body, a burnished upper section, and gold-and-silver grapevine inlay.
 
-That warning is bigger than one studio. **A signed lid authenticates a lid, not automatically the cast body beneath it.** Handles, lids, boxes, and certificates can be replaced or paired later. Historical marks can be copied. Important workshops also made unmarked work. Regional style is evidence for comparison, never proof by itself.
+Then its curators add one small warning with very large consequences: Ryūbundō-signed copper lids appear so often that some may have been fitted to bodies made elsewhere.
+
+For a collector, this is the sentence to remember: **a signed lid authenticates a lid, not automatically the cast body beneath it.** Handles, lids, boxes, and certificates can be replaced or paired later. Marks can be copied. Important workshops also made unmarked work. Style gives us clues; it does not give us proof.
 
 <figure class="figure-center">
   <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/meiji-shoju-tetsubin.jpg" alt="Meiji-era iron tetsubin decorated with a pine tree design" loading="lazy" decoding="async" />
-  <figcaption>A Meiji-era <em>Shōju-zu</em> tetsubin: the kettle as pictorial metalwork. Photo: 掬茶, via <a href="https://commons.wikimedia.org/wiki/File:Shoju-zu_tetsubin_(Meiji_era).jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Resized only.</figcaption>
+  <figcaption>A Meiji-era <em>Shōju-zu</em> tetsubin: the kettle as pictorial metalwork. Photo: 掬茶, via <a href="https://commons.wikimedia.org/wiki/File:Shoju-zu_tetsubin_(Meiji_era).jpg">Wikimedia Commons</a>.</figcaption>
 </figure>
 
-Modern listings often flatten this expansion into a parade of famous names and exact foundation years. The records are less tidy. Princeton describes Ryūbundō founder Shikata Yasunosuke as living from 1786 to 1841 and taking the studio name after moving to Kyoto. A retailer account gives 1764 as the firm’s beginning. The available evidence does not explain the discrepancy. Until a better record appears, 1764 should not be repeated as settled fact.
+Modern listings prefer a straight genealogy: famous founder, exact year, uninterrupted lineage. The records are not so cooperative. Princeton describes Ryūbundō founder Shikata Yasunosuke as living from 1786 to 1841 and taking the studio name after moving to Kyoto. A retailer account gives 1764 as the firm's beginning. The available evidence does not explain how a firm began before its named founder was born.
 
-The same restraint applies to the nineteenth-century boom more generally. Some kettles were domestic tools, some sencha utensils, some exhibition metalwork, and some export objects. “Meiji tetsubin” is a period description, not a guarantee of quality, maker, or even a complete original assembly.
+Perhaps another record will solve it. Until then, 1764 is a claim—not a settled date.
 
-### One country, several casting histories
+The same caution applies to “Meiji tetsubin.” Some were household tools, some sencha utensils, some exhibition metalwork, and some export objects. Meiji is a period, not a quality grade—and certainly not a guarantee that every lid, handle, box, and body began life together.
 
-The regional story is not a relay race in which one city invents the kettle and hands it intact to the next. It is a network of older casting centers, patronage systems, tea cultures, specialist metalworkers, and later revivals.
+## One Country, Several Casting Histories
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Map of the tetsubin regions covered in this series">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-regions-map.svg" alt="Schematic map locating Morioka, Mizusawa and Oshu, Yamagata, Kyoto and Omi, and Takaoka" loading="lazy" decoding="async" />
-  <figcaption>The places in this series contributed different histories. The map is a bridge, not a claim that all roads lead from one founding workshop. Diagram by the author.</figcaption>
-</figure>
-
-**Morioka** developed a tea-kettle tradition under the Nambu domain. Official and curator-supervised accounts describe the domain inviting kama makers from Kyoto and Kōshū during the seventeenth century. This is the setting for the Koizumi circa-1750 tradition and for later Nambu tetsubin. Domain patronage mattered: it supported makers, designs, and a market for tea objects.
-
-**Mizusawa, now part of Ōshū**, tells an older and different story. The Kyoto Women’s University history connects local casting to the Ōshū Fujiwara world of the twelfth century. Its historical strength was broad everyday casting, not simply elite tea kettles. Morioka and Mizusawa later exchanged techniques, and today both production areas fall under the Nambu ironware designation. The modern umbrella is real; so are the separate histories beneath it.
-
-Traditional Crafts Aoyama Square records **Nambu ironware’s designation on 17 February 1975**, with Morioka and Ōshū as its principal production areas. The designation protects defined materials and techniques. It should not be projected backward as though “Nambu tekki” always meant exactly the same geographic and commercial category.
-
-**Yamagata** claims a casting history reaching to the Heian period. The official association account treats the gathering of seventeen casting households in Dōmachi about four hundred years ago as a later consolidation, then describes the production of Buddhist implements, daily goods, bells, chagama, and iron kettles. Its thin cast surfaces and precise forms belong to Yamagata’s own technical story. An old Yamagata foundry date does not identify the date of its first tetsubin.
-
-**Takaoka** grew from an early-seventeenth-century castle-town metal industry into a specialist network of model makers, casters, finishers, polishers, colorists, engravers, and inlay workers. Takaoka copperware is not synonymous with iron kettles. Its importance here is the artistic vocabulary and division of labor that Japanese metalwork could bring to kettle bodies, lids, handles, inlay, and coloring.
-
-**Kyoto and the wider Kyoto–Ōmi world** became central to sophisticated art kettles and sencha taste. Ryūbundō is the obvious name, but not the only one. This series will treat workshop history separately from attribution, because a beautiful Kansai-style landscape and a familiar lid cannot, by themselves, establish who cast the body.
+Japan has several important casting centers. They did not all begin at the same time, make the same objects, or serve the same customers.
 
 <figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/morioka-ironware.jpg" alt="Rows of black and colored iron kettles and teapots displayed in Morioka Handi-Works Square" loading="lazy" decoding="async" />
-  <figcaption>The modern Nambu umbrella contains both traditional water kettles and enamelled iron teapots. Photo: Dquai, Morioka Handi-Works Square, via <a href="https://commons.wikimedia.org/wiki/File:Metal_teapots_in_Morioka_Handi-Works_Square.jpg">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>. Resized only.</figcaption>
+  <a href="/tea/posts/tetsubin-history/japan-regional-centers.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the map of Japan's main tetsubin regions full size in a new tab">
+    <img src="/tea/posts/tetsubin-history/japan-regional-centers.svg" alt="Map of Japan marking Morioka, Mizusawa in Oshu, Yamagata, Takaoka, and Kyoto-Omi" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>Five regional centers guide this series. Morioka and Mizusawa have different histories, but both now belong to the Nambu ironware tradition. Map based on a <a href="https://commons.wikimedia.org/wiki/File:Regions_and_Prefectures_of_Japan_-_blank.svg">blank map of Japan</a>.</figcaption>
 </figure>
 
-Then came rupture. The curator-supervised Nambu account records wartime iron controls from 1938, the prohibition of kettle production, and workshops diverted toward military demand. Postwar life brought aluminum, stainless steel, gas, and electric appliances. “Tradition” after 1945 therefore includes reconstruction, adaptation, and changing markets—not frictionless survival.
+**Morioka** is the best-known home of Nambu ironware. The Nambu domain brought in skilled casters during the seventeenth century and supported work for tea, temples, and daily life. Morioka tradition later credited Koizumi Nizaemon with developing an early tetsubin around 1750.
 
-The 1975 national designations for Nambu ironware and Yamagata casting helped formalize preservation. Contemporary makers have since revived old forms, designed lighter kettles, and developed colorful enamelled kyūsu for export. Those are different products responding to different lives. Treating every innovation as decline would be as misleading as treating every new iron teapot as an ancient tetsubin.
+**Mizusawa**, now part of **Ōshū**, has a different story. Its casting tradition grew around pots, cauldrons, tools, and other practical goods. It later joined Morioka under the modern Nambu ironware name.
 
-### How a tetsubin is made
+This is why Nambu ironware should not appear as a separate point on the map. It is a craft name shared by two production areas: Morioka and Mizusawa/Ōshū. Their histories met, but they did not begin as one tradition.
 
-Regional differences become clearest when we stop looking at finished silhouettes and follow the empty space inside the kettle.
+**Yamagata** also has an old casting industry. It became known for thin walls, precise surfaces, Buddhist objects, household goods, chagama, and iron kettles. Its tetsubin should be read through Yamagata's own methods rather than treated as another branch of Nambu work.
 
-The maker begins with a design: capacity, profile, wall thickness, mouth, spout, handle loops, and surface. An **outer mould** receives the negative of the body and its decoration. Depending on the workshop, patterns may be pressed one by one, transferred from paper, carved, or carried by a reusable mould. The arare pattern is not hammered into a finished iron kettle; its dots begin as impressions in the mould.
+**Takaoka** grew as a castle-town metalworking center in the seventeenth century. It is especially important for the specialists who model, cast, polish, color, engrave, and inlay metal. That network brought a rich decorative language to kettle bodies, lids, and handles.
 
-A separate inner core—the **nakago**—creates the cavity. The gap between core and outer mould determines the iron wall. Too wide makes a needlessly heavy kettle. Too narrow or uneven risks failure. The spout needs its own mould and must meet the body cleanly enough for molten iron to flow through the complete space.
+**Kyoto and nearby Ōmi** belong to the world of sencha and refined art kettles. Workshops such as Ryūbundō became famous for elegant shapes, pictorial surfaces, mixed metals, and finely worked lids. These features can suggest a direction, but they cannot prove a maker by themselves.
 
-<figure class="figure-center figure-scroll" tabindex="0" role="region" aria-label="Eight-step tetsubin casting process diagram">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-casting-process.svg" alt="Eight-step diagram from tetsubin design and mould making through casting, finishing, and assembly" loading="lazy" decoding="async" />
+The five centers overlap in trade and influence. They still need to be studied separately. An old regional casting date does not tell us when that region first made a tetsubin, and a shared style does not erase local history.
+
+## How a Tetsubin Is Made
+
+By this point I had spent a great deal of time looking at finished kettles: spouts, lids, signatures, dots, landscapes. The casting process only clicked when I stopped looking at the iron and started looking at the empty space inside it.
+
+A tetsubin begins as an absence.
+
+The maker designs the capacity, profile, wall thickness, mouth, spout, handle loops, and surface. An **outer mould** receives the negative of the body and its decoration. Depending on the workshop, patterns may be pressed one by one, transferred from paper, carved, or carried by a reusable mould. Those familiar arare dots are not hammered into a finished iron kettle. They exist in the mould before the iron arrives.
+
+A separate inner core—the **nakago**—creates the cavity. The narrow gap between core and outer mould becomes the kettle wall. Too wide, and the kettle is needlessly heavy. Too narrow or uneven, and the casting can fail. Even the spout needs its own mould and a clean path into the body.
+
+<figure class="figure-center">
+  <a href="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-casting-process.svg" target="_blank" rel="noopener noreferrer" aria-label="Open the eight-step tetsubin casting process diagram full size in a new tab">
+    <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/tetsubin-casting-process.svg" alt="Eight-step diagram from tetsubin design and mould making through casting, finishing, and assembly" loading="lazy" decoding="async" />
+  </a>
   <figcaption>The common logic of casting. Mould material, pattern work, firing, coloring, rust treatment, and division of labor differ by region and workshop. Diagram by the author.</figcaption>
 </figure>
 
-Molten iron is poured into the assembled mould. After cooling, the mould is broken or opened and the rough casting emerges. Feed channels and seams are removed; the maker checks the sound, surface, thickness, mouth, and spout. Further heating can create a stabilizing oxide layer inside. Exterior finishing may involve lacquer and traditional coloring solutions, but formulas and sequences vary. Finally the forged handle and fitted lid complete the vessel.
+Then comes the violent part. Molten iron fills the assembled mould. After cooling, the mould is broken or opened and the rough casting emerges. Feed channels and seams are removed. The maker checks the sound, surface, thickness, mouth, and spout. Further heating may create a stabilizing oxide layer inside; lacquer and traditional coloring solutions may finish the exterior. At last, the forged handle and fitted lid turn the casting into a kettle.
 
-Traditional Crafts Aoyama Square gives a concise Yamagata sequence: design, outer sand-and-clay mould, transferred pattern, nakago, molten iron, mould opening, firing, and coloring. Its Nambu page adds pattern pressing, surface work, lacquer finish, and the regional **kanake-dome** heat treatment. Kyoto Women’s University’s supervised process story shows the same broad logic in much greater visual detail, including separate spout moulds and core construction.
+The broad logic is shared; the details are not. Traditional Crafts Aoyama Square gives a concise Yamagata sequence: design, outer sand-and-clay mould, transferred pattern, nakago, molten iron, mould opening, firing, and coloring. Its Nambu page adds pattern pressing, surface work, lacquer finish, and the regional **kanake-dome** heat treatment. Kyoto Women’s University shows the same process in much greater visual detail, including separate spout moulds and core construction.
 
-Those copyrighted process photographs are excellent references, but they are not reproduced here because the asset pages name Iwachu, Suzuki Shuzendo, or other rights holders and provide no reuse licence. The diagram above explains the sequence without pretending that one photographed Nambu workshop represents every Japanese kettle.
+Toramonten's [Nanbu ironware guide](https://toramonten.com/en-eu/blogs/column/nanbu-ironware-tetsubin-guide) gives two useful names for that variation. In its account, *nama-gata* uses compacted sand with a binder for efficient, consistent casting; *yaki-gata* uses a fired clay mould that is broken after one pour, allowing finer control of detail. These are helpful process labels, not grades of authenticity: a workshop's actual materials, firing, finishing, and division of labor still have to be checked.
 
-### How to read the rest of this series
+The diagram above shows the common sequence. Each workshop changes the materials, moulds, finishing, and division of labor.
 
-The later regional posts will go deeper into workshops, marks, patterns, and revivals. Keep seven rules beside you.
+## Sources and Image Credits
 
-1. **Name the object before naming the maker.** Check for a spout, overhead handle, open mouth, and enamelled interior. A colorful enamelled kyūsu is not a water-boiling tetsubin.
-2. **Separate casting history from tetsubin history.** “Nine hundred years of casting” does not mean “nine hundred years of this kettle.”
-3. **Treat circa 1750 as a Morioka tradition.** It is strong enough to report and too weak to turn into a secure national invention date.
-4. **Date the evidence you actually have.** A museum’s object range, a documented inscription, and a workshop genealogy are different kinds of evidence.
-5. **Do not let a lid speak for the body.** Lids, handles, boxes, and certificates can be replacements or later pairings. A lid inscription should be recorded by characters, reading, location, technique, and documented date range.
-6. **Style is comparison, not authentication.** Arare, landscape relief, silver inlay, a particular spout, or Kyoto taste can narrow a search. None proves region or maker alone.
-7. **Expect interruption and reinvention.** Domain abolition, rail distribution, exhibitions, war, postwar household change, national designations, and export markets all changed what makers produced.
-
-<figure class="figure-center">
-  <img src="/tea/posts/tetsubin-history-1-birth-of-the-iron-kettle/cleveland-sencha-kyusu.jpg" alt="Small white porcelain side-handled sencha teapot painted with a blue Chinese landscape" loading="lazy" decoding="async" />
-  <figcaption>A porcelain kyūsu makes the functional test plain: this smaller side-handled vessel steeps and serves sencha; it is not a water-boiling tetsubin. <em>Teapot from Tea Set with Chinese Landscape</em>, 1893–1914. <a href="https://clevelandart.org/art/2022.171.1">Cleveland Museum of Art, 2022.171.1</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a>. Resized only.</figcaption>
-</figure>
-
-The next stop is Morioka, where domain-sponsored chagama making, the Koizumi account, workshop succession, and the later Nambu identity can be examined without making them stand in for all of Japan.
-
-Next: [Morioka: The Domain Kettle Becomes Nambu Ironware](/tea/tetsubin-history-2-morioka)
-
-### Sources and image credits
-
-Core history and terminology: [Traditional Crafts Aoyama Square, Nambu ironware](https://kougeihin.jp/craft/0701/), [Yamagata casting](https://kougeihin.jp/en/craft/0702/), and [Takaoka copperware](https://kougeihin.jp/en/craft/0708/); [Kyoto Women’s University, “Nambu Tekki”](https://artsandculture.google.com/story/nambu-tekki-kyoto-women-s-university/UAWBPlRYx2bcKA?hl=en), text supervised by Takako Yoshida, chief curator, Iwate Museum of Art; [Government of Japan, “Japan-made Ironware Making Its Mark Worldwide”](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202402/202402_02_en.html); the [California Academy of Sciences tetsubin research archive](https://researcharchive.calacademy.org/research/anthropology/tetsubin/hist.html); [Iwachu care guidance for enamelled iron kyūsu](https://iwachu.co.jp/en/pages/care-kyusu) and [Iwachu’s manufacturing overview](https://iwachu.co.jp/en/pages/teapot-kitchenware-process); and [HOJO’s retailer account](https://hojotea.com/categ_e/tetsubin.htm), used only for its attributed 1764 Ryūbundō claim and not as independent proof of that date.
+Core history and terminology: [Traditional Crafts Aoyama Square, Nambu ironware](https://kougeihin.jp/craft/0701/), [Yamagata casting](https://kougeihin.jp/en/craft/0702/), and [Takaoka copperware](https://kougeihin.jp/en/craft/0708/); [Kyoto Women’s University, “Nambu Tekki”](https://artsandculture.google.com/story/nambu-tekki-kyoto-women-s-university/UAWBPlRYx2bcKA?hl=en), text supervised by Takako Yoshida, chief curator, Iwate Museum of Art; [Government of Japan, “Japan-made Ironware Making Its Mark Worldwide”](https://www.gov-online.go.jp/eng/publicity/book/hlj/html/202402/202402_02_en.html); the [California Academy of Sciences tetsubin research archive](https://researcharchive.calacademy.org/research/anthropology/tetsubin/hist.html); the [Toramonten Nanbu ironware guide](https://toramonten.com/en-eu/blogs/column/nanbu-ironware-tetsubin-guide), used for its mould-method terminology rather than its commercial or health claims; and [HOJO’s retailer account](https://hojotea.com/categ_e/tetsubin.htm), used only for its attributed 1764 Ryūbundō claim and not as independent proof of that date.
 
 Sencha: [Kyoto National Museum, “Chanoyu: Tea in the Cultural Life of Kyoto”](https://www.kyohaku.go.jp/eng/exhibitions/special/chanoyu_2022/); [The Metropolitan Museum of Art on Baisaō](https://www.metmuseum.org/art/collection/search/816212); [The Met, <em>Japanese Bamboo Art: The Abbey Collection</em>](https://resources.metmuseum.org/resources/metpublications/pdf/Japanese_Bamboo_Art_The_Abbey_Collection.pdf); and [Japan’s Ministry of Agriculture, Forestry and Fisheries on Uji tea](https://www.maff.go.jp/e/policies/market/dento_syoku/menu/uzi_tea.html).
 
-Museum objects: [Smithsonian National Museum of Asian Art, FSC-M-30a-b](https://asia-archive.si.edu/object/FSC-M-30a-b/); [Princeton University Art Museum, 2019-302 a-b](https://artmuseum.princeton.edu/art/collections/objects/135940); [British Museum, 1969,0925.1.a-b](https://www.britishmuseum.org/collection/object/A_1969-0925-1-a-b); [Cleveland Museum of Art, 1980.11](https://clevelandart.org/art/1980.11), [2022.175](https://clevelandart.org/art/2022.175), and [2022.171.1](https://clevelandart.org/art/2022.171.1); and [The Metropolitan Museum of Art, 2024.553.6a, b](https://www.metmuseum.org/art/collection/search/913853), [25.215.32](https://www.metmuseum.org/art/collection/search/39566), [JP2330](https://www.metmuseum.org/art/collection/search/54114), [1975.268.673](https://www.metmuseum.org/art/collection/search/63744), and [36.100.108](https://www.metmuseum.org/art/collection/search/57191).
-
-Every reproduced external image is recorded with its source URL and licence in the project image ledger; body images are credited in their captions, and the CC0 hero is the Smithsonian object FSC-M-30a-b linked above. The four explanatory SVGs are original. The brief also requested Princeton, British Museum, Kyoto Women’s University, and Government of Japan images; no reusable institutional file could be verified for the Princeton object, the British Museum endpoint was inaccessible, and the process photographs remain third-party copyrighted. Those photographs were not published. Open-access Smithsonian, Met, and Cleveland Museum of Art images were substituted instead.
+Museum objects: [Smithsonian National Museum of Asian Art, FSC-M-30a-b](https://asia-archive.si.edu/object/FSC-M-30a-b/); [Princeton University Art Museum, 2019-302 a-b](https://artmuseum.princeton.edu/art/collections/objects/135940); [British Museum, 1969,0925.1.a-b](https://www.britishmuseum.org/collection/object/A_1969-0925-1-a-b); [Cleveland Museum of Art, 1980.11](https://clevelandart.org/art/1980.11) and [2022.175](https://clevelandart.org/art/2022.175); and [The Metropolitan Museum of Art, 2024.553.6a, b](https://www.metmuseum.org/art/collection/search/913853), [25.215.32](https://www.metmuseum.org/art/collection/search/39566), [JP2330](https://www.metmuseum.org/art/collection/search/54114), [1975.268.673](https://www.metmuseum.org/art/collection/search/63744), and [36.100.108](https://www.metmuseum.org/art/collection/search/57191).

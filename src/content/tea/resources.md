@@ -1,7 +1,9 @@
 ---
 title: "Collection of Resources About Tea and Teaware"
 pubDate: "2025-11-14"
-category: "Tea"          
+category:
+  - "Tea"
+  - "Other"
 description: "A place where you can find more resources to learn about tea and teaware"
 heroImage: "../../assets/tea/resources/intro.png"
 ---

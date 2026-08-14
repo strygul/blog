@@ -5,6 +5,7 @@ category:
   - "Tea"
   - "Early Teapots Encyclopedia"
   - "Teapots"
+  - "Yixing"
 description: "Factory #1’s “Please drink Chinese oolong” (Qing Yin) teapots: 1970s dating, authentication, and debunking popular resale stories."
 heroImage: "../../../public/tea/posts/early-teapots-the-qing-yin-series/intro.png"
 ---

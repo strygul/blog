@@ -4,6 +4,7 @@ pubDate: "2025-11-17"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "Excerpts from \"Early teapot encyclopedia II"
 heroImage: "../../assets/tea/early-teapots-1/intro.png"
 ---
@@ -107,4 +108,3 @@ little room to expand when heated, increasing the likelihood of stress lines ove
 If you’re buying one, inspect the pot carefully. These lines can be extremely faint. And if you’re using a 
 flat-base pot that has been sitting unused for a long time, it’s wise to warm the pot gently before making tea—just to 
 be safe.
-

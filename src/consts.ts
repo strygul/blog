@@ -1,3 +1,5 @@
+import teawareCollectionHero from './assets/tea/my-teaware-collection/hero.png';
+
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
@@ -11,8 +13,6 @@ export const PAGE_DESCRIPTIONS = {
 		'Archive of blog posts: writing, tech, and longer-form notes from Iev Strygul.',
 	teaIndex:
 		'Articles on Chinese tea, Yixing zisha, factory-era teapots, seals, and clay—by a collector in Copenhagen.',
-	teapotsForSaleIndex:
-		'Authentic Yixing teapots offered for sale: descriptions, photos, and buying details from a private collector.',
 	godIsDeadIndex:
 		'Essays on software engineering, artificial intelligence, and what changes when craft, judgment, and meaning meet automation.',
 	categoriesIndex: 'Browse posts by category: tea, teapots, software, and other topics from Iev Strygul’s blog.',
@@ -36,3 +36,37 @@ export const PAGE_INDEX_SUBTITLES = {
 	godIsDead: 'Notes on how software engineering and AI have killed him.',
 	ballet: 'Notes from the stalls.',
 } as const;
+
+export const TEA_CATEGORIES = [
+	{
+		slug: 'yixing',
+		title: 'Yixing',
+		tag: 'Yixing',
+		description: 'Articles on Yixing clay, teapots, makers, seals, and Factory 1 history.',
+		fixedHero: undefined,
+	},
+	{
+		slug: 'tetsubins',
+		title: 'Tetsubins',
+		tag: 'Tetsubin',
+		description:
+			'Articles on Japanese cast-iron kettles, their history, workshops, and regional traditions.',
+		fixedHero: undefined,
+	},
+	{
+		slug: 'other',
+		title: 'Other',
+		tag: 'Other',
+		description: 'Tea notes beyond teaware, from water and brewing to useful resources.',
+		fixedHero: undefined,
+	},
+	{
+		slug: 'my-teaware-collection',
+		title: 'My Teaware Collection',
+		tag: 'My Teaware Collection',
+		description: 'My personal collection of teaware',
+		fixedHero: teawareCollectionHero,
+	},
+] as const;
+
+export type TeaCategory = (typeof TEA_CATEGORIES)[number];

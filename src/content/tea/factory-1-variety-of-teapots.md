@@ -1,7 +1,9 @@
 ---
 title: "Factory 1 Varieties of Teapots: Part 1"
 pubDate: "2025-12-23"
-category: "Tea"
+category:
+  - "Tea"
+  - "Yixing"
 description: "Pictures of Yixing teapots from the Factory 1 catalogue"
 heroImage: "../../assets/tea/factory-1-variety-of-teapots/intro.png"
 ---

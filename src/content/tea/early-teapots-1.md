@@ -1,7 +1,9 @@
 ---
 title: "“Early Teapots”: The Shape of Xian Piao"
 pubDate: "2025-11-11"
-category: "Tea"
+category:
+  - "Tea"
+  - "Yixing"
 description: "Excerpts from \"Early teapot encyclopedia II" 
 heroImage: "../../../public/tea/posts/early-teapots-1/intro.png"
 ---
@@ -53,7 +55,6 @@ Both the 60s and 70s versions have thin rims, quite different from the thicker-r
     <figcaption>1970s Xian Piao lid — thin rim</figcaption>
   </figure>
 </div>
-
 
 
 

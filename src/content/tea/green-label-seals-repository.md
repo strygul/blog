@@ -1,7 +1,9 @@
 ---
 title: "Green Label Seals Repository"
 pubDate: "2025-11-19"
-category: "Tea"
+category:
+  - "Tea"
+  - "Yixing"
 description: "Repository of all the seals found across Yixing teapots of the Green Label era"
 heroImage: "../../assets/tea/early-teapots-1/intro.png"
 ---

@@ -1,7 +1,11 @@
 ---
 title: "Takaoka: Recasting the Kyoto Kettle"
 pubDate: "2026-07-31"
-category: ["Tea", "Teapots", "Tetsubin", "Japanese Craft"]
+category:
+  - "Tea"
+  - "Teapots"
+  - "Tetsubin"
+  - "Japanese Craft"
 description: "Koryo Kinjudo, Ginshodo, and Shobee show how Takaoka's production network makes contemporary tetsubin, including documented Kyoto-style utsushi without claiming a historical succession."
 heroImage: "../../../public/tea/posts/tetsubin-history-6-takaoka/hero.jpg"
 ---

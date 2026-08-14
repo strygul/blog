@@ -4,6 +4,7 @@ pubDate: "2025-12-02"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "How to identify Factory 1 seals from 1958-1960s"
 heroImage: "../../../public/tea/posts/early-teapots-1958-1960s-seals/intro.png"
 ---

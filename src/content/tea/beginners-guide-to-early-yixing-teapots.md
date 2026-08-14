@@ -4,6 +4,7 @@ pubDate: "2025-11-18"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "How to Date Early Factory Teapots with Confidence"
 heroImage: "../../assets/tea/early-teapots-1/intro.png"
 ---

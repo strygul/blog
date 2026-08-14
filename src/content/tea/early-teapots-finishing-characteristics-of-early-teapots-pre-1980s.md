@@ -4,6 +4,7 @@ pubDate: "2025-12-23"
 category:
   - "Tea"
   - "Early Teapots Encyclopedia"
+  - "Yixing"
 description: "A factual overview of interior and exterior finishing characteristics commonly found in pre-1980s teapots, highlighting typical production marks and features used for evaluation."
 heroImage: "../../../public/tea/posts/early-teapots-clay-60s-and-70s/intro.png"
 ---
