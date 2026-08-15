@@ -12,9 +12,13 @@ showHero: true
 
 <p class="collection-details">
 <b>Made by:</b> Factory 1<br />
-<b>Shape:</b> Xi Shi<br />
+<b>Origin:</b> Yixing, Jiangsu<br />
 <b>Period:</b> Mid-1970s<br />
 <b>Clay:</b> Hongni<br />
+<b>Shape:</b> Xi Shi<br />
+<b>Handle mark:</b> None<br />
+<b>Base seal:</b> <a href="/tea/f1-seals/#:~:text=Another%20variation%20of%20the%20%E2%80%9CZhong%20Guo%20Yixing%E2%80%9D,approximately%207%3A3.">Zhong Guo YiXing (中國宜興) 7:3</a><br />
+<b>Base inscription:</b> None<br />
 <b>Capacity:</b> 76 ml<br />
 <b>Pour:</b> 10 seconds (7.6 ml/s)<br />
 <b>Weight:</b> 83.3 g
