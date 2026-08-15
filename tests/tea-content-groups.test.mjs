@@ -135,14 +135,14 @@ test('the Deji-marked Chaozhou collection post contains facts and ordered photog
 	assert.doesNotMatch(markdown, /^\|/m);
 	assert.match(markdown, /<div class="collection-photos">/);
 
-	const positions = Array.from({ length: 14 }, (_, index) =>
+	const positions = Array.from({ length: 15 }, (_, index) =>
 		markdown.indexOf(`chaozhou_${String(index + 1).padStart(2, '0')}.png`),
 	);
 	assert.ok(positions.every((position) => position >= 0));
 	assert.deepEqual(positions, [...positions].sort((a, b) => a - b));
 	assert.equal(
 		markdown.match(/<figure class="full-size">\s*<img src="\/tea\/posts\/late-qing-chaozhou-teapot-48ml\/chaozhou_\d{2}\.png"/g)?.length,
-		14,
+		15,
 	);
 	assert.notDeepEqual(
 		readFileSync(new URL('../src/assets/tea/late-qing-chaozhou-teapot-48ml/intro.png', import.meta.url)),

@@ -103,4 +103,8 @@ The separate 孟臣 (*Mengchen*) invokes the celebrated potter Hui Mengchen, but
 <img src="/tea/posts/late-qing-chaozhou-teapot-48ml/chaozhou_14.png" alt="Deji-marked Chaozhou teapot, view 14" loading="lazy" decoding="async" />
 </figure>
 
+<figure class="full-size">
+<img src="/tea/posts/late-qing-chaozhou-teapot-48ml/chaozhou_15.png" alt="Deji-marked Chaozhou teapot, view 15" loading="lazy" decoding="async" />
+</figure>
+
 </div>
