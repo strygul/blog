@@ -22,8 +22,8 @@ const firstPostCard = (html) => html.match(/<ul[^>]*>[\s\S]*?(<a [\s\S]*?<\/a>)/
 test('tea index orders subcategories by their newest post date', () => {
 	const html = readPage('tea');
 	const links = [
-		'/tea/tetsubins/',
 		'/tea/my-teaware-collection/',
+		'/tea/tetsubins/',
 		'/tea/other/',
 		'/tea/yixing/',
 	];
@@ -36,15 +36,21 @@ test('collection category keeps its fixed hero on the index and category page', 
 	const index = readPage('tea');
 	const collection = readPage('tea/my-teaware-collection');
 	const post = readPage('tea/factory-1-70s-xi-shi-76ml');
+	const chaozhouPost = readPage('tea/late-qing-chaozhou-teapot-48ml');
 	const collectionCard = linkedCard(index, '/tea/my-teaware-collection/');
 	const postCard = linkedCard(collection, '/tea/factory-1-70s-xi-shi-76ml/');
+	const chaozhouCard = linkedCard(collection, '/tea/late-qing-chaozhou-teapot-48ml/');
 
 	assert.equal(sourceImage(collectionCard), sourceImage(collection));
 	assert.notEqual(sourceImage(collectionCard), sourceImage(post));
 	assert.ok(imageSource(postCard));
 	assert.equal(sourceImage(postCard), sourceImage(post));
+	assert.ok(imageSource(chaozhouCard));
+	assert.equal(sourceImage(chaozhouCard), sourceImage(chaozhouPost));
 	assert.match(post, /<div class="hero-image"/);
+	assert.match(chaozhouPost, /<div class="hero-image"/);
 	assert.match(collection, /href="\/tea\/factory-1-70s-xi-shi-76ml\/"/);
+	assert.match(collection, /href="\/tea\/late-qing-chaozhou-teapot-48ml\/"/);
 	assert.doesNotMatch(collection, /href="\/tea\/yixing-factory-/);
 });
 
