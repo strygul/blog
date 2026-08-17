@@ -1,0 +1,290 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+	pathname: string;
+}
+
+const { pathname } = Astro.props;
+const currentPath = pathname.replace(/\/+$/, '');
+
+const relatedByPath: Record<string, string[]> = {
+	'/tea/akela-missed-his-kill': [
+		'/tea/beginners-guide-to-early-yixing-teapots',
+		'/tea/early-teapots-order-versus-chaos',
+		'/tea/early-teapots-finishing-characteristics-of-early-teapots-pre-1980s',
+		'/tea/late-qing-chaozhou-teapot-48ml',
+	],
+	'/tea/beginners-guide-to-early-yixing-teapots': [
+		'/tea/early-teapots-order-versus-chaos',
+		'/tea/f1-seals',
+		'/tea/early-teapots-finishing-characteristics-of-early-teapots-pre-1980s',
+		'/tea/early-teapots-clay-60s-and-70s',
+	],
+	'/tea/clay-within-clay-jiani-and-nenni': [
+		'/tea/early-teapots-clay-60s-and-70s',
+		'/tea/early-teapots-understanding-niangao-clay',
+		'/tea/beginners-guide-to-early-yixing-teapots',
+	],
+	'/tea/cleaning-yixing-teapots': [
+		'/tea/beginners-guide-to-early-yixing-teapots',
+		'/tea/clay-within-clay-jiani-and-nenni',
+		'/tea/factory-1-70s-xi-shi-76ml',
+		'/tea/the-other-99-water-for-tea',
+	],
+	'/tea/early-teapots-1': [
+		'/tea/early-teapots-the-appreciation-of-xian-piao-series',
+		'/tea/early-teapots-flat-base-vs-grooved-base',
+		'/tea/early-teapots-five-shape-pots',
+		'/tea/early-teapots-finishing-characteristics-of-early-teapots-pre-1980s',
+	],
+	'/tea/early-teapots-13-xishi-seals-of-the-green-label-period': [
+		'/tea/green-label-seals-repository',
+		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
+		'/tea/factory-1-70s-xi-shi-76ml',
+		'/tea/f1-seals',
+	],
+	'/tea/early-teapots-1958-1960s-seals': [
+		'/tea/f1-seals',
+		'/tea/early-teapots-the-tingji-seal',
+		'/tea/early-teapots-appreciation-of-early-teapots-with-the-ting-ji-seal',
+		'/tea/yixing-factory-1-chronicle-part-1',
+	],
+	'/tea/early-teapots-appreciation-of-early-teapots-with-the-ting-ji-seal': [
+		'/tea/early-teapots-the-tingji-seal',
+		'/tea/early-teapots-1958-1960s-seals',
+		'/tea/f1-seals',
+		'/tea/early-teapots-finishing-characteristics-of-early-teapots-pre-1980s',
+	],
+	'/tea/early-teapots-appreciation-of-the-gao-tang-po': [
+		'/tea/early-teapots-five-shape-pots',
+		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
+		'/tea/f1-seals',
+		'/tea/factory-1-variety-of-teapots',
+	],
+	'/tea/early-teapots-appreciation-of-the-pigeon-beak-shui-ping': [
+		'/tea/f1-shuiping-shape-evolution',
+		'/tea/f1-seals',
+		'/tea/yixing-factory-1-chronicle-part-1',
+		'/tea/early-teapots-finishing-characteristics-of-early-teapots-pre-1980s',
+	],
+	'/tea/early-teapots-clay-60s-and-70s': [
+		'/tea/clay-within-clay-jiani-and-nenni',
+		'/tea/early-teapots-understanding-niangao-clay',
+		'/tea/beginners-guide-to-early-yixing-teapots',
+		'/tea/f1-seals',
+	],
+	'/tea/early-teapots-factory-1-chinese-era-base-seals': [
+		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
+		'/tea/f1-seals',
+		'/tea/yixing-factory-1-chronicle-part-2',
+		'/tea/factory-1-packaging-70s-80s-90s',
+	],
+	'/tea/early-teapots-factory-1-green-white-and-laser-labels': [
+		'/tea/f1-seals',
+		'/tea/green-label-seals-repository',
+		'/tea/early-teapots-factory-1-chinese-era-base-seals',
+		'/tea/factory-1-packaging-70s-80s-90s',
+	],
+	'/tea/early-teapots-finishing-characteristics-of-early-teapots-pre-1980s': [
+		'/tea/beginners-guide-to-early-yixing-teapots',
+		'/tea/early-teapots-flat-base-vs-grooved-base',
+		'/tea/early-teapots-appreciation-of-the-pigeon-beak-shui-ping',
+		'/tea/akela-missed-his-kill',
+	],
+	'/tea/early-teapots-five-shape-pots': [
+		'/tea/early-teapots-appreciation-of-the-gao-tang-po',
+		'/tea/early-teapots-the-appreciation-of-xian-piao-series',
+		'/tea/early-teapots-appreciation-of-the-pigeon-beak-shui-ping',
+		'/tea/f1-shuiping-shape-evolution',
+	],
+	'/tea/early-teapots-flat-base-vs-grooved-base': [
+		'/tea/early-teapots-1',
+		'/tea/early-teapots-the-appreciation-of-xian-piao-series',
+		'/tea/early-teapots-finishing-characteristics-of-early-teapots-pre-1980s',
+		'/tea/early-teapots-five-shape-pots',
+	],
+	'/tea/early-teapots-order-versus-chaos': [
+		'/tea/beginners-guide-to-early-yixing-teapots',
+		'/tea/f1-seals',
+		'/tea/early-teapots-finishing-characteristics-of-early-teapots-pre-1980s',
+		'/tea/yixing-factory-1-chronicle-part-1',
+	],
+	'/tea/early-teapots-the-appreciation-of-xian-piao-series': [
+		'/tea/early-teapots-1',
+		'/tea/early-teapots-flat-base-vs-grooved-base',
+		'/tea/early-teapots-five-shape-pots',
+		'/tea/f1-seals',
+	],
+	'/tea/early-teapots-the-qing-yin-series': [
+		'/tea/f1-seals',
+		'/tea/green-label-seals-repository',
+		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
+		'/tea/yixing-factory-1-chronicle-part-1',
+	],
+	'/tea/early-teapots-the-tingji-seal': [
+		'/tea/early-teapots-appreciation-of-early-teapots-with-the-ting-ji-seal',
+		'/tea/early-teapots-1958-1960s-seals',
+		'/tea/f1-seals',
+		'/tea/early-teapots-order-versus-chaos',
+	],
+	'/tea/early-teapots-understanding-niangao-clay': [
+		'/tea/clay-within-clay-jiani-and-nenni',
+		'/tea/early-teapots-clay-60s-and-70s',
+		'/tea/green-label-seals-repository',
+	],
+	'/tea/f1-seals': [
+		'/tea/early-teapots-1958-1960s-seals',
+		'/tea/green-label-seals-repository',
+		'/tea/early-teapots-13-xishi-seals-of-the-green-label-period',
+		'/tea/early-teapots-factory-1-chinese-era-base-seals',
+		'/tea/early-teapots-the-qing-yin-series',
+	],
+	'/tea/f1-shuiping-shape-evolution': [
+		'/tea/early-teapots-appreciation-of-the-pigeon-beak-shui-ping',
+		'/tea/f1-seals',
+		'/tea/early-teapots-the-qing-yin-series',
+		'/tea/yixing-factory-1-chronicle-part-1',
+	],
+	'/tea/factory-1-70s-xi-shi-76ml': [
+		'/tea/early-teapots-13-xishi-seals-of-the-green-label-period',
+		'/tea/f1-seals',
+		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
+		'/tea/cleaning-yixing-teapots',
+	],
+	'/tea/factory-1-packaging-70s-80s-90s': [
+		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
+		'/tea/early-teapots-factory-1-chinese-era-base-seals',
+		'/tea/yixing-factory-1-chronicle-part-2',
+		'/tea/factory-1-variety-of-teapots',
+	],
+	'/tea/factory-1-variety-of-teapots': [
+		'/tea/early-teapots-five-shape-pots',
+		'/tea/factory-1-packaging-70s-80s-90s',
+		'/tea/yixing-factory-1-chronicle-part-1',
+		'/tea/f1-shuiping-shape-evolution',
+	],
+	'/tea/green-label-seals-repository': [
+		'/tea/f1-seals',
+		'/tea/early-teapots-13-xishi-seals-of-the-green-label-period',
+		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
+		'/tea/early-teapots-the-qing-yin-series',
+	],
+	'/tea/late-qing-chaozhou-teapot-48ml': [
+		'/tea/akela-missed-his-kill',
+		'/tea/beginners-guide-to-early-yixing-teapots',
+		'/tea/cleaning-yixing-teapots',
+	],
+	'/tea/little-secret-i-heard': [
+		'/tea/beginners-guide-to-early-yixing-teapots',
+		'/tea/akela-missed-his-kill',
+		'/tea/f1-seals',
+		'/tea/early-teapots-finishing-characteristics-of-early-teapots-pre-1980s',
+	],
+	'/tea/resources': [
+		'/tea/beginners-guide-to-early-yixing-teapots',
+		'/tea/the-other-99-water-for-tea',
+		'/tea/tetsubin-history-1-birth-of-the-iron-kettle',
+		'/tea/yixing-factory-1-chronicle-part-1',
+	],
+	'/tea/tetsubin-history-1-birth-of-the-iron-kettle': [
+		'/tea/tetsubin-history-2-morioka',
+		'/tea/tetsubin-history-3-mizusawa-oshu',
+		'/tea/the-other-99-water-for-tea',
+	],
+	'/tea/tetsubin-history-2-morioka': [
+		'/tea/tetsubin-history-1-birth-of-the-iron-kettle',
+		'/tea/tetsubin-history-3-mizusawa-oshu',
+		'/tea/tetsubin-history-4-yamagata',
+	],
+	'/tea/tetsubin-history-3-mizusawa-oshu': [
+		'/tea/tetsubin-history-2-morioka',
+		'/tea/tetsubin-history-4-yamagata',
+		'/tea/tetsubin-history-1-birth-of-the-iron-kettle',
+	],
+	'/tea/tetsubin-history-4-yamagata': [
+		'/tea/tetsubin-history-3-mizusawa-oshu',
+		'/tea/tetsubin-history-5-kyoto-kansai',
+		'/tea/tetsubin-history-1-birth-of-the-iron-kettle',
+	],
+	'/tea/tetsubin-history-5-kyoto-kansai': [
+		'/tea/tetsubin-history-4-yamagata',
+		'/tea/tetsubin-history-6-takaoka',
+		'/tea/tetsubin-history-1-birth-of-the-iron-kettle',
+	],
+	'/tea/tetsubin-history-6-takaoka': [
+		'/tea/tetsubin-history-5-kyoto-kansai',
+		'/tea/tetsubin-history-1-birth-of-the-iron-kettle',
+		'/tea/the-other-99-water-for-tea',
+	],
+	'/tea/the-other-99-water-for-tea': [
+		'/tea/cleaning-yixing-teapots',
+		'/tea/resources',
+		'/tea/tetsubin-history-1-birth-of-the-iron-kettle',
+	],
+	'/tea/yixing-factory-1-chronicle-part-1': [
+		'/tea/yixing-factory-1-chronicle-part-2',
+		'/tea/f1-seals',
+		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
+		'/tea/early-teapots-the-qing-yin-series',
+		'/tea/f1-shuiping-shape-evolution',
+	],
+	'/tea/yixing-factory-1-chronicle-part-2': [
+		'/tea/yixing-factory-1-chronicle-part-1',
+		'/tea/early-teapots-factory-1-chinese-era-base-seals',
+		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
+		'/tea/factory-1-packaging-70s-80s-90s',
+	],
+	'/god-is-dead/notes-on-software-engineering-and-ai': [
+		'/god-is-dead/prompt-engineering-is-not-dead',
+		'/god-is-dead/the-world-never-felt-so-fake',
+	],
+	'/god-is-dead/prompt-engineering-is-not-dead': [
+		'/god-is-dead/notes-on-software-engineering-and-ai',
+		'/god-is-dead/the-world-never-felt-so-fake',
+	],
+	'/god-is-dead/the-world-never-felt-so-fake': [
+		'/god-is-dead/prompt-engineering-is-not-dead',
+		'/god-is-dead/notes-on-software-engineering-and-ai',
+	],
+	'/ballet/akram-khan-lady-macbeth': [
+		'/ballet/force-of-nature',
+		'/ballet/koreorama-no-3',
+	],
+	'/ballet/force-of-nature': [
+		'/ballet/akram-khan-lady-macbeth',
+		'/ballet/koreorama-no-3',
+	],
+	'/ballet/koreorama-no-3': [
+		'/ballet/akram-khan-lady-macbeth',
+		'/ballet/force-of-nature',
+	],
+};
+
+const [teaPosts, godIsDeadPosts, balletPosts] = await Promise.all([
+	getCollection('tea'),
+	getCollection('god-is-dead'),
+	getCollection('ballet'),
+]);
+const postTitleByPath = new Map([
+	...teaPosts.map((post) => [`/tea/${post.id}`, post.data.title] as const),
+	...godIsDeadPosts.map((post) => [`/god-is-dead/${post.id}`, post.data.title] as const),
+	...balletPosts.map((post) => [`/ballet/${post.id}`, post.data.title] as const),
+]);
+const relatedPosts = (relatedByPath[currentPath] ?? []).map((href) => {
+	const title = postTitleByPath.get(href);
+	if (!title) throw new Error(`Related post does not exist: ${href}`);
+	return { href, title };
+});
+---
+
+{
+	relatedPosts.length > 0 && (
+		<section aria-labelledby="related-posts">
+			<h2 id="related-posts">Related posts</h2>
+			<ul>
+				{relatedPosts.map((post) => <li><a href={post.href}>{post.title}</a></li>)}
+			</ul>
+		</section>
+	)
+}
