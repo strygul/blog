@@ -22,8 +22,8 @@ const firstPostCard = (html) => html.match(/<ul[^>]*>[\s\S]*?(<a [\s\S]*?<\/a>)/
 test('tea index orders subcategories by their newest post date', () => {
 	const html = readPage('tea');
 	const links = [
-		'/tea/my-teaware-collection/',
 		'/tea/tetsubins/',
+		'/tea/my-teaware-collection/',
 		'/tea/other/',
 		'/tea/yixing/',
 	];
@@ -79,6 +79,7 @@ test('tetsubin cards and opened posts use the same original hero image', () => {
 		'tetsubin-history-3-mizusawa-oshu',
 		'tetsubin-history-4-yamagata',
 		'tetsubin-history-5-kyoto-kansai',
+		'tetsubin-history-6-takaoka',
 	];
 
 	for (const slug of slugs) {
@@ -97,6 +98,7 @@ test('tetsubin hero backgrounds match the website background', async () => {
 		'tetsubin-history-3-mizusawa-oshu',
 		'tetsubin-history-4-yamagata',
 		'tetsubin-history-5-kyoto-kansai',
+		'tetsubin-history-6-takaoka',
 	];
 	const websiteBackground = [249, 249, 249];
 
@@ -125,6 +127,42 @@ test('tetsubin hero backgrounds match the website background', async () => {
 				}
 			}
 		}
+	}
+});
+
+test('the Takaoka hero is rendered entirely in neutral graphite tones', async () => {
+	const image = fileURLToPath(
+		new URL('../public/tea/posts/tetsubin-history-6-takaoka/hero.png', import.meta.url),
+	);
+	const { data, info } = await sharp(image).removeAlpha().raw().toBuffer({ resolveWithObject: true });
+
+	for (let offset = 0; offset < data.length; offset += info.channels) {
+		const [red, green, blue] = data.subarray(offset, offset + 3);
+		assert.equal(red, green, `red/green mismatch at pixel ${offset / info.channels}`);
+		assert.equal(green, blue, `green/blue mismatch at pixel ${offset / info.channels}`);
+	}
+});
+
+test('the Takaoka hero interior paper matches the website background', async () => {
+	const image = fileURLToPath(
+		new URL('../public/tea/posts/tetsubin-history-6-takaoka/hero.png', import.meta.url),
+	);
+	const { data, info } = await sharp(image).removeAlpha().raw().toBuffer({ resolveWithObject: true });
+	const websiteBackground = [249, 249, 249];
+	const interiorPaperSamples = [
+		[50, 50],
+		[200, 200],
+		[100, 700],
+		[1500, 100],
+		[1500, 500],
+		[1500, 850],
+		[1300, 900],
+	];
+
+	for (const [x, y] of interiorPaperSamples) {
+		const offset = (y * info.width + x) * info.channels;
+		const color = Array.from(data.subarray(offset, offset + 3));
+		assert.deepEqual(color, websiteBackground, `Takaoka interior background at (${x}, ${y})`);
 	}
 });
 
