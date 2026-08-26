@@ -10,7 +10,9 @@ import teaImage from '../../assets/tea/main.png';
 
 const base = import.meta.env.BASE_URL;
 const posts = (await getCollection('tea')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+	(a, b) =>
+		(b.data.updatedDate ?? b.data.pubDate).valueOf() -
+		(a.data.updatedDate ?? a.data.pubDate).valueOf(),
 );
 const categoryCards = TEA_CATEGORIES.map((category) => {
 	const latestPost = posts.find((post) =>
@@ -21,7 +23,7 @@ const categoryCards = TEA_CATEGORIES.map((category) => {
 	return {
 		href: `${base}tea/${category.slug}/`,
 		title: category.title,
-		pubDate: latestPost.data.pubDate,
+		pubDate: latestPost.data.updatedDate ?? latestPost.data.pubDate,
 		heroImage: category.fixedHero ?? latestPost.data.heroImage,
 		heroImageSrc: category.fixedHero ? undefined : latestPost.data.heroImageSrc,
 		heroImageMaxHeight: category.fixedHero ? undefined : latestPost.data.heroImageMaxHeight,

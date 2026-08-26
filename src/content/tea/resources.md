@@ -1,6 +1,7 @@
 ---
 title: "Collection of Resources About Tea and Teaware"
 pubDate: "2025-11-14"
+updatedDate: "2026-08-26"
 category:
   - "Tea"
   - "Other"
@@ -30,7 +31,7 @@ full of tea explorations and discussions about vendors. I learned a lot from the
 why, and which vendors are the best in class for each type of tea. They also have
 <a href="http://www.youtube.com/user/teadborg?feature=watch">a YouTube channel where they do a lot of tea tastings</a>.
 
-<a href="https://www.donghetea.com/"> DongheTea< /a> – a major Chinese secondary-market price tracker and trading platform 
+<a href="https://www.donghetea.com/"> DongheTea </a> – a major Chinese secondary-market price tracker and trading platform
 for Pu-erh, based in Guangzhou’s Fangcun tea market. The easiest way to think of it is as something between a Pu-erh 
 price index, a broker, and a marketplace. It became especially influential for Dayi/Taetea (大益) products. When I want 
 to buy a good Pu-erh cake, or estimate the premium a vendor is charging, I check it to get a price baseline.
