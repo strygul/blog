@@ -19,17 +19,22 @@ const sourceImage = (html) => imageSource(html)?.replace(/_[^/]+(?=\.[^.]+$)/, '
 const dateTime = (html) => html.match(/<time[^>]+datetime="([^"]+)"/)?.[1];
 const firstPostCard = (html) => html.match(/<ul[^>]*>[\s\S]*?(<a [\s\S]*?<\/a>)/)?.[1];
 
-test('tea index orders subcategories by their newest post date', () => {
+test('tea index orders subcategories by their most recently edited post', () => {
 	const html = readPage('tea');
 	const links = [
+		'/tea/other/',
 		'/tea/tetsubins/',
 		'/tea/my-teaware-collection/',
-		'/tea/other/',
 		'/tea/yixing/',
 	];
 	const positions = links.map((href) => html.indexOf(`href="${href}"`));
 	assert.ok(positions.every((position) => position >= 0));
 	assert.deepEqual(positions, [...positions].sort((a, b) => a - b));
+
+	const otherCard = linkedCard(html, '/tea/other/');
+	const resourcesCard = linkedCard(readPage('tea/other'), '/tea/resources/');
+	assert.equal(sourceImage(otherCard), sourceImage(resourcesCard));
+	assert.equal(dateTime(otherCard), '2026-08-26T00:00:00.000Z');
 });
 
 test('collection category keeps its fixed hero on the index and category page', () => {
@@ -166,10 +171,10 @@ test('the Takaoka hero interior paper matches the website background', async () 
 	}
 });
 
-test('each category card inherits the newest post date and dynamic hero', () => {
+test('unchanged category cards inherit their newest post date and dynamic hero', () => {
 	const index = readPage('tea');
 
-	for (const slug of ['yixing', 'tetsubins', 'other', 'my-teaware-collection']) {
+	for (const slug of ['yixing', 'tetsubins', 'my-teaware-collection']) {
 		const categoryCard = linkedCard(index, `/tea/${slug}/`);
 		const postCard = firstPostCard(readPage(`tea/${slug}`));
 		assert.ok(postCard, `Missing first post card for ${slug}`);
