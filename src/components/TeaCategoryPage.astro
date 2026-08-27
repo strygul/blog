@@ -67,7 +67,7 @@ const base = import.meta.env.BASE_URL;
 					items={posts.map((post) => ({
 						href: `${base}tea/${post.id}/`,
 						title: post.data.title,
-						pubDate: post.data.pubDate,
+						pubDate: post.data.updatedDate ?? post.data.pubDate,
 						heroImage: post.data.heroImage,
 						heroImageSrc: post.data.heroImageSrc,
 						heroImageMaxHeight: post.data.heroImageMaxHeight,
