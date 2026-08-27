@@ -18,7 +18,11 @@ export async function getStaticPaths() {
 				.filter((post) =>
 					post.data.category.some((tag) => tag.toLowerCase() === category.tag.toLowerCase()),
 				)
-				.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+				.sort(
+					(a, b) =>
+						(b.data.updatedDate ?? b.data.pubDate).valueOf() -
+						(a.data.updatedDate ?? a.data.pubDate).valueOf(),
+				),
 		},
 	}));
 

@@ -76,6 +76,14 @@ test('subcategory pages contain only their assigned post groups', () => {
 	assert.doesNotMatch(other, /href="\/tea\/tetsubin-history-/);
 });
 
+test('subcategory post cards use the most recent edit date', () => {
+	const other = readPage('tea/other');
+	const resourcesCard = linkedCard(other, '/tea/resources/');
+
+	assert.equal(firstPostCard(other), resourcesCard);
+	assert.equal(dateTime(resourcesCard), '2026-08-26T00:00:00.000Z');
+});
+
 test('tetsubin cards and opened posts use the same original hero image', () => {
 	const category = readPage('tea/tetsubins');
 	const slugs = [
