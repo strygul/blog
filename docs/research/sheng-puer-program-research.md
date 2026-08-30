@@ -98,7 +98,7 @@ The provisional anchor strategy follows the approved spiral curriculum: a compac
 - Do not enter a generic recipe label (for example, an unlabeled “7542”) without evidence that it is the stated factory production and batch.
 - Do not use a city name as a substitute for storage provenance.
 - Do not use cheap famous-village or highly specific old-arbor claims as terroir proof; retain them only as explicitly caveated market-literacy examples if a future flight needs one.
-- Do not use a cake-only offer for an essential path unless no credible sample exists and the limitation is explicit.
+- Use cake-only offers only in advanced recommendations, except where a cake is unusually affordable; label the exception and limitation explicitly.
 - Do not turn TeaDB's historical price references, ratings, or vendor mentions into current prices, stock status, or documented provenance.
 
 ## Budget calculations
