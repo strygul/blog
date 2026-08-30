@@ -302,3 +302,156 @@ Preserve one seller and producer label, year, April-harvest framing, sample form
 #### Budget
 
 All tiers: €12.02 incremental for both new samples—€5.58 for You Le Shan and €6.44 for Ba Nuo.
+
+## Part III — Understand interactions
+
+### Flight 9: Boutique lineage through time
+
+Compare young and late-semi-aged Xizi Hao productions as a boutique-lineage and house-style orientation. The shared producer name supplies continuity; it does not make different productions, origins, eras, or prices a universal quality ranking or a maturation control.
+
+#### Why this flight
+
+Boutique houses can provide a longer frame than one current release, but sourcing and production choices may change across that frame. The flight asks what appears coherent within a named lineage and what remains specific to each tea.
+
+#### Suggested teas
+
+- [2024 Xizi Hao Yun Tai 8582](https://www.etsy.com/listing/1837554872/2024-xizihao-yun-tai-8582-raw-puerh-16g) — Liquid Proust, 16 g, €17.18 (€10.74/10 g); **vendor claim:** Xizi Hao/Yun Tai 8582 identity; precise origin and storage unknown.
+- [2007 Xizi Hao Diangu](https://www.etsy.com/listing/4303638794/2007-diangu-xizihao-raw-puerh-16g) — Liquid Proust, 16 g, €14.60 (€9.13/10 g); **vendor claim:** Xizi Hao/Diangu identity; origin and storage unknown.
+
+#### Why these teas
+
+The samples provide two purchasable points seventeen years apart from one named Taiwanese boutique without requiring private-market cakes. **Practitioner context:** TeaDB identifies Xizi Hao as a Tainan boutique with a lineage extending to the mid-2000s; the current listings establish only the names, years, portions, prices, and stock.
+
+#### Pay attention to
+
+Aromatic evolution; integration of bitterness and astringency; texture; depth; finish; and whether any apparent house coherence survives the large production and age differences.
+
+#### Limitations
+
+The teas do not share a recipe or documented origin, material, batch, processing, compression, or storage history. Age cannot be isolated, and neither preference nor price establishes a general ranking of Xizi Hao, boutique tea, or vintages.
+
+#### Alternatives
+
+Preserve one named boutique with one young and one 10–20-year sample; relax origin or recipe similarity before changing producer, and label undocumented storage as unknown. The previously purchased 2025/2015/2007 Dayi 7542 anchors can serve as a separate factory-lineage cross-check—2025 and 2007 in every path, plus 2015 in essential and standard—but not as evidence that one house or production model is better.
+
+#### Budget
+
+All tiers: €31.78 incremental for both Xizi Hao samples. The Dayi cross-check adds €0 because its applicable anchors were purchased in Flight 1.
+
+### Flight 10: Natural humid and traditional Hong Kong storage
+
+Use the Taiwan-“humid” half of the 2007 Xizi Hao Shangpin set as a natural-humid orientation against the similarly aged 2008 Taste of Hong Kong, which the vendor says spent 12 years in a traditional Hong Kong basement warehouse. Natural humid storage means ambient transformation in a humid climate; traditional Hong Kong storage is an intentional cellar phase followed by drier resting or airing. These listings do not document every step well enough to make the pair a control.
+
+#### Why this flight
+
+“Humid,” “Hong Kong,” and “traditional” are not interchangeable. The comparison separates a climate/storage label from a deliberate commercial treatment and makes missing cellar and airing chronology visible.
+
+#### Suggested teas
+
+- [2007 XiZi Hao Shangpin USA vs Taiwan Storage](https://www.etsy.com/listing/4479672864/2007-shangpin-xizihao-usa-vs-taiwan) — Liquid Proust, two 16 g portions, €12.88 (€4.03/10 g); **vendor claim:** one portion had Taiwan “humid” storage and one Hou De/USA storage; reuse the set from Flight 5.
+- [2008 Taste of Hong Kong Raw Pu-erh](https://yeeonteaco.com/products/2008-taste-of-hong-kong-raw-pu-erh-teacake-cellar-storage) — Yee On Tea Co., 25 g, €2.52 (€1.01/10 g); **vendor claim:** Forever Tea Factory spring Qizi recipe, stored and post-fermented for 12 years in Yee On's traditional Hong Kong basement warehouse.
+- [2000 Yee On commissioned Menghai 7542](https://yeeonteaco.com/products/2000-7542-menghai-tea-factory-25-years-of-traditional-manufacturing-raw-pu-erh-tea-cake) — Yee On Tea Co., 10 g, €15.34 (€15.34/10 g); **vendor claim:** Menghai 7542 with inner ticket 2000YOTC2HK and professional traditional Hong Kong warehousing.
+- Standard/advanced context: [Aged Raw Pu-erh Tea Storage Comparison Sampler](https://yunnansourcing.com/products/aged-raw-pu-erh-tea-storage-comparison-sampler) — Yunnan Sourcing, mixed 2000–2007, six 25 g portions (150 g), €62.27 (€4.15/10 g); **vendor claim:** two Kunming, two Banna, and two Guangdong dry-storage examples; reused from Flight 2.
+
+#### Why these teas
+
+The 2007 Taiwan-labelled portion and 2008 cellar-labelled tea make the closest-period primary contrast. The 2000 7542 adds an older, recipe-identifiable traditional-storage anchor for Flight 12. The sampler broadens standard and advanced storage vocabulary while exposing how different productions and city labels weaken causal claims.
+
+#### Pay attention to
+
+**Practitioner expectations:** cellar or camphor associations, earthiness, clarity, transformation depth, body, cleanliness, and the difference between storage aroma and integrated structure. None is an authentication test.
+
+#### Limitations
+
+The Taiwan label does not document that storage was continuously natural or provide measured conditions. For the 2008 tea, rotation, measurements, and a separate airing period are unknown; for the 2000 tea, individual cellar duration and post-cellar chronology are unknown. Producer, recipe, material, age, compression, and custody also differ, so the cups cannot isolate storage method.
+
+#### Alternatives
+
+The standard/advanced [2000 Yee On commissioned Menghai 7532](https://yeeonteaco.com/products/2000-7532-menghai-tea-factory-25-years-of-traditional-experience-manufacturing-raw-pu-erh-tea-cake) is a 10 g, €15.34 substitute, but changes recipe and has weaker product-level storage documentation. The advanced-only [Private Storage Aged Raw Pu-erh](https://banateacompany.com/products/private-storage-aged-raw-pu-erh) from Bana Tea Company, 50 g/€33.50, is only a Hong Kong-warehouse orientation because its page does not establish traditional cellar treatment. For a stronger replacement, match practical age and require explicit natural-humid wording on one side and traditional cellar plus airing chronology on the other.
+
+#### Budget
+
+All tiers: €17.86 incremental for the two Yee On offers. The Shangpin set was purchased in Flight 5, and standard/advanced purchased the Yunnan Sourcing sampler in Flight 2, so neither is counted again.
+
+### Flight 11: Blend and single-area origin
+
+Compare a disclosed seven-component Menghai blend with a tea sold as material from one Pasha grove. The close commercial match lets blend construction and provenance confidence become the question, but differences cannot be attributed to blending alone.
+
+#### Why this flight
+
+Blending can pursue balance and structure, while a named-area tea can foreground a narrower origin story. Sheng labels often make those categories appear firmer than the available provenance evidence warrants.
+
+#### Suggested teas
+
+- [2025 Yunnan Sourcing Cha Qi](https://yunnansourcing.com/products/2025-yunnan-sourcing-cha-qi-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €7.21 (€2.88/10 g); **vendor claim:** blend of seven spring Menghai components; reused from Flight 3.
+- [2025 Yunnan Sourcing Xi Niu Tang Pasha](https://yunnansourcing.com/products/2025-yunnan-sourcing-xi-niu-tang-pasha-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €7.73 (€3.09/10 g); **vendor claim:** single-area, old-arbor-labelled material from Xi Niu Tang grove in Pasha/Menghai.
+
+#### Why these teas
+
+Both carry the same producer label, year, Menghai county, spring framing, 25 g format, and close price. Cha Qi is distinctive for naming seven blend components and an age-oriented construction; Xi Niu Tang is distinctive for its narrow grove claim. The latter's origin and 100–200-year tree claim are not independently verified.
+
+#### Pay attention to
+
+Aromatic focus; transitions; balance; structural breadth; regional character; returning sweetness; finish; and durability.
+
+#### Limitations
+
+The flight changes component origins, material, construction, and possibly exact processing and compression alongside blend status; storage is unknown for both. It cannot show that blending caused any sensory difference, authenticate the Pasha claim, rank blend against single-area tea, or predict aging.
+
+#### Alternatives
+
+Preserve seller and producer label, year, season, Menghai region, portion, and price tier. Require one page to disclose multiple blend components and the other to state one named area, then keep that named origin at **vendor-claim** confidence unless stronger provenance is supplied.
+
+#### Budget
+
+All tiers: €7.73 incremental for Xi Niu Tang Pasha. Cha Qi was purchased in Flight 3; the complete pair represents €14.94 of unique purchased tea.
+
+### Flight 12: Three-age 7542 sequence
+
+Revisit 7542-labelled Menghai productions in the program's young, semi-aged, and older operational bands. This is an age-band learning sequence, not a literal same-production vertical: the shared label does not hold recipe implementation, material, batch, manufacturing, or storage constant.
+
+#### Why this flight
+
+The sequence synthesizes Flights 1, 2, 9, and 10 by asking what disappears, persists, or emerges across practical age bands while making non-linear change and storage history part of the interpretation.
+
+#### Suggested teas
+
+- Young: [2025 DaYi 7542 batch 2501](https://kingteamall.com/products/2025-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea) — King Tea Mall, 25 g, €7.72 (€3.09/10 g); storage unknown; purchased in Flight 1.
+- Semi-aged: [2007 DaYi 7542 batch 701](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) — King Tea Mall, 25 g, €14.59 (€5.84/10 g); **vendor claim:** natural Guangzhou storage with moderate humidity and temperature; purchased in Flight 1.
+- Older: [2000 Yee On commissioned Menghai 7542](https://yeeonteaco.com/products/2000-7542-menghai-tea-factory-25-years-of-traditional-manufacturing-raw-pu-erh-tea-cake) — Yee On Tea Co., 10 g, €15.34 (€15.34/10 g); **vendor claim:** inner ticket 2000YOTC2HK and professional traditional Hong Kong warehousing; purchased in Flight 10.
+
+#### Why these teas
+
+They fill the program's under-10, 10–20, and over-20-year bands under a recipe-identifiable 7542 label. The 2025 and 2007 samples keep vendor and factory close; the 2000 commissioned tea extends the age range but changes vendor and storage school. The label supplies a stable question, not stable material.
+
+#### Pay attention to
+
+What fresh character disappears; what structure persists; what tertiary character emerges; bitterness integration; texture; depth; finish; and evidence of non-linear rather than simply “more” transformation.
+
+#### Limitations
+
+Year, batch, material, recipe implementation, processing, compression, vendor, sampling history, and storage all differ. Every production and storage identity is a vendor claim, and the older tea's traditional treatment makes age inseparable from storage. The sequence cannot establish a universal aging curve or quality hierarchy.
+
+#### Alternatives
+
+Essential and standard can insert the already purchased [2015 DaYi 7542 first batch](https://kingteamall.com/products/2015-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea) as a second semi-aged point; its dry, clean Guangzhou storage is a vendor claim. The Flight 9 Xizi Hao pair is an already purchased two-point boutique-lineage cross-check, not a third 7542 point. For replacement, preserve the 7542 label and all three operational age bands first, then disclose every batch, vendor, and storage change.
+
+#### Budget
+
+All tiers: €0 incremental. The primary sequence reuses the 2025 and 2007 samples from Flight 1 and the 2000 sample from Flight 10. Essential/standard already own the optional 2015 sample from Flight 1, and every path already owns the Xizi Hao context from Flight 9; none is double-counted.
+
+## Core budget summary
+
+Each total counts unique `recommended` offers once, even when an anchor appears in several flights. Flight budgets show only the first purchase: later reuses cost €0 and do not multiply the basket total.
+
+| Basket | Unique offers | Total | Scope |
+|---|---:|---:|---|
+| Essential core | 17 | **€166.80** | Lowest-cost credible path through Flights 1–12. |
+| Standard core | 18 | **€229.07** | Essential breadth plus the six-component Yunnan Sourcing storage sampler. |
+| Advanced core | 18 | **€237.66** | Independent Flights 1–12 path: omits the redundant 2015 Dayi, retains the storage sampler, and adds the explicit 2005 Thick Wrapper T8653 orientation. |
+| Advanced elective-only additions | 14 | **€122.69** | Recommended offers used only in optional Flights 13–24. |
+| Advanced all-in union | 32 | **€360.35** | Advanced core plus elective-only additions; this is an inventory union, **not the core basket**. |
+
+All prices use the 2026-08-30 EUR snapshot and exclude shipping, taxes, card-conversion spreads, and import fees.
+
+**Order consolidation:** Essential uses four vendors: King Tea Mall 6 offers/€59.20, Yunnan Sourcing 6/€45.08, Liquid Proust 3/€44.66, and Yee On Tea Co. 2/€17.86. Standard keeps the same four and changes only Yunnan Sourcing to 7/€107.35. Advanced core also uses four: Yunnan Sourcing 7/€107.35, King Tea Mall 6/€67.79, Liquid Proust 3/€44.66, and Yee On Tea Co. 2/€17.86. Consolidation identifies fewer checkouts, not lower delivered cost; compare live destination terms before purchase.
