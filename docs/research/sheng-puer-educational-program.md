@@ -168,3 +168,137 @@ Preserve one seller and producer label, year, season, sample size, and price tie
 #### Budget
 
 All tiers: €18.12 incremental for both new anchors—€8.33 for Wan Gong and €9.79 for Xin Ban'e.
+
+## Part II — Separate the variables
+
+### Flight 5: One tea, two storages
+
+Compare the two portions in Liquid Proust's 2007 XiZi Hao Shangpin set, labeled Taiwan “humid” and Hou De/USA storage. This is the best-documented purchasable same-named-production pair, not a verified split from one batch or cake.
+
+#### Why this flight
+
+Flight 2 introduced storage through unmatched teas. Holding the seller-stated year, producer, production name, portion size, and source listing together makes this a stricter test of how two storage histories may shape one named tea.
+
+#### Suggested teas
+
+- [2007 XiZi Hao Shangpin USA vs Taiwan Storage](https://www.etsy.com/listing/4479672864/2007-shangpin-xizihao-usa-vs-taiwan) — Liquid Proust, two 16 g portions (32 g total), €12.88 (€4.03/10 g); one labeled Taiwan humid storage and one Hou De/USA storage.
+
+#### Why these teas
+
+The live listing matches the seller-stated 2007 year, XiZi Hao producer, Shangpin name, two 16 g portions, and the two storage labels. Buying both histories as one set also avoids introducing vendor and purchase-format differences.
+
+#### Pay attention to
+
+Transformation; retained top notes; storage aroma; integration of bitterness and astringency; body; finish; and the appearance and flexibility of the spent leaf.
+
+#### Limitations
+
+Exact batch and individual cake identity are unknown, as are measured temperature, humidity, airflow, wrapping, custody dates, transfer dates, and the Hou De/USA protocol. Every identity and storage statement is a vendor claim, so this is an orientation rather than a controlled experiment.
+
+#### Alternatives
+
+Require the same named production and, where stated, batch, divided between two explicitly described storage histories. The unavailable ideal exemplar is Teas We Like's 2005 Dayi 7542 batch 504 Taiwan/Malaysia pair: both exact full-cake variants were out of stock when checked. If using another same-named pair, state every missing cake identifier, date, and warehouse variable.
+
+#### Budget
+
+All tiers: €12.88 incremental for the complete two-storage set.
+
+### Flight 6: 7542 and 8582
+
+Compare two 2008 Dayi recipe samples from one seller. They align on year, producer, 357 g parent-cake format, and 25 g portions, but the 7542 batch is ambiguous and the storage descriptions differ; this is recipe orientation, not batch control.
+
+#### Why this flight
+
+7542 is the best-known Menghai/Dayi plantation-blend benchmark, while 8582 is the larger-average-leaf historical reference. The third recipe digit conventionally concerns average leaf grade or size, not quality, and neither code is a bill of materials or a promised sensory result.
+
+#### Suggested teas
+
+- [2008 DaYi 7542 — batch ambiguous](https://kingteamall.com/products/2008-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-903) — King Tea Mall, 25 g, €13.73 (€5.49/10 g); purchasable sample has no batch label; vendor-stated dry, clean Guangzhou storage.
+- [2008 DaYi 8582 batch 801](https://kingteamall.com/products/2008-dayi-8582-cake-357g-puerh-sheng-cha-raw-tea) — King Tea Mall, 25 g, €9.44 (€3.78/10 g); vendor-stated Guangzhou natural storage and loose compression.
+
+#### Why these teas
+
+Same-year, same-vendor samples from one producer are the closest current sample-scale pair in the catalog. The 8582 identifies batch 801; the 7542 page title omits batch, its URL handle says 903, and its generic 25 g variant establishes neither 801 nor 903.
+
+#### Pay attention to
+
+Leaf size; aromatic register; bitterness onset; breadth; thickness; the shape of change across infusions; finish; and durability.
+
+#### Limitations
+
+Batch is not matched, and the pages use different storage and compression wording. Material, blend implementation, processing, exact compression, measured conditions, and custody remain unknown vendor claims; differences cannot be assigned to recipe alone.
+
+#### Alternatives
+
+Preserve producer, 7542/8582 identities, year, batch, storage wording, and sample format in that order. Never restore a batch number to an ambiguous variant; if batch or storage cannot be aligned, retain the recipe-orientation framing.
+
+#### Budget
+
+All tiers: €23.17 incremental for both new samples—€13.73 for 7542 and €9.44 for 8582.
+
+### Flight 7: Menghai and Xiaguan
+
+Compare same-year 2007 Dayi 7542 and Xiaguan 8653 samples from one seller with similar Guangzhou-natural storage wording. Treat the result as a factory-and-recipe orientation: the houses, recipes, material, and potentially compression all change together.
+
+#### Why this flight
+
+Menghai/Dayi and Xiaguan are long-lived high-volume producers whose numbered teas became major factory references. The selected pair places the familiar 7542 anchor beside Xiaguan's best-known raw recipe without claiming that either cup is a complete factory signature.
+
+#### Suggested teas
+
+- All tiers: [2007 DaYi 7542 batch 701](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) — King Tea Mall, 25 g, €14.59 (€5.84/10 g); vendor-stated natural Guangzhou storage; reused from Flight 1.
+- All tiers: [2007 XiaGuan 8653](https://kingteamall.com/products/2007-xiaguan-8653-iron-cake-357g-puerh-raw-tea-sheng-cha) — King Tea Mall, 25 g, €6.00 (€2.40/10 g); vendor-stated Guangzhou natural storage; batch and exact compression unknown.
+- Advanced addition: [2005 XiaGuan T8653 Thick Wrapper Iron Cake](https://kingteamall.com/products/2005-xiaguan-t8653-cake-357g-puerh-raw-tea-sheng-cha) — King Tea Mall, 25 g, €16.31 (€6.52/10 g); explicitly sold as an iron cake with first-batch/thick-wrapper and Guangzhou-natural-storage claims.
+
+#### Why these teas
+
+The primary pair shares vendor, year, 25 g format, 357 g parent-cake size, and broad natural-Guangzhou wording. Advanced adds an explicitly identified iron cake to make compression literacy more concrete, while its two-year age difference prevents it from becoming a cleaner factory control.
+
+#### Pay attention to
+
+Smoke; sharpness; bitterness; mouthfeel; sweetness; compression-related clues; finish; and which impressions persist across infusions.
+
+#### Limitations
+
+The 2007 Xiaguan title says only “Cake”: its URL does not establish an iron cake, and neither batch nor exact compression is known. Factory, recipe, material, processing, compression, and storage may all differ; even the advanced tea's identity, wrapper, batch, and storage details remain vendor claims.
+
+#### Alternatives
+
+Preserve age band, stated storage, portion size, and disclosed compression before narrowing the year gap. An explicit iron-cake versus standard-cake pair can teach form and factory context, but must never be described as a pure house-style comparison.
+
+#### Budget
+
+Essential and standard: €6.00 incremental for the 2007 Xiaguan sample; the 2007 Dayi anchor is reused from Flight 1. Advanced: €22.31 incremental for the 2007 Xiaguan and 2005 T8653 samples; it also reuses the Dayi anchor.
+
+### Flight 8: Xishuangbanna and Lincang
+
+Compare current Youle/Jinghong material from Xishuangbanna with Ba Nuo/Mengku material from Lincang. Use broad regional expectations—including the practitioner observation that young Lincang can show green bitterness—as questions, while allowing producer style to dominate the cups.
+
+#### Why this flight
+
+The pair extends the regional map beyond Flight 4 while holding seller, producer label, year, first-flush claim, sample size, and market tier unusually close. Youle belongs in Jinghong and should not be relabeled as Yiwu or Mengla.
+
+#### Suggested teas
+
+- [2025 Yunnan Sourcing You Le Shan](https://yunnansourcing.com/products/2025-yunnan-sourcing-you-le-shan-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €5.58 (€2.23/10 g); vendor-stated Youle/Jinuo Mountain material from Jinghong, Xishuangbanna.
+- [2025 Yunnan Sourcing Ba Nuo Village](https://yunnansourcing.com/products/2025-yunnan-sourcing-ba-nuo-village-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €6.44 (€2.58/10 g); vendor-stated Ba Nuo material from Mengku, Lincang.
+
+#### Why these teas
+
+Both are 2025 Yunnan Sourcing 25 g samples with first-flush claims and close prices. Their pages state broad origins on opposite sides of the comparison, making geography legible without relying on scarce vintage or private-market cakes.
+
+#### Pay attention to
+
+Fragrance type; sweetness; bitterness-to-astringency balance; cooling sensations; texture; returning sweetness; finish; and persistence.
+
+#### Limitations
+
+Both prefectures are large and internally diverse, and producer style may dominate. Village, estate, protected-area, altitude, tree-age, harvest, processing, and sensory descriptions are unverified vendor claims; two teas cannot establish a regional rule.
+
+#### Alternatives
+
+Preserve one seller and producer label, year, season, sample format, and market tier, then select broad Xishuangbanna and Lincang origins the pages actually state. Do not upgrade a village or old-arbor claim into independent provenance.
+
+#### Budget
+
+All tiers: €12.02 incremental for both new samples—€5.58 for You Le Shan and €6.44 for Ba Nuo.
