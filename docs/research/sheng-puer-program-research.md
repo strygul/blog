@@ -98,7 +98,15 @@ The starting pool is intentionally routed by specialty, not ranked. A vendor men
 
 ## Exchange-rate snapshot
 
-Task 2 records each live offer in its source currency and marks the EUR conversion fields `pending-task-5`. Task 5 will establish the exchange-rate source, rate, normalized EUR price, and EUR-per-10 g values. Current source prices exclude shipping, tax, and import costs.
+**Catalog and availability check date:** 2026-08-30. **ECB market/reference date:** 2026-08-28, the latest published working-day snapshot before the Sunday catalog check. Source: [European Central Bank euro foreign-exchange reference rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html). The ECB table quotes source-currency units per EUR, so the catalog records their reciprocals as required:
+
+| Source currency | ECB quote (units per EUR) | Catalog `eur_rate` (1 source-currency unit = N EUR) |
+|---|---:|---:|
+| USD | 1.1643 | 0.858885 EUR |
+| GBP | 0.85720 | 1.166589 EUR |
+| HKD | 9.1276 | 0.109558 EUR |
+
+One snapshot is used for all 43 rows. `price_eur` is source price multiplied by `eur_rate`; `eur_per_10g` is rounded `price_eur` divided by purchase grams and multiplied by 10. Both EUR fields are rounded to two decimals. Rates are reference values, not promised card-settlement rates, and all amounts exclude shipping, tax, and import costs.
 
 ## Candidate and pairing notes
 
@@ -121,8 +129,8 @@ These notes explain the candidates whose live variants were checked on 2026-08-3
 
 ### Flights 4 and 8: introductory terroir
 
-- **Flight 4 primary candidate:** 25 g each of Yunnan Sourcing's 2025 Wan Gong Village wild-arbor-labelled tea (Yiwu/Mengla, USD 9.70) and 2025 Xin Ban'e (a stated Lao Man'e/Xin Banzhang spring blend, USD 11.40). This is the same vendor, brand, harvest year, sample size, and a similar price tier. It asks whether tasters find the softer/sweeter-versus-punchier/bitter practitioner expectation useful; it does not prove a regional law because material, village, blend status, and processing differ.
-- **Flight 8 primary candidate:** 25 g each of Yunnan Sourcing's 2025 You Le Shan (Xishuangbanna/Jinghong, USD 6.50) and 2025 Ba Nuo Village (Mengku, Lincang, USD 7.50). Same vendor, producer label, year, first-flush claim, sample size, and close price make this a strong broad-prefecture comparison. TeaDB explicitly treats Youle as distinct from Yiwu; do not relabel it Mengla/Yiwu.
+- **Flight 4 selected pair:** 25 g each of Yunnan Sourcing's 2025 Wan Gong Village wild-arbor-labelled tea (Yiwu/Mengla, USD 9.70) and 2025 Xin Ban'e (a stated Lao Man'e/Xin Banzhang spring blend, USD 11.40). This is the same vendor, brand, harvest year, sample size, and a similar price tier. It asks whether tasters find the softer/sweeter-versus-punchier/bitter practitioner expectation useful; it does not prove a regional law because material, village, blend status, and processing differ.
+- **Flight 8 selected pair:** 25 g each of Yunnan Sourcing's 2025 You Le Shan (Xishuangbanna/Jinghong, USD 6.50) and 2025 Ba Nuo Village (Mengku, Lincang, USD 7.50). Same vendor, producer label, year, first-flush claim, sample size, and close price make this a strong broad-prefecture comparison. TeaDB explicitly treats Youle as distinct from Yiwu; do not relabel it Mengla/Yiwu.
 - TeaDB's region profiles supply hypotheses only: greater Yiwu often reads softer and sweet-returning; Menghai/Bulang more forceful and bitter; young Lincang often green and bitter; Pu'er/Simao is too internally varied for a single profile. Treat every village, grove, elevation, and tree-age statement in these offers as `vendor_claim`.
 
 ### Flight 5: matched storage
@@ -137,7 +145,24 @@ These notes explain the candidates whose live variants were checked on 2026-08-3
 - **Boutique lineage comparison:** Liquid Proust currently offers 16 g each of 2024 Xizi Hao Yun Tai 8582 and 2007 Xizi Hao Diangu. This gives accessible young versus late-semi-aged material from one boutique without private-market cakes. Different recipes/origins and undocumented storage make it a lineage comparison, not a maturation control.
 - **Traditional-storage core choices:** Yee On's 10 g 2000 7542 and 25 g 2008 “Taste of Hong Kong” both explicitly name traditional Hong Kong warehouse treatment; the latter specifies 12 years in a basement warehouse. They differ in producer, recipe, age, and treatment duration, so they are two viable orientations rather than a controlled pair. The 10 g 2000 7532 is a same-year/factory substitute for the 7542 whose page supplies less process detail. Bana's 50 g 2000 Menghai-area Hong Kong-warehouse tea is an orientation alternate only because its page does not document traditional cellar treatment.
 - **Substitution rule:** preserve raw tea, the intended recipe where possible, and the same practical age band; require explicit traditional-Hong-Kong wording plus a stated post-cellar airing/rest history for a controlled replacement. If airing history is absent, label the replacement “traditional-storage orientation,” never an exact match.
-- **Flight 11 primary candidate:** 25 g each of Yunnan Sourcing's 2025 Cha Qi (vendor-stated blend of seven spring Menghai components, USD 8.40) and 2025 Xi Niu Tang Pasha (vendor-stated single-area Pasha material, USD 9.00). Same producer label, year, prefecture/county, first-flush claim, sample size, price tier, and age-oriented language make the blend question unusually well matched. The Pasha origin and old-arbor claim remain unverified; this compares disclosed construction, not objective quality or aging potential.
+- **Flight 11 selected pair:** 25 g each of Yunnan Sourcing's 2025 Cha Qi (vendor-stated blend of seven spring Menghai components, USD 8.40) and 2025 Xi Niu Tang Pasha (vendor-stated single-area Pasha material, USD 9.00). Same producer label, year, prefecture/county, first-flush claim, sample size, price tier, and age-oriented language make the blend question unusually well matched. The Pasha origin and old-arbor claim remain unverified; this compares disclosed construction, not objective quality or aging potential.
+
+#### Core-flight substitution rules
+
+These are the durable replacement rules for the twelve core flights. A substitute preserves the teaching variable before it preserves a famous name or low price.
+
+1. **Youth and transformation:** keep Dayi/Menghai 7542 and compare a current production with a 10–20-year example; relax batch and exact year before changing recipe or factory, and disclose every storage difference.
+2. **Storage changes the clock:** require explicit cool/dry and warm/humid wording, then match age band, factory, recipe, compression, and portion as closely as stock permits. If production identity differs, call it broad orientation, never storage causation.
+3. **Factory and boutique:** preserve a shared recent year, sample format, similar minimum price, and a clear large-factory versus disclosed small-brand construction contrast. Replace both sides if only one side would move to another price or age band.
+4. **Yiwu and Bulang:** preserve one seller/producer label, year, season, sample size, and price tier while choosing explicitly named eastern-Xishuangbanna and Bulang/Menghai material. Keep all micro-area and tree-age labels attached to `vendor_claim`.
+5. **One tea, two storages:** require the same named production and, where stated, batch, divided into two explicitly described storage histories. If that cannot be bought, use a documented same-named-production pair as an orientation and state the missing cake identity, dates, and measured conditions.
+6. **7542 and 8582:** preserve factory, recipe identities, year, batch, storage wording, and sample format in that order. Never restore a batch to the ambiguous 2008 7542 sample or treat it as a batch control.
+7. **Menghai and Xiaguan:** preserve age band, stated storage, portion size, and disclosed compression before narrowing the year gap. Never call an iron-cake/standard-cake contrast a pure house-style comparison.
+8. **Xishuangbanna and Lincang:** preserve one seller/producer label, year, season, sample format, and market tier, then choose broad origins the pages actually state. Do not upgrade a village claim into independent provenance.
+9. **Boutique lineage through time:** keep one named boutique lineage with one young and one 10–20-year sample; relax origin/recipe similarity before changing producer, and label undocumented storage as unknown.
+10. **Natural humid and traditional Hong Kong:** keep a similar practical age band and require explicit natural-humid wording on one side and traditional-Hong-Kong treatment on the other. Without cellar and airing chronology, teach a storage-school orientation only.
+11. **Blend and single origin:** preserve seller/producer label, harvest year and season, Menghai region, portion, and price tier; require one page to disclose blend construction and the other to state one named area.
+12. **Three-age vertical:** reuse the selected 7542 anchors and require young, 10–20-year, and over-20-year operational bands. Replace within a recipe-identifiable lineage first and make storage, batch, and vendor changes part of the lesson rather than attributing differences to age alone.
 
 ### Flights 13–15: advanced terroir
 
@@ -145,14 +170,14 @@ These notes explain the candidates whose live variants were checked on 2026-08-3
 - **Flight 13 substitution ladder:** first preserve one producer, a shared current harvest year and season, sample format, and market tier while replacing the missing tea with another disclosed Yiwu/Mengla subregion. If no same-year set exists, keep the producer and subregional spread, then relax year as little as possible while matching age band and source-price-per-gram tier. Only then change producer, and only for all cups together so the set does not become a one-off vendor contrast. Keep at least one six-famous-mountains tea and one eastern-border Yiwu-area tea; disclose leaf-variety and tree-age claims rather than treating them as controlled.
 - **Flight 14 best exact lead:** Farmer Leaf's 2026 Lao Man E Bitter Tea (single bitter tree, USD 25/20 g) against its 2026 Lao Man E Gushu sweet-varietal sample (USD 23/20 g). The vendor, harvest, village, big-tree framing, sample size, and price are close; the bitter-tree sample is currently `unavailable`, while the sweet-varietal sample is in stock. The vendor describes the first as persistent/extreme bitterness and the second as short-lived medium bitterness with strong sweetness; these are vendor claims, not guaranteed sensory results.
 - **Flight 14 available substitute:** Tea Encounter's 2026 Lao Man'e Kucha (GBP 6/20 g) is an in-stock explicitly bitter-varietal sample and can be set beside Farmer Leaf's in-stock 2026 sweet-varietal Gushu (USD 23/20 g). It preserves year, village, sample size, and stated varietal contrast but changes producer/vendor and lacks a matched tree-age disclosure. Yunnan Sourcing 2025 Xin Ban'e is a cheaper bitter Bulang-blend orientation, not a varietal or village control. Do not substitute a generic sweet Yiwu and call it a Bulang bitter/sweet lesson.
-- **Flight 15 primary candidate:** 25 g each of Yunnan Sourcing's 2024 Mo Lie Shan (Mengku side, USD 8.50) and 2024 Na Han Village (vendor places it near Bangdong, USD 12.00). Same producer label, year, April harvest, sample size, and Lincang prefecture isolate the west/east regional question better than a Bingdao/Xigui prestige pair. The vendor page inconsistently says Na Han is in “the county Mengku” and later “Bang Dong county”; catalog it as Bangdong-side per the page's repeated village/harvest wording and TeaDB's Nahan placement, while retaining the inconsistency in notes.
+- **Flight 15 selected pair:** 25 g each of Yunnan Sourcing's 2024 Mo Lie Shan (Mengku side, USD 8.50) and 2024 Na Han Village (vendor places it near Bangdong, USD 12.00). Same producer label, year, April harvest, sample size, and Lincang prefecture isolate the west/east regional question better than a Bingdao/Xigui prestige pair. The vendor page inconsistently says Na Han is in “the county Mengku” and later “Bang Dong county”; catalog it as Bangdong-side per the page's repeated village/harvest wording and TeaDB's Nahan placement, while retaining the inconsistency in notes.
 - **Flight 15 substitution rule:** replace Mo Lie with another disclosed Mengku-side sample and Na Han with a disclosed Bangdong/Xigui-side sample from the same seller/year before relaxing year. Never infer Xigui material merely from proximity to Xigui.
 
 ### Flights 16–18: material and processing
 
-- **Flight 16 primary candidate:** Yunnan Sourcing 2025 Jiu Tai Po spring (USD 10.50/25 g) and autumn (USD 6.50/25 g). Both pages state Jiu Tai Po, Jinggu, 200–300-year-old trees, one producer label, one year, one sample size, and the same basic sun-dried/stone-pressed craft. Cake weights differ (250 g spring, 357 g autumn), and every origin/tree-age/sensory assertion is a vendor claim, but the samples avoid that format difference at service.
+- **Flight 16 selected pair:** Yunnan Sourcing 2025 Jiu Tai Po spring (USD 10.50/25 g) and autumn (USD 6.50/25 g). Both pages state Jiu Tai Po, Jinggu, 200–300-year-old trees, one producer label, one year, one sample size, and the same basic sun-dried/stone-pressed craft. Cake weights differ (250 g spring, 357 g autumn), and every origin/tree-age/sensory assertion is a vendor claim, but the samples avoid that format difference at service.
 - **Flight 16 substitution rule:** preserve producer, named origin, harvest year, sample weight, and disclosed craft; relax tree-age label before relaxing origin or year. If only differently priced spring/autumn samples remain, teach seasonal price and selection as a confounder rather than a quality ranking.
-- **Flight 18 primary candidate:** Farmer Leaf 2026 Jingmai Miyun (USD 4/20 g), presented as the shengtai/natural-garden baseline, against 2026 Jingmai Gulan (USD 15/20 g), explicitly blended from five ancient gardens. Both are current samples from one producer, mountain, and harvest year. The page describes shengtai as modern plantations later converted to lower-density ecological gardens, so call this **natural-garden-labelled versus ancient-garden-labelled**, not chemically managed plantation versus independently verified old arbor.
+- **Flight 18 selected pair:** Farmer Leaf 2026 Jingmai Miyun (USD 4/20 g), presented as the shengtai/natural-garden baseline, against 2026 Jingmai Gulan (USD 15/20 g), explicitly blended from five ancient gardens. Both are current samples from one producer, mountain, and harvest year. The page describes shengtai as modern plantations later converted to lower-density ecological gardens, so call this **natural-garden-labelled versus ancient-garden-labelled**, not chemically managed plantation versus independently verified old arbor.
 - **Flight 18 tighter but currently incomplete lead:** Farmer Leaf's 2026 Lao Man E small-trees sample (USD 6/20 g, sold out) versus its in-stock 2026 Lao Man E Gushu sweet-varietal sample (USD 23/20 g). The small-tree page says the gardens were largely planted after 2004; varietal mix differs, so tree age is not the only variable.
 - **Flight 18 substitution rule:** require one producer, mountain/village, year, season, and sample size plus explicit garden-history/material language on both pages. Do not infer tree age from price, trunk photos, `qiao mu`, or taste.
 - **Flight 17 usable orientation/fallback:** pour 25 g each of Yunnan Sourcing 2025 Cha Qi and 2025 Yi Bang. This holds vendor, producer label, harvest year, spring framing, sample weight, and young-raw format constant. Cha Qi's page states a seven-component Menghai blend, wok kill-green, sun-drying, and an age-friendly stone-pressed density; Yi Bang's page states single-area small-leaf material, copper-wok hand fixing, an unusually large 40 kg stone press, an approximately 35 °C post-press finish, and an aim of preserving high fragrance and clarity. These are explicit vendor construction descriptions, not proof of opposed “traditional” and “modern” processing.
@@ -172,14 +197,39 @@ These notes explain the candidates whose live variants were checked on 2026-08-3
 
 - Flight 22 can deepen the 2007 Xizi Hao matched pair, then contrast it with the Yunnan Sourcing multi-production storage sampler to expose the difference between a match and an orientation set.
 - Flight 23 can revisit the 2000 Yee On 7542, the 2008 “Taste of Hong Kong,” the more weakly documented 2000 7532 substitute, and the 2007/2024 Xizi Hao lineage. The exercise should identify which claims are product facts, which are vendor storage claims, and which sensory expectations came only from TeaDB.
-- **Flight 24 primary candidate:** Yunnan Sourcing 2025 Bing Dao Lao Zhai (USD 9/10 g) against 2025 Mo Lie Shan (USD 7.60/25 g). The pages place both in the Mengku/Bingdao Lake area, use the same producer label and April 2025 first-flush framing, and explicitly cross-link the productions. At source prices the Bingdao-labelled sample costs USD 0.90/g and Mo Lie USD 0.304/g, so Mo Lie is materially lower before Task 5 currency normalization.
+- **Flight 24 selected pair:** Yunnan Sourcing 2025 Bing Dao Lao Zhai (USD 9/10 g) against 2025 Mo Lie Shan (USD 7.60/25 g). The pages place both in the Mengku/Bingdao Lake area, use the same producer label and April 2025 first-flush framing, and explicitly cross-link the productions. At source prices the Bingdao-labelled sample costs USD 0.90/g and Mo Lie USD 0.304/g, so Mo Lie is materially lower before Task 5 currency normalization.
 - Mo Lie is educationally comparable because it is disclosed as a nearby Mengku mountain, not because it is equivalent to Bingdao or a substitute for its claimed material. The comparison asks what the famous name, smaller production, selection, and vendor story add to price and expectation. Bingdao identity, both tree-age ranges, and all tasting/aging language remain vendor claims.
 - **Flight 24 substitution rule:** keep producer, year, season, broad region, and sample format close; require the cheaper page to document a neighboring but separately named origin and to cost at least 30% less per gram in source currency. Never present adjacency as sensory equivalence or authenticate a prestige origin from its price.
 - Do not substitute the sold-out Teas We Like 2005 Dayi pair or any cake-only boutique listing without rechecking both exact variants. Cake-only options stay advanced unless a clearly labeled unusually affordable exception is deliberately approved.
 
 ## Anchor selection rationale
 
-The provisional anchor strategy follows the approved spiral curriculum: a compact set of repeatable, documented-or-clearly-qualified productions should recur across core flights. The 2025 King Tea Mall Dayi 7542 now recurs in Flights 1 and 3, the 2007 Dayi 7542 in Flights 1, 7, and 20, and Yunnan Sourcing Cha Qi in Flights 3, 11, and 17. The same-year 2008 Dayi recipe set supplies a separate, explicitly batch-confounded orientation for Flights 6 and 19. Liquid Proust's Xizi Hao samples recur for lineage/brand literacy. All rows remain `role=candidate` or `alternative` and `anchor=no` for Task 5 selection; Task 4 does not promote a vendor or tea into the final basket.
+The selected core contains **18 unique anchors**, the upper edge of the approved 14–18 range. `anchor=yes` means a currently purchasable recommended offer belongs to the reusable core set; several recur directly, while single-flight counterparts complete a comparison without forcing a second near-duplicate purchase elsewhere. Optional flight IDs show where the same purchase works again. The essential and standard totals count every offer once, regardless of how many flights list it.
+
+| Anchor | Educational role | Flight IDs | Tier path(s) |
+|---|---|---|---|
+| 2025 Dayi 7542 batch 2501, 25 g | Young 7542 and current factory half | 1, 3, 9, 12 | essential, standard, advanced |
+| 2015 Dayi 7542 first batch, 30 g | Dry-stated mid-age 7542 and storage orientation | 1, 2, 9, 12 | essential, standard |
+| 2007 Dayi 7542 batch 701, 25 g | Natural-Guangzhou late-semi-aged 7542 and Menghai half | 1, 2, 7, 9, 12, 20, 22 | essential, standard, advanced |
+| Yunnan Sourcing aged-storage sampler, 150 g | Six-cup broad storage-school orientation | 2, 10, 22 | standard, advanced |
+| 2007 XiZi Hao Shangpin two-storage set, 32 g | Best current same-named-production storage pair | 5, 10, 22 | essential, standard, advanced |
+| 2000 Yee On commissioned 7542, 10 g | Over-20-year 7542 and explicit traditional-HK anchor | 10, 12, 23 | essential, standard, advanced |
+| 2008 Taste of Hong Kong, 25 g | Low-cost explicit 12-year cellar orientation | 10, 23 | essential, standard, advanced |
+| 2024 XiZi Hao Yun Tai 8582, 16 g | Young Taiwanese-boutique lineage endpoint | 9, 12, 21, 23 | essential, standard, advanced |
+| 2007 XiZi Hao Diangu, 16 g | Late-semi-aged boutique lineage endpoint | 9, 12, 21, 23 | essential, standard, advanced |
+| 2025 Wan Gong, 25 g | Yiwu/Mengla half and optional Yiwu subregion reuse | 4, 13 | essential, standard, advanced |
+| 2025 Xin Ban'e, 25 g | Bulang/Menghai half and bitter-Bulang orientation | 4, 14 | essential, standard, advanced |
+| 2025 You Le Shan, 25 g | Xishuangbanna/Jinghong half | 8 | essential, standard, advanced |
+| 2025 Ba Nuo Village, 25 g | Lincang/Mengku half | 8 | essential, standard, advanced |
+| 2025 Cha Qi, 25 g | Current boutique, blend, and construction anchor | 3, 11, 17 | essential, standard, advanced |
+| 2025 Xi Niu Tang Pasha, 25 g | Stated single-area counterpart to Cha Qi | 11 | essential, standard, advanced |
+| 2008 Dayi 7542 batch-ambiguous sample, 25 g | Same-year recipe orientation only | 6, 19 | essential, standard, advanced |
+| 2008 Dayi 8582 batch 801, 25 g | 8582 half of the recipe orientation | 6, 19 | essential, standard, advanced |
+| 2007 Xiaguan 8653, 25 g | Same-year Xiaguan half against 2007 Dayi | 7, 20 | essential, standard, advanced |
+
+The 2015 7542 and the large storage sampler are not both needed in the advanced path: the sampler supplies the stronger Flight 2 orientation, while 2007 Dayi remains the mid-age anchor for Flights 1, 7, and 12. The advanced Flight 7/20 addition is the explicitly named 2005 Thick Wrapper T8653 sample; it improves historical/compression literacy but changes year, so it is an added orientation, not a cleaner control. Higher prices do not buy a more controlled current pair for Flights 3–4, 8–9, or 11, so those paths reuse the same well-matched samples.
+
+Supply prevents a clean upper tier in several places. The exact Teas We Like 2005 Dayi 7542 Taiwan/Malaysia pair is unavailable, so Flight 5 keeps the live XiZi Hao split set. Flight 6 has no complete current batch-matched 7542/8582 pair: the King Tea Mall 7542 sample remains batch-ambiguous, and the cake-only Teas We Like 8582 does not solve that mismatch. Optional Flight 14 uses an available cross-vendor Lao Man'e bitter/sweet pair because Farmer Leaf's tighter bitter-tree sample is unavailable; Flight 18's tighter small-tree lead is also unavailable. Flight 17 remains an explicitly confounded construction orientation, not a causal processing test.
 
 ## Rejected candidates
 
@@ -197,7 +247,17 @@ The provisional anchor strategy follows the approved spiral curriculum: a compac
 
 ## Budget calculations
 
-The TSV now contains source-currency prices and purchase quantities, but intentionally leaves all EUR fields for Task 5. That task must normalize each verified offer as `price_eur / purchase_g * 10`, keep reused anchors from being double-counted, and separately total essential, standard, and advanced paths. Consolidation opportunities should account for vendor location and shipping only after the chosen path is assembled.
+Each path is independently purchasable and counts a reused offer once. A row carrying several flight IDs is not multiplied by flight count, and `alternative` or `unavailable` rows never enter these totals.
+
+| Path | Unique recommended offers | Total | What the tier adds |
+|---|---:|---:|---|
+| Essential | 17 | **166.80 EUR** | Lowest-cost credible core: the three current Dayi age/storage anchors, all required paired samples, and maximum reuse across Flights 1–12. |
+| Standard | 18 | **229.07 EUR** | Essential core plus the 150 g/six-component Yunnan Sourcing storage sampler for a stronger broad-storage orientation. |
+| Advanced | 32 | **360.35 EUR** | Independent core path plus the currently purchasable optional-flight samples; omits redundant 2015 Dayi while adding the explicit 2005 Thick Wrapper T8653 and the selected advanced terroir, material, recipe, brand, storage, and market-literacy offers. |
+
+Shipping, tax, card conversion spreads, and import fees are excluded. They may materially change the cheapest practical path.
+
+**Order consolidation:** essential and standard both collapse to four vendors. Essential groups 6 King Tea Mall offers (59.20 EUR), 6 Yunnan Sourcing offers (45.08 EUR), 3 Liquid Proust offers (44.66 EUR), and 2 Yee On offers (17.86 EUR). Standard keeps the same vendor count and changes only Yunnan Sourcing to 7 offers/107.35 EUR. Advanced groups 15 Yunnan Sourcing offers (170.66 EUR), 7 King Tea Mall offers (78.09 EUR), 3 Liquid Proust offers (44.66 EUR), 3 Farmer Leaf offers (36.07 EUR), and 2 Yee On offers (17.86 EUR), plus one Tea Encounter offer (7.00 EUR) and one white2tea offer (6.01 EUR). Consolidation is an ordering opportunity, not a shipping-price claim; compare each vendor's live checkout and destination rules before purchase.
 
 ## Research caveats
 
