@@ -71,7 +71,7 @@ Essential and standard: €30.03 incremental for all three anchors. Advanced: �
 
 ### Flight 2: Storage changes the clock
 
-Essential and standard contrast the dry-stated 2015 and natural-Guangzhou 2007 anchors for a low-cost first orientation; standard then adds the six-tea sampler. Advanced reuses only the 2007 anchor and adds that sampler to widen the map across its vendor-stated Kunming, Banna, and Guangdong dry-storage groups. The lesson is how storage labels can frame transformation, not that these unmatched teas isolate climate.
+The essential path uses an exact two-tea subset: the dry-stated 2015 and natural-Guangzhou 2007 anchors. Standard and advanced use an exact three-component subset from the six-tea sampler: 2006 Kunming, 2007 Banna, and 2005 Guangdong-dry examples. The sampler's other three components are optional follow-up, not part of this flight. The lesson is how storage labels can frame transformation, not that these unmatched teas isolate climate.
 
 #### Why this flight
 
@@ -79,13 +79,13 @@ Storage can make teas of similar practical age present very differently. Learnin
 
 #### Suggested teas
 
-- Essential/standard: [2015 DaYi 7542 first batch](https://kingteamall.com/products/2015-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea) — King Tea Mall, 30 g, €7.72 (€2.57/10 g); vendor-stated dry, clean Guangzhou storage; reused from Flight 1.
-- All tiers: [2007 DaYi 7542 batch 701](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) — King Tea Mall, 25 g, €14.59 (€5.84/10 g); vendor-stated natural Guangzhou storage with moderate humidity and temperature; reused from Flight 1.
-- Standard/advanced: [Aged Raw Pu-erh Tea Storage Comparison Sampler, mixed 2000–2007](https://yunnansourcing.com/products/aged-raw-pu-erh-tea-storage-comparison-sampler) — Yunnan Sourcing, six 25 g portions (150 g), €62.27 (€4.15/10 g); vendor-stated storage groups of two Kunming, two Banna, and two Guangdong dry-storage examples.
+- **Essential subset:** [2015 DaYi 7542 first batch](https://kingteamall.com/products/2015-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea) — King Tea Mall, 30 g, €7.72 (€2.57/10 g); vendor-stated dry, clean Guangzhou storage; reused from Flight 1.
+- **Essential subset:** [2007 DaYi 7542 batch 701](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) — King Tea Mall, 25 g, €14.59 (€5.84/10 g); vendor-stated natural Guangzhou storage with moderate humidity and temperature; reused from Flight 1.
+- **Standard/advanced subset, supplied by one purchase:** [Aged Raw Pu-erh Tea Storage Comparison Sampler, mixed 2000–2007](https://yunnansourcing.com/products/aged-raw-pu-erh-tea-storage-comparison-sampler) — Yunnan Sourcing, six 25 g portions (150 g), €62.27 (€4.15/10 g). The three Flight 2 components are 2006 Hong Xuan “Yi Wu Zheng Shan” (Kunming), 2007 Yi Wu Zheng Shan “Jin Tai Hao” (Banna), and 2005 CNNP “Farmer Ban Zhang” (Guangdong dry). The 2000 Kunming, 2003 Banna, and 2004 Guangdong-dry components are optional follow-up outside the flight.
 
 #### Why these teas
 
-Essential and standard reuse both 7542 purchases from Flight 1, giving them contrasting seller vocabulary within one recipe; advanced reuses only the 2007 anchor because its Flight 1 path omitted the 2015 tea. The sampler is special because it places two examples in each of three vendor-stated storage groups, giving standard and advanced a broader orientation than a single binary.
+The essential subset reuses two 7542 purchases from Flight 1, giving a low-cost contrast within one recipe. The standard/advanced subset selects one component from each vendor-stated storage group and narrows their production years to 2005–2007. Standard still owns both 7542 anchors and advanced owns the 2007 anchor, but those anchors are not additional components in their active Flight 2 subset. Buying the complete sampler preserves the optional second example in each group without turning the flight itself into a six-tea comparison.
 
 #### Pay attention to
 
@@ -93,7 +93,7 @@ Retained youth; liquor color; sharpness versus softened structure; storage aroma
 
 #### Limitations
 
-“Dry” Guangzhou is not automatically documented cool/dry storage, and a city name is not a climate record. The sampler changes production, year, origin, and storage together; conditions, airflow, compression, custody, and continuity are not measured. This is deliberately broad orientation, not storage causation.
+“Dry” Guangzhou is not automatically documented cool/dry storage, and a city name is not a climate record. The standard/advanced subset changes production, year, origin, and storage together; conditions, airflow, compression, custody, and continuity are not measured. The three optional sampler components do not repair those mismatches. This is deliberately broad orientation, not storage causation.
 
 #### Alternatives
 
@@ -101,7 +101,7 @@ Require explicit cool/dry and warm/humid wording, then match age band, factory, 
 
 #### Budget
 
-Essential: €0 incremental, reusing both the 2015 and 2007 Flight 1 anchors. Standard: €62.27 incremental for the sampler, again reusing both anchors. Advanced: €62.27 incremental for the sampler; it reuses only the 2007 anchor and does not add the 2015 tea.
+Essential: €0 incremental, reusing both the 2015 and 2007 Flight 1 anchors. Standard: €62.27 incremental for the complete sampler purchase, while the active flight uses only its stated three-component subset. Advanced: €62.27 incremental for that same sampler purchase. The standard-owned 7542 anchors and advanced-owned 2007 anchor remain available elsewhere but do not enlarge their Flight 2 subsets.
 
 ### Flight 3: Factory and boutique
 
@@ -338,9 +338,9 @@ Preserve one named boutique with one young and one 10–20-year sample; relax or
 
 All tiers: €31.78 incremental for both Xizi Hao samples. The Dayi cross-check adds €0 because its applicable anchors were purchased in Flight 1.
 
-### Flight 10: Natural humid and traditional Hong Kong storage
+### Flight 10: Humid-labelled and traditional Hong Kong storage
 
-Use the Taiwan-“humid” half of the 2007 Xizi Hao Shangpin set as a humid-labelled orientation against the similarly aged 2008 Taste of Hong Kong, which the vendor says spent 12 years in a traditional Hong Kong basement warehouse. The Shangpin label does not document whether its method was ambient natural storage or intentional treatment; traditional Hong Kong storage entails an intentional cellar phase followed by drier resting or airing. These listings do not document every step well enough to make the pair a control.
+The primary contrast is the Taiwan-“humid” half of the 2007 Xizi Hao Shangpin set and the similarly aged 2008 Taste of Hong Kong, which the vendor says spent 12 years in a traditional Hong Kong basement warehouse. The Shangpin label does not document whether its method was ambient natural storage or intentional treatment; traditional Hong Kong storage entails an intentional cellar phase followed by drier resting or airing. These listings do not document every step well enough to make the pair a control.
 
 #### Why this flight
 
@@ -715,7 +715,7 @@ Preserve producer, all three recipe identities, year, batch, storage wording, an
 
 ### Flight 20: Xiaguan recipe and compression forms
 
-Revisit the 2007 Dayi 7542/Xiaguan 8653 orientation, then add the explicitly named 2005 Thick Wrapper T8653 iron cake. The flight separates factory, recipe, year, and form rather than treating smoke, tightness, or a `T` prefix as proof of Xiaguan quality or identity.
+The three-tea set combines the 2007 Dayi 7542/Xiaguan 8653 orientation with the explicitly named 2005 Thick Wrapper T8653 iron cake. The flight separates factory, recipe, year, and form rather than treating smoke, tightness, or a `T` prefix as proof of Xiaguan quality or identity.
 
 **Difficulty:** Advanced — high. **Purchase tier:** Advanced elective; three advanced-core reuses.
 
@@ -783,13 +783,13 @@ Replace within the missing philosophy and similar market tier, not with the chea
 
 #### Budget
 
-Standalone for an advanced-core owner: €9.45 for School Day and Miyun; Yun Tai is reused. If Flight 18 was purchased, Miyun is already owned and this flight adds only €6.01. Selected unique elective additions across Flights 13–21 are therefore €108.43, still separate from the €237.66 advanced core.
+Complete standalone three-tea minimum: €26.63. For an advanced-core owner, Yun Tai is reused and School Day plus Miyun add €9.45. If Flight 18 was purchased, Miyun is also already owned and this flight adds only €6.01. Selected unique elective additions across Flights 13–21 are therefore €108.43, still separate from the €237.66 advanced core.
 
 **Module: Storage and market literacy**
 
 ### Flight 22: From a purchasable pair to a storage-city triangle
 
-Start with the live two-storage XiZi Hao set, then use the multi-production sampler and a Guangzhou-labelled Dayi only to widen the city vocabulary. No concurrent same-production Kunming/Taiwan-or-Guangdong/Malaysia triangle was purchasable at the snapshot, so the triangle remains a substitution target rather than a claimed comparison.
+The active comparison is the live two-storage XiZi Hao set; the multi-production sampler and a Guangzhou-labelled Dayi widen the city vocabulary without becoming triangle vertices. No concurrent same-production Kunming/Taiwan-or-Guangdong/Malaysia triangle was purchasable at the snapshot, so the triangle remains a substitution target rather than a claimed comparison.
 
 **Difficulty:** Advanced — very high. **Purchase tier:** Advanced elective; three advanced-core reuses.
 
@@ -799,7 +799,7 @@ The matched pair shows what is gained by holding a named production close; the o
 
 #### Suggested teas
 
-- **Purchasable pair first:** [2007 XiZi Hao Shangpin USA vs Taiwan Storage](https://www.etsy.com/listing/4479672864/2007-shangpin-xizihao-usa-vs-taiwan) — Liquid Proust, two 16 g portions (32 g), €12.88 (€4.03/10 g); **advanced-core reuse** from Flight 5; vendor labels one Taiwan “humid” and the other Hou De/USA storage, but exact batch, cake identity, custody dates, measured conditions, and USA protocol are unknown.
+- **Active purchasable pair:** [2007 XiZi Hao Shangpin USA vs Taiwan Storage](https://www.etsy.com/listing/4479672864/2007-shangpin-xizihao-usa-vs-taiwan) — Liquid Proust, two 16 g portions (32 g), €12.88 (€4.03/10 g); **advanced-core reuse** from Flight 5; vendor labels one Taiwan “humid” and the other Hou De/USA storage, but exact batch, cake identity, custody dates, measured conditions, and USA protocol are unknown.
 - [Aged Raw Pu-erh Tea Storage Comparison Sampler](https://yunnansourcing.com/products/aged-raw-pu-erh-tea-storage-comparison-sampler) — Yunnan Sourcing, mixed 2000–2007, six 25 g portions (150 g), €62.27 (€4.15/10 g); **advanced-core reuse** from Flight 2; vendor groups two Kunming, two Banna, and two Guangdong dry-storage examples, but every group changes production and sometimes year.
 - [2007 DaYi 7542 batch 701](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) — King Tea Mall, 25 g, €14.59 (€5.84/10 g); **advanced-core reuse** from Flight 1; vendor-stated natural Guangzhou storage with moderate humidity and temperature, without measured conditions or custody chronology.
 
@@ -825,7 +825,7 @@ The substitution target is one documented production and batch divided among (1)
 
 ### Flight 23: Traditional Hong Kong intensity and airing evidence
 
-Compare two Yee On teas with explicit traditional-Hong-Kong language, then audit how little the listings establish about individual cellar intensity and post-cellar airing. Natural humid storage remains a separate category: ambient transformation in a humid climate is not the intentional cellar phase and drier rest associated with traditional storage.
+The two Yee On teas with explicit traditional-Hong-Kong language form the comparison, while their listings establish little about individual cellar intensity and post-cellar airing. Natural humid storage remains a separate category: ambient transformation in a humid climate is not the intentional cellar phase and drier rest associated with traditional storage.
 
 **Difficulty:** Advanced — very high. **Purchase tier:** Advanced elective; two advanced-core reuses.
 
