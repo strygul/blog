@@ -71,7 +71,7 @@ Essential and standard: €30.03 incremental for all three anchors. Advanced: �
 
 ### Flight 2: Storage changes the clock
 
-Contrast the dry-stated 2015 and natural-Guangzhou 2007 anchors for a low-cost first orientation, then use the six-tea sampler to widen the map across Kunming, Banna, and Guangdong dry storage. The lesson is how storage labels can frame transformation, not that these unmatched teas isolate climate.
+Essential and standard contrast the dry-stated 2015 and natural-Guangzhou 2007 anchors for a low-cost first orientation; standard then adds the six-tea sampler. Advanced reuses only the 2007 anchor and adds that sampler to widen the map across its vendor-stated Kunming, Banna, and Guangdong dry-storage groups. The lesson is how storage labels can frame transformation, not that these unmatched teas isolate climate.
 
 #### Why this flight
 
@@ -79,13 +79,13 @@ Storage can make teas of similar practical age present very differently. Learnin
 
 #### Suggested teas
 
-- [2015 DaYi 7542 first batch](https://kingteamall.com/products/2015-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea) — King Tea Mall, 30 g, €7.72 (€2.57/10 g); vendor-stated dry, clean Guangzhou storage.
-- [2007 DaYi 7542 batch 701](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) — King Tea Mall, 25 g, €14.59 (€5.84/10 g); vendor-stated natural Guangzhou storage with moderate humidity and temperature.
-- [Aged Raw Pu-erh Tea Storage Comparison Sampler, mixed 2000–2007](https://yunnansourcing.com/products/aged-raw-pu-erh-tea-storage-comparison-sampler) — Yunnan Sourcing, six 25 g portions (150 g), €62.27 (€4.15/10 g); two Kunming, two Banna, and two Guangdong dry-storage examples.
+- Essential/standard: [2015 DaYi 7542 first batch](https://kingteamall.com/products/2015-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea) — King Tea Mall, 30 g, €7.72 (€2.57/10 g); vendor-stated dry, clean Guangzhou storage; reused from Flight 1.
+- All tiers: [2007 DaYi 7542 batch 701](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) — King Tea Mall, 25 g, €14.59 (€5.84/10 g); vendor-stated natural Guangzhou storage with moderate humidity and temperature; reused from Flight 1.
+- Standard/advanced: [Aged Raw Pu-erh Tea Storage Comparison Sampler, mixed 2000–2007](https://yunnansourcing.com/products/aged-raw-pu-erh-tea-storage-comparison-sampler) — Yunnan Sourcing, six 25 g portions (150 g), €62.27 (€4.15/10 g); vendor-stated storage groups of two Kunming, two Banna, and two Guangdong dry-storage examples.
 
 #### Why these teas
 
-The two 7542s reuse Flight 1 purchases and provide contrasting seller vocabulary within one recipe. The sampler is special because it places two examples in each of three stated storage groups, giving standard and advanced paths a broader orientation than a single binary.
+Essential and standard reuse both 7542 purchases from Flight 1, giving them contrasting seller vocabulary within one recipe; advanced reuses only the 2007 anchor because its Flight 1 path omitted the 2015 tea. The sampler is special because it places two examples in each of three vendor-stated storage groups, giving standard and advanced a broader orientation than a single binary.
 
 #### Pay attention to
 
@@ -101,7 +101,7 @@ Require explicit cool/dry and warm/humid wording, then match age band, factory, 
 
 #### Budget
 
-Essential: €0 incremental, reusing the 2015 and 2007 Flight 1 anchors. Standard: €62.27 incremental for the sampler. Advanced: €62.27 incremental for the sampler, with the 2007 anchor reused.
+Essential: €0 incremental, reusing both the 2015 and 2007 Flight 1 anchors. Standard: €62.27 incremental for the sampler, again reusing both anchors. Advanced: €62.27 incremental for the sampler; it reuses only the 2007 anchor and does not add the 2015 tea.
 
 ### Flight 3: Factory and boutique
 
