@@ -204,9 +204,13 @@ These are the durable replacement rules for the twelve core flights. A substitut
 
 ## Anchor selection rationale
 
-The selected core contains **18 unique anchors**, the upper edge of the approved 14–18 range. `anchor=yes` means a currently purchasable recommended offer belongs to the reusable core set; several recur directly, while single-flight counterparts complete a comparison without forcing a second near-duplicate purchase elsewhere. Optional flight IDs show where the same purchase works again. The essential and standard totals count every offer once, regardless of how many flights list it.
+The selected core contains **18 unique core-basket anchors**, the upper edge of the approved 14–18 range. For downstream Task 6, `anchor=yes` marks membership in the complete core shopping table; it does **not** claim that every offer appears in more than one core flight. Of the 18 anchors, **9 recur across multiple core Flights 1–12** and **9 are single-use core counterparts** needed to complete a comparison. Optional flight IDs show where a core purchase can also serve an elective module. Every basket total counts an offer once, regardless of flight count.
 
-| Anchor | Educational role | Flight IDs | Tier path(s) |
+**Recurring across multiple core flights (9):** 2025 Dayi 7542 (1, 3, 9, 12); 2015 Dayi 7542 (1, 2, 9, 12); 2007 Dayi 7542 (1, 2, 7, 9, 12); Yunnan Sourcing aged-storage sampler (2, 10); 2007 XiZi Hao Shangpin split set (5, 10); 2000 Yee On 7542 (10, 12); 2024 XiZi Hao Yun Tai 8582 (9, 12); 2007 XiZi Hao Diangu (9, 12); and 2025 Cha Qi (3, 11).
+
+**Single-use core counterparts (9):** 2008 Taste of Hong Kong (10); 2025 Wan Gong (4); 2025 Xin Ban'e (4); 2025 You Le Shan (8); 2025 Ba Nuo Village (8); 2025 Xi Niu Tang Pasha (11); batch-ambiguous 2008 Dayi 7542 (6); 2008 Dayi 8582 batch 801 (6); and 2007 Xiaguan 8653 (7). Some recur only in optional Flights 13–24; those elective IDs do not inflate the multi-core-flight reuse count.
+
+| Anchor | Educational role | Catalog flight IDs (core 1–12; elective 13–24) | Tier path(s) |
 |---|---|---|---|
 | 2025 Dayi 7542 batch 2501, 25 g | Young 7542 and current factory half | 1, 3, 9, 12 | essential, standard, advanced |
 | 2015 Dayi 7542 first batch, 30 g | Dry-stated mid-age 7542 and storage orientation | 1, 2, 9, 12 | essential, standard |
@@ -247,17 +251,38 @@ Supply prevents a clean upper tier in several places. The exact Teas We Like 200
 
 ## Budget calculations
 
-Each path is independently purchasable and counts a reused offer once. A row carrying several flight IDs is not multiplied by flight count, and `alternative` or `unavailable` rows never enter these totals.
+Each core path is independently purchasable and counts a reused offer once. A row carrying several flight IDs is not multiplied by flight count, and `alternative` or `unavailable` rows never enter these totals. Because the TSV's `advanced` enum also labels elective recommendations, the simple all-row advanced sum is an inventory union—not the comparable advanced core path.
 
-| Path | Unique recommended offers | Total | What the tier adds |
+| Basket | Unique recommended offers | Total | What it contains |
 |---|---:|---:|---|
-| Essential | 17 | **166.80 EUR** | Lowest-cost credible core: the three current Dayi age/storage anchors, all required paired samples, and maximum reuse across Flights 1–12. |
-| Standard | 18 | **229.07 EUR** | Essential core plus the 150 g/six-component Yunnan Sourcing storage sampler for a stronger broad-storage orientation. |
-| Advanced | 32 | **360.35 EUR** | Independent core path plus the currently purchasable optional-flight samples; omits redundant 2015 Dayi while adding the explicit 2005 Thick Wrapper T8653 and the selected advanced terroir, material, recipe, brand, storage, and market-literacy offers. |
+| Essential core | 17 | **166.80 EUR** | Lowest-cost credible core: the three current Dayi age/storage anchors, all required paired samples, and maximum reuse across Flights 1–12. |
+| Standard core | 18 | **229.07 EUR** | Essential core plus the 150 g/six-component Yunnan Sourcing storage sampler for a stronger broad-storage orientation. |
+| Advanced core | 18 | **237.66 EUR** | Independent core path for Flights 1–12; omits redundant 2015 Dayi, uses the storage sampler, and adds the explicit 2005 Thick Wrapper T8653 Flight 7 upgrade. |
+| Elective-only advanced additions | 14 | **122.69 EUR** | Recommended offers whose catalog `flight_ids` contain only Flights 13–24 and which are not already purchased for the advanced core. |
+| All selected advanced inventory (union) | 32 | **360.35 EUR** | Advanced core plus elective-only additions. This is an inventory union, not the comparable advanced core budget. |
+
+Task 8 can reproduce the three core paths and the elective split directly from `flight_ids`:
+
+```bash
+for tier in essential standard; do awk -F '\t' -v t="$tier" 'NR>1 && $23=="recommended" && $18 ~ ("(^|\\|)" t "(\\||$)") { n=split($17,a,"|"); core=0; for(i=1;i<=n;i++) if(a[i]+0<=12) core=1; if(core){sum+=$14; offers++} } END { printf "%s-core\t%d offers\t%.2f EUR\n", t, offers, sum }' docs/research/sheng-puer-product-catalog.tsv; done
+awk -F '\t' 'NR>1 && $23=="recommended" && $18 ~ /(^|\|)advanced(\||$)/ { n=split($17,a,"|"); core=0; for(i=1;i<=n;i++) if(a[i]+0<=12) core=1; if(core){sum+=$14; offers++} } END { printf "advanced-core\t%d offers\t%.2f EUR\n", offers, sum }' docs/research/sheng-puer-product-catalog.tsv
+awk -F '\t' 'NR>1 && $23=="recommended" && $18 ~ /(^|\|)advanced(\||$)/ { n=split($17,a,"|"); core=0; for(i=1;i<=n;i++) if(a[i]+0<=12) core=1; if(!core){sum+=$14; offers++} } END { printf "advanced-elective-only\t%d offers\t%.2f EUR\n", offers, sum }' docs/research/sheng-puer-product-catalog.tsv
+awk -F '\t' 'NR>1 && $23=="recommended" && $18 ~ /(^|\|)advanced(\||$)/ {sum+=$14; offers++} END { printf "advanced-union\t%d offers\t%.2f EUR\n", offers, sum }' docs/research/sheng-puer-product-catalog.tsv
+```
+
+Expected output:
+
+```text
+essential-core	17 offers	166.80 EUR
+standard-core	18 offers	229.07 EUR
+advanced-core	18 offers	237.66 EUR
+advanced-elective-only	14 offers	122.69 EUR
+advanced-union	32 offers	360.35 EUR
+```
 
 Shipping, tax, card conversion spreads, and import fees are excluded. They may materially change the cheapest practical path.
 
-**Order consolidation:** essential and standard both collapse to four vendors. Essential groups 6 King Tea Mall offers (59.20 EUR), 6 Yunnan Sourcing offers (45.08 EUR), 3 Liquid Proust offers (44.66 EUR), and 2 Yee On offers (17.86 EUR). Standard keeps the same vendor count and changes only Yunnan Sourcing to 7 offers/107.35 EUR. Advanced groups 15 Yunnan Sourcing offers (170.66 EUR), 7 King Tea Mall offers (78.09 EUR), 3 Liquid Proust offers (44.66 EUR), 3 Farmer Leaf offers (36.07 EUR), and 2 Yee On offers (17.86 EUR), plus one Tea Encounter offer (7.00 EUR) and one white2tea offer (6.01 EUR). Consolidation is an ordering opportunity, not a shipping-price claim; compare each vendor's live checkout and destination rules before purchase.
+**Order consolidation:** essential and standard both collapse to four vendors. Essential groups 6 King Tea Mall offers (59.20 EUR), 6 Yunnan Sourcing offers (45.08 EUR), 3 Liquid Proust offers (44.66 EUR), and 2 Yee On offers (17.86 EUR). Standard keeps the same vendor count and changes only Yunnan Sourcing to 7 offers/107.35 EUR. Advanced core also uses four vendors: 7 Yunnan Sourcing offers (107.35 EUR), 6 King Tea Mall offers (67.79 EUR), 3 Liquid Proust offers (44.66 EUR), and 2 Yee On offers (17.86 EUR). The 14 elective-only additions group as 8 Yunnan Sourcing offers (63.31 EUR), 3 Farmer Leaf offers (36.07 EUR), and one each from King Tea Mall (10.30 EUR), Tea Encounter (7.00 EUR), and white2tea (6.01 EUR). Their union therefore has the previously recorded 15 Yunnan Sourcing, 7 King Tea Mall, 3 Liquid Proust, 3 Farmer Leaf, 2 Yee On, 1 Tea Encounter, and 1 white2tea offers. Consolidation is an ordering opportunity, not a shipping-price claim; compare each vendor's live checkout and destination rules before purchase.
 
 ## Research caveats
 
