@@ -5,9 +5,9 @@
 
 ## Evidence labels
 
-- **Documented:** supported by a manufacturer record, identifiable production, or specific storage provenance.
+- **Observed/documented:** a current product-page or storefront observation, a manufacturer record, an identifiable production, or specific storage provenance. A live offer observation documents only what the page displayed on the check date; it does not authenticate origin, material, or storage claims.
 - **Vendor claim:** stated by the seller but not independently verified.
-- **Practitioner expectation:** recurring sensory or historical interpretation from TeaDB or another specialist source.
+- **Practitioner expectation:** recurring sensory or historical interpretation from TeaDB or another specialist source; useful as a question, not a promised result.
 
 ## TeaDB source map
 
@@ -62,7 +62,7 @@ TeaDB is the curriculum compass, not an inventory or provenance authority. The p
 
 ### Vendor inventory scan
 
-All offer facts in the catalog were checked on a live vendor page or public vendor storefront/API on 2026-08-30. “In stock” means the selected variant was purchasable at check time, not that inventory is guaranteed.
+All offer facts in the catalog were rechecked on a live vendor page or public vendor storefront/API on 2026-08-30. “In stock” means the selected variant was purchasable at check time, not that inventory is guaranteed. Direct requests to the three Liquid Proust Etsy URLs returned Etsy's 403 anti-bot response; exact Etsy listing, shop, and category views still displayed the named 16 g/32 g offers and USD prices, with the Shangpin page crawled on the check date showing two left. This is marketplace-visibility evidence, not an independent inventory feed; no 403 was treated as proof of stock.
 
 | Vendor | Result for this task |
 |---|---|
@@ -74,14 +74,14 @@ All offer facts in the catalog were checked on a live vendor page or public vend
 | Tea Urchin | Current public storefront data included sample-scale 2019 Yiwu village teas and 2021 Yiwu/Bulang pairs. They remain useful alternates, but the 2025 Yunnan Sourcing matches hold year, sample size, and price more closely for the selected lessons. |
 | Crimson Lotus Tea and Essence of Tea | Current storefront scans found recent sheng, including 2026 Bulang and multiple 2026 Yiwu micro-area teas, but no stronger affordable same-year sample pair for these flights. Several Essence of Tea micro-area samples were substantially more expensive and remain provenance-sensitive advanced leads. |
 | Pu-erh.sk | The storefront and product index were reachable, but no public structured product endpoint or search result supplied a stronger reproducible pair with exact live variant, price, and stock fields. No row was created from incomplete offer data. |
-| Liquid Proust | Selected the low-stock 2007 Xizi Hao Shangpin matched set (16 g Taiwan “humid” plus 16 g Hou De/USA), and 2007/2024 Xizi Hao lineage samples. Storage is not stated on the two lineage listings. |
+| Liquid Proust | Retained the low-stock 2007 Xizi Hao Shangpin matched set (16 g Taiwan “humid” plus 16 g Hou De/USA), and the 2007/2024 Xizi Hao lineage samples. Etsy's exact Shangpin listing showed USD 15, 32 g, and two left on 2026-08-30; current Etsy shop/category views displayed the Diangu 16 g at USD 17 and Yun Tai 8582 16 g at USD 20. Direct requests were anti-bot blocked, so stock quantity is unverified for the two lineage listings. Storage is not stated on those listings. |
 | White2Tea | Selected the in-stock 25 g 2025 School Day blend at USD 7 as the Western-facing blender example. The page explains audience, blend status, and intended drinking style but supplies no precise origin, harvest date, component list, or storage history; that nondisclosure is part of the philosophy comparison, not a defect score. |
 | Yee On Tea | Selected 10 g of the 2000 commissioned 7542 and 25 g of the 2008 “Taste of Hong Kong” as the two explicit traditional-storage options. The 2008 page specifies 12 years in Yee On's traditional Hong Kong basement warehouse. The live 2000 7532 remains a same-year/factory substitute, but its page gives weaker storage detail. |
 | Bana Tea | Selected the in-stock 50 g Private Storage Aged Raw Pu-erh as a Hong Kong-warehouse orientation alternate. The page does not call the method traditional storage, so the catalog does not either. |
 | Teas We Like | Added cake-only 2008 Dayi 8582 batch 801 with natural Taiwan storage and retained the sold-out 2008 Dayi 7532 batch 801 as an `unavailable` lineage lead. The April 2025 four-quarter factory introduction set is also cataloged `unavailable`: it precisely discloses its 2011 7542, 2008 8582, 2005 8613, and 2005 T8653 components but changes year and, for the Xiaguan comparison, storage. The 2005 Dayi 7542 batch 504 Taiwan/Malaysia pair remains unavailable. |
 | The Steeping Room | 2005 Xiaguan T8653 (Taiwan), 2007 CNNP/Kunming Peacock (Taiwan), 2011 Dayi Golden Years (Guangdong), and traditionally stored Yee On resale pages all showed the relevant variants sold out; omitted. |
 | Quiche Teas / Taishunhe | Indexed pages identify 2006 7542/8582 and 2008 batch-801 7532/8582 cakes, but the static storefront did not expose a reliable 2026 stock control or sample variant. No offer was entered from those pages. |
-| The Jade Leaf | Its live storefront exposed 2006 Dayi 7542 batch 605 and 8582 batch 601 portions, plus several Xiaguan 8653 leads. Product-level storage was absent or incomplete for the matched Dayi pages, so the better-controlled 2008 King Tea Mall set was selected. |
+| The Jade Leaf | Its live storefront exposed 2006 Dayi 7542 batch 605 and 8582 batch 601 portions, plus several Xiaguan 8653 leads. Product-level storage was absent or incomplete for the matched Dayi pages, so the same-year sample-scale 2008 King Tea Mall orientation was selected; it is not a control. |
 | Hou De and Puerh.uk | Searches did not surface a stronger purchasable product-level match with exact current quantity, price, stock, and storage fields. Hou De remains the prior USA storage source named by Liquid Proust; its current older 7542 listings were not a narrow-era 7542/8582/7532 suite. |
 | Yangqing Hao USA and Teapals | No product-level young/semi-aged pair with current stock, sample quantity, price, and storage documentation was found. Liquid Proust's current samples offered the viable boutique alternative. |
 
@@ -248,6 +248,8 @@ Supply prevents a clean upper tier in several places. The exact Teas We Like 200
 - Rejected as a Flight 17 control: Yunnan Sourcing 2025 Cha Qi versus Bitterleaf 2025 Mirage. The pages document aging-oriented construction and a fragrance-forward profile respectively, but do not hold material/producer constant or disclose contrasting processing interventions. They remain structured research leads, not a recommended pair.
 - Rejected on live stock without a structured row: The Steeping Room 2005 T8653, 2007 Peacock, 2011 Golden Years, and Yee On resale candidates. Their descriptive pages remain useful leads, but no new Task 4 claim depends on them.
 - Rejected as a controlled match: Bana Private Storage 2000. The Hong Kong warehouse and duration are stated, but traditional cellar treatment and post-cellar airing are not.
+- **Task 11 live audit, 2026-08-30:** all 37 unique `recommended`/`alternative` URLs were requested. Thirty-four resolved directly; the three Etsy URLs returned 403 but remained visible at the cataloged sizes and USD prices in exact Etsy listing/shop/category views. Every directly queryable selected variant remained purchasable, the Teas We Like quarter set remained unavailable, and no recommendation, alternative, price, or budget changed.
+- All 21 TeaDB URLs in the source map returned HTTP 200 on 2026-08-30. The ECB daily feed still reported its latest working-day rates for 2026-08-28: USD 1.1643, GBP 0.85720, and HKD 9.1276 per EUR; the catalog continues to use their reciprocals.
 
 ## Budget calculations
 

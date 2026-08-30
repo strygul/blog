@@ -892,3 +892,64 @@ Keep one producer label, year, season, broad region, sample format, and seller a
 #### Budget
 
 €14.26 for the two elective-only samples. Together with €108.43 in unique additions selected across Flights 13–21, this completes the €122.69 elective-only inventory. The advanced core remains €237.66, and the all-in union remains €360.35; none of these totals treats price as a quality score.
+
+## Vendor index
+
+These are specialties represented by the selected offers, not overall vendor rankings. Location is the vendor location used in the catalog; availability is the smallest relevant format visible on 2026-08-30.
+
+### Young and boutique
+
+- **Yunnan Sourcing — China:** 10 g or 25 g samples and the 150 g storage sampler. Used for the closest same-producer regional, seasonal, material, blend, and market-literacy comparisons.
+- **Farmer Leaf — China:** 20 g samples. Used for the Lao Man'e sweet-varietal and Jingmai garden-history comparisons, where the pages state material and production stories clearly enough to audit as vendor claims.
+- **Tea Encounter — United Kingdom:** 20 g sample available. Used for the purchasable bitter-varietal Lao Man'e half when Farmer Leaf's tighter bitter-tree sample was unavailable.
+- **white2tea — China:** 25 g sample available. Used for School Day's use-case-led blend and deliberately limited terroir disclosure in Flight 21.
+
+### Semi-aged and aged
+
+- **Liquid Proust — United States:** 16 g lineage samples and a two-by-16 g storage set through Etsy. Used for the live Xizi Hao storage and boutique-lineage comparisons; direct Etsy requests were anti-bot blocked, so marketplace visibility supports the listed offers while inventory quantity remains unverified except for the Shangpin set's displayed two units.
+- **Teas We Like — Taiwan:** the current selected alternative is a 357 g cake; the cataloged quarter set remained unavailable. Used for exact-batch, Taiwan-storage, and restock alternatives where full-format cost is stated rather than hidden.
+- **Bana Tea Company — United States:** 50 g broken-cake portion. Used only as a Hong Kong-warehouse orientation alternative, not as documented traditional storage.
+
+### Traditional Hong Kong
+
+- **Yee On Tea Co. — Hong Kong:** 10 g and 25 g portions. Used for explicit traditional-Hong-Kong treatment examples; the listings still leave individual cellar, rotation, and post-cellar airing details incomplete.
+
+### Factory and dry-storage orientation
+
+- **King Tea Mall — China:** 7–30 g samples across the selected offers. Used for sample-scale Dayi and Xiaguan recipe, age, and factory orientations with vendor-stated Guangzhou storage wording; low price and a live variant do not independently authenticate the tea.
+
+## Minimal glossary
+
+- **Sheng puer / raw puer:** Yunnan sun-dried tea processed without deliberate pile fermentation and commonly sold loose or pressed; it can transform with age and storage.
+- **Maocha:** loose sun-dried raw tea before final sorting, blending, or pressing.
+- **Recipe code:** a factory naming convention such as 7542 or 8582. The first two digits conventionally indicate the formula's development era, the third average leaf grade/size, and the fourth factory number; exceptions exist, and the code is neither a bill of materials nor a quality grade.
+- **Batch:** one production run or sequence within a year. Under a common Dayi convention, `801` means the first 2008 batch, but a recipe and year do not guarantee that two cakes share a batch.
+- **Factory:** a larger producer using numbered recipes, standardized formats, and repeated production names; those names do not make material or manufacture identical across years.
+- **Boutique:** a smaller brand or producer whose teas may emphasize narrower lots, house lineage, origin stories, or disclosed blending. It is a production model, not a quality rank.
+- **Natural storage:** ambient home or ordinary warehouse aging without the deliberate ground-cellar phase associated with traditional Hong Kong storage. A city or “natural” label does not document temperature, humidity, airflow, cleanliness, or continuity.
+- **Traditional Hong Kong storage:** intentional warm, humid cellar treatment followed by drier resting or airing. Without cellar and post-cellar chronology, the term supports only a storage-school orientation.
+- **Gushu / old arbor:** seller labels implying material from older trees. They are not standardized tree-age proof; this guide keeps them at vendor-claim confidence.
+- **Huigan:** returning sweetness or sweet aftertaste perceived after bitterness or astringency; a practitioner tasting term, not an origin test.
+- **Qizi:** “seven sons” cake or wrapper terminology. It identifies a format/tradition, not a recipe, factory, or provenance guarantee.
+- **Kucha:** literally “bitter tea”; here it is the vendor's bitter-varietal label for a Lao Man'e sample, not independent varietal authentication.
+- **Shengtai:** an ecological or natural-garden label. Cultivation practices, planting date, density, and tree age are not standardized by the word alone.
+- **Qiao mu:** an arbor-tree label; trunk form or the label itself does not verify old-tree material.
+- **Regional labels:** Xishuangbanna includes eastern Mengla/Yiwu, western Menghai/Bulang, and Jinghong/Youle; Lincang includes Mengku/Bingdao and Bangdong/Xigui areas; Pu'er, historically called Simao, includes Jinggu and Jingmai. Narrow names such as Lao Man'e, Pasha, Wan Gong, Ge Deng, and Yi Bang are product provenance claims here, not independently authenticated origins.
+
+## Sources and confidence
+
+All TeaDB links below returned HTTP 200 on 2026-08-30. TeaDB supplies curriculum, historical context, and practitioner hypotheses; vendor pages supply current purchasing observations and seller claims.
+
+- **Curriculum and purchasing map:** [TeaDB's Pu'erh hub](https://teadb.org/puerh/), [The Five Types of Raw Pu'erh You Should Try](https://teadb.org/five-types-raw-puerh/), and the current [2025 Non Mainland Pu'erh Vendor Guide](https://teadb.org/non-mainland-puerh-vendor-guide/).
+- **Age and storage:** [Pu'erh Storage Schools](https://teadb.org/puerh-storage/), [Four Reasons Why You Should Get Your Baseline in Mid 00s Factory Pu'erh](https://teadb.org/four-reasons-baseline-mid-factory/), and [Old School & New School Pu'erh](https://teadb.org/old-school-new-school-puerh/).
+- **Factories, recipes, and brands:** [Pu'erh Factories: Why Buy from a Big Factory?](https://teadb.org/big-puerh-factories-menghai-xiaguan/), [Reading & Drinking Numbers](https://teadb.org/reading-drinking-numbers/), [Western Brands Are Very Different from Big Factory Tea](https://teadb.org/western-brands-are-very-different-from-big-factory-tea/), [In Debt for Dayi!!! Report](https://teadb.org/in-debt-for-dayi-report/), [Xiaguan Masochists Megareport](https://teadb.org/xiaguan-masochists-megareport/), and [Does Pu'erh Increase in Value? Part 1](https://teadb.org/does-puerh-increase-in-value-big-factory-puerh-recipes/).
+- **Regions and material claims:** [Yunnan overview](https://teadb.org/yunnan/), [eastern Xishuangbanna, Mengla/Yiwu and Youle](https://teadb.org/mengla-county-yiwu/), [western Xishuangbanna, Menghai](https://teadb.org/menghai-county/), [Lincang](https://teadb.org/lincang/), [Pu'er/Simao](https://teadb.org/puer-prefecture/), [Big Region. Small Region. Tree Age.](https://teadb.org/big-region-small-region/), the [Yiwu Mega Report](https://teadb.org/yiwu-mega-report/), and the [Bulang Brutalists Report](https://teadb.org/bulangish-brutalists-report/).
+- **Boutique lineage:** [Xizihao Report & Tasting Note Compilation](https://teadb.org/xizihao-report/).
+
+Confidence is attached to the kind of evidence, not the prestige of the source:
+
+- **Observed/documented:** the page, vendor storefront data, or an identifiable record displayed the stated offer fact on the check date. For all 34 non-Etsy URLs, direct product or storefront data confirmed the exact selected variant, native price, and availability. The three Liquid Proust Etsy URLs returned 403 to direct requests; exact Etsy listing/shop/category views still displayed the cataloged 16 g/32 g offers and USD prices, but inventory quantity remains unverified except for the Shangpin listing's displayed two units.
+- **Vendor claim:** origin, tree age, recipe or batch identity, storage history, material, processing, and sensory language stated by a seller but not independently authenticated.
+- **Practitioner expectation:** a recurring TeaDB or specialist interpretation used to frame what may be noticed; it is not a promised outcome, authenticity test, or causal result.
+
+Product availability and native prices were checked on vendor pages or public vendor storefront data on **2026-08-30**. EUR conversions use the ECB reference table dated **2026-08-28**, the latest working day before the Sunday check: USD 1.1643, GBP 0.85720, and HKD 9.1276 per EUR, inverted in the catalog to 1 source-currency unit in EUR. Rates are rounded to six decimals; offer totals and €/10 g are rounded to cents. Shipping, tax, card spread, and import costs remain excluded.
