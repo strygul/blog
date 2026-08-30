@@ -276,16 +276,16 @@ Compare current Youle/Jinghong material from Xishuangbanna with Ba Nuo/Mengku ma
 
 #### Why this flight
 
-The pair extends the regional map beyond Flight 4 while holding seller, producer label, year, first-flush claim, sample size, and market tier unusually close. Youle belongs in Jinghong and should not be relabeled as Yiwu or Mengla.
+The pair extends the regional map beyond Flight 4 while holding seller, producer label, year, April-harvest framing, sample size, and market tier unusually close. Youle belongs in Jinghong and should not be relabeled as Yiwu or Mengla.
 
 #### Suggested teas
 
-- [2025 Yunnan Sourcing You Le Shan](https://yunnansourcing.com/products/2025-yunnan-sourcing-you-le-shan-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €5.58 (€2.23/10 g); vendor-stated Youle/Jinuo Mountain material from Jinghong, Xishuangbanna.
-- [2025 Yunnan Sourcing Ba Nuo Village](https://yunnansourcing.com/products/2025-yunnan-sourcing-ba-nuo-village-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €6.44 (€2.58/10 g); vendor-stated Ba Nuo material from Mengku, Lincang.
+- [2025 Yunnan Sourcing You Le Shan](https://yunnansourcing.com/products/2025-yunnan-sourcing-you-le-shan-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €5.58 (€2.23/10 g); vendor-stated first-flush Youle/Jinuo Mountain material from Jinghong, Xishuangbanna.
+- [2025 Yunnan Sourcing Ba Nuo Village](https://yunnansourcing.com/products/2025-yunnan-sourcing-ba-nuo-village-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €6.44 (€2.58/10 g); vendor-stated April 2025 Ba Nuo harvest from Mengku, Lincang.
 
 #### Why these teas
 
-Both are 2025 Yunnan Sourcing 25 g samples with first-flush claims and close prices. Their pages state broad origins on opposite sides of the comparison, making geography legible without relying on scarce vintage or private-market cakes.
+Both are 2025 Yunnan Sourcing 25 g samples with April-harvest framing and close prices. Only You Le is called first flush; exact flush and harvest timing are not documented as matched. Their pages state broad origins on opposite sides of the comparison, making geography legible without relying on scarce vintage or private-market cakes.
 
 #### Pay attention to
 
@@ -293,11 +293,11 @@ Fragrance type; sweetness; bitterness-to-astringency balance; cooling sensations
 
 #### Limitations
 
-Both prefectures are large and internally diverse, and producer style may dominate. Village, estate, protected-area, altitude, tree-age, harvest, processing, and sensory descriptions are unverified vendor claims; two teas cannot establish a regional rule.
+Both broad regions are large and internally diverse, and producer style may dominate. Village, estate, protected-area, altitude, tree-age, harvest, processing, and sensory descriptions are unverified vendor claims; two teas cannot establish a regional rule.
 
 #### Alternatives
 
-Preserve one seller and producer label, year, season, sample format, and market tier, then select broad Xishuangbanna and Lincang origins the pages actually state. Do not upgrade a village or old-arbor claim into independent provenance.
+Preserve one seller and producer label, year, April-harvest framing, sample format, and market tier, then select broad Xishuangbanna and Lincang origins the pages actually state. Disclose whether exact flush and harvest timing match, and do not upgrade a village or old-arbor claim into independent provenance.
 
 #### Budget
 
