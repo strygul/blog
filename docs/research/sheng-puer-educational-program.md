@@ -455,3 +455,222 @@ Each total counts unique `recommended` offers once, even when an anchor appears 
 All prices use the 2026-08-30 EUR snapshot and exclude shipping, taxes, card-conversion spreads, and import fees.
 
 **Order consolidation:** Essential uses four vendors: King Tea Mall 6 offers/€59.20, Yunnan Sourcing 6/€45.08, Liquid Proust 3/€44.66, and Yee On Tea Co. 2/€17.86. Standard keeps the same four and changes only Yunnan Sourcing to 7/€107.35. Advanced core also uses four: Yunnan Sourcing 7/€107.35, King Tea Mall 6/€67.79, Liquid Proust 3/€44.66, and Yee On Tea Co. 2/€17.86. Consolidation identifies fewer checkouts, not lower delivered cost; compare live destination terms before purchase.
+
+## Advanced elective flights
+
+These are independent modules rather than a second required sequence. Each flight states its expected difficulty and purchase tier. Prices are the 2026-08-30 EUR snapshot and exclude shipping, taxes, card-conversion spreads, and import fees. An **advanced-core reuse** is already included in the €237.66 advanced core; an **advanced-elective addition** belongs to the separate €122.69 elective-only inventory. Buying every selected advanced offer produces the €360.35 all-in union, not a larger core basket.
+
+**Module: Terroir within terroir**
+
+### Flight 13: Yiwu within Yiwu
+
+Compare vendor-labelled Wan Gong, Ge Deng, and Yi Bang material to move from a single Yiwu coordinate to three claimed Yiwu/Mengla subregions. The set asks how useful those labels are without treating them as authenticated provenance.
+
+**Difficulty:** Advanced — moderate. **Purchase tier:** Advanced elective; one advanced-core reuse plus two elective-only additions.
+
+#### Why this flight
+
+Yiwu is internally diverse, and a three-tea set resists turning it into one soft-and-sweet stereotype. Ge Deng and Yi Bang connect to the six famous mountains, while Wan Gong supplies an eastern-border Yiwu-area claim.
+
+#### Suggested teas
+
+- [2025 Yunnan Sourcing Wan Gong Village Wild Arbor](https://yunnansourcing.com/products/2025-yunnan-sourcing-wan-gong-village-wild-arbor-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €8.33 (€3.33/10 g); **advanced-core reuse** from Flight 4; vendor-claimed Wan Gong, Yiwu/Mengla, April first flush and 30–80-year wild-arbor material.
+- [2025 Yunnan Sourcing Ge Deng Wild Arbor](https://yunnansourcing.com/products/2025-yunnan-sourcing-ge-deng-wild-arbor-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €7.99 (€3.20/10 g); **advanced-elective addition**; vendor-claimed Ge Deng, Yiwu/Mengla, April first flush and mixed small-/large-leaf 40–80-year wild-arbor material.
+- [2025 Yunnan Sourcing Yi Bang Wild Arbor](https://yunnansourcing.com/products/2025-yunnan-sourcing-yi-bang-wild-arbor-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €8.85 (€3.54/10 g); **advanced-elective addition**; vendor-claimed northern Yiwu/Mengla, April first flush and 60–80-year small-leaf wild-arbor material.
+
+#### Why these teas
+
+One seller and producer label, year, first-flush framing, 25 g format, and narrow price band keep the set commercially close. The three origin and leaf-population stories make microregional and evidence questions more useful than a binary preference test.
+
+#### Pay attention to
+
+Aromatic register; sweetness and returning sweetness; bitterness onset; astringency; texture; cooling; finish; and whether the three cups support or disrupt a single “Yiwu” expectation.
+
+#### Limitations
+
+Every village, harvest, tree-age, leaf-population, processing, and sensory description is a Yunnan Sourcing claim, not independently authenticated origin. Material and processing differ with subregion, storage is unknown, and three products cannot isolate geography or represent Yiwu as a whole.
+
+#### Alternatives
+
+Preserve one producer, a shared current harvest year and season, sample format, market tier, and at least one six-famous-mountains and one eastern-border Yiwu-area claim. If a tea disappears, replace its subregion first; then relax year while holding age and €/g tier; change producer only for the entire set. Keep all tree-age and leaf-variety language at vendor-claim confidence.
+
+#### Budget
+
+€16.84 incremental for Ge Deng and Yi Bang; Wan Gong is already in the advanced core. The complete three-tea set represents €25.17 of purchased tea. These two additions remain elective-only, not advanced-core costs.
+
+### Flight 14: The Lao Man'e bitterness spectrum
+
+Compare two 2026 teas sold as bitter- and sweet-varietal Lao Man'e. The available pair makes bitterness type, persistence, and recovery the lesson while exposing how a cross-vendor match weakens attribution.
+
+**Difficulty:** Advanced — high. **Purchase tier:** Advanced elective; two elective-only additions.
+
+#### Why this flight
+
+Bulang is often reduced to “bitter.” Lao Man'e's vendor-described bitter and sweet material makes it possible to ask what kind of bitterness appears, how long it persists, and what follows it, rather than scoring intensity alone.
+
+#### Suggested teas
+
+- [TE 2026 Lao Man'e Kucha](https://tea-encounter.com/product/2026-te-laomane-kucha/) — Tea Encounter, 20 g, €7.00 (€3.50/10 g); **advanced-elective addition**; vendor-claimed 2026 bitter-varietal Lao Man'e material.
+- [Spring 2026 Lao Man E Gushu Sweet Varietal](https://www.farmer-leaf.com/products/spring-2026-lao-man-e-gushu) — Farmer Leaf, 20 g, €19.75 (€9.88/10 g); **advanced-elective addition, high-cost sample**; vendor-claimed Lao Man'e big-tree/gushu sweet-varietal material.
+
+#### Why these teas
+
+Both are current 20 g samples carrying the same year, village, and an explicit varietal contrast. Tea Encounter supplies the available bitter side; Farmer Leaf's sweet side is special for its stated short-lived medium bitterness and strong sweetness, giving the flight more range than Xin Ban'e alone.
+
+#### Pay attention to
+
+Bitterness onset, location, intensity, and duration; transition into sweetness; astringency; salivation; coating texture; finish; and whether “bitter” describes one stable sensation or several.
+
+#### Limitations
+
+Origin, varietal, tree-age, and sensory descriptions are vendor claims. Vendor, producer, sourcing, processing, and tree-age disclosure differ, so this is an available bitterness-spectrum orientation—not a varietal, village, or material control—and price cannot stand in for quality.
+
+#### Alternatives
+
+The tighter [Spring 2026 Lao Man E Bitter Tea](https://www.farmer-leaf.com/products/spring-2026-lao-man-e-bitter-tea) from Farmer Leaf was unavailable at the snapshot; its listed 20 g option was €21.47 (€10.73/10 g), an **advanced-elective, high-cost sample candidate**. If it returns, pairing it with the €19.75/20 g Farmer Leaf sweet tea improves vendor and harvest matching but still leaves single-tree, material, and processing claims unverified. For a cheaper broad orientation, reuse [2025 Yunnan Sourcing Xin Ban'e](https://yunnansourcing.com/products/2025-yunnan-sourcing-xin-bane-raw-pu-erh-tea-cake), Yunnan Sourcing, 25 g/€9.79, an **advanced-core reuse** and bitter Bulang blend—not a Lao Man'e varietal control.
+
+#### Budget
+
+€26.75 for the available recommended pair, all elective-only. The tighter Farmer Leaf pair would total €41.22 if the bitter-tree 20 g option returns; Xin Ban'e adds €0 for an advanced-core owner but changes the lesson.
+
+### Flight 15: Mengku-side and Bangdong-side Lincang
+
+Compare two 2024 Yunnan Sourcing samples sold as Mo Lie Shan on the Mengku side and Na Han near Bangdong. The flight introduces Lincang subdivisions without using Bingdao or Xigui prestige as a proxy for the prefecture.
+
+**Difficulty:** Advanced — moderate. **Purchase tier:** Advanced elective; two elective-only additions.
+
+#### Why this flight
+
+Lincang is too large for a single sensory profile. A west/east subdivision question follows the broad regional work in Flight 8 and makes label precision more important than famous-name recognition.
+
+#### Suggested teas
+
+- [2024 Yunnan Sourcing Mo Lie Shan](https://yunnansourcing.com/products/2024-yunnan-sourcing-mo-lie-shan-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €7.30 (€2.92/10 g); **advanced-elective addition**; vendor-claimed April harvest from Mo Lie Shan on the Mengku side, with naturally grown 70–120-year material.
+- [2024 Yunnan Sourcing Na Han Village Old Arbor](https://yunnansourcing.com/products/2024-yunnan-sourcing-na-han-village-old-arbor-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €10.31 (€4.12/10 g); **advanced-elective addition**; vendor-claimed April Na Han harvest near Bangdong with old-arbor-labelled material.
+
+#### Why these teas
+
+Seller, producer label, year, April-harvest framing, 25 g format, and Lincang prefecture align. The stated Mengku-side/Bangdong-side spread is educationally clearer than comparing two prestige labels with large price and provenance gaps.
+
+#### Pay attention to
+
+Aromatic register; green bitterness; astringency; sweetness; cooling; thickness; energy as a subjective observation; finish; and whether the broad subdivision hypothesis survives the cups.
+
+#### Limitations
+
+Mountain, village, harvest, altitude, tree age, material, and sensory language are unverified vendor claims. The Na Han page inconsistently mentions Mengku county and Bang Dong county; this guide retains its repeated Bangdong-side framing but does not infer Xigui material. Processing and storage may also differ, so geography is not isolated.
+
+#### Alternatives
+
+Replace Mo Lie with another explicitly disclosed Mengku-side sample and Na Han with a disclosed Bangdong- or Xigui-side sample from the same seller and year before relaxing year. Proximity to Xigui does not establish Xigui material, and changing both producer and prestige tier would turn the flight into market comparison.
+
+#### Budget
+
+€17.61 for both elective-only samples—€7.30 for Mo Lie Shan and €10.31 for Na Han. No advanced-core purchase is reused.
+
+**Module: Material and processing**
+
+### Flight 16: Spring and autumn from one named origin
+
+Compare Yunnan Sourcing's 2025 spring and autumn Jiu Tai Po teas. This is the closest current seasonal pair in the catalog, but it still tests two selected products rather than season as a sole cause.
+
+**Difficulty:** Advanced — moderate. **Purchase tier:** Advanced elective; two elective-only additions.
+
+#### Why this flight
+
+Season is often discussed as a quality hierarchy. A same-producer-label, same-year, same-origin, sample-scale pair makes spring/autumn differences inspectable while keeping price and selection bias visible.
+
+#### Suggested teas
+
+- [2025 Yunnan Sourcing Jiu Tai Po Spring Old Arbor](https://yunnansourcing.com/products/2025-yunnan-sourcing-jiu-tai-po-old-arbor-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €9.02 (€3.61/10 g); **advanced-elective addition**; vendor-claimed spring Jiu Tai Po, Jinggu/Simao, from 200–300-year old-arbor material.
+- [2025 Yunnan Sourcing Jiu Tai Po Autumn Old Arbor](https://yunnansourcing.com/products/2025-yunnan-sourcing-autumn-jiu-tai-po-old-arbor-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €5.58 (€2.23/10 g); **advanced-elective addition**; vendor-claimed autumn counterpart from the same named origin and tree-age band.
+
+#### Why these teas
+
+The pages align producer label, origin, year, 25 g sample, old-arbor claim, sun-dried material, and stone-pressed construction. The price gap and vendor's direct seasonal framing make the commercial expectation itself part of the lesson.
+
+#### Pay attention to
+
+Aromatic intensity; bitterness and astringency; sweetness; thickness; structure; finish; durability; and whether the cheaper autumn tea reads as merely “less” or differently balanced.
+
+#### Limitations
+
+Origin, tree age, harvest, craft, and sensory descriptions are vendor claims. Seasonal lots may differ in picking, selection, weather, processing, and exact material; parent cakes are 250 g spring and 357 g autumn. Sample portions remove the service-format difference, not the upstream confounders, so season is not isolated.
+
+#### Alternatives
+
+Preserve producer, named origin, harvest year, sample weight, and disclosed craft; relax tree-age wording before origin or year. If spring and autumn sit in different price tiers, keep price and selection as confounders rather than treating the expensive tea as the better or more authentic one.
+
+#### Budget
+
+€14.60 for both elective-only samples—€9.02 spring and €5.58 autumn. No advanced-core purchase is reused.
+
+### Flight 17: Age-oriented and aroma-preserving construction
+
+Compare Yunnan Sourcing's age-oriented Cha Qi description with its aroma-preserving Yi Bang description. This is an explicitly confounded construction orientation and claim audit, not a causal aging-oriented-versus-fragrance-forward processing comparison.
+
+**Difficulty:** Advanced — very high. **Purchase tier:** Advanced elective; one advanced-core reuse plus one elective-only addition.
+
+#### Why this flight
+
+Processing language often invites causal stories that listings cannot support. These pages disclose enough construction detail to examine what “built to age” and “preserve fragrance” mean commercially, then require the reader to separate description from inference.
+
+#### Suggested teas
+
+- [2025 Yunnan Sourcing Cha Qi](https://yunnansourcing.com/products/2025-yunnan-sourcing-cha-qi-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €7.21 (€2.88/10 g); **advanced-core reuse** from Flights 3 and 11; vendor-described seven-component spring Menghai blend, wok kill-green, sun-drying, and age-friendly stone-pressed density.
+- [2025 Yunnan Sourcing Yi Bang Wild Arbor](https://yunnansourcing.com/products/2025-yunnan-sourcing-yi-bang-wild-arbor-raw-pu-erh-tea-cake) — Yunnan Sourcing, 25 g, €8.85 (€3.54/10 g); **advanced-elective addition** also used in Flight 13; vendor-described single-area small-leaf material, copper-wok hand fixing, 40 kg stone pressing, about 35 °C finishing, and preservation of high fragrance and clarity.
+
+#### Why these teas
+
+Vendor, producer label, year, spring framing, 25 g sample, and price tier align. Unlike the weaker Mirage lead, both pages disclose relevant construction steps. That makes the pair useful for evidence and vocabulary even though it cannot identify a processing effect.
+
+#### Pay attention to
+
+What each page actually documents; aromatic lift; structure; bitterness and astringency; compression-related clues; finish; durability; and where sensory description starts to outrun the stated evidence. Do not assign observed differences to processing.
+
+#### Limitations
+
+The dominant confounders are Menghai blend versus Yi Bang single area and broad region, seven-component blend versus claimed small-leaf/wild-arbor material, undisclosed fresh-leaf and kill-green/rolling parameters, and different 357 g/250 g parent cakes plus unreported compression or drying variation. These are stronger than the limited construction-label contrast. The pair proves neither opposed traditional/modern styles nor aging outcomes.
+
+#### Alternatives
+
+Use this substitution ladder: (1) one producer, origin, harvest, and leaf grade with two explicitly documented processing regimes; (2) same producer, year, season, and origin with only leaf grade or sample format relaxed, retaining disclosures on both pages; (3) same producer, year, season, sample size, and price tier with disclosed origin/material confounds—the current pair; (4) two producers only when both pages document relevant steps, reframed as claim audit. If neither page documents process, omit the comparison. [Mirage 2025 Spring Gaoshan Raw Puer](https://www.bitterleafteas.com/shop/tea/puer/raw-puer/mirage-2025-spring-gaoshan-raw-puer), Bitterleaf Teas, 15 g/€10.31 (€6.87/10 g), is an **advanced-elective reserve candidate** whose fragrance-forward profile is not attributed to a processing intervention; it is weaker than Yi Bang and adds vendor, origin, material, size, and price confounds.
+
+#### Budget
+
+Standalone for an advanced-core owner: €8.85 incremental for Yi Bang; Cha Qi is reused. If Flight 13 was already purchased, this flight adds €0. The complete pair represents €16.06; the Mirage reserve would add €10.31 and does not improve causal validity.
+
+### Flight 18: Natural-garden and ancient-garden claims
+
+Compare two 2026 Farmer Leaf Jingmai teas sold with different garden-history and material stories. The flight is evidence literacy as much as sensory comparison: product-page claims are data about the offer, not verified facts about tree age.
+
+**Difficulty:** Advanced — high. **Purchase tier:** Advanced elective; two elective-only additions.
+
+#### Why this flight
+
+“Plantation,” “shengtai,” “natural garden,” “ancient garden,” and “old arbor” can sound like objective material grades. The selected pair makes those terms examinable while asking which claims are explicit, which are missing, and which conclusions taste cannot authenticate.
+
+#### Suggested teas
+
+- [Spring 2026 Jingmai Miyun](https://www.farmer-leaf.com/products/spring-2026-jingmai-miyun) — Farmer Leaf, 20 g, €3.44 (€1.72/10 g); **advanced-elective addition**; the product page describes a Jingmai shengtai/natural-garden baseline with a modern-plantation history.
+- [Spring 2026 Jingmai Gulan](https://www.farmer-leaf.com/products/spring-2026-jingmai-gulan) — Farmer Leaf, 20 g, €12.88 (€6.44/10 g); **advanced-elective addition**; the product page describes a blend from five ancient gardens on Da Ping Zhang, Jingmai, with hand-wok processing.
+
+#### Why these teas
+
+One vendor and producer, mountain, year, season, and 20 g format align. Miyun and Gulan are special because their pages state contrasting garden histories directly; the large price difference also makes prestige and expectation bias visible rather than silently equating price with old material.
+
+#### Pay attention to
+
+Which statements are product claims versus verified facts; aromatic detail; bitterness; sweetness; texture; depth; finish; expectation created by labels and price; and whether any sensory impression is being mistaken for authentication.
+
+#### Limitations
+
+The products are **natural-garden-labelled versus ancient-garden-labelled**, not a verified plantation-versus-old-arbor control. Garden history, origin, tree age, material selection, and sensory language are vendor claims; Gulan blends five gardens, processing details are not fully matched, and price differs sharply. Taste, trunk imagery, `qiao mu`, and price cannot verify age.
+
+#### Alternatives
+
+The tighter same-village lead is [Spring 2026 Lao Man E Small Trees](https://www.farmer-leaf.com/products/spring-2026-lao-man-e-small-trees), Farmer Leaf, listed 20 g/€5.15 (€2.58/10 g), an **advanced-elective candidate unavailable at the snapshot**, against [Spring 2026 Lao Man E Gushu Sweet Varietal](https://www.farmer-leaf.com/products/spring-2026-lao-man-e-gushu), Farmer Leaf, 20 g/€19.75 (€9.88/10 g), an **advanced-elective, high-cost sample** already selected in Flight 14. Even if the small-tree option returns, varietal mix and selection differ, so tree age would not be isolated. For another substitute, require one producer, mountain or village, year, season, sample size, and explicit garden-history language on both pages.
+
+#### Budget
+
+€16.32 for the recommended Jingmai pair, all elective-only. If Flight 14 was also purchased, its €19.75 Lao Man'e sweet sample is already owned; the tighter alternative would add €5.15 only if the small-tree option returns. Selected unique additions across Flights 13–18 total €92.12, separate from the €237.66 advanced core and within the €122.69 full elective-only inventory.
