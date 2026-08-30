@@ -340,7 +340,7 @@ All tiers: €31.78 incremental for both Xizi Hao samples. The Dayi cross-check 
 
 ### Flight 10: Natural humid and traditional Hong Kong storage
 
-Use the Taiwan-“humid” half of the 2007 Xizi Hao Shangpin set as a natural-humid orientation against the similarly aged 2008 Taste of Hong Kong, which the vendor says spent 12 years in a traditional Hong Kong basement warehouse. Natural humid storage means ambient transformation in a humid climate; traditional Hong Kong storage is an intentional cellar phase followed by drier resting or airing. These listings do not document every step well enough to make the pair a control.
+Use the Taiwan-“humid” half of the 2007 Xizi Hao Shangpin set as a humid-labelled orientation against the similarly aged 2008 Taste of Hong Kong, which the vendor says spent 12 years in a traditional Hong Kong basement warehouse. The Shangpin label does not document whether its method was ambient natural storage or intentional treatment; traditional Hong Kong storage entails an intentional cellar phase followed by drier resting or airing. These listings do not document every step well enough to make the pair a control.
 
 #### Why this flight
 
@@ -813,7 +813,7 @@ Retained top notes; storage aroma; liquor development; integration; body; spent-
 
 #### Limitations
 
-The Shangpin portions are not verified as one batch or cake, and none of their measured histories is available. The sampler changes production, origin, year, material, compression, and storage together; the Dayi adds another recipe and seller. “Taiwan humid” and natural Guangzhou indicate ambient humid-storage claims, not intentional traditional Hong Kong treatment, and city labels do not isolate climate.
+The Shangpin portions are not verified as one batch or cake, and none of their measured histories is available. The sampler changes production, origin, year, material, compression, and storage together; the Dayi adds another recipe and seller. “Taiwan humid” is a vendor storage label whose method is undocumented; the Dayi's natural-Guangzhou wording is a separate vendor-claimed ambient history. Neither establishes intentional traditional Hong Kong treatment, and city labels do not isolate climate.
 
 #### Alternatives
 
@@ -852,7 +852,7 @@ Producer, recipe, age, material, processing, compression, and likely treatment c
 
 #### Alternatives
 
-[2000 Yee On commissioned Menghai 7532](https://yeeonteaco.com/products/2000-7532-menghai-tea-factory-25-years-of-traditional-experience-manufacturing-raw-pu-erh-tea-cake), Yee On Tea Co., 10 g/€15.34, is a **standard/advanced alternative** with the same seller-stated year and factory but a different recipe and weaker product-level storage documentation. The Taiwan-humid Shangpin half is a natural-humid orientation, not traditional storage. The **advanced-core** [2024 Xizi Hao Yun Tai 8582](https://www.etsy.com/listing/1837554872/2024-xizihao-yun-tai-8582-raw-puerh-16g), Liquid Proust, 16 g/€17.18 (€10.74/10 g), and [2007 Xizi Hao Diangu](https://www.etsy.com/listing/4303638794/2007-diangu-xizihao-raw-puerh-16g), 16 g/€14.60 (€9.13/10 g), have unknown storage and therefore serve only as examples of evidence too weak for an airing comparison. Bana's **advanced alternative** 50 g/€33.50 Private Storage tea is likewise only a Hong Kong-warehouse orientation because its page does not establish cellar treatment or airing.
+[2000 Yee On commissioned Menghai 7532](https://yeeonteaco.com/products/2000-7532-menghai-tea-factory-25-years-of-traditional-experience-manufacturing-raw-pu-erh-tea-cake), Yee On Tea Co., 10 g/€15.34, is a **standard/advanced alternative** with the same seller-stated year and factory but a different recipe and weaker product-level storage documentation. The Taiwan-humid Shangpin half is a humid-labelled orientation whose method is undocumented, not an established natural-humid or traditional-storage example. The **advanced-core** [2024 Xizi Hao Yun Tai 8582](https://www.etsy.com/listing/1837554872/2024-xizihao-yun-tai-8582-raw-puerh-16g), Liquid Proust, 16 g/€17.18 (€10.74/10 g), and [2007 Xizi Hao Diangu](https://www.etsy.com/listing/4303638794/2007-diangu-xizihao-raw-puerh-16g), 16 g/€14.60 (€9.13/10 g), have unknown storage and therefore serve only as examples of evidence too weak for an airing comparison. Bana's **advanced alternative** 50 g/€33.50 Private Storage tea is likewise only a Hong Kong-warehouse orientation because its page does not establish cellar treatment or airing.
 
 #### Budget
 
@@ -883,7 +883,7 @@ Expectation created by the name, claimed scarcity, tree-age story, sample format
 
 #### Limitations
 
-Bingdao and Mo Lie are different origins with different claimed tree-age ranges, lot sizes, selection, and potentially processing. Every origin, harvest, tree-age, production-size, sensory, and aging statement is a vendor claim. The unequal 10 g/25 g minimums may carry format effects, and the price gap cannot identify authenticity, scarcity, production cost, aging potential, or objective quality.
+Bingdao and Mo Lie are different origins with different claimed tree-age ranges, lot sizes, selection, and potentially processing. Both share a nominal 2025 production year, but exact post-production handling and storage are undocumented and may differ. Every origin, harvest, tree-age, production-size, sensory, and aging statement is a vendor claim. The unequal 10 g/25 g minimums may carry format effects, and the price gap cannot identify authenticity, scarcity, production cost, aging potential, or objective quality.
 
 #### Alternatives
 
