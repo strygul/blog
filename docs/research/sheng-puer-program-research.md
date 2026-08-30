@@ -56,7 +56,7 @@ All offer facts in the catalog were checked on a live vendor page or public vend
 | Liquid Proust | Selected the low-stock 2007 Xizi Hao Shangpin matched set (16 g Taiwan “humid” plus 16 g Hou De/USA), and 2007/2024 Xizi Hao lineage samples. Storage is not stated on the two lineage listings. |
 | Yee On Tea | Selected 10 g of the 2000 commissioned 7542 and 25 g of the 2008 “Taste of Hong Kong” as the two explicit traditional-storage options. The 2008 page specifies 12 years in Yee On's traditional Hong Kong basement warehouse. The live 2000 7532 remains a same-year/factory substitute, but its page gives weaker storage detail. |
 | Bana Tea | Selected the in-stock 50 g Private Storage Aged Raw Pu-erh as a Hong Kong-warehouse orientation alternate. The page does not call the method traditional storage, so the catalog does not either. |
-| Teas We Like | The 2005 Dayi 7542 batch 504 Taiwan/Malaysia page is an excellent exact-production lead, but both variants returned out of stock in the live WooCommerce Store API. The 2010 Malaysian 7542 and 2004–2006 Biyun Hao quarter-cake parent listings likewise resolved out of stock; omitted from the catalog. |
+| Teas We Like | The 2005 Dayi 7542 batch 504 Taiwan/Malaysia page is an excellent exact-production lead, but both variants returned out of stock in the live WooCommerce data. Both are cataloged as `unavailable` with variation IDs, SKUs, prices, and the canonical parent URL for reproducible rechecking. The 2010 Malaysian 7542 and 2004–2006 Biyun Hao quarter-cake parent listings likewise resolved out of stock. |
 | The Steeping Room | 2005 Xiaguan T8653 (Taiwan), 2007 CNNP/Kunming Peacock (Taiwan), 2011 Dayi Golden Years (Guangdong), and traditionally stored Yee On resale pages all showed the relevant variants sold out; omitted. |
 | Quiche Teas / Taishunhe | Indexed Taishunhe pages supplied historical Taiwan-dollar cake listings but no reliable 2026 stock control or sample variant. No current offer was entered. |
 | The Jade Leaf, Hou De, and Puerh.uk | Searches did not surface an independently purchasable, product-level match with the required live price, quantity, stock, and storage fields. Hou De appears only as the prior USA storage source named by Liquid Proust. |
@@ -100,8 +100,8 @@ These notes explain the candidates whose live variants were checked on 2026-08-3
 
 ### Flight 5: matched storage
 
-- **Selected true pair:** Liquid Proust's 32 g 2007 Xizi Hao Shangpin set contains 16 g labeled Taiwan “humid” storage and 16 g labeled Hou De/USA storage. One listing supplies both halves, reducing production and batch ambiguity.
-- The page does not give measured conditions, dates of transfer, or the USA storage protocol. Teach it as a vendor-documented matched pair, not a controlled experiment.
+- **Best-documented same-named-production pair:** Liquid Proust's 32 g 2007 Xizi Hao Shangpin set contains 16 g labeled Taiwan “humid” storage and 16 g labeled Hou De/USA storage. The live listing verifies that the seller states the 2007 year, XiZi Hao/Shangpin name, two 16 g portions, storage labels, price, and stock; it does not verify an exact batch or individual cake identifier.
+- Exact batch/cake identity, measured conditions, dates of transfer, and the USA storage protocol are unknown. Teach it as a vendor-documented same-named-production pair, not a controlled experiment or independently authenticated batch match.
 - The 2005 Dayi 7542 batch 504 Taiwan/Malaysia pair from Teas We Like remains the ideal advanced substitution if both exact variants return to stock; on 2026-08-30 both live variation endpoints reported out of stock.
 
 ### Flights 9–12: interacting variables and synthesis
@@ -134,7 +134,7 @@ These notes explain the candidates whose live variants were checked on 2026-08-3
 
 ## Anchor selection rationale
 
-The anchor strategy follows the approved spiral curriculum: a compact set of repeatable, documented-or-clearly-qualified productions should recur across core flights. The three current King Tea Mall Dayi 7542 samples provide the age/repeat-recipe anchor, while Liquid Proust's single-listing Xizi Hao Shangpin set provides the same-named-production storage anchor. Mid-2000s Dayi 8582 and Xiaguan T8653 remain search benchmarks because TeaDB identifies them as useful factory baselines, but no current sample offer passed this task's price, stock, quantity, and storage checks.
+The provisional anchor strategy follows the approved spiral curriculum: a compact set of repeatable, documented-or-clearly-qualified productions should recur across core flights. The three current King Tea Mall Dayi 7542 samples are candidate age/repeat-recipe anchors, while Liquid Proust's single-listing Xizi Hao Shangpin set is a candidate same-named-production storage anchor. All Task 2 rows remain `role=candidate` and `anchor=no` for Task 5 selection. Mid-2000s Dayi 8582 and Xiaguan T8653 remain search benchmarks because TeaDB identifies them as useful factory baselines, but no current sample offer passed this task's price, stock, quantity, and storage checks.
 
 ## Rejected candidates
 
@@ -143,7 +143,8 @@ The anchor strategy follows the approved spiral curriculum: a compact set of rep
 - Do not use cheap famous-village or highly specific old-arbor claims as terroir proof; retain them only as explicitly caveated market-literacy examples if a future flight needs one.
 - Use cake-only offers only in advanced recommendations, except where a cake is unusually affordable; label the exception and limitation explicitly.
 - Do not turn TeaDB's historical price references, ratings, or vendor mentions into current prices, stock status, or documented provenance.
-- Rejected on live stock: Teas We Like 2005 Dayi 7542 batch 504 Taiwan/Malaysia, 2010 Dayi 7542 Malaysia, and 2004–2006 Biyun Hao quarters; The Steeping Room 2005 T8653, 2007 Peacock, 2011 Golden Years, and Yee On resale candidates. Their descriptive pages remain useful leads, but sold-out variants are not catalog offers.
+- Unavailable catalog candidates: Teas We Like 2005 Dayi 7542 batch 504 Taiwan/Malaysia. The two exact variants remain structured rows for Task 5/11 rechecking, not purchasable recommendations.
+- Rejected on live stock without a structured row: Teas We Like 2010 Dayi 7542 Malaysia and 2004–2006 Biyun Hao quarters; The Steeping Room 2005 T8653, 2007 Peacock, 2011 Golden Years, and Yee On resale candidates. Their descriptive pages remain useful leads.
 - Rejected as a controlled match: Bana Private Storage 2000. The Hong Kong warehouse and duration are stated, but traditional cellar treatment and post-cellar airing are not.
 
 ## Budget calculations
