@@ -10,46 +10,49 @@ const base = import.meta.env.BASE_URL;
 		<h2><a href={base}>{SITE_TITLE}</a></h2>
 		<div class="internal-links">
 			<HeaderLink href={base}>Home</HeaderLink>
-			<HeaderLink href={`${base}blog`}>Blog</HeaderLink>
-			<HeaderLink href={`${base}about`}>About</HeaderLink>
+			<HeaderLink href={`${base}tea/`}>Tea</HeaderLink>
+			<HeaderLink href={`${base}god-is-dead/`}>Software/AI</HeaderLink>
+			<HeaderLink href={`${base}ballet/`}>Ballet</HeaderLink>
+			<HeaderLink href={`${base}blog/`}>All Posts</HeaderLink>
+			<HeaderLink href={`${base}about/`}>About</HeaderLink>
 		</div>
 	</nav>
 </header>
-<style>
+<style is:global>
 	header {
 		margin: 0;
 		padding: 0 1em;
 		background: #F9F9F9;
 	}
-	h2 {
+	header h2 {
 		margin: 0;
 		font-size: 1em;
 		justify-self: start;
 	}
 
-	h2 a,
-	h2 a.active {
+	header h2 a,
+	header h2 a.active {
 		text-decoration: none;
 	}
-	nav {
+	header nav {
 		display: grid;
 		grid-template-columns: 1fr auto 1fr;
 		align-items: center;
 		gap: 0.5rem;
 	}
-	.internal-links {
+	header .internal-links {
 		display: flex;
 		align-items: center;
 		flex-wrap: wrap;
 		justify-content: center;
 	}
-	nav a {
+	header nav a {
 		padding: 1em 0.5em;
 		color: var(--black);
 		border-bottom: 4px solid transparent;
 		text-decoration: none;
 	}
-	nav a.active {
+	header nav a.active {
 		text-decoration: none;
 		border-bottom-color: var(--accent);
 	}
