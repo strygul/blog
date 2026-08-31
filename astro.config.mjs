@@ -1,12 +1,35 @@
 // @ts-check
 
+import { existsSync, readFileSync } from 'node:fs';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 
-// https://astro.build/config
+const outputDirectory = new URL('./dist/', import.meta.url);
+
+/** @param {import('@astrojs/sitemap').SitemapItem} item */
+function addLastmod(item) {
+	const pathname = new URL(item.url).pathname;
+	const page = new URL(pathname === '/' ? 'index.html' : `.${pathname}index.html`, outputDirectory);
+	if (!existsSync(page)) return item;
+
+	const html = readFileSync(page, 'utf8');
+	const lastmod =
+		html.match(/<meta property="article:modified_time" content="([^"]+)">/)?.[1] ??
+		html.match(/<meta property="article:published_time" content="([^"]+)">/)?.[1] ??
+		html.match(/<time datetime="([^"]+)">/)?.[1];
+
+	return lastmod ? { ...item, lastmod } : item;
+}
+
 export default defineConfig({
 	site: 'https://strygul.com',
 	base: '/',
-	integrations: [mdx(), sitemap()],
+	integrations: [
+		mdx(),
+		sitemap({
+			filter: (page) => !new URL(page).pathname.startsWith('/categories/'),
+			serialize: addLastmod,
+		}),
+	],
 });
