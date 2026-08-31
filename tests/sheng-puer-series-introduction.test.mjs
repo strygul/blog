@@ -44,6 +44,7 @@ test('sheng puer introduction preserves its roadmap and purchasing caveats', () 
 	assert.match(article, /pubDate: "2026-08-31"/);
 	assert.match(article, /  - "Other"/);
 	assert.doesNotMatch(article, /^heroImage:/m);
+	assert.doesNotMatch(article, /^heroImageSrc:/m);
 
 	for (const heading of [
 		'Why comparative flights',
@@ -56,27 +57,49 @@ test('sheng puer introduction preserves its roadmap and purchasing caveats', () 
 		assert.ok(article.includes(heading), `missing heading: ${heading}`);
 	}
 
-	for (const flight of [...coreFlights, ...advancedFlights]) {
-		assert.ok(article.includes(flight), `missing flight: ${flight}`);
-	}
+	const coreRoadmap = article.slice(
+		article.indexOf('## The twelve core flights'),
+		article.indexOf('## Beyond the core: twelve advanced flights'),
+	);
+	const advancedRoadmap = article.slice(
+		article.indexOf('## Beyond the core: twelve advanced flights'),
+		article.indexOf('## How I chose the teas and vendors'),
+	);
 
-	for (const vendor of [
-		'Yunnan Sourcing',
-		'King Tea Mall',
-		'Liquid Proust',
-		'Yee On',
-		'Farmer Leaf',
-		'Tea Encounter',
-		'white2tea',
-		'Teas We Like',
-		'Bana Tea Company',
+	for (const [roadmap, flights] of [
+		[coreRoadmap, coreFlights],
+		[advancedRoadmap, advancedFlights],
 	]) {
-		assert.ok(article.includes(vendor), `missing selected vendor: ${vendor}`);
+		let previousPosition = -1;
+		for (const flight of flights) {
+			const position = roadmap.indexOf(flight);
+			assert.ok(position > previousPosition, `missing or out-of-order flight: ${flight}`);
+			previousPosition = position;
+		}
 	}
 
-	for (const amount of ['€166.80', '€229.07', '€237.66', '€122.69', '€360.35']) {
-		assert.ok(article.includes(amount), `missing budget: ${amount}`);
+	for (const role of [
+		'Yunnan Sourcing for closely matched contemporary comparisons',
+		'King Tea Mall for sample-scale Dayi and Xiaguan references',
+		'Liquid Proust for unusual storage and Xizi Hao lineage samples',
+		'Yee On for explicitly traditional Hong Kong storage examples',
+	]) {
+		assert.ok(article.includes(role), `missing core vendor role: ${role}`);
 	}
+
+	for (const row of [
+		'| Essential core | 17 | €166.80 |',
+		'| Standard core | 18 | €229.07 |',
+		'| Advanced core | 18 | €237.66 |',
+		'| Elective-only additions | 14 | €122.69 |',
+		'| Advanced all-in union | 32 | €360.35 |',
+	]) {
+		assert.ok(article.includes(row), `missing or incorrect budget row: ${row}`);
+	}
+	assert.match(
+		article,
+		/The all-in figure is the union of advanced-core and elective-only purchases, not another core tier\./,
+	);
 
 	assert.match(article, /not (?:an overall )?vendor ranking/i);
 	assert.match(article, /not (?:necessarily )?the (?:best|lowest|cheapest) prices?/i);

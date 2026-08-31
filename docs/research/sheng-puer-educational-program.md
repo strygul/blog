@@ -498,7 +498,7 @@ Preserve one producer, a shared current harvest year and season, sample format, 
 
 €16.84 incremental for Ge Deng and Yi Bang; Wan Gong is already in the advanced core. The complete three-tea set represents €25.17 of purchased tea. These two additions remain elective-only, not advanced-core costs.
 
-### Flight 14: The Lao Man'e bitterness spectrum
+### Flight 14: The Lao Man’e bitterness spectrum
 
 Compare two 2026 teas sold as bitter- and sweet-varietal Lao Man'e. The available pair makes bitterness type, persistence, and recovery the lesson while exposing how a cross-vendor match weakens attribution.
 
