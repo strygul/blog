@@ -25,7 +25,7 @@ The site already has useful section hubs, an all-posts archive, and contextual r
 
 ## Site Structure
 
-The global header will link to Home, Tea, Software/AI, Ballet, All Posts, and About. Existing section hubs remain the primary landing pages. The All Posts page remains the complete article directory, and the existing `RelatedPosts` component continues to provide contextual sibling links.
+The global header will link to Home, Tea, Software/AI, Ballet, All Posts, and About. Existing section hubs remain the primary landing pages. The All Posts page remains the complete article directory, and the existing `RelatedPosts` component continues to provide contextual sibling links. Internal links to directory-style pages will use their canonical trailing slash, removing avoidable redirects such as the `/tea` URL previously reported by Search Console.
 
 The generic `/categories/` and `/categories/*` pages duplicate the stronger section hubs and include several one-post archives. They will remain usable for visitors but receive `noindex, follow` and be excluded from the sitemap. Tea subcategory hubs such as `/tea/yixing/` and `/tea/tetsubins/` remain indexable because they contain editorial descriptions and useful grouped navigation.
 
@@ -71,4 +71,3 @@ Any Search Console action that submits or validates URLs will be confirmed with 
 ## Backlink Outreach
 
 Backlink acquisition is a separate follow-up because it requires external coordination. Research will identify a short list of relevant tea, pottery, museum, history, or culture sites for which a specific article is genuinely useful. Outreach will be individualized and transparent. Drafts and targets will be presented for approval before any message is sent.
-
