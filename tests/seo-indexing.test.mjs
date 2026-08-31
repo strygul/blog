@@ -7,7 +7,7 @@ const readPage = (path) =>
 	readFileSync(new URL(`../dist/${path}`, import.meta.url), 'utf8');
 
 test('the global header permanently links every principal hub', () => {
-	const header = readPage('tea/index.html').match(/<header>[\s\S]*?<\/header>/)?.[0] ?? '';
+	const header = readPage('tea/index.html').match(/<header\b[^>]*>[\s\S]*?<\/header>/)?.[0] ?? '';
 
 	for (const href of ['/', '/tea/', '/god-is-dead/', '/ballet/', '/blog/', '/about/']) {
 		assert.match(header, new RegExp(`href="${href}"`), href);
@@ -77,8 +77,11 @@ test('dated hubs publish their newest rendered date as lastmod', () => {
 	for (const path of ['tea', 'god-is-dead', 'ballet']) {
 		const dates = [
 			...readPage(`${path}/index.html`).matchAll(/<time datetime="([^"]+)">/g),
-		].map(([, date]) => date);
-		const newestDate = new Date(Math.max(...dates.map((date) => new Date(date).valueOf()))).toISOString();
+		].map(([, date]) => ({ date, timestamp: new Date(date).valueOf() }));
+		for (const { date, timestamp } of dates) {
+			assert.ok(Number.isFinite(timestamp), `${path} has malformed rendered content date: ${date}`);
+		}
+		const newestDate = new Date(Math.max(...dates.map(({ timestamp }) => timestamp))).toISOString();
 		const lastmod = entries.get(`https://strygul.com/${path}/`);
 
 		assert.ok(dates.length, `${path} has no rendered content date`);
