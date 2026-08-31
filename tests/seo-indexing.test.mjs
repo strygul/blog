@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
-import { readdirSync, readFileSync } from 'node:fs';
+import { mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import test from 'node:test';
+import { addLastmod } from '../astro.config.mjs';
 
 const readPage = (path) =>
 	readFileSync(new URL(`../dist/${path}`, import.meta.url), 'utf8');
@@ -74,12 +75,33 @@ test('every article sitemap date matches its rendered article metadata', () => {
 test('dated hubs publish their newest rendered date as lastmod', () => {
 	const entries = sitemapEntries();
 	for (const path of ['tea', 'god-is-dead', 'ballet']) {
-		const newestDate = readPage(`${path}/index.html`).match(/<time datetime="([^"]+)">/)?.[1];
+		const dates = [
+			...readPage(`${path}/index.html`).matchAll(/<time datetime="([^"]+)">/g),
+		].map(([, date]) => date);
+		const newestDate = new Date(Math.max(...dates.map((date) => new Date(date).valueOf()))).toISOString();
 		const lastmod = entries.get(`https://strygul.com/${path}/`);
 
-		assert.ok(newestDate, `${path} has no rendered content date`);
+		assert.ok(dates.length, `${path} has no rendered content date`);
 		assert.ok(lastmod, `${path} has no sitemap lastmod`);
 		assert.equal(new Date(lastmod).toISOString(), newestDate, path);
+	}
+});
+
+test('sitemap dates choose the newest rendered hub date', () => {
+	const fixtureDirectory = new URL('../dist/__sitemap-date-order/', import.meta.url);
+	const fixturePage = new URL('index.html', fixtureDirectory);
+	const url = 'https://strygul.com/__sitemap-date-order/';
+
+	mkdirSync(fixtureDirectory, { recursive: true });
+	writeFileSync(
+		fixturePage,
+		'<time datetime="2026-08-30T00:00:00.000Z"></time><time datetime="2026-08-31T00:00:00.000Z"></time>',
+	);
+
+	try {
+		assert.equal(addLastmod({ url }).lastmod, '2026-08-31T00:00:00.000Z');
+	} finally {
+		rmSync(fixtureDirectory, { recursive: true });
 	}
 });
 
