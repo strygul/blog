@@ -21,6 +21,7 @@ const collectionDetailLabels = [
 const expectedExceptions = new Map([
 	['factory-1-70s-xi-shi-76ml', 'My Teaware Collection'],
 	['late-qing-chaozhou-teapot-48ml', 'My Teaware Collection'],
+	['learning-sheng-puer-through-comparative-flights', 'Other'],
 	['resources', 'Other'],
 	['the-other-99-water-for-tea', 'Other'],
 	['tetsubin-history-1-birth-of-the-iron-kettle', 'Tetsubin'],
