@@ -146,9 +146,11 @@ The starting pool is intentionally routed by specialty, not ranked. A vendor men
 | Traditional Hong Kong storage | Yee On Tea; check The Steeping Room as a reseller lead | Seek specific handling/airing language and distinguish traditional storage from ordinary humid or Hong Kong home storage. |
 | Mainland/dry-stored factory | Yunnan Sourcing, Chawangshop, King Tea Mall | Seek recipe, year, batch/wrapper, cake weight, and storage location; do not infer storage from the vendor's location alone. |
 
-## Exchange-rate snapshot
+## Superseded August exchange-rate snapshot
 
-**Catalog and availability check date:** 2026-08-30. **ECB market/reference date:** 2026-08-28, the latest published working-day snapshot before the Sunday catalog check. Source: [European Central Bank euro foreign-exchange reference rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html). The ECB table quotes source-currency units per EUR, so the catalog records their reciprocals as required:
+This section preserves the 2026-08-30 catalog snapshot for audit history only. It is superseded by the September revalidation and ECB rates above and must not be used for current purchasing calculations.
+
+**August catalog and availability check date:** 2026-08-30. **August ECB market/reference date:** 2026-08-28, the latest published working-day snapshot before the Sunday catalog check. Source: [European Central Bank euro foreign-exchange reference rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html). The ECB table quotes source-currency units per EUR, so the August catalog recorded their reciprocals as required:
 
 | Source currency | ECB quote (units per EUR) | Catalog `eur_rate` (1 source-currency unit = N EUR) |
 |---|---:|---:|
@@ -156,7 +158,7 @@ The starting pool is intentionally routed by specialty, not ranked. A vendor men
 | GBP | 0.85720 | 1.166589 EUR |
 | HKD | 9.1276 | 0.109558 EUR |
 
-One snapshot is used for all 43 rows. `price_eur` is source price multiplied by `eur_rate`; `eur_per_10g` is rounded `price_eur` divided by purchase grams and multiplied by 10. Both EUR fields are rounded to two decimals. Rates are reference values, not promised card-settlement rates, and all amounts exclude shipping, tax, and import costs.
+That August snapshot was used for all 43 rows in the pre-migration catalog. In that snapshot, `price_eur` was source price multiplied by `eur_rate`; `eur_per_10g` was rounded `price_eur` divided by purchase grams and multiplied by 10. Both EUR fields were rounded to two decimals. Current audited offers instead use the September rates and calculations documented above. Rates are reference values, not promised card-settlement rates, and all amounts exclude shipping, tax, and import costs.
 
 ## Candidate and pairing notes
 
