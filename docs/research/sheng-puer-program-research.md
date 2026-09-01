@@ -90,7 +90,11 @@ For each audited offer, `price_eur = source_price × eur_rate` and `eur_per_10g 
 
 Each reused offer is counted once. The complete path is the union of foundation, advanced sensory flights, and L3, so its count and total are cumulative rather than incremental.
 
-## TeaDB source map
+## Superseded August research archive
+
+This archive preserves the August source map, synthesis, storefront audit, candidate notes, and budgets for audit history only. It is superseded by the September 2026 revalidation above and must not be read as current inventory, module mapping, or purchasing guidance.
+
+### TeaDB source map
 
 TeaDB is the curriculum compass, not an inventory or provenance authority. The publication date is the WordPress publication date; flights are the intended research destinations, not a claim that a source supplies a controlled comparison.
 
@@ -118,7 +122,7 @@ TeaDB is the curriculum compass, not an inventory or provenance authority. The p
 | [Pu’erh Regions: Lincang](https://teadb.org/lincang/) | 2015-02-07 | 8, 15, 24 | Mengku/Bingdao, Bangdong/Xigui/Nahan, Yongde, Daxueshan | **Regional and practitioner guidance.** Separates Mengku-side from Bangdong/Xigui-side Lincang and records the recurring young-tea expectation of green bitterness. The page also warns that hype and tiny ancient groves distort labels and prices. |
 | [Pu’erh Regions: Pu’er Prefecture](https://teadb.org/puer-prefecture/) | 2015-03-07 | 8, 15–18, 24 | Jingmai, Bangwei, Jiangcheng, Jinggu, Wuliang, Ailao | **Regional guidance.** Pu’er/Simao is too varied for a single taste profile and often costs less than Xishuangbanna. Jiangcheng/Yiwu and Jinggu/Mengku adjacency make borders and substitution claims especially important to state precisely. |
 
-## Age and storage synthesis
+### Age and storage synthesis
 
 **Sources checked:** 2026-08-30. TeaDB's category language guides the lesson; the thresholds below are a practical program convention rather than a scientific maturity scale.
 
@@ -130,7 +134,7 @@ TeaDB is the curriculum compass, not an inventory or provenance authority. The p
 - **Traditional Hong Kong storage:** an intentionally intense commercial process: densely packed tea first spends time in a warm, humid ground warehouse, then moves to a drier location to rest and air. TeaDB distinguishes this skilled process from ordinary humid storage and from the vague label “wet stored.” Exact cellar time, rotation, and post-cellar airing must come from the offer; otherwise the comparison is orientation only.
 - **Compression warning:** TeaDB notes that iron cakes and other tight compressions age more slowly under otherwise similar conditions. No flight should attribute a difference solely to climate when compression differs.
 
-### TeaDB benchmark recipes and boutique lineages
+#### TeaDB benchmark recipes and boutique lineages
 
 - The mid-2000s factory baseline names 2006/2008 Dayi 8582, 2006/2007/2008/2010 Dayi 7542, and early-year 2005 Xiaguan T8653 Thick Paper. These are benchmark search recipes, not authentication evidence.
 - **Historical recipe roles:** 7542 is the best-known Menghai/Dayi plantation-blend benchmark and the label attached to famous aged references such as the 88 Qing Bing; 7532 is the tippier/smaller-average-leaf Dayi reference; 8582 is the larger-average-leaf Dayi reference and has often occupied a different, historically lower-priced market tier; 8653 is Xiaguan's best-known raw recipe, commonly encountered in standard and tightly pressed `T`/iron-cake forms. These are historical roles, not promised sensory outcomes.
@@ -141,7 +145,7 @@ TeaDB is the curriculum compass, not an inventory or provenance authority. The p
 - The Yiwu report supplies longer boutique lineages for study: Chenyuan Hao, Yangqing Hao, Biyun Hao, Xizi Hao, and Wistaria/Baohongyinji. TeaDB particularly identifies early 2004–2005 Biyun Hao, the 2003/2005 Wistaria Zipin comparison, 2004–2007 Yangqing Hao, and Chenyuan Hao productions available with both Malaysian and Taiwanese storage.
 - TeaDB's ratings, flavor notes, body-feel reports, storage preferences, and predictions about future aging are **practitioner observations**. They are useful for setting tasting hypotheses only; they do not document the identity, condition, or expected sensory result of another vendor's cake.
 
-### Vendor inventory scan
+#### Vendor inventory scan
 
 All offer facts in the catalog were rechecked on a live vendor page or public vendor storefront/API on 2026-08-30. “In stock” means the selected variant was purchasable at check time, not that inventory is guaranteed. Direct requests to the three Liquid Proust Etsy URLs returned Etsy's 403 anti-bot response; exact Etsy listing, shop, and category views still displayed the named 16 g/32 g offers and USD prices, with the Shangpin page crawled on the check date showing two left. This is marketplace-visibility evidence, not an independent inventory feed; no 403 was treated as proof of stock.
 
@@ -166,7 +170,7 @@ All offer facts in the catalog were rechecked on a live vendor page or public ve
 | Hou De and Puerh.uk | Searches did not surface a stronger purchasable product-level match with exact current quantity, price, stock, and storage fields. Hou De remains the prior USA storage source named by Liquid Proust; its current older 7542 listings were not a narrow-era 7542/8582/7532 suite. |
 | Yangqing Hao USA and Teapals | No product-level young/semi-aged pair with current stock, sample quantity, price, and storage documentation was found. Liquid Proust's current samples offered the viable boutique alternative. |
 
-## Vendor map
+### Vendor map
 
 The starting pool is intentionally routed by specialty, not ranked. A vendor mention in TeaDB is a purchasing lead, while facts recorded in the TSV must come from the product page checked on the listed date.
 
@@ -177,7 +181,7 @@ The starting pool is intentionally routed by specialty, not ranked. A vendor men
 | Traditional Hong Kong storage | Yee On Tea; check The Steeping Room as a reseller lead | Seek specific handling/airing language and distinguish traditional storage from ordinary humid or Hong Kong home storage. |
 | Mainland/dry-stored factory | Yunnan Sourcing, Chawangshop, King Tea Mall | Seek recipe, year, batch/wrapper, cake weight, and storage location; do not infer storage from the vendor's location alone. |
 
-## Superseded August exchange-rate snapshot
+### August exchange-rate snapshot
 
 This section preserves the 2026-08-30 catalog snapshot for audit history only. It is superseded by the September revalidation and ECB rates above and must not be used for current purchasing calculations.
 
@@ -191,18 +195,18 @@ This section preserves the 2026-08-30 catalog snapshot for audit history only. I
 
 That August snapshot was used for all 43 rows in the pre-migration catalog. In that snapshot, `price_eur` was source price multiplied by `eur_rate`; `eur_per_10g` was rounded `price_eur` divided by purchase grams and multiplied by 10. Both EUR fields were rounded to two decimals. Current audited offers instead use the September rates and calculations documented above. Rates are reference values, not promised card-settlement rates, and all amounts exclude shipping, tax, and import costs.
 
-## Superseded August candidate and pairing notes
+### Candidate and pairing notes
 
 These notes explain the candidates whose live variants were checked on 2026-08-30, plus rejected or future search leads. Availability is only a point-in-time observation; source-page identity and storage descriptions remain vendor claims unless explicitly labeled otherwise.
 
-### Flights 1–2: age and broad storage
+#### Flights 1–2: age and broad storage
 
 - **Selected age anchors:** 25 g of 2025 Dayi 7542 batch 2501, 30 g of 2015 first-batch 7542, and 25 g of 2007 7542 batch 701 from King Tea Mall. This produces young, mid-semi-aged, and late-semi-aged examples of one recipe and producer at sample scale.
 - The 2015 offer states dry/clean Guangzhou storage and the 2007 offer states natural Guangzhou weather with moderate humidity and temperature; the 2025 page supplies no storage history. Therefore Flight 1 can teach age bands and recipe continuity, but cannot claim age alone caused the differences.
 - **Broad-storage orientation:** Yunnan Sourcing's six-tea/150 g sampler explicitly groups two Kunming, two Banna, and two Guangdong-dry examples. Flight 2 uses an exact three-component subset: 2006 Hong Xuan “Yi Wu Zheng Shan” (Kunming), 2007 Yi Wu Zheng Shan “Jin Tai Hao” (Banna), and 2005 CNNP “Farmer Ban Zhang” (Guangdong dry). This selects one tea per vendor-labelled group and keeps the years within 2005–2007; the other three components are optional follow-up, not part of the flight. Different productions and origins still make the subset a category orientation rather than a control.
 - King Tea Mall's product identity, batch, and storage are vendor claims. Its samples are preferable to its whole cakes here; do not treat low pricing as independent authentication.
 
-### Flights 3, 6–7: production models, recipes, and factories
+#### Flights 3, 6–7: production models, recipes, and factories
 
 - **Flight 3 factory/boutique orientation:** the selected pair is King Tea Mall's in-stock 2025 Dayi 7542 batch 2501 (USD 8.99/25 g) and Yunnan Sourcing's in-stock 2025 Cha Qi (USD 8.40/25 g). This holds year, 25 g format, source currency, and minimum purchase price unusually close while reusing the Dayi age anchor and the Cha Qi blend/construction anchor. It compares a mass-market numbered factory blend with a Western-facing brand's disclosed seven-component Menghai blend; it does not isolate scale, material, processing, or storage, and Dayi storage is unknown.
 - **Flight 6 primary recipe pair:** King Tea Mall's batch-ambiguous 2008 Dayi 7542 (USD 15.99/25 g) and 2008 Dayi 8582 batch 801 (USD 10.99/25 g). They share year, vendor, producer, parent-cake weight, and sample format, but not a documented batch match. The 7542 title omits batch, its handle says 903, the purchasable 25 g variant has no batch label, and the separately named batch-801 cake variant was unavailable. The 7542 page says Guangzhou dry/clean storage while 8582 says Guangzhou natural storage; measured conditions and custody are unknown, so this is a same-year recipe orientation rather than an exact production control.
@@ -210,19 +214,19 @@ These notes explain the candidates whose live variants were checked on 2026-08-3
 - **Flight 7/20 iron-cake alternate:** King Tea Mall's in-stock 2005 Thick Wrapper T8653 explicitly identifies a 357 g iron cake, first-batch/thick-wrapper claim, Guangzhou-natural storage, and 25 g at USD 18.99. It is a better Xiaguan signature example but changes year against the 2007 Dayi anchor. The sold-out Teas We Like April 2025 quarter-cake set remains the best preassembled substitution lead because it names recipe, year, batch where applicable, compression, and storage for all four components; it is cataloged `unavailable`, not recommended.
 - **Substitution ladder:** for Flight 6 preserve producer, recipe identity, year, batch, storage wording, and sample format in that order. For Flight 7 preserve age band, storage history, portion size, and disclosed compression before narrowing the year gap. Never call an iron-cake/standard-cake contrast a pure house-style comparison.
 
-### Flights 4 and 8: introductory terroir
+#### Flights 4 and 8: introductory terroir
 
 - **Flight 4 selected pair:** 25 g each of Yunnan Sourcing's 2025 Wan Gong Village wild-arbor-labelled tea (Yiwu/Mengla, USD 9.70) and 2025 Xin Ban'e (a stated Lao Man'e/Xin Banzhang spring blend, USD 11.40). This is the same vendor, brand, harvest year, sample size, and a similar price tier. It makes the softer/sweeter-versus-punchier/bitter practitioner expectation testable; it does not prove a regional law because material, village, blend status, and processing differ.
 - **Flight 8 selected pair:** 25 g each of Yunnan Sourcing's 2025 You Le Shan (Xishuangbanna/Jinghong, USD 6.50) and 2025 Ba Nuo Village (Mengku, Lincang, USD 7.50). The same vendor, producer label, year, April-harvest framing, sample size, and close price make this a strong broad-prefecture comparison. Only You Le is called first flush; exact flush and harvest timing are not documented as matched. TeaDB explicitly treats Youle as distinct from Yiwu; do not relabel it Mengla/Yiwu.
 - TeaDB's region profiles supply hypotheses only: greater Yiwu often reads softer and sweet-returning; Menghai/Bulang more forceful and bitter; young Lincang often green and bitter; Pu'er/Simao is too internally varied for a single profile. Treat every village, grove, elevation, and tree-age statement in these offers as `vendor_claim`.
 
-### Flight 5: matched storage
+#### Flight 5: matched storage
 
 - **Best-documented same-named-production pair:** Liquid Proust's 32 g 2007 Xizi Hao Shangpin set contains 16 g labeled Taiwan “humid” storage and 16 g labeled Hou De/USA storage. The live listing verifies that the seller states the 2007 year, XiZi Hao/Shangpin name, two 16 g portions, storage labels, price, and stock; it does not verify an exact batch or individual cake identifier.
 - Exact batch/cake identity, measured conditions, dates of transfer, and the USA storage protocol are unknown. Teach it as a vendor-documented same-named-production pair, not a controlled experiment or independently authenticated batch match.
 - The 2005 Dayi 7542 batch 504 Taiwan/Malaysia pair from Teas We Like remains the ideal advanced substitution if both exact variants return to stock; on 2026-08-30 both live variation endpoints reported out of stock.
 
-### Flights 9–12: interacting variables and synthesis
+#### Flights 9–12: interacting variables and synthesis
 
 - Reuse the 2025/2015/2007 Dayi 7542 set for a three-year recipe vertical spanning young through late-semi-aged tea. Year, batch, and stated storage differ, so conclusions must remain multivariable. Pair the 2000 Yee On 7542 only when an over-20-years operational example is needed; producer and recipe align, but vendor and storage history do not.
 - **Boutique lineage comparison:** Liquid Proust currently offers 16 g each of 2024 Xizi Hao Yun Tai 8582 and 2007 Xizi Hao Diangu. This gives accessible young versus late-semi-aged material from one boutique without private-market cakes. Different recipes/origins and undocumented storage make it a lineage comparison, not a maturation control.
@@ -230,7 +234,7 @@ These notes explain the candidates whose live variants were checked on 2026-08-3
 - **Substitution rule:** preserve raw tea, the intended recipe where possible, and the same practical age band; require explicit traditional-Hong-Kong wording plus a stated post-cellar airing/rest history for a controlled replacement. If airing history is absent, label the replacement “traditional-storage orientation,” never an exact match.
 - **Flight 11 selected pair:** 25 g each of Yunnan Sourcing's 2025 Cha Qi (vendor-stated blend of seven spring Menghai components, USD 8.40) and 2025 Xi Niu Tang Pasha (vendor-stated single-area Pasha material, USD 9.00). Same producer label, year, prefecture/county, first-flush claim, sample size, price tier, and age-oriented language make the blend question unusually well matched. The Pasha origin and old-arbor claim remain unverified; this compares disclosed construction, not objective quality or aging potential.
 
-#### Core-flight substitution rules
+##### Core-flight substitution rules
 
 These are the durable replacement rules for the twelve core flights. A substitute preserves the teaching variable before it preserves a famous name or low price.
 
@@ -247,7 +251,7 @@ These are the durable replacement rules for the twelve core flights. A substitut
 11. **Blend and single origin:** preserve seller/producer label, harvest year and season, Menghai region, portion, and price tier; require one page to disclose blend construction and the other to state one named area.
 12. **Three-age vertical:** reuse the selected 7542 anchors and require young, 10–20-year, and over-20-year operational bands. Replace within a recipe-identifiable lineage first and make storage, batch, and vendor changes part of the lesson rather than attributing differences to age alone.
 
-### Flights 13–15: advanced terroir
+#### Flights 13–15: advanced terroir
 
 - **Flight 13 primary set:** Yunnan Sourcing 2025 Wan Gong Village (USD 9.70/25 g), Ge Deng (USD 9.30/25 g), and Yi Bang (USD 10.30/25 g), all first-flush, vendor-labelled wild-arbor teas. This holds seller, producer label, year, season, format, and price tier close while varying claimed subregion and, in Yi Bang, the claimed small-leaf population. Three cups prevent a simplistic binary. TeaDB's Yiwu report warns that boutique processing and increasingly narrow lots complicate aging; its ratings are not expected outcomes for these teas.
 - **Flight 13 substitution ladder:** first preserve one producer, a shared current harvest year and season, sample format, and market tier while replacing the missing tea with another disclosed Yiwu/Mengla subregion. If no same-year set exists, keep the producer and subregional spread, then relax year as little as possible while matching age band and source-price-per-gram tier. Only then change producer, and only for all cups together so the set does not become a one-off vendor contrast. Keep at least one six-famous-mountains tea and one eastern-border Yiwu-area tea; disclose leaf-variety and tree-age claims rather than treating them as controlled.
@@ -256,7 +260,7 @@ These are the durable replacement rules for the twelve core flights. A substitut
 - **Flight 15 selected pair:** 25 g each of Yunnan Sourcing's 2024 Mo Lie Shan (Mengku side, USD 8.50) and 2024 Na Han Village (vendor places it near Bangdong, USD 12.00). Same producer label, year, April harvest, sample size, and Lincang prefecture isolate the west/east regional question better than a Bingdao/Xigui prestige pair. The vendor page inconsistently says Na Han is in “the county Mengku” and later “Bang Dong county”; catalog it as Bangdong-side per the page's repeated village/harvest wording and TeaDB's Nahan placement, while retaining the inconsistency in notes.
 - **Flight 15 substitution rule:** replace Mo Lie with another disclosed Mengku-side sample and Na Han with a disclosed Bangdong/Xigui-side sample from the same seller/year before relaxing year. Never infer Xigui material merely from proximity to Xigui.
 
-### Flights 16–18: material and processing
+#### Flights 16–18: material and processing
 
 - **Flight 16 selected pair:** Yunnan Sourcing 2025 Jiu Tai Po spring (USD 10.50/25 g) and autumn (USD 6.50/25 g). Both pages state Jiu Tai Po, Jinggu, 200–300-year-old trees, one producer label, one year, one sample size, and the same basic sun-dried/stone-pressed craft. Cake weights differ (250 g spring, 357 g autumn), and every origin/tree-age/sensory assertion is a vendor claim, but the samples avoid that format difference at service.
 - **Flight 16 substitution rule:** preserve producer, named origin, harvest year, sample weight, and disclosed craft; relax tree-age label before relaxing origin or year. If only differently priced spring/autumn samples remain, teach seasonal price and selection as a confounder rather than a quality ranking.
@@ -268,7 +272,7 @@ These are the durable replacement rules for the twelve core flights. A substitut
 - **Flight 17 durable substitution ladder:** (1) prefer one producer, origin, harvest and leaf grade with two explicitly documented withering/oxidation, rolling, kill-green, drying, or compression regimes; (2) if unavailable, preserve producer, shared harvest year/season and origin, relaxing leaf grade or sample format while retaining process disclosures on both pages; (3) if unavailable, preserve producer, shared harvest year/season, sample size and price tier, then allow origin/blend status to differ and teach the pair only as a construction orientation—the current Cha Qi/Yi Bang pair sits here; (4) if that also fails, use two producers only when both pages disclose the relevant steps, match broad region/year/format as closely as possible, and make claim-auditing rather than sensory causation the lesson. Without process documentation on either page, the pair lacks a processing role; “fragrance-forward” language, TeaDB's general observations, and leaf appearance cannot supply the missing evidence.
 - Bitterleaf 2025 Mirage remains a reserve fragrance-forward lead, but its page does not attribute that profile to a processing intervention. It is therefore weaker than Yi Bang for this fallback and must not replace Yi Bang unless a future page adds process disclosure.
 
-### Flights 19–21: advanced recipes and brands
+#### Flights 19–21: advanced recipes and brands
 
 - **Flight 19 Dayi recipe suite:** King Tea Mall's in-stock 2008 Dayi 7532 batch 801 (USD 11.99/30 g) completes the Flight 6 7542/8582 pair. All three are 357 g parent cakes from the same year, producer, seller, and broad Guangzhou storage vocabulary, but the 7542 sample's batch is ambiguous and therefore breaks any exact-production match. Portion sizes differ by 5 g and the 7542 page says dry/clean while 7532/8582 say natural storage. The evidence task is what recipe numbers disclose and, equally, what they leave unknown; “3rd-, 4th-, and 8th-grade” leaf cannot be ranked as quality.
 - Teas We Like's cake-only 2008 8582 batch 801 with natural Taiwan storage and its sold-out 2008 7532 batch 801 are advanced alternatives, not a complete current suite. The `unavailable` 7532 row is retained because the exact batch and natural-dry Taiwan provenance make it a serious restock candidate. Do not mix those cakes with the King Tea Mall samples and claim a storage-controlled set.
@@ -276,7 +280,7 @@ These are the durable replacement rules for the twelve core flights. A substitut
 - **Flight 21 boutique-philosophy set:** the exact three offers are Liquid Proust's current 16 g 2024 Xizi Hao Yun Tai 8582 as the Taiwanese boutique example, White2Tea's current 25 g 2025 School Day as the Western-facing blender example, and Farmer Leaf's current 20 g Spring 2026 Jingmai Miyun as the origin/harvest-focused example. The already-owned 2007 Xizi Hao Diangu is optional lineage context outside this flight. Xizi Hao's Tainan/mid-2000s lineage comes from TeaDB, while the listings leave origin/storage unknown. School Day discloses blend status and beginner/daily-drinking intent but not precise terroir or component harvests. Miyun explicitly names Jingmai, spring 2026, and natural-garden history, all still vendor claims.
 - These are three disclosure and production philosophies, not a vendor ranking: inherited boutique lineage and broad catalog; sensory/use-case-led blending without precise terroir; and origin/harvest/garden-led storytelling. Price, prestige, disclosure density, and personal preference do not establish objective quality. If one disappears, replace within its philosophy rather than substituting the cheapest tea from another category.
 
-### Flights 22–24: advanced storage and market literacy
+#### Flights 22–24: advanced storage and market literacy
 
 - Flight 22 places the 2007 Xizi Hao matched pair alongside the Yunnan Sourcing multi-production storage sampler to expose the difference between a match and an orientation set.
 - Flight 23 uses the 2000 Yee On 7542 and 2008 “Taste of Hong Kong,” with the more weakly documented 2000 7532 and 2007/2024 Xizi Hao lineage as alternatives. Its evidence distinctions are product facts, vendor storage claims, and sensory expectations drawn only from TeaDB.
@@ -285,7 +289,7 @@ These are the durable replacement rules for the twelve core flights. A substitut
 - **Flight 24 substitution rule:** keep producer, year, season, broad region, and sample format close; require the cheaper page to document a neighboring but separately named origin and to cost at least 30% less per gram in source currency. Never present adjacency as sensory equivalence or authenticate a prestige origin from its price.
 - Do not substitute the sold-out Teas We Like 2005 Dayi pair or any cake-only boutique listing without rechecking both exact variants. Cake-only options stay advanced unless a clearly labeled unusually affordable exception is deliberately approved.
 
-## Superseded August anchor selection rationale
+### Anchor selection rationale
 
 This section preserves the pre-migration decision trail only. The current `anchor` rule and F/L module assignments are defined by the September revalidation section and the revised catalog.
 
@@ -320,7 +324,7 @@ The 2015 7542 and the large storage sampler are not both needed in the advanced 
 
 Supply prevents a clean upper tier in several places. The exact Teas We Like 2005 Dayi 7542 Taiwan/Malaysia pair is unavailable, so Flight 5 keeps the live XiZi Hao split set. Flight 6 has no complete current batch-matched 7542/8582 pair: the King Tea Mall 7542 sample remains batch-ambiguous, and the cake-only Teas We Like 8582 does not solve that mismatch. Optional Flight 14 uses an available cross-vendor Lao Man'e bitter/sweet pair because Farmer Leaf's tighter bitter-tree sample is unavailable; Flight 18's tighter small-tree lead is also unavailable. Flight 17 remains an explicitly confounded construction orientation, not a causal processing test.
 
-## Rejected candidates
+### Rejected candidates
 
 - Do not enter a generic recipe label (for example, an unlabeled “7542”) without evidence that it is the stated factory production and batch.
 - Do not use a city name as a substitute for storage provenance.
@@ -336,7 +340,7 @@ Supply prevents a clean upper tier in several places. The exact Teas We Like 200
 - **Task 11 live audit, 2026-08-30:** all 37 unique `recommended`/`alternative` URLs were requested. Thirty-four resolved directly; the three Etsy URLs returned 403 but remained visible at the cataloged sizes and USD prices in exact Etsy listing/shop/category views. Every directly queryable selected variant remained purchasable, the Teas We Like quarter set remained unavailable, and no recommendation, alternative, price, or budget changed.
 - All 21 TeaDB URLs in the source map returned HTTP 200 on 2026-08-30. The ECB daily feed still reported its latest working-day rates for 2026-08-28: USD 1.1643, GBP 0.85720, and HKD 9.1276 per EUR; the catalog continues to use their reciprocals.
 
-## Superseded August three-tier budget calculations
+### Three-tier budget calculations
 
 These figures preserve the earlier catalog snapshot for audit history and must not be used as current purchasing totals. The authoritative foundation and complete-program calculations are in the September section above.
 

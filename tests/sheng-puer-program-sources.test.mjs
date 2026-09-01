@@ -84,7 +84,7 @@ test('the September notebook evidence index records every recommended offer', ()
 	const notebook = readFileSync(researchUrl, 'utf8');
 	const septemberSection = notebook.slice(
 		notebook.indexOf('## September 2026 validity-first revalidation'),
-		notebook.indexOf('\n## TeaDB source map'),
+		notebook.indexOf('\n## Superseded August research archive'),
 	);
 	const evidenceLines = septemberSection.split('\n');
 	const { rows } = readShengPuerCatalog();
@@ -104,10 +104,35 @@ test('the September notebook evidence index records every recommended offer', ()
 	}
 });
 
-test('legacy numbered-flight notes are explicitly labelled as superseded', () => {
+test('the current notebook excludes legacy mappings and visibly scopes the August archive', () => {
 	const notebook = readFileSync(researchUrl, 'utf8');
+	const archiveHeading = '## Superseded August research archive';
+	const archiveStart = notebook.indexOf(archiveHeading);
+	const caveatsStart = notebook.indexOf('\n## Research caveats');
+	assert.notEqual(archiveStart, -1, 'missing superseded archive boundary');
+	assert.ok(caveatsStart > archiveStart, 'archive must end before current research caveats');
 
-	assert.match(notebook, /^## Superseded August candidate and pairing notes$/m);
+	const currentNotebook = notebook.slice(0, archiveStart);
+	const augustArchive = notebook.slice(archiveStart, caveatsStart);
+	assert.doesNotMatch(
+		currentNotebook,
+		/(?:\b1[–-]24\b|\bFlights? (?:1[3-9]|2[0-4])\b|\bFlights? 13[–-]24\b)/,
+	);
+	assert.doesNotMatch(
+		currentNotebook,
+		/(?:2026-08-30.{0,160}(?:in stock|inventory|offer facts|purchasable)|(?:in stock|inventory|offer facts|purchasable).{0,160}2026-08-30)/is,
+	);
+	assert.match(
+		augustArchive,
+		/audit history only.+superseded by the September 2026 revalidation.+must not be read as current/is,
+	);
+	assert.deepEqual(
+		[...augustArchive.matchAll(/^## (.+)$/gm)].map((match) => match[1]),
+		['Superseded August research archive'],
+	);
+	assert.match(augustArchive, /\b1[–-]24\b/);
+	assert.match(augustArchive, /\bFlights 13[–-]15\b/);
+	assert.match(augustArchive, /offer facts.+2026-08-30/is);
 });
 
 test('the Flight 8 guide heading uses the public Lao Man’e spelling', () => {
