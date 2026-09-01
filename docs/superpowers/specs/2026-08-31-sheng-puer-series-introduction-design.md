@@ -1,7 +1,9 @@
 # Sheng Puer Comparative Flights: Series Introduction Design
 
+> **Superseded:** This document describes the former 24-flight introduction. See the current [program rework design](2026-09-01-sheng-puer-program-rework-design.md) and [implementation plan](../plans/2026-09-01-sheng-puer-program-rework.md).
+
 **Date:** 2026-08-31
-**Status:** Approved in conversation
+**Status:** Superseded
 
 ## Purpose
 

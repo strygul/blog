@@ -5,6 +5,15 @@ import { readShengPuerCatalog, summarizeBasket } from './helpers/sheng-puer-cata
 
 const guideUrl = new URL('../docs/research/sheng-puer-educational-program.md', import.meta.url);
 const researchUrl = new URL('../docs/research/sheng-puer-program-research.md', import.meta.url);
+const prefaceUrl = new URL('../docs/research/sheng-puer-article-preface.md', import.meta.url);
+const augustDesignUrl = new URL(
+	'../docs/superpowers/specs/2026-08-31-sheng-puer-series-introduction-design.md',
+	import.meta.url,
+);
+const augustPlanUrl = new URL(
+	'../docs/superpowers/plans/2026-08-31-sheng-puer-series-introduction.md',
+	import.meta.url,
+);
 
 const requiredFlightSections = [
 	'Question',
@@ -133,6 +142,39 @@ test('the current notebook excludes legacy mappings and visibly scopes the Augus
 	assert.match(augustArchive, /\b1[–-]24\b/);
 	assert.match(augustArchive, /\bFlights 13[–-]15\b/);
 	assert.match(augustArchive, /offer facts.+2026-08-30/is);
+});
+
+test('the branch-wide obsolete-language audit covers the preface and August introduction artifacts', () => {
+	const preface = readFileSync(prefaceUrl, 'utf8');
+	assert.match(preface, /twelve sensory flights and three methods labs/i);
+	assert.match(preface, /selected (?:sheng|teas).+evidence can.+cannot.+support/is);
+	assert.doesNotMatch(preface, /twelve basic.+twelve advanced|24[ -]flight/is);
+
+	for (const [name, url, replacementLinks] of [
+		[
+			'August design',
+			augustDesignUrl,
+			[
+				'2026-09-01-sheng-puer-program-rework-design.md',
+				'../plans/2026-09-01-sheng-puer-program-rework.md',
+			],
+		],
+		[
+			'August plan',
+			augustPlanUrl,
+			[
+				'2026-09-01-sheng-puer-program-rework.md',
+				'../specs/2026-09-01-sheng-puer-program-rework-design.md',
+			],
+		],
+	]) {
+		const document = readFileSync(url, 'utf8');
+		assert.match(document, /Superseded/, `${name}: missing superseded status or banner`);
+		assert.match(document, /former 24-flight/i, `${name}: missing legacy scope`);
+		for (const link of replacementLinks) {
+			assert.ok(document.includes(`](${link})`), `${name}: missing current replacement ${link}`);
+		}
+	}
 });
 
 test('the Flight 8 guide heading uses the public Lao Man’e spelling', () => {

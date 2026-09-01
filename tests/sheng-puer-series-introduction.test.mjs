@@ -12,6 +12,7 @@ const articleUrl = new URL(
 	'../src/content/tea/learning-sheng-puer-through-comparative-flights.md',
 	import.meta.url,
 );
+const guideUrl = new URL('../docs/research/sheng-puer-educational-program.md', import.meta.url);
 const renderedArticleUrl = new URL(
 	'../dist/tea/learning-sheng-puer-through-comparative-flights/index.html',
 	import.meta.url,
@@ -29,10 +30,10 @@ const sensoryFlights = [
 	'Dayi 7542 and 8582',
 	'Dayi and Xiaguan',
 	'Yiwu within Yiwu',
-	"The Lao Man’e bitterness spectrum",
+	'Lao Man’e bitterness spectrum',
 	'Lincang within Lincang',
 	'Spring and autumn from one origin',
-	'The Dayi 7532, 7542, and 8582 suite',
+	'Dayi 7532, 7542, and 8582 suite',
 	'Two traditional Hong Kong storage profiles',
 ];
 const methodsLabs = [
@@ -40,6 +41,7 @@ const methodsLabs = [
 	'Lab B — Claims are not flavors',
 	'Lab C — Blind value and expectation',
 ];
+const expectedDescription = 'A personal introduction to a comparative tasting program observing how selected sheng puer teas differ across development, storage, regional, recipe, and producer contexts.';
 
 const investigatedVendors = [
 	'Yunnan Sourcing',
@@ -110,6 +112,22 @@ test('sheng puer introduction renders its supplied hero image', () => {
 	assert.match(hero, /alt="Sheng Puer Flights Pilot"/);
 });
 
+test('sheng puer introduction uses neutral observational metadata', () => {
+	const article = readFileSync(articleUrl, 'utf8');
+	const description = article.match(/^description: "(.+)"$/m)?.[1];
+
+	assert.equal(description, expectedDescription);
+	assert.doesNotMatch(description, /\bshap(?:e|ed|es|ing)\b/i);
+});
+
+test('public sensory-flight titles exactly match the authoritative guide', () => {
+	const guide = readFileSync(guideUrl, 'utf8');
+	const guideFlightTitles = [...guide.matchAll(/^### Flight \d+: (.+)$/gm)]
+		.map((match) => match[1]);
+
+	assert.deepEqual(sensoryFlights, guideFlightTitles);
+});
+
 test('sheng puer hero keeps the illustration clear of the right canvas edge', async () => {
 	const { data, info } = await sharp(fileURLToPath(heroImageUrl))
 		.removeAlpha()
@@ -167,6 +185,12 @@ test('sheng puer introduction presents the retained program and current purchasi
 	assert.deepEqual(
 		roadmapItems.filter((item) => /\*\*Lab [ABC] —/.test(item)).map((item) => item.match(/Lab [ABC]/)[0]),
 		['Lab A', 'Lab B', 'Lab C'],
+	);
+	assert.deepEqual(
+		roadmapItems
+			.filter((item) => /\*\*Flight \d+ —/.test(item))
+			.map((item) => item.match(/\*\*Flight \d+ — (.+?)\*\*/)[1]),
+		sensoryFlights,
 	);
 	let previousPosition = -1;
 	for (const moduleTitle of programSequence) {
@@ -247,6 +271,11 @@ test('vendor methodology documents the investigated pool, selection criteria, an
 	assert.match(normalizedVendorSection, /order consolidation/i);
 	assert.match(normalizedVendorSection, /not (?:an )?(?:endorsement|vendor ranking)/i);
 	assert.match(normalizedVendorSection, /vendor claim/i);
+	assert.match(normalizedVendorSection, /Liquid Proust.{0,120}matched.{0,80}storage/i);
+	assert.match(normalizedVendorSection, /Farmer Leaf and Tea Encounter.{0,80}Lao Man’e/i);
+	assert.match(normalizedVendorSection, /research pool/i);
+	assert.doesNotMatch(normalizedVendorSection, /lineage samples/i);
+	assert.doesNotMatch(normalizedVendorSection, /remain useful alternatives/i);
 
 	const selectionMethod = normalizedVendorSection.slice(
 		normalizedVendorSection.indexOf('Comparison validity'),

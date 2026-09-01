@@ -10,6 +10,6 @@ I began to find the beginnings of such an approach through blogs and social medi
 
 Over the years, I accumulated more knowledge, discovered many excellent tea resources, and retained the same thirst for learning and desire to deepen my understanding of tea. Gradually, the idea emerged to create the kind of practical guide I wish I had when I was starting out: a guide that would bring structure to tea exploration without taking away the pleasure of discovery. It is this guide that I would now like to share with anyone who might find it useful, inspiring, or insightful.
 
-Because sheng puer is one of my all-time favourites, it felt like the natural place to begin. I created twelve basic “flights”—suggested comparative tastings designed to explore some of the variables that make one sheng different from another—and twelve advanced flights for those who want to examine its subtler nuances.
+Because sheng puer is one of my all-time favourites, it felt like the natural place to begin. I created twelve sensory flights and three methods labs: a sequence that compares selected teas while teaching what the evidence can—and cannot—support.
 
 To make the program practical, I also researched teas that could work for each flight, the vendors that sell them, and their current prices. Finally, I estimated approximately how much each flight—and the program as a whole—might cost.

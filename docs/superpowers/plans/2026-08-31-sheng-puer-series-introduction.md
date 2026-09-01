@@ -1,5 +1,7 @@
 # Sheng Puer Series Introduction Implementation Plan
 
+> **Superseded:** This document describes the former 24-flight introduction. See the current [implementation plan](2026-09-01-sheng-puer-program-rework.md) and [program rework design](../specs/2026-09-01-sheng-puer-program-rework-design.md).
+
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** Publish the introductory roadmap for the sheng puer comparative-flight series, including the approved personal preface, all 24 flight themes, vendor-selection methodology, and verified EUR budget paths.

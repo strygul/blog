@@ -6,7 +6,7 @@ category:
   - "Tea Education"
   - "Sheng Puer"
   - "Other"
-description: "A personal introduction to a comparative tasting program for learning how age, storage, terroir, recipes, and producers shape sheng puer."
+description: "A personal introduction to a comparative tasting program observing how selected sheng puer teas differ across development, storage, regional, recipe, and producer contexts."
 heroImage: "../../../public/tea/posts/learning-sheng-puer-through-comparative-flights/sheng-flights-hero.png"
 ---
 <div class="info-box">
@@ -62,11 +62,11 @@ unique tastes.
 7. **Flight 6 — Dayi and Xiaguan** compares selected same-year factory examples.
 8. **Lab B — Claims are not flavors** separates product-page documentation from sensory experience.
 9. **Flight 7 — Yiwu within Yiwu** adds subregional variation to the broad Yiwu lesson.
-10. **Flight 8 — The Lao Man’e bitterness spectrum** describes bitterness structure with a deliberately low inference
+10. **Flight 8 — Lao Man’e bitterness spectrum** describes bitterness structure with a deliberately low inference
 ceiling.
 11. **Flight 9 — Lincang within Lincang** compares Mengku- and Bangdong-side examples.
 12. **Flight 10 — Spring and autumn from one origin** examines a closely matched commercial season contrast.
-13. **Flight 11 — The Dayi 7532, 7542, and 8582 suite** extends the recipe orientation to three samples.
+13. **Flight 11 — Dayi 7532, 7542, and 8582 suite** extends the recipe orientation to three samples.
 14. **Flight 12 — Two traditional Hong Kong storage profiles** compares two complete vendor-described storage
 expressions.
 15. **Lab C — Blind value and expectation** measures how revealing names and prices changes a participant's
@@ -107,9 +107,9 @@ availability, reuse across flights, order consolidation, and then normalized and
 practical constraint throughout. Price mattered, but choosing the cheapest offer was not the goal.
 
 The program therefore relies on Yunnan Sourcing for closely matched contemporary comparisons; King Tea Mall for
-sample-scale Dayi and Xiaguan references; Liquid Proust for unusual storage and Xizi Hao lineage samples; and Yee On Tea
-for explicitly traditional Hong Kong storage examples. Farmer Leaf and Tea Encounter provide the available Lao Man’e
-comparison; the other investigated vendors remain useful alternatives.
+sample-scale Dayi and Xiaguan references; Liquid Proust for the matched split-storage set; and Yee On Tea for explicitly
+traditional Hong Kong storage examples. Farmer Leaf and Tea Encounter provide the current Lao Man’e comparison.
+Vendors without selected offers remain part of the investigated research pool.
 
 This shortlist is not a vendor ranking or endorsement, and omission is not a judgment of quality. The listed prices are
 not necessarily the lowest prices worldwide. A promising vendor might simply lack a valid match, practical samples,
