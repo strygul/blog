@@ -55,12 +55,12 @@ unique tastes.
 
 1. **Flight 1 — Development states within Dayi 7542** builds a multivariable development map.
 2. **Flight 2 — One tea, two storage histories** uses the closest purchasable matched-storage set.
-3. **Methods lab — Storage evidence audit** asks what different forms of storage documentation can support.
+3. **Lab A — Storage evidence audit** asks what different forms of storage documentation can support.
 4. **Flight 3 — Yiwu and Bulang** establishes a broad same-seller and same-year regional contrast.
 5. **Flight 4 — Xishuangbanna and Lincang** adds a second broad regional contrast.
 6. **Flight 5 — Dayi 7542 and 8582** introduces two same-year Dayi recipes.
 7. **Flight 6 — Dayi and Xiaguan** compares selected same-year factory examples.
-8. **Methods lab — Claims are not flavors** separates product-page documentation from sensory experience.
+8. **Lab B — Claims are not flavors** separates product-page documentation from sensory experience.
 9. **Flight 7 — Yiwu within Yiwu** adds subregional variation to the broad Yiwu lesson.
 10. **Flight 8 — The Lao Man’e bitterness spectrum** describes bitterness structure with a deliberately low inference
 ceiling.
@@ -69,7 +69,7 @@ ceiling.
 13. **Flight 11 — The Dayi 7532, 7542, and 8582 suite** extends the recipe orientation to three samples.
 14. **Flight 12 — Two traditional Hong Kong storage profiles** compares two complete vendor-described storage
 expressions.
-15. **Methods lab — Blind value and expectation** measures how revealing names and prices changes a participant's
+15. **Lab C — Blind value and expectation** measures how revealing names and prices changes a participant's
 response.
 
 ## How to run a flight
@@ -85,7 +85,8 @@ contrast is unstable, unclear, or contradictory, report the result as **inconclu
 These are comparisons among selected teas, not controlled experiments. They can show a repeatable difference in a set,
 but cannot prove a universal rule, authenticate a product label, or establish one cause for every difference. Record
 storefront facts, vendor claims, observations, inferences, and unknowns separately. The value lab follows the same
-blind-first rule: reveal names and prices only after the initial scoring, because price is not a flavor that can be tasted.
+blind-first rule: reveal names and prices only after the initial scoring. Price, prestige, provenance, tree age,
+production philosophy, and intended aging are not directly tastable.
 
 ## How I chose the teas and vendors
 

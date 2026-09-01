@@ -36,9 +36,9 @@ const sensoryFlights = [
 	'Two traditional Hong Kong storage profiles',
 ];
 const methodsLabs = [
-	'Storage evidence audit',
-	'Claims are not flavors',
-	'Blind value and expectation',
+	'Lab A — Storage evidence audit',
+	'Lab B — Claims are not flavors',
+	'Lab C — Blind value and expectation',
 ];
 
 const investigatedVendors = [
@@ -65,6 +65,15 @@ const investigatedVendors = [
 	'Teapals',
 ];
 
+const expectedPrefaceParagraphs = [
+	'Even though I have been drinking tea for as long as I can remember, I came to conscious tea drinking much later in life—and, somewhat unexpectedly, through wine. Living in a country where tea drinkers are a small minority, I found it difficult to meet like-minded companions. Without a community or a clear path to follow, I had to pursue most of my tea education on my own, as many people in the West probably do: relying on whatever online resources I could find and chaotically buying different teas with no purpose beyond exposing myself to as many of them as possible.',
+	'This kind of broad exploration is probably an important—and inevitable—step in the journey of anyone who wants to understand tea as something more than a hot drink consumed after dinner with a slice of cake. It introduces you to the extraordinary diversity of tea and helps you discover your own preferences. But it can take you only so far. At some point, you begin to wonder whether you are still learning anything simply by trying yet another new tea.',
+	'Coming to tea through wine made me increasingly aware—not that tea lacked educational traditions, but that I could not find a clear path through them. Wine education offered me a visible framework for comparing regions, vintages, producers, grape varieties, and methods of production. In tea, the knowledge was certainly there, but from the perspective of an independent learner in the West, it often felt scattered across traditions, specialist books, blogs, vendors, and online communities. What I was missing was not information itself, but a practical sequence that could turn that information into purposeful tasting.',
+	'I began to find the beginnings of such an approach through blogs and social media, where people recommended paired, horizontal, and vertical tastings. I tried them and learned a great deal. They showed me how much more one can discover by comparing teas with a particular question in mind. Still, as a beginner, I often lacked the knowledge and context needed to choose meaningful comparisons—or to make every tea session and every tea purchase as useful for learning as possible.',
+	'Over the years, I accumulated more knowledge, discovered many excellent tea resources, and retained the same thirst for learning and desire to deepen my understanding of tea. Gradually, the idea emerged to create the kind of practical guide I wish I had when I was starting out: a guide that would bring structure to tea exploration without taking away the pleasure of discovery. It is this guide that I would now like to share with anyone who might find it useful, inspiring, or insightful.',
+	'Because sheng puer is one of my all-time favourites, it felt like the natural place to begin. The program introduces twelve sensory flights and three methods labs: a sequence for exploring how selected sheng differ while learning what the evidence can—and cannot—support. The accompanying research includes suitable teas, vendors, and estimated prices.',
+];
+
 test('sheng puer introduction renders the complete preface in the shared info box', () => {
 	const renderedArticle = readFileSync(renderedArticleUrl, 'utf8');
 	const infoBoxStart = renderedArticle.indexOf('<div class="info-box">');
@@ -79,11 +88,10 @@ test('sheng puer introduction renders the complete preface in the shared info bo
 	assert.ok(infoBoxEnd < firstSection, 'the info box should contain only the preface');
 
 	const preface = renderedArticle.slice(infoBoxStart, infoBoxEnd);
-	assert.match(preface, /Even though I have been drinking tea for as long as I can remember/);
-	assert.match(
-		preface,
-		/The accompanying research includes suitable teas, vendors, and estimated prices\./,
+	const renderedPrefaceParagraphs = [...preface.matchAll(/<p>(.*?)<\/p>/gs)].map((match) =>
+		match[1].replace(/\s+/g, ' ').trim(),
 	);
+	assert.deepEqual(renderedPrefaceParagraphs, expectedPrefaceParagraphs);
 });
 
 test('sheng puer introduction renders its supplied hero image', () => {
@@ -149,6 +157,17 @@ test('sheng puer introduction presents the retained program and current purchasi
 		...sensoryFlights.slice(6),
 		methodsLabs[2],
 	];
+	const roadmapItems = programSection.match(/^\d+\. \*\*(?:Flight \d+|Lab [ABC]) — .+?\*\*/gm) ?? [];
+	assert.equal(roadmapItems.length, 15, 'the roadmap should contain exactly 15 labelled modules');
+	assert.equal(
+		roadmapItems.filter((item) => /\*\*Flight \d+ —/.test(item)).length,
+		12,
+		'the roadmap should visibly label exactly 12 flights',
+	);
+	assert.deepEqual(
+		roadmapItems.filter((item) => /\*\*Lab [ABC] —/.test(item)).map((item) => item.match(/Lab [ABC]/)[0]),
+		['Lab A', 'Lab B', 'Lab C'],
+	);
 	let previousPosition = -1;
 	for (const moduleTitle of programSequence) {
 		const position = programSection.indexOf(moduleTitle);
@@ -192,13 +211,18 @@ test('the public introduction explains the comparison and evidence protocol', ()
 	const article = readFileSync(articleUrl, 'utf8');
 	assert.match(article, /5 g.+100 ml/is);
 	assert.match(article, /100 °C/);
+	assert.match(article, /five-second rinse/i);
+	assert.match(article, /10, 10, 15, 20, 30, and 45 seconds/);
 	assert.match(article, /blind/i);
 	assert.match(article, /reveal/i);
 	assert.match(article, /another day/i);
 	assert.match(article, /inconclusive/i);
 	assert.match(article, /selected teas/i);
 	assert.match(article, /cannot (?:prove|authenticate|establish)/i);
-	assert.match(article, /price.+not.+(?:flavo|taste)/is);
+	assert.match(
+		article,
+		/price, prestige, provenance, tree age,\s+production philosophy, and intended aging are not directly tastable/i,
+	);
 });
 
 test('vendor methodology documents the investigated pool, selection criteria, and limitations', () => {
@@ -223,4 +247,22 @@ test('vendor methodology documents the investigated pool, selection criteria, an
 	assert.match(normalizedVendorSection, /order consolidation/i);
 	assert.match(normalizedVendorSection, /not (?:an )?(?:endorsement|vendor ranking)/i);
 	assert.match(normalizedVendorSection, /vendor claim/i);
+
+	const selectionMethod = normalizedVendorSection.slice(
+		normalizedVendorSection.indexOf('Comparison validity'),
+		normalizedVendorSection.indexOf('Current stock'),
+	);
+	let previousCriterionPosition = -1;
+	for (const criterion of [
+		'comparison validity',
+		'documentation',
+		'sample availability',
+		'reuse across flights',
+		'order consolidation',
+		'normalized and total price',
+	]) {
+		const position = selectionMethod.toLowerCase().indexOf(criterion);
+		assert.ok(position > previousCriterionPosition, `missing or out-of-order criterion: ${criterion}`);
+		previousCriterionPosition = position;
+	}
 });
