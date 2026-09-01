@@ -4,6 +4,7 @@ import test from 'node:test';
 import { readShengPuerCatalog, summarizeBasket } from './helpers/sheng-puer-catalog.mjs';
 
 const guideUrl = new URL('../docs/research/sheng-puer-educational-program.md', import.meta.url);
+const researchUrl = new URL('../docs/research/sheng-puer-program-research.md', import.meta.url);
 
 const requiredFlightSections = [
 	'Question',
@@ -77,6 +78,36 @@ test('catalog EUR calculations and cumulative paths are internally consistent', 
 	assert.ok(foundation.count > 0);
 	assert.ok(complete.count >= foundation.count);
 	assert.ok(complete.total >= foundation.total);
+});
+
+test('the September notebook evidence index records every recommended offer', () => {
+	const notebook = readFileSync(researchUrl, 'utf8');
+	const septemberSection = notebook.slice(
+		notebook.indexOf('## September 2026 validity-first revalidation'),
+		notebook.indexOf('\n## TeaDB source map'),
+	);
+	const evidenceLines = septemberSection.split('\n');
+	const { rows } = readShengPuerCatalog();
+
+	for (const row of rows.filter((entry) => entry.role === 'recommended')) {
+		const evidenceLine = evidenceLines.find((line) => line.includes(`](${row.url})`));
+		assert.ok(evidenceLine, `September evidence missing URL for ${row.offer_id}`);
+		for (const value of [
+			row.checked_on,
+			`${row.source_currency} ${row.source_price}`,
+			`${row.purchase_g} g`,
+			row.availability,
+			row.confidence,
+		]) {
+			assert.ok(evidenceLine.includes(value), `${row.offer_id}: evidence missing ${value}`);
+		}
+	}
+});
+
+test('legacy numbered-flight notes are explicitly labelled as superseded', () => {
+	const notebook = readFileSync(researchUrl, 'utf8');
+
+	assert.match(notebook, /^## Superseded August candidate and pairing notes$/m);
 });
 
 test('the Flight 8 guide heading uses the public Lao Man’e spelling', () => {

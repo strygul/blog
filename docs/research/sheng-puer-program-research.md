@@ -44,6 +44,37 @@
 | L3 | `ys-2025-mo-lie-shan-25g`, 25 g | USD 7.60; in stock | Page names 2025 Mo Lie Shan south of Bingdao and provides a 25 g sample. Retained as the lower-cost neighbouring-name counterpart, not equivalent material. |
 | L1 documentation only | `ys-aged-storage-comparison-150g`, six 25 g portions | USD 72.50; in stock | Page lists two Kunming-, two Banna-, and two Guangdong-dry-storage teas. It remains documentation/reference evidence and adds no required purchase; the two Yee On pages above are audited the same way. |
 
+### Recommended-offer evidence index
+
+The detailed observations above are authoritative for visible stock evidence and limitations. This index makes the catalog-to-notebook audit explicit for every recommended basket row.
+
+| Offer and exact source URL | Checked | Native price | Portion | Availability | Confidence |
+|---|---|---:|---:|---|---|
+| [`ktm-2025-dayi-7542-2501-25g`](https://kingteamall.com/products/2025-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea) | 2026-09-01 | USD 8.99 | 25 g | `in_stock` | `vendor_claim` |
+| [`ktm-2015-dayi-7542-1501-30g`](https://kingteamall.com/products/2015-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea) | 2026-09-01 | USD 8.99 | 30 g | `in_stock` | `vendor_claim` |
+| [`ktm-2007-dayi-7542-701-25g`](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) | 2026-09-01 | USD 16.99 | 25 g | `in_stock` | `vendor_claim` |
+| [`lp-2007-xzh-shangpin-storage-pair-32g`](https://www.etsy.com/listing/4479672864/2007-shangpin-xizihao-usa-vs-taiwan) | 2026-09-01 | USD 15.00 | 32 g | `in_stock` | `vendor_claim` |
+| [`yeeon-2000-7542-trad-hk-10g`](https://yeeonteaco.com/products/2000-7542-menghai-tea-factory-25-years-of-traditional-manufacturing-raw-pu-erh-tea-cake) | 2026-09-01 | HKD 140.00 | 10 g | `in_stock` | `vendor_claim` |
+| [`yeeon-2008-taste-hk-trad-cellar-25g`](https://yeeonteaco.com/products/2008-taste-of-hong-kong-raw-pu-erh-teacake-cellar-storage) | 2026-09-01 | HKD 23.00 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-wangong-wild-arbor-25g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-wan-gong-village-wild-arbor-raw-pu-erh-tea-cake) | 2026-09-01 | USD 9.70 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-xin-bane-25g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-xin-bane-raw-pu-erh-tea-cake) | 2026-09-01 | USD 11.40 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-youle-shan-25g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-you-le-shan-raw-pu-erh-tea-cake) | 2026-09-01 | USD 6.50 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-ba-nuo-25g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-ba-nuo-village-raw-pu-erh-tea-cake) | 2026-09-01 | USD 7.50 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-gedeng-wild-arbor-25g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-ge-deng-wild-arbor-raw-pu-erh-tea-cake) | 2026-09-01 | USD 9.30 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-yibang-wild-arbor-25g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-yi-bang-wild-arbor-raw-pu-erh-tea-cake) | 2026-09-01 | USD 10.30 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2024-mo-lie-shan-25g`](https://yunnansourcing.com/products/2024-yunnan-sourcing-mo-lie-shan-raw-pu-erh-tea-cake) | 2026-09-01 | USD 8.50 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2024-na-han-village-25g`](https://yunnansourcing.com/products/2024-yunnan-sourcing-na-han-village-old-arbor-raw-pu-erh-tea-cake) | 2026-09-01 | USD 12.00 | 25 g | `in_stock` | `vendor_claim` |
+| [`fl-2026-lao-man-e-gushu-sweet-20g`](https://www.farmer-leaf.com/products/spring-2026-lao-man-e-gushu) | 2026-09-01 | USD 23.00 | 20 g | `in_stock` | `vendor_claim` |
+| [`teaenc-2026-lao-man-e-kucha-20g`](https://tea-encounter.com/product/2026-te-laomane-kucha/) | 2026-09-01 | GBP 6.00 | 20 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-jiu-tai-po-spring-25g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-jiu-tai-po-old-arbor-raw-pu-erh-tea-cake) | 2026-09-01 | USD 10.50 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-jiu-tai-po-autumn-25g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-autumn-jiu-tai-po-old-arbor-raw-pu-erh-tea-cake) | 2026-09-01 | USD 6.50 | 25 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-bingdao-laozhai-10g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-bing-dao-lao-zhai-raw-pu-erh-tea-cake) | 2026-09-01 | USD 9.00 | 10 g | `in_stock` | `vendor_claim` |
+| [`ys-2025-mo-lie-shan-25g`](https://yunnansourcing.com/products/2025-yunnan-sourcing-mo-lie-shan-raw-pu-erh-tea-cake) | 2026-09-01 | USD 7.60 | 25 g | `in_stock` | `vendor_claim` |
+| [`ktm-2008-dayi-7542-batch-ambiguous-25g`](https://kingteamall.com/products/2008-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-903) | 2026-09-01 | USD 15.99 | 25 g | `in_stock` | `vendor_claim` |
+| [`ktm-2008-dayi-8582-801-25g`](https://kingteamall.com/products/2008-dayi-8582-cake-357g-puerh-sheng-cha-raw-tea) | 2026-09-01 | USD 10.99 | 25 g | `in_stock` | `vendor_claim` |
+| [`ktm-2008-dayi-7532-801-30g`](https://kingteamall.com/products/2008-dayi-7532-cake-357g-puerh-sheng-cha-raw-tea) | 2026-09-01 | USD 11.99 | 30 g | `in_stock` | `vendor_claim` |
+| [`ktm-2007-xiaguan-8653-25g`](https://kingteamall.com/products/2007-xiaguan-8653-iron-cake-357g-puerh-raw-tea-sheng-cha) | 2026-09-01 | USD 6.99 | 25 g | `in_stock` | `vendor_claim` |
+
 The quality gate therefore retains all twelve sensory flights. F8 uses the substitution ladder because the preferred Farmer Leaf bitter/sweet pair is not purchasable; its surviving cross-vendor pair is explicitly an orientation, not a controlled varietal or producer comparison. L1 adds no purchase. Product evidence formerly used by removed standalone comparisons is retained under `L2` as `reference`, `rejected`, `candidate`, or `unavailable`, always with an empty `paths` cell.
 
 ### September exchange rate and basket calculation
@@ -160,7 +191,7 @@ This section preserves the 2026-08-30 catalog snapshot for audit history only. I
 
 That August snapshot was used for all 43 rows in the pre-migration catalog. In that snapshot, `price_eur` was source price multiplied by `eur_rate`; `eur_per_10g` was rounded `price_eur` divided by purchase grams and multiplied by 10. Both EUR fields were rounded to two decimals. Current audited offers instead use the September rates and calculations documented above. Rates are reference values, not promised card-settlement rates, and all amounts exclude shipping, tax, and import costs.
 
-## Candidate and pairing notes
+## Superseded August candidate and pairing notes
 
 These notes explain the candidates whose live variants were checked on 2026-08-30, plus rejected or future search leads. Availability is only a point-in-time observation; source-page identity and storage descriptions remain vendor claims unless explicitly labeled otherwise.
 
