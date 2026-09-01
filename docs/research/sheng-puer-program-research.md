@@ -9,6 +9,56 @@
 - **Vendor claim:** stated by the seller but not independently verified.
 - **Practitioner expectation:** recurring sensory or historical interpretation from TeaDB or another specialist source; useful as a question, not a promised result.
 
+## September 2026 validity-first revalidation
+
+**Storefront check:** 2026-09-01. The exact sample or set variant was inspected on each primary vendor page or public storefront feed. A successful HTTP response was never treated as stock evidence: `in_stock` means the selected variant exposed an active purchase state at check time. Etsy still blocked direct automated requests with a 403, so the Liquid Proust decision uses the visible exact listing plus shop/category evidence; the indexed listing showed two units left, USD 15, and an add-to-cart state.
+
+| Module | Offer and smallest adequate portion | Native price and availability | Observed page wording and validity decision |
+|---|---|---|---|
+| F1 | `ktm-2025-dayi-7542-2501-25g`, 25 g | USD 8.99; in stock | Page identifies “7542,” batch 2501, and a 357 g cake. Retained as the young development state, not an age-only control. |
+| F1 | `ktm-2015-dayi-7542-1501-30g`, 30 g | USD 8.99; in stock | Page identifies first-batch 7542 and Guangzhou dry/clean storage wording. Retained as the middle development state. |
+| F1 | `ktm-2007-dayi-7542-701-25g`, 25 g | USD 16.99; in stock | Page identifies batch 701 and Guangzhou “natural weather conditions.” Retained as the oldest development state and reused in F6. |
+| F2 / L1 | `lp-2007-xzh-shangpin-storage-pair-32g`, two labelled 16 g portions | USD 15.00; low stock, two left | Exact listing states 16 g Taiwan “humid” storage plus 16 g Hou De (USA) storage in one 32 g purchase. It passes the matched-set requirement; custody and measured conditions remain unknown. |
+| F3 | `ys-2025-wangong-wild-arbor-25g`, 25 g | USD 9.70; in stock | Page names Wan Gong Village, 2025, a 25 g sample, and April first-flush framing. Retained as the Yiwu/Mengla example and reused in F7. |
+| F3 | `ys-2025-xin-bane-25g`, 25 g | USD 11.40; in stock | Page names 2025 Xin Ban'e, a 25 g sample, and a Lao Man'e/Xin Banzhang spring blend. Retained as the same-seller/year Bulang/Menghai contrast. |
+| F4 | `ys-2025-youle-shan-25g`, 25 g | USD 6.50; in stock | Page names You Le Shan, a 25 g sample, and April first-flush framing. Retained as the Xishuangbanna/Jinghong example. |
+| F4 | `ys-2025-ba-nuo-25g`, 25 g | USD 7.50; in stock | Page names Ba Nuo Village, a 25 g sample, and an April harvest in Mengku/Lincang. Retained as the broad-region counterpart; exact harvest timing is not matched. |
+| F5 / F11 | `ktm-2008-dayi-7542-batch-ambiguous-25g`, 25 g | USD 15.99; in stock | The purchasable 25 g variant is generic, the handle says batch 903, and the named batch-801 cake is unavailable. Retained only as a same-year recipe orientation with batch ambiguity explicit. |
+| F5 / F11 | `ktm-2008-dayi-8582-801-25g`, 25 g | USD 10.99; in stock | Page and variant identify 2008 8582 batch 801, 25 g, and Guangzhou natural storage. Retained with the unmatched storage/compression caveat. |
+| F6 | `ktm-2007-dayi-7542-701-25g`, 25 g | USD 16.99; in stock | Same checked offer as F1. Reuse is deliberate and counted once. |
+| F6 | `ktm-2007-xiaguan-8653-25g`, 25 g | USD 6.99; in stock | Page identifies 2007 Xiaguan 8653 and a purchasable 25 g sample. Retained for the same-year factory orientation; the title does not establish a `T` iron cake. |
+| F7 | `ys-2025-wangong-wild-arbor-25g`, 25 g | USD 9.70; in stock | Reused from F3; the three-example F7 set stays within one seller, producer label, year, and sample format. |
+| F7 | `ys-2025-gedeng-wild-arbor-25g`, 25 g | USD 9.30; in stock | Page names 2025 Ge Deng, 25 g, April first flush, stone pressing, and low-temperature finishing. Retained as the second Yiwu-labelled example. |
+| F7 / L2 | `ys-2025-yibang-wild-arbor-25g`, 25 g | USD 10.30; in stock | Page names 2025 Yi Bang, 25 g, copper-wok fixing, stone pressing, and low-temperature finishing. Retained as the third and final Yiwu-labelled example; processing claims also remain L2 evidence. |
+| F8 | `fl-2026-lao-man-e-bitter-tree-20g`, 20 g | USD 25.00; unavailable | Farmer Leaf's exact bitter-tea page still exposes only a sold-out 20 g pouch. This tighter same-producer lead fails the purchasing gate and remains a candidate, not a basket row. |
+| F8 | `fl-2026-lao-man-e-gushu-sweet-20g`, 20 g | USD 23.00; in stock | Page names Spring 2026 Lao Man E Gushu, sweet varietal, and a 20 g sample. Retained as the sweet-side offer. |
+| F8 | `teaenc-2026-lao-man-e-kucha-20g`, 20 g | GBP 6.00; in stock | Public WooCommerce data for variation 5267 identifies 20 g, GBP 6, and in-stock status. Retained as the available bitter-side substitute; cross-vendor pairing lowers the inference ceiling. |
+| F9 | `ys-2024-mo-lie-shan-25g`, 25 g | USD 8.50; in stock | Page names 2024 Mo Lie Shan, a 25 g sample, and April harvest framing. Retained as the Mengku-side example. |
+| F9 | `ys-2024-na-han-village-25g`, 25 g | USD 12.00; in stock | Page names 2024 Na Han Village, a 25 g sample, and April harvest framing. Retained as the Bangdong-side example while preserving the page's Mengku/Bangdong wording discrepancy. |
+| F10 | `ys-2025-jiu-tai-po-spring-25g`, 25 g | USD 10.50; in stock | Page identifies 2025 Jiu Tai Po spring old-arbor-labelled tea, a 25 g sample, and a 250 g parent cake. Retained as the spring half. |
+| F10 | `ys-2025-jiu-tai-po-autumn-25g`, 25 g | USD 6.50; in stock | Page identifies 2025 Autumn Jiu Tai Po, a 25 g sample, and a 357 g parent cake. Same seller, producer label, origin, year, and format pass the season gate; parent-cake size remains a confounder. |
+| F11 | `ktm-2008-dayi-7532-801-30g`, 30 g | USD 11.99; in stock | Page identifies a 30 g batch-801 sample. It completes the 7532/7542/8582 orientation while the 7542 batch and storage mismatch remain explicit. |
+| F12 / L1 | `yeeon-2000-7542-trad-hk-10g`, 10 g | HKD 140.00; in stock | Page offers 10 g and states 23 years in Yee On's traditional Hong Kong warehouse. Retained as one whole stored profile, not an airing or intensity control. |
+| F12 / L1 | `yeeon-2008-taste-hk-trad-cellar-25g`, 25 g | HKD 23.00; in stock | Page offers 25 g and states 12 years in a traditional Hong Kong basement warehouse. Retained as the second whole stored profile. |
+| L3 | `ys-2025-bingdao-laozhai-10g`, 10 g | USD 9.00; in stock; 25 g sold out | Page names 2025 Bing Dao Lao Zhai and provides a purchasable 10 g sample. Retained for blind/informed score comparison only. |
+| L3 | `ys-2025-mo-lie-shan-25g`, 25 g | USD 7.60; in stock | Page names 2025 Mo Lie Shan south of Bingdao and provides a 25 g sample. Retained as the lower-cost neighbouring-name counterpart, not equivalent material. |
+| L1 documentation only | `ys-aged-storage-comparison-150g`, six 25 g portions | USD 72.50; in stock | Page lists two Kunming-, two Banna-, and two Guangdong-dry-storage teas. It remains documentation/reference evidence and adds no required purchase; the two Yee On pages above are audited the same way. |
+
+The quality gate therefore retains all twelve sensory flights. F8 uses the substitution ladder because the preferred Farmer Leaf bitter/sweet pair is not purchasable; its surviving cross-vendor pair is explicitly an orientation, not a controlled varietal or producer comparison. L1 adds no purchase. Product evidence formerly used by removed standalone comparisons is retained under `L2` as `reference`, `rejected`, `candidate`, or `unavailable`, always with an empty `paths` cell.
+
+### September exchange rate and basket calculation
+
+The latest European Central Bank reference rate dated on or before the storefront check is **2026-08-31**, from the [ECB euro foreign exchange reference rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html). The ECB quotes source currency per EUR: USD 1.1596, GBP 0.85648, and HKD 9.0888. The catalog stores the reciprocals as EUR per source-currency unit: USD `0.862366333`, GBP `1.167569587`, and HKD `0.110025526`. EUR rows, if any, use `1` directly.
+
+For each audited offer, `price_eur = source_price × eur_rate` and `eur_per_10g = price_eur ÷ purchase_g × 10`; displayed values are rounded to two decimals while `eur_rate` retains nine decimal places. Shipping, tax, card spreads, and import charges remain excluded.
+
+| Cumulative path | Unique recommended in-stock offers | Derived total |
+|---|---:|---:|
+| Foundation | 11 | **102.66 EUR** |
+| Complete program | 24 | **221.32 EUR** |
+
+Each reused offer is counted once. The complete path is the union of foundation, advanced sensory flights, and L3, so its count and total are cumulative rather than incremental.
+
 ## TeaDB source map
 
 TeaDB is the curriculum compass, not an inventory or provenance authority. The publication date is the WordPress publication date; flights are the intended research destinations, not a claim that a source supplies a controlled comparison.
@@ -202,7 +252,9 @@ These are the durable replacement rules for the twelve core flights. A substitut
 - **Flight 24 substitution rule:** keep producer, year, season, broad region, and sample format close; require the cheaper page to document a neighboring but separately named origin and to cost at least 30% less per gram in source currency. Never present adjacency as sensory equivalence or authenticate a prestige origin from its price.
 - Do not substitute the sold-out Teas We Like 2005 Dayi pair or any cake-only boutique listing without rechecking both exact variants. Cake-only options stay advanced unless a clearly labeled unusually affordable exception is deliberately approved.
 
-## Anchor selection rationale
+## Superseded August anchor selection rationale
+
+This section preserves the pre-migration decision trail only. The current `anchor` rule and F/L module assignments are defined by the September revalidation section and the revised catalog.
 
 The selected core contains **18 unique core-basket anchors**, the upper edge of the approved 14–18 range. For downstream Task 6, `anchor=yes` marks membership in the complete core shopping table; it does **not** claim that every offer appears in more than one core flight. Of the 18 anchors, **9 recur across multiple core Flights 1–12** and **9 are single-use core counterparts** needed to complete a comparison. Optional flight IDs show where a core purchase can also serve an elective module. Every basket total counts an offer once, regardless of flight count.
 
@@ -251,7 +303,9 @@ Supply prevents a clean upper tier in several places. The exact Teas We Like 200
 - **Task 11 live audit, 2026-08-30:** all 37 unique `recommended`/`alternative` URLs were requested. Thirty-four resolved directly; the three Etsy URLs returned 403 but remained visible at the cataloged sizes and USD prices in exact Etsy listing/shop/category views. Every directly queryable selected variant remained purchasable, the Teas We Like quarter set remained unavailable, and no recommendation, alternative, price, or budget changed.
 - All 21 TeaDB URLs in the source map returned HTTP 200 on 2026-08-30. The ECB daily feed still reported its latest working-day rates for 2026-08-28: USD 1.1643, GBP 0.85720, and HKD 9.1276 per EUR; the catalog continues to use their reciprocals.
 
-## Budget calculations
+## Superseded August three-tier budget calculations
+
+These figures preserve the earlier catalog snapshot for audit history and must not be used as current purchasing totals. The authoritative foundation and complete-program calculations are in the September section above.
 
 Each core path is independently purchasable and counts a reused offer once. A row carrying several flight IDs is not multiplied by flight count, and `alternative` or `unavailable` rows never enter these totals. Because the TSV's `advanced` enum also labels elective recommendations, the simple all-row advanced sum is an inventory union—not the comparable advanced core path.
 
