@@ -48,29 +48,48 @@ the evidence can—and cannot—support. The accompanying research includes suit
 
 ## The program: sensory flights and methods labs
 
-The first six sensory flights form the foundation: they establish a development map, a matched-storage comparison, two
-regional orientations, and two factory-recipe orientations. The later flights deepen those questions with narrower
-comparisons. Between them, three methods labs examine evidence and expectation rather than pretending those ideas have
-unique tastes.
+The first six sensory flights form the foundation: a three-production 7542 development map, the closest available
+matched-production storage pair, two broad regional comparisons, a Dayi recipe pair, and a Dayi–Xiaguan factory
+orientation. The later flights move to narrower subregional, bitterness, seasonal, recipe-suite, and traditional-storage
+questions. Three methods labs are placed between the flights to examine storage evidence, product claims, and the effect
+of revealing names and prices—questions that cannot be answered by treating a flavor as proof.
 
-1. **Flight 1 — Development states within Dayi 7542** builds a multivariable development map.
-2. **Flight 2 — One tea, two storage histories** uses the closest purchasable matched-storage set.
-3. **Lab A — Storage evidence audit** asks what different forms of storage documentation can support.
-4. **Flight 3 — Yiwu and Bulang** establishes a broad same-seller and same-year regional contrast.
-5. **Flight 4 — Xishuangbanna and Lincang** adds a second broad regional contrast.
-6. **Flight 5 — Dayi 7542 and 8582** introduces two same-year Dayi recipes.
-7. **Flight 6 — Dayi and Xiaguan** compares selected same-year factory examples.
-8. **Lab B — Claims are not flavors** separates product-page documentation from sensory experience.
-9. **Flight 7 — Yiwu within Yiwu** adds subregional variation to the broad Yiwu lesson.
-10. **Flight 8 — Lao Man’e bitterness spectrum** describes bitterness structure with a deliberately low inference
-ceiling.
-11. **Flight 9 — Lincang within Lincang** compares Mengku- and Bangdong-side examples.
-12. **Flight 10 — Spring and autumn from one origin** examines a closely matched commercial season contrast.
-13. **Flight 11 — Dayi 7532, 7542, and 8582 suite** extends the recipe orientation to three samples.
-14. **Flight 12 — Two traditional Hong Kong storage profiles** compares two complete vendor-described storage
-expressions.
-15. **Lab C — Blind value and expectation** measures how revealing names and prices changes a participant's
-response.
+1. **Flight 1 — Development states within Dayi 7542** compares selected 2025, 2015, and 2007 productions. It maps how
+   these teas differ while keeping year, batch, manufacture, and storage intertwined rather than calling the result an
+   age-only effect.
+2. **Flight 2 — One tea, two storage histories** compares the two portions of a seller-described 2007 XiZi Hao Shangpin
+   set, labelled Taiwan humid storage and Hou De USA storage. It can reveal a plausible storage-associated difference in
+   this commercial pair, not measured climate effects or complete custody.
+3. **Lab A — Storage evidence audit** examines what matched samples, product pages, city or climate labels, and warehouse
+   descriptions can support—and where each form of evidence stops.
+4. **Flight 3 — Yiwu and Bulang** compares selected 2025 Yiwu- and Bulang-labelled teas from the same seller. This is a
+   broad regional orientation, not a universal sensory signature or proof of origin.
+5. **Flight 4 — Xishuangbanna and Lincang** compares selected 2025 teas from the same seller and adds a second broad
+   regional coordinate without turning two examples into a complete regional typology.
+6. **Flight 5 — Dayi 7542 and 8582** compares selected 2008 samples from one seller. It introduces the two recipe numbers
+   while keeping the 7542 batch ambiguity and other production differences visible.
+7. **Flight 6 — Dayi and Xiaguan** compares selected 2007 Dayi 7542 and Xiaguan 8653 samples from one seller. It shows how
+   these examples differ, not a pure factory character or a quality ranking.
+8. **Lab B — Claims are not flavors** separates what product pages document from what a participant observes in the cup;
+   flavor is not used to authenticate origin, material, processing, storage, or a producer's philosophy.
+9. **Flight 7 — Yiwu within Yiwu** compares three selected 2025 Yiwu/Mengla subregional labels from one seller. The goal
+   is to observe variation within this set, not to identify fixed village signatures.
+10. **Flight 8 — Lao Man’e bitterness spectrum** compares selected 2026 sweet-varietal- and bitter-varietal-labelled teas
+    through bitterness onset, intensity, texture, recovery, and returning sweetness. Because the available samples come
+    from different vendors and producers, the flight describes the pair without assigning one cause to the difference.
+11. **Flight 9 — Lincang within Lincang** compares selected 2024 Mengku- and Bangdong-side examples from one seller while
+    preserving the product pages' geographic uncertainty. It is not a general sensory boundary within Lincang.
+12. **Flight 10 — Spring and autumn from one origin** compares a seller's 2025 spring and autumn Jiu Tai Po samples. It
+    tests for a plausible season-associated contrast in this closely matched commercial pair, not a universal seasonal
+    rule.
+13. **Flight 11 — Dayi 7532, 7542, and 8582 suite** compares selected 2008 samples as a three-recipe orientation. The
+    ambiguous 7542 batch and unmatched storage wording prevent it from being a batch-controlled recipe experiment.
+14. **Flight 12 — Two traditional Hong Kong storage profiles** compares two complete teas with explicit Yee On warehouse
+    descriptions. Because the productions and handling histories differ, the flight does not isolate storage intensity,
+    cellar duration, or airing.
+15. **Lab C — Blind value and expectation** records sensory score, preference, and estimated value before and after the
+    names and prices of two teas are revealed. It measures one participant's response to that disclosure, not the taste
+    of price, prestige, scarcity, authenticity, or objective quality.
 
 ## How to run a flight
 
