@@ -57,37 +57,37 @@ of revealing names and prices—questions that cannot be answered by treating a 
 
 1. **Flight 1 — Development states within Dayi 7542** compares selected 2025, 2015, and 2007 productions. It maps how
    these teas differ while keeping year, batch, manufacture, and storage intertwined rather than calling the result an
-   age-only effect.
+   age-only effect. [Open the complete Flight 1 guide](/tea/sheng-puer-flight-1-development-states-within-dayi-7542/).
 2. **Flight 2 — One tea, two storage histories** compares the two portions of a seller-described 2007 XiZi Hao Shangpin
    set, labelled Taiwan humid storage and Hou De USA storage. It can reveal a plausible storage-associated difference in
-   this commercial pair, not measured climate effects or complete custody.
+   this commercial pair, not measured climate effects or complete custody. [Open the complete Flight 2 guide](/tea/sheng-puer-flight-2-one-tea-two-storage-histories/).
 3. **Lab A — Storage evidence audit** examines what matched samples, product pages, city or climate labels, and warehouse
    descriptions can support—and where each form of evidence stops.
 4. **Flight 3 — Yiwu and Bulang** compares selected 2025 Yiwu- and Bulang-labelled teas from the same seller. This is a
-   broad regional orientation, not a universal sensory signature or proof of origin.
+   broad regional orientation, not a universal sensory signature or proof of origin. [Open the complete Flight 3 guide](/tea/sheng-puer-flight-3-yiwu-and-bulang/).
 5. **Flight 4 — Xishuangbanna and Lincang** compares selected 2025 teas from the same seller and adds a second broad
-   regional coordinate without turning two examples into a complete regional typology.
+   regional coordinate without turning two examples into a complete regional typology. [Open the complete Flight 4 guide](/tea/sheng-puer-flight-4-xishuangbanna-and-lincang/).
 6. **Flight 5 — Dayi 7542 and 8582** compares selected 2008 samples from one seller. It introduces the two recipe numbers
-   while keeping the 7542 batch ambiguity and other production differences visible.
+   while keeping the 7542 batch ambiguity and other production differences visible. [Open the complete Flight 5 guide](/tea/sheng-puer-flight-5-dayi-7542-and-8582/).
 7. **Flight 6 — Dayi and Xiaguan** compares selected 2007 Dayi 7542 and Xiaguan 8653 samples from one seller. It shows how
-   these examples differ, not a pure factory character or a quality ranking.
+   these examples differ, not a pure factory character or a quality ranking. [Open the complete Flight 6 guide](/tea/sheng-puer-flight-6-dayi-and-xiaguan/).
 8. **Lab B — Claims are not flavors** separates what product pages document from what a participant observes in the cup;
    flavor is not used to authenticate origin, material, processing, storage, or a producer's philosophy.
 9. **Flight 7 — Yiwu within Yiwu** compares three selected 2025 Yiwu/Mengla subregional labels from one seller. The goal
-   is to observe variation within this set, not to identify fixed village signatures.
+   is to observe variation within this set, not to identify fixed village signatures. [Open the complete Flight 7 guide](/tea/sheng-puer-flight-7-yiwu-within-yiwu/).
 10. **Flight 8 — Lao Man’e bitterness spectrum** compares selected 2026 sweet-varietal- and bitter-varietal-labelled teas
     through bitterness onset, intensity, texture, recovery, and returning sweetness. Because the available samples come
-    from different vendors and producers, the flight describes the pair without assigning one cause to the difference.
+    from different vendors and producers, the flight describes the pair without assigning one cause to the difference. [Open the complete Flight 8 guide](/tea/sheng-puer-flight-8-lao-mane-bitterness-spectrum/).
 11. **Flight 9 — Lincang within Lincang** compares selected 2024 Mengku- and Bangdong-side examples from one seller while
-    preserving the product pages' geographic uncertainty. It is not a general sensory boundary within Lincang.
+    preserving the product pages' geographic uncertainty. It is not a general sensory boundary within Lincang. [Open the complete Flight 9 guide](/tea/sheng-puer-flight-9-lincang-within-lincang/).
 12. **Flight 10 — Spring and autumn from one origin** compares a seller's 2025 spring and autumn Jiu Tai Po samples. It
     tests for a plausible season-associated contrast in this closely matched commercial pair, not a universal seasonal
-    rule.
+    rule. [Open the complete Flight 10 guide](/tea/sheng-puer-flight-10-spring-and-autumn-from-one-origin/).
 13. **Flight 11 — Dayi 7532, 7542, and 8582 suite** compares selected 2008 samples as a three-recipe orientation. The
-    ambiguous 7542 batch and unmatched storage wording prevent it from being a batch-controlled recipe experiment.
+    ambiguous 7542 batch and unmatched storage wording prevent it from being a batch-controlled recipe experiment. [Open the complete Flight 11 guide](/tea/sheng-puer-flight-11-dayi-7532-7542-and-8582-suite/).
 14. **Flight 12 — Two traditional Hong Kong storage profiles** compares two complete teas with explicit Yee On warehouse
     descriptions. Because the productions and handling histories differ, the flight does not isolate storage intensity,
-    cellar duration, or airing.
+    cellar duration, or airing. [Open the complete Flight 12 guide](/tea/sheng-puer-flight-12-two-traditional-hong-kong-storage-profiles/).
 15. **Lab C — Blind value and expectation** records sensory score, preference, and estimated value before and after the
     names and prices of two teas are revealed. It measures one participant's response to that disclosure, not the taste
     of price, prestige, scarcity, authenticity, or objective quality.
@@ -148,4 +148,3 @@ The complete program is the unique union of all required offers, not a sum that 
 L2 (Lab B) require no extra tea; L3 (Lab C) is included in the complete program. Each offer is counted once. Prices and
 availability were checked on 2026-09-01. Shipping, tax, card-conversion spreads, and import costs are excluded and can
 change the practical choice by destination.
-

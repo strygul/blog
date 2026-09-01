@@ -36,6 +36,20 @@ const sensoryFlights = [
 	'Dayi 7532, 7542, and 8582 suite',
 	'Two traditional Hong Kong storage profiles',
 ];
+const flightSlugs = [
+	'sheng-puer-flight-1-development-states-within-dayi-7542',
+	'sheng-puer-flight-2-one-tea-two-storage-histories',
+	'sheng-puer-flight-3-yiwu-and-bulang',
+	'sheng-puer-flight-4-xishuangbanna-and-lincang',
+	'sheng-puer-flight-5-dayi-7542-and-8582',
+	'sheng-puer-flight-6-dayi-and-xiaguan',
+	'sheng-puer-flight-7-yiwu-within-yiwu',
+	'sheng-puer-flight-8-lao-mane-bitterness-spectrum',
+	'sheng-puer-flight-9-lincang-within-lincang',
+	'sheng-puer-flight-10-spring-and-autumn-from-one-origin',
+	'sheng-puer-flight-11-dayi-7532-7542-and-8582-suite',
+	'sheng-puer-flight-12-two-traditional-hong-kong-storage-profiles',
+];
 const methodsLabs = [
 	'Lab A — Storage evidence audit',
 	'Lab B — Claims are not flavors',
@@ -81,7 +95,7 @@ test('sheng puer introduction renders the complete preface in the shared info bo
 	const infoBoxStart = renderedArticle.indexOf('<div class="info-box">');
 	const infoBoxEnd = renderedArticle.indexOf('</div>', infoBoxStart);
 	const firstSection = renderedArticle.indexOf(
-		'<h2 id="the-program-sensory-flights-and-methods-labs">',
+		'<h2 id="flights-overview">',
 	);
 
 	assert.notEqual(infoBoxStart, -1, 'missing the grey info box');
@@ -189,18 +203,17 @@ test('sheng puer introduction presents the retained program and current purchasi
 	assert.match(article, /  - "Other"/);
 
 	for (const heading of [
-		'The program: sensory flights and methods labs',
-		'How to run a flight',
-		'How I chose the teas and vendors',
+		'Flights Overview',
+		'How to Run a Flight',
+		'How I Chose the Teas and Vendors',
 		'What the program costs',
-		'What comes next',
 	]) {
 		assert.ok(article.includes(`## ${heading}`), `missing heading: ${heading}`);
 	}
 
 	const programSection = article.slice(
-		article.indexOf('## The program: sensory flights and methods labs'),
-		article.indexOf('## How to run a flight'),
+		article.indexOf('## Flights Overview'),
+		article.indexOf('## How to Run a Flight'),
 	);
 	const programSequence = [
 		...sensoryFlights.slice(0, 2),
@@ -232,6 +245,15 @@ test('sheng puer introduction presents the retained program and current purchasi
 		const position = programSection.indexOf(moduleTitle);
 		assert.ok(position > previousPosition, `missing or out-of-order module: ${moduleTitle}`);
 		previousPosition = position;
+	}
+
+	const renderedArticle = readFileSync(renderedArticleUrl, 'utf8');
+	let previousLinkPosition = -1;
+	for (const slug of flightSlugs) {
+		const href = `href="/tea/${slug}/"`;
+		const position = renderedArticle.indexOf(href);
+		assert.ok(position > previousLinkPosition, `missing or out-of-order flight link: ${slug}`);
+		previousLinkPosition = position;
 	}
 
 	const { rows } = readShengPuerCatalog();
@@ -287,7 +309,7 @@ test('the public introduction explains the comparison and evidence protocol', ()
 test('vendor methodology documents the investigated pool, selection criteria, and limitations', () => {
 	const article = readFileSync(articleUrl, 'utf8');
 	const vendorSection = article.slice(
-		article.indexOf('## How I chose the teas and vendors'),
+		article.indexOf('## How I Chose the Teas and Vendors'),
 		article.indexOf('## What the program costs'),
 	);
 	const normalizedVendorSection = vendorSection.replace(/\s+/g, ' ');
