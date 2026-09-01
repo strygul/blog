@@ -1,110 +1,183 @@
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import test from 'node:test';
+import { fileURLToPath } from 'node:url';
+import sharp from 'sharp';
+import {
+	readShengPuerCatalog,
+	summarizeBasket,
+} from './helpers/sheng-puer-catalog.mjs';
 
 const articleUrl = new URL(
 	'../src/content/tea/learning-sheng-puer-through-comparative-flights.md',
 	import.meta.url,
 );
+const renderedArticleUrl = new URL(
+	'../dist/tea/learning-sheng-puer-through-comparative-flights/index.html',
+	import.meta.url,
+);
+const heroImageUrl = new URL(
+	'../public/tea/posts/learning-sheng-puer-through-comparative-flights/sheng-flights-hero.png',
+	import.meta.url,
+);
 
-const coreFlights = [
-	'Youth and transformation',
-	'Storage changes the clock',
-	'Factory and boutique',
+const sensoryFlights = [
+	'Development states within Dayi 7542',
+	'One tea, two storage histories',
 	'Yiwu and Bulang',
-	'One tea, two storages',
-	'7542 and 8582',
-	'Menghai and Xiaguan',
 	'Xishuangbanna and Lincang',
-	'Boutique lineage through time',
-	'Humid-labelled and traditional Hong Kong storage',
-	'Blend and single-area origin',
-	'Three-age 7542 sequence',
-];
-
-const advancedFlights = [
+	'Dayi 7542 and 8582',
+	'Dayi and Xiaguan',
 	'Yiwu within Yiwu',
 	"The Lao Man’e bitterness spectrum",
-	'Mengku-side and Bangdong-side Lincang',
-	'Spring and autumn from one named origin',
-	'Age-oriented and aroma-preserving construction',
-	'Natural-garden and ancient-garden claims',
+	'Lincang within Lincang',
+	'Spring and autumn from one origin',
 	'The Dayi 7532, 7542, and 8582 suite',
-	'Xiaguan recipe and compression forms',
-	'Three boutique disclosure philosophies',
-	'From a purchasable pair to a storage-city triangle',
-	'Traditional Hong Kong intensity and airing evidence',
-	'Reputation, adjacency, and normalized value',
+	'Two traditional Hong Kong storage profiles',
+];
+const methodsLabs = [
+	'Storage evidence audit',
+	'Claims are not flavors',
+	'Blind value and expectation',
 ];
 
-test('sheng puer introduction preserves its roadmap and purchasing caveats', () => {
+const investigatedVendors = [
+	'Yunnan Sourcing',
+	'King Tea Mall',
+	'Farmer Leaf',
+	'Bitterleaf Teas',
+	'Tea Encounter',
+	'Tea Urchin',
+	'Crimson Lotus Tea',
+	'Essence of Tea',
+	'Pu-erh.sk',
+	'Liquid Proust',
+	'white2tea',
+	'Yee On Tea',
+	'Bana Tea Company',
+	'Teas We Like',
+	'The Steeping Room',
+	'Quiche Teas/Taishunhe',
+	'The Jade Leaf',
+	'Hou De',
+	'Puerh.uk',
+	'Yangqing Hao USA',
+	'Teapals',
+];
+
+test('sheng puer introduction renders the complete preface in the shared info box', () => {
+	const renderedArticle = readFileSync(renderedArticleUrl, 'utf8');
+	const infoBoxStart = renderedArticle.indexOf('<div class="info-box">');
+	const infoBoxEnd = renderedArticle.indexOf('</div>', infoBoxStart);
+	const firstSection = renderedArticle.indexOf(
+		'<h2 id="the-program-sensory-flights-and-methods-labs">',
+	);
+
+	assert.notEqual(infoBoxStart, -1, 'missing the grey info box');
+	assert.notEqual(infoBoxEnd, -1, 'missing the info box closing tag');
+	assert.notEqual(firstSection, -1, 'missing the first article section');
+	assert.ok(infoBoxEnd < firstSection, 'the info box should contain only the preface');
+
+	const preface = renderedArticle.slice(infoBoxStart, infoBoxEnd);
+	assert.match(preface, /Even though I have been drinking tea for as long as I can remember/);
+	assert.match(
+		preface,
+		/The accompanying research includes suitable teas, vendors, and estimated prices\./,
+	);
+});
+
+test('sheng puer introduction renders its supplied hero image', () => {
+	const renderedArticle = readFileSync(renderedArticleUrl, 'utf8');
+	const articleStart = renderedArticle.indexOf('<article');
+	const heroStart = renderedArticle.indexOf('<div class="hero-image"', articleStart);
+	const proseStart = renderedArticle.indexOf('<div class="prose"', articleStart);
+
+	assert.notEqual(articleStart, -1, 'missing the article');
+	assert.notEqual(heroStart, -1, 'missing the hero image');
+	assert.notEqual(proseStart, -1, 'missing the article prose');
+	assert.ok(heroStart < proseStart, 'the hero image should appear above the article prose');
+
+	const hero = renderedArticle.slice(heroStart, proseStart);
+	assert.match(hero, /<img src="\/_astro\/sheng-flights-hero\.[^"]+\.webp"/);
+	assert.match(hero, /alt="Sheng Puer Flights Pilot"/);
+});
+
+test('sheng puer hero keeps the illustration clear of the right canvas edge', async () => {
+	const { data, info } = await sharp(fileURLToPath(heroImageUrl))
+		.removeAlpha()
+		.raw()
+		.toBuffer({ resolveWithObject: true });
+	let darkPixelCount = 0;
+
+	for (let y = 0; y < info.height; y += 1) {
+		for (let x = info.width - 8; x < info.width; x += 1) {
+			const offset = (y * info.width + x) * info.channels;
+			const brightness = (data[offset] + data[offset + 1] + data[offset + 2]) / 3;
+			if (brightness < 230) darkPixelCount += 1;
+		}
+	}
+
+	assert.equal(darkPixelCount, 0, 'the right edge should contain only background');
+});
+
+test('sheng puer introduction presents the retained program and current purchasing caveats', () => {
 	const article = readFileSync(articleUrl, 'utf8');
 
-	assert.match(article, /title: "Learning Sheng Puer Through Comparative Flights"/);
+	assert.match(article, /title: "Sheng Puer Flights Pilot"/);
 	assert.match(article, /pubDate: "2026-08-31"/);
 	assert.match(article, /  - "Other"/);
-	assert.doesNotMatch(article, /^heroImage:/m);
-	assert.doesNotMatch(article, /^heroImageSrc:/m);
 
 	for (const heading of [
-		'Why comparative flights',
-		'The twelve core flights',
-		'Beyond the core',
+		'The program: sensory flights and methods labs',
+		'How to run a flight',
 		'How I chose the teas and vendors',
 		'What the program costs',
 		'What comes next',
 	]) {
-		assert.ok(article.includes(heading), `missing heading: ${heading}`);
+		assert.ok(article.includes(`## ${heading}`), `missing heading: ${heading}`);
 	}
 
-	const coreRoadmap = article.slice(
-		article.indexOf('## The twelve core flights'),
-		article.indexOf('## Beyond the core: twelve advanced flights'),
+	const programSection = article.slice(
+		article.indexOf('## The program: sensory flights and methods labs'),
+		article.indexOf('## How to run a flight'),
 	);
-	const advancedRoadmap = article.slice(
-		article.indexOf('## Beyond the core: twelve advanced flights'),
-		article.indexOf('## How I chose the teas and vendors'),
-	);
-
-	for (const [roadmap, flights] of [
-		[coreRoadmap, coreFlights],
-		[advancedRoadmap, advancedFlights],
-	]) {
-		let previousPosition = -1;
-		for (const flight of flights) {
-			const position = roadmap.indexOf(flight);
-			assert.ok(position > previousPosition, `missing or out-of-order flight: ${flight}`);
-			previousPosition = position;
-		}
+	const programSequence = [
+		...sensoryFlights.slice(0, 2),
+		methodsLabs[0],
+		...sensoryFlights.slice(2, 6),
+		methodsLabs[1],
+		...sensoryFlights.slice(6),
+		methodsLabs[2],
+	];
+	let previousPosition = -1;
+	for (const moduleTitle of programSequence) {
+		const position = programSection.indexOf(moduleTitle);
+		assert.ok(position > previousPosition, `missing or out-of-order module: ${moduleTitle}`);
+		previousPosition = position;
 	}
 
-	for (const role of [
-		'Yunnan Sourcing for closely matched contemporary comparisons',
-		'King Tea Mall for sample-scale Dayi and Xiaguan references',
-		'Liquid Proust for unusual storage and Xizi Hao lineage samples',
-		'Yee On for explicitly traditional Hong Kong storage examples',
-	]) {
-		assert.ok(article.includes(role), `missing core vendor role: ${role}`);
+	const { rows } = readShengPuerCatalog();
+	for (const path of ['foundation', 'complete']) {
+		const summary = summarizeBasket(rows, path);
+		const label = path === 'foundation' ? 'Foundation basket' : 'Complete program';
+		assert.ok(
+			article.includes(`| ${label} | ${summary.count} | €${summary.total.toFixed(2)} |`),
+			`missing or incorrect ${label} row`,
+		);
 	}
+	assert.doesNotMatch(article, /Essential core|Standard core|Advanced core|24 flights/i);
 
-	for (const row of [
-		'| Essential core | 17 | €166.80 |',
-		'| Standard core | 18 | €229.07 |',
-		'| Advanced core | 18 | €237.66 |',
-		'| Elective-only additions | 14 | €122.69 |',
-		'| Advanced all-in union | 32 | €360.35 |',
-	]) {
-		assert.ok(article.includes(row), `missing or incorrect budget row: ${row}`);
-	}
+	assert.match(article, /not (?:an overall |an? )?vendor ranking/i);
 	assert.match(
 		article,
-		/The all-in figure is the union of advanced-core and elective-only purchases, not another core tier\./,
+		/not\s+(?:necessarily\s+)?the\s+(?:best|lowest|cheapest)\s+prices?/i,
 	);
-
-	assert.match(article, /not (?:an overall )?vendor ranking/i);
-	assert.match(article, /not (?:necessarily )?the (?:best|lowest|cheapest) prices?/i);
 	assert.match(article, /shipping, tax, card-conversion spreads, and import costs/i);
-	assert.match(article, /Prices? (?:and availability )?(?:were )?checked (?:on )?2026-08-30/i);
+	assert.match(article, /September 2026/i);
+	assert.match(
+		article,
+		/checked (?:on )?2026-09-\d{2}/i,
+	);
 
 	for (const url of [
 		'https://teadb.org/puerh/',
@@ -113,4 +186,41 @@ test('sheng puer introduction preserves its roadmap and purchasing caveats', () 
 	]) {
 		assert.ok(article.includes(url), `missing TeaDB source: ${url}`);
 	}
+});
+
+test('the public introduction explains the comparison and evidence protocol', () => {
+	const article = readFileSync(articleUrl, 'utf8');
+	assert.match(article, /5 g.+100 ml/is);
+	assert.match(article, /100 °C/);
+	assert.match(article, /blind/i);
+	assert.match(article, /reveal/i);
+	assert.match(article, /another day/i);
+	assert.match(article, /inconclusive/i);
+	assert.match(article, /selected teas/i);
+	assert.match(article, /cannot (?:prove|authenticate|establish)/i);
+	assert.match(article, /price.+not.+(?:flavo|taste)/is);
+});
+
+test('vendor methodology documents the investigated pool, selection criteria, and limitations', () => {
+	const article = readFileSync(articleUrl, 'utf8');
+	const vendorSection = article.slice(
+		article.indexOf('## How I chose the teas and vendors'),
+		article.indexOf('## What the program costs'),
+	);
+	const normalizedVendorSection = vendorSection.replace(/\s+/g, ' ');
+
+	for (const vendor of investigatedVendors) {
+		assert.ok(normalizedVendorSection.includes(vendor), `missing investigated vendor: ${vendor}`);
+	}
+
+	assert.match(normalizedVendorSection, /serving Western buyers/i);
+	assert.match(normalizedVendorSection, /September 2026/i);
+	assert.match(normalizedVendorSection, /comparison validity/i);
+	assert.match(normalizedVendorSection, /sample availability/i);
+	assert.match(normalizedVendorSection, /current stock/i);
+	assert.match(normalizedVendorSection, /documentation/i);
+	assert.match(normalizedVendorSection, /reuse across flights/i);
+	assert.match(normalizedVendorSection, /order consolidation/i);
+	assert.match(normalizedVendorSection, /not (?:an )?(?:endorsement|vendor ranking)/i);
+	assert.match(normalizedVendorSection, /vendor claim/i);
 });
