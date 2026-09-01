@@ -46,7 +46,8 @@ twelve sensory flights and three methods labs: a sequence for exploring how sele
 the evidence can—and cannot—support. The accompanying research includes suitable teas, vendors, and estimated prices.
 </div>
 
-## The program: sensory flights and methods labs
+## Flights Overview
+This is an overview of the flights. Each Flight will be described in a separate post.
 
 The first six sensory flights form the foundation: a three-production 7542 development map, the closest available
 matched-production storage pair, two broad regional comparisons, a Dayi recipe pair, and a Dayi–Xiaguan factory
@@ -91,7 +92,7 @@ of revealing names and prices—questions that cannot be answered by treating a 
     names and prices of two teas are revealed. It measures one participant's response to that disclosure, not the taste
     of price, prestige, scarcity, authenticity, or objective quality.
 
-## How to run a flight
+## How to Run a Flight
 
 Use 5 g of each tea in identical neutral porcelain vessels with a practical brewing volume of 100 ml. Use the same water
 at 100 °C, give each tea a five-second rinse, then brew for 10, 10, 15, 20, 30, and 45 seconds. Keep water volume, vessel
@@ -107,7 +108,7 @@ storefront facts, vendor claims, observations, inferences, and unknowns separate
 blind-first rule: reveal names and prices only after the initial scoring. Price, prestige, provenance, tree age,
 production philosophy, and intended aging are not directly tastable.
 
-## How I chose the teas and vendors
+## How I Chose the Teas and Vendors
 
 [TeaDB's Pu'erh hub](https://teadb.org/puerh/), [The Five Types of Raw Pu'erh You Should Try](https://teadb.org/five-types-raw-puerh/), and the
 [2025 Non Mainland Pu'erh Vendor Guide](https://teadb.org/non-mainland-puerh-vendor-guide/) helped me define the tasting
@@ -148,6 +149,3 @@ L2 (Lab B) require no extra tea; L3 (Lab C) is included in the complete program.
 availability were checked on 2026-09-01. Shipping, tax, card-conversion spreads, and import costs are excluded and can
 change the practical choice by destination.
 
-## What comes next
-
-The next post begins with development states within 7542 and the matched-storage comparison.

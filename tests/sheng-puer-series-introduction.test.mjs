@@ -146,6 +146,41 @@ test('sheng puer hero keeps the illustration clear of the right canvas edge', as
 	assert.equal(darkPixelCount, 0, 'the right edge should contain only background');
 });
 
+test('rendered sheng puer hero edge exactly matches the page background', async () => {
+	const pageBackground = [249, 249, 249];
+	const edgeWidth = 8;
+	const renderedArticle = readFileSync(renderedArticleUrl, 'utf8');
+	const renderedHeroSrc = renderedArticle.match(
+		/<div class="hero-image"[^>]*>\s*<img src="([^"]+)"/,
+	)?.[1];
+	assert.ok(renderedHeroSrc, 'missing rendered hero source');
+	const renderedHeroUrl = new URL(renderedHeroSrc.slice(1), new URL('../dist/', import.meta.url));
+	const { data, info } = await sharp(fileURLToPath(renderedHeroUrl))
+		.removeAlpha()
+		.raw()
+		.toBuffer({ resolveWithObject: true });
+	let mismatchedPixelCount = 0;
+
+	const matchesPageBackground = (x, y) => {
+		const offset = (y * info.width + x) * info.channels;
+		return pageBackground.every((channel, index) => data[offset + index] === channel);
+	};
+
+	for (let y = 0; y < info.height; y += 1) {
+		for (let x = 0; x < info.width; x += 1) {
+			const isEdge = x < edgeWidth || x >= info.width - edgeWidth
+				|| y < edgeWidth || y >= info.height - edgeWidth;
+			if (isEdge && !matchesPageBackground(x, y)) mismatchedPixelCount += 1;
+		}
+	}
+
+	assert.equal(
+		mismatchedPixelCount,
+		0,
+		'the hero edge should blend seamlessly into the #F9F9F9 page',
+	);
+});
+
 test('sheng puer introduction presents the retained program and current purchasing caveats', () => {
 	const article = readFileSync(articleUrl, 'utf8');
 
