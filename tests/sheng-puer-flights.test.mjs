@@ -121,7 +121,7 @@ const labs = [
 	{
 		id: 'lab-a',
 		label: 'Lab A — Storage evidence audit',
-		detail: 'Storage evidence gains specificity when production matching and handling documentation improve',
+		detail: 'Extract only explicit page statements',
 	},
 	{
 		id: 'lab-b',
