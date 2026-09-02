@@ -22,6 +22,9 @@ import Flight9 from '../../components/sheng-puer-flights/Flight9.mdx';
 import Flight10 from '../../components/sheng-puer-flights/Flight10.mdx';
 import Flight11 from '../../components/sheng-puer-flights/Flight11.mdx';
 import Flight12 from '../../components/sheng-puer-flights/Flight12.mdx';
+import LabA from '../../components/sheng-puer-flights/LabA.mdx';
+import LabB from '../../components/sheng-puer-flights/LabB.mdx';
+import LabC from '../../components/sheng-puer-flights/LabC.mdx';
 
 <div class="info-box">
 
@@ -109,7 +112,7 @@ production philosophy, and intended aging are not directly tastable.
 ## Pilot
 ### Flights
 
-Select an available flight title to expand its complete guide.
+Select a flight or lab title to expand its complete guide.
 
 <ol class="flight-list">
   <FlightAccordion id="flight-1" title="Flight 1 — Development states within Dayi 7542">
@@ -156,9 +159,15 @@ what we learn from tasting.
 ### Methods Labs
 
 <ol class="flight-list">
-  <li class="flight-coming-soon"><strong>Lab A — Storage evidence audit</strong></li>
-  <li class="flight-coming-soon"><strong>Lab B — Claims are not flavors</strong></li>
-  <li class="flight-coming-soon"><strong>Lab C — Blind value and expectation</strong></li>
+  <FlightAccordion id="lab-a" title="Lab A — Storage evidence audit">
+    <LabA />
+  </FlightAccordion>
+  <FlightAccordion id="lab-b" title="Lab B — Claims are not flavors">
+    <LabB />
+  </FlightAccordion>
+  <FlightAccordion id="lab-c" title="Lab C — Blind value and expectation">
+    <LabC />
+  </FlightAccordion>
 </ol>
 
 
