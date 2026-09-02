@@ -31,6 +31,20 @@ blend, so region is not the only variable.
 | Wan Gong, Yiwu/Mengla | [2025 Yunnan Sourcing Wan Gong Village Wild Arbor, 25 g](https://yunnansourcing.com/products/2025-yunnan-sourcing-wan-gong-village-wild-arbor-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 9.70 / €8.36 |
 | Xin Ban'e, Bulang/Menghai | [2025 Yunnan Sourcing Xin Ban'e, 25 g](https://yunnansourcing.com/products/2025-yunnan-sourcing-xin-bane-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 11.40 / €9.83 |
 
+The photographs below are Yunnan Sourcing's product images for the exact offers listed above. Click an image to open
+its source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2025-yunnan-sourcing-wan-gong-village-wild-arbor-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/product-images/yunnan-sourcing/2025-wan-gong.jpg" alt="2025 Yunnan Sourcing Wan Gong Village Wild Arbor raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 Wan Gong Village Wild Arbor. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2025-yunnan-sourcing-xin-bane-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-3-yiwu-and-bulang/2025-xin-bane.jpg" alt="2025 Yunnan Sourcing Xin Ban'e raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 Xin Ban'e. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+</div>
+
 The two samples cost **€18.19**, excluding shipping, tax, conversion, and import costs. Offer size, year, and visible page
 wording were storefront observations when checked. The Yiwu/Mengla origin, April first flush, wild-arbor material, tree
 age, and processing of Wan Gong are vendor claims. The construction of Xin Ban'e as a 2025 spring blend of Lao Man'e

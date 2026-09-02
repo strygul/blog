@@ -30,6 +30,20 @@ orientation to two commercial samples, not an experiment that isolates recipe co
 | 7542, batch ambiguous | [2008 DaYi 7542, 25 g](https://kingteamall.com/products/2008-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-903) | King Tea Mall | USD 15.99 / €13.79 |
 | 8582, stated batch 801 | [2008 DaYi 8582, 25 g](https://kingteamall.com/products/2008-dayi-8582-cake-357g-puerh-sheng-cha-raw-tea) | King Tea Mall | USD 10.99 / €9.48 |
 
+The photographs below are King Tea Mall's product images for the exact offers listed above. Click an image to open its
+source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2008-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-903" target="_blank" rel="noopener noreferrer"><img src="/tea/product-images/king-tea-mall/2008-dayi-7542.jpg" alt="2008 Dayi 7542 raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2008 Dayi 7542, batch ambiguous. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2008-dayi-8582-cake-357g-puerh-sheng-cha-raw-tea" target="_blank" rel="noopener noreferrer"><img src="/tea/product-images/king-tea-mall/2008-dayi-8582.jpg" alt="2008 Dayi 8582 raw puer tea cake, batch 801" loading="lazy" decoding="async" /></a>
+    <figcaption>2008 Dayi 8582, stated batch 801. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+</div>
+
 The two samples cost **€23.27**, excluding shipping, tax, currency conversion, and import costs. The live 25 g variants
 were observable storefront facts. For the 7542, the page title omits a batch, the URL says 903, and a separately named
 batch-801 cake was unavailable; the selected sample therefore does not establish a batch. Its Guangzhou dry/clean

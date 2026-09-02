@@ -30,6 +30,20 @@ to the product page as Jinghong/Xishuangbanna rather than being silently relabel
 | You Le, Jinghong/Xishuangbanna | [2025 Yunnan Sourcing You Le Shan, 25 g](https://yunnansourcing.com/products/2025-yunnan-sourcing-you-le-shan-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 6.50 / €5.61 |
 | Ba Nuo, Mengku/Lincang | [2025 Yunnan Sourcing Ba Nuo Village, 25 g](https://yunnansourcing.com/products/2025-yunnan-sourcing-ba-nuo-village-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 7.50 / €6.47 |
 
+The photographs below are Yunnan Sourcing's product images for the exact offers listed above. Click an image to open
+its source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2025-yunnan-sourcing-you-le-shan-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-4-xishuangbanna-and-lincang/2025-you-le-shan.jpg" alt="2025 Yunnan Sourcing You Le Shan raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 You Le Shan. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2025-yunnan-sourcing-ba-nuo-village-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-4-xishuangbanna-and-lincang/2025-ba-nuo-village.jpg" alt="2025 Yunnan Sourcing Ba Nuo Village raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 Ba Nuo Village. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+</div>
+
 The two samples cost **€12.08**, excluding shipping, tax, conversion, and import costs. The Jinghong/Xishuangbanna
 origin, April first flush, estate, protected-area, and material descriptions for You Le are vendor claims. The
 Mengku/Lincang village, April harvest, elevation, and wild-arbor descriptions for Ba Nuo are also vendor claims.

@@ -30,6 +30,20 @@ test a fixed east–west signature or authenticate either stated origin.
 | Mengku-side | [2024 Yunnan Sourcing Mo Lie Shan, 25 g](https://yunnansourcing.com/products/2024-yunnan-sourcing-mo-lie-shan-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 8.50 / €7.33 |
 | Bangdong-side, with page inconsistency | [2024 Yunnan Sourcing Na Han Village Old Arbor, 25 g](https://yunnansourcing.com/products/2024-yunnan-sourcing-na-han-village-old-arbor-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 12.00 / €10.35 |
 
+The photographs below are Yunnan Sourcing's product images for the exact offers listed above. Click an image to open
+its source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2024-yunnan-sourcing-mo-lie-shan-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-9-lincang-within-lincang/2024-mo-lie-shan.jpg" alt="2024 Yunnan Sourcing Mo Lie Shan raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2024 Mo Lie Shan. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2024-yunnan-sourcing-na-han-village-old-arbor-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-9-lincang-within-lincang/2024-na-han-village.jpg" alt="2024 Yunnan Sourcing Na Han Village Old Arbor raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2024 Na Han Village Old Arbor. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+</div>
+
 The two samples cost **€17.68**, excluding shipping, tax, currency conversion, and import costs. The Mo Lie page's
 Mengku-side origin, April harvest, altitude, natural-growth, and tree-age statements are vendor claims. The Na Han page
 repeatedly frames the village near Bangdong but also contains a Mengku/Bangdong county inconsistency; both its origin and

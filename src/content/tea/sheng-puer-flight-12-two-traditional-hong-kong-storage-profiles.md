@@ -32,6 +32,20 @@ gradient.
 | 2000 commissioned Menghai 7542; stated 23 years in Yee On's professional traditional warehouse | [2000 Yee On commissioned Menghai 7542, 10 g](https://yeeonteaco.com/products/2000-7542-menghai-tea-factory-25-years-of-traditional-manufacturing-raw-pu-erh-tea-cake) | Yee On Tea Co. | HKD 140.00 / €15.40 |
 | 2008 Forever Tea Factory framing; stated 12 years in Yee On's basement warehouse | [2008 Taste of Hong Kong Raw Pu-erh, 25 g](https://yeeonteaco.com/products/2008-taste-of-hong-kong-raw-pu-erh-teacake-cellar-storage) | Yee On Tea Co. | HKD 23.00 / €2.53 |
 
+The photographs below are Yee On Tea Co.'s product images for the exact offers listed above. Click an image to open
+its source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://yeeonteaco.com/products/2000-7542-menghai-tea-factory-25-years-of-traditional-manufacturing-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-12-two-traditional-hong-kong-storage-profiles/2000-yee-on-7542.jpg" alt="2000 Yee On commissioned Menghai 7542 raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2000 Yee On commissioned Menghai 7542. Product photograph: Yee On Tea Co.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://yeeonteaco.com/products/2008-taste-of-hong-kong-raw-pu-erh-teacake-cellar-storage" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-12-two-traditional-hong-kong-storage-profiles/2008-taste-of-hong-kong.jpg" alt="2008 Taste of Hong Kong raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2008 Taste of Hong Kong. Product photograph: Yee On Tea Co.</figcaption>
+  </figure>
+</div>
+
 The two samples cost **€17.93**, excluding shipping, tax, currency conversion, and import costs. The 10 g and 25 g offers
 were observable storefront facts when checked. Commissioned production identity, recipe, producer framing, storage
 duration, and warehouse descriptions are vendor claims.

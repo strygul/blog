@@ -31,6 +31,20 @@ alone.
 | Dayi 7542, stated batch 701 | [2007 DaYi 7542, 25 g](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) | King Tea Mall | USD 16.99 / €14.65 |
 | Xiaguan 8653 | [2007 XiaGuan 8653, 25 g](https://kingteamall.com/products/2007-xiaguan-8653-iron-cake-357g-puerh-raw-tea-sheng-cha) | King Tea Mall | USD 6.99 / €6.03 |
 
+The photographs below are King Tea Mall's product images for the exact offers listed above. Click an image to open its
+source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701" target="_blank" rel="noopener noreferrer"><img src="/tea/product-images/king-tea-mall/2007-dayi-7542.jpg" alt="2007 Dayi 7542 raw puer tea cake, batch 701" loading="lazy" decoding="async" /></a>
+    <figcaption>2007 Dayi 7542, batch 701. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2007-xiaguan-8653-iron-cake-357g-puerh-raw-tea-sheng-cha" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-6-dayi-and-xiaguan/2007-xiaguan-8653.jpg" alt="2007 Xiaguan 8653 raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2007 Xiaguan 8653. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+</div>
+
 The Xiaguan sample adds **€6.03** to the program; the €14.65 Dayi sample is reused from Flight 1. Prices exclude
 shipping, tax, conversion, and import costs.
 

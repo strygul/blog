@@ -20,6 +20,43 @@
 	height: auto;
 }
 
+.tea-product-gallery {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(min(240px, 100%), 300px));
+	justify-content: center;
+	align-items: start;
+	width: min(1020px, calc(100vw - 2em));
+	margin: 1.5em 0 1.75em 50%;
+	transform: translateX(-50%);
+}
+
+.tea-product-gallery > figure {
+	margin: 0;
+	text-align: center;
+}
+
+.tea-product-photo > a {
+	display: block;
+	overflow: hidden;
+	background: #fff;
+	border-radius: 8px;
+}
+
+.tea-product-gallery .tea-product-photo img {
+	display: block;
+	width: 100%;
+	aspect-ratio: 1;
+	object-fit: contain;
+	background: #fff;
+}
+
+.tea-product-photo figcaption {
+	margin-top: 0.55em;
+	font-size: 0.85rem;
+	line-height: 1.35;
+	color: rgb(var(--gray));
+}
+
 .image-gallery.studio-gallery {
 	display: flex;
 	flex-direction: column;

@@ -31,6 +31,24 @@ The 7542 batch ambiguity and unmatched storage wording remain central limits.
 | 7542, batch ambiguous | [2008 DaYi 7542, 25 g](https://kingteamall.com/products/2008-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-903) | King Tea Mall | USD 15.99 / €13.79 |
 | 8582, stated batch 801 | [2008 DaYi 8582, 25 g](https://kingteamall.com/products/2008-dayi-8582-cake-357g-puerh-sheng-cha-raw-tea) | King Tea Mall | USD 10.99 / €9.48 |
 
+The photographs below are King Tea Mall's product images for the exact offers listed above. Click an image to open its
+source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2008-dayi-7532-cake-357g-puerh-sheng-cha-raw-tea" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-11-dayi-7532-7542-and-8582-suite/2008-dayi-7532.jpg" alt="2008 Dayi 7532 raw puer tea cake, batch 801" loading="lazy" decoding="async" /></a>
+    <figcaption>2008 Dayi 7532, stated batch 801. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2008-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-903" target="_blank" rel="noopener noreferrer"><img src="/tea/product-images/king-tea-mall/2008-dayi-7542.jpg" alt="2008 Dayi 7542 raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2008 Dayi 7542, batch ambiguous. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2008-dayi-8582-cake-357g-puerh-sheng-cha-raw-tea" target="_blank" rel="noopener noreferrer"><img src="/tea/product-images/king-tea-mall/2008-dayi-8582.jpg" alt="2008 Dayi 8582 raw puer tea cake, batch 801" loading="lazy" decoding="async" /></a>
+    <figcaption>2008 Dayi 8582, stated batch 801. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+</div>
+
 The 7532 adds **€10.34** to the program. The €23.27 7542/8582 pair is reused from Flight 5. Prices exclude shipping,
 tax, currency conversion, and import costs.
 

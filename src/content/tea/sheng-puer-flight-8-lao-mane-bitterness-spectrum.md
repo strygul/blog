@@ -31,6 +31,20 @@ how it changes in the mouth, how long it persists, and what follows it. Preferen
 | Sweet varietal | [Spring 2026 Lao Man E Gushu Sweet Varietal, 20 g](https://www.farmer-leaf.com/products/spring-2026-lao-man-e-gushu) | Farmer Leaf | USD 23.00 / €19.83 |
 | Bitter varietal | [TE 2026 Lao Man'e Kucha, 20 g](https://tea-encounter.com/product/2026-te-laomane-kucha/) | Tea Encounter | GBP 6.00 / €7.01 |
 
+The photographs below are the vendors' product images for the exact offers listed above. Click an image to open its
+source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://www.farmer-leaf.com/products/spring-2026-lao-man-e-gushu" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-8-lao-mane-bitterness-spectrum/2026-farmer-leaf-lao-man-e-gushu.jpg" alt="Spring 2026 Farmer Leaf Lao Man E Gushu sweet-varietal raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>Spring 2026 Lao Man E Gushu, sweet varietal. Product photograph: Farmer Leaf.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://tea-encounter.com/product/2026-te-laomane-kucha/" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-8-lao-mane-bitterness-spectrum/2026-tea-encounter-laomane-kucha.jpg" alt="2026 Tea Encounter Lao Man'e Kucha bitter-varietal raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2026 Lao Man'e Kucha, bitter varietal. Product photograph: Tea Encounter.</figcaption>
+  </figure>
+</div>
+
 The two samples cost **€26.84**, excluding shipping, tax, currency conversion, and import costs. Year, offer size, visible
 page wording, and the public in-stock 20 g variant were observable storefront facts when checked. Lao Man E origin,
 big-tree/gushu material, sweet-varietal identity, bitter-varietal identity, and all sensory descriptions are vendor

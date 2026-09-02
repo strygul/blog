@@ -37,6 +37,24 @@ alone caused the differences.
 | 2015, first batch | [2015 DaYi 7542, 30 g](https://kingteamall.com/products/2015-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea) | King Tea Mall | USD 8.99 / €7.75 |
 | 2007, batch 701 | [2007 DaYi 7542, 25 g](https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701) | King Tea Mall | USD 16.99 / €14.65 |
 
+The photographs below are the vendor's product images for the exact offers listed above. Click an image to open its
+source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2025-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-1-development-states-within-dayi-7542/2025-dayi-7542.jpg" alt="2025 Dayi 7542 tea cake, batch 2501" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 Dayi 7542, batch 2501. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2015-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-1-development-states-within-dayi-7542/2015-dayi-7542.jpg" alt="2015 Dayi 7542 first-batch tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2015 Dayi 7542, first batch. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://kingteamall.com/products/2007-dayi-7542-cake-357g-puerh-sheng-cha-raw-tea-batch-701" target="_blank" rel="noopener noreferrer"><img src="/tea/product-images/king-tea-mall/2007-dayi-7542.jpg" alt="2007 Dayi 7542 tea cake, batch 701" loading="lazy" decoding="async" /></a>
+    <figcaption>2007 Dayi 7542, batch 701. Product photograph: King Tea Mall.</figcaption>
+  </figure>
+</div>
+
 The total tea cost was **€30.15**, excluding shipping, tax, currency-conversion spreads, and import costs. Prices and
 availability can change.
 

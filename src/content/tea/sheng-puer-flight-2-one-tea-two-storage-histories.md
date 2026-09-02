@@ -31,6 +31,15 @@ unrelated teas. It remains a commercial match based on seller documentation, not
 | Taiwan humid storage | [2007 XiZi Hao Shangpin USA vs Taiwan Storage, 16 g](https://www.etsy.com/listing/4479672864/2007-shangpin-xizihao-usa-vs-taiwan) | Liquid Proust | included |
 | Hou De USA storage | Same split-set purchase, 16 g | Liquid Proust | included |
 
+The photograph below is the seller's product image for the split set. Click it to open the source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://www.etsy.com/listing/4479672864/2007-shangpin-xizihao-usa-vs-taiwan" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-2-one-tea-two-storage-histories/2007-xizihao-shangpin-storage-set.jpg" alt="2007 XiZi Hao Shangpin USA-versus-Taiwan storage sample set" loading="lazy" decoding="async" /></a>
+    <figcaption>Both 16 g portions in the matched storage set. Product photograph: Liquid Proust.</figcaption>
+  </figure>
+</div>
+
 The single 32 g set cost **USD 15.00 / €12.94**, excluding shipping, tax, currency conversion, and import costs. The
 visible listing, 16 g + 16 g split, price, and add-to-cart state were observable marketplace facts when checked. The
 production identity and both storage histories are vendor claims.

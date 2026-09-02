@@ -31,6 +31,20 @@ teas.
 | Spring | [2025 Yunnan Sourcing Jiu Tai Po Spring Old Arbor, 25 g](https://yunnansourcing.com/products/2025-yunnan-sourcing-jiu-tai-po-old-arbor-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 10.50 / €9.05 |
 | Autumn | [2025 Yunnan Sourcing Jiu Tai Po Autumn Old Arbor, 25 g](https://yunnansourcing.com/products/2025-yunnan-sourcing-autumn-jiu-tai-po-old-arbor-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 6.50 / €5.61 |
 
+The photographs below are Yunnan Sourcing's product images for the exact spring and autumn offers. Click an image to
+open its source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2025-yunnan-sourcing-jiu-tai-po-old-arbor-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-10-spring-and-autumn-from-one-origin/2025-spring-jiu-tai-po.jpg" alt="2025 Yunnan Sourcing spring Jiu Tai Po Old Arbor raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 spring Jiu Tai Po Old Arbor. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2025-yunnan-sourcing-autumn-jiu-tai-po-old-arbor-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-10-spring-and-autumn-from-one-origin/2025-autumn-jiu-tai-po.jpg" alt="2025 Yunnan Sourcing autumn Jiu Tai Po Old Arbor raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 autumn Jiu Tai Po Old Arbor. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+</div>
+
 The two samples cost **€14.66**, excluding shipping, tax, currency conversion, and import costs. Jiu Tai Po/Jinggu
 origin, season, old-arbor and tree-age material, and craft descriptions are vendor claims. The spring sample comes from
 a 250 g parent cake and the autumn sample from a 357 g parent cake.

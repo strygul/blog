@@ -31,6 +31,24 @@ nor does it assume that one sample represents every tea carrying the same place 
 | Ge Deng | [2025 Yunnan Sourcing Ge Deng Wild Arbor, 25 g](https://yunnansourcing.com/products/2025-yunnan-sourcing-ge-deng-wild-arbor-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 9.30 / €8.02 |
 | Yi Bang | [2025 Yunnan Sourcing Yi Bang Wild Arbor, 25 g](https://yunnansourcing.com/products/2025-yunnan-sourcing-yi-bang-wild-arbor-raw-pu-erh-tea-cake) | Yunnan Sourcing | USD 10.30 / €8.88 |
 
+The photographs below are Yunnan Sourcing's product images for the exact offers listed above. Click an image to open
+its source listing.
+
+<div class="image-gallery tea-product-gallery">
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2025-yunnan-sourcing-wan-gong-village-wild-arbor-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/product-images/yunnan-sourcing/2025-wan-gong.jpg" alt="2025 Yunnan Sourcing Wan Gong Village Wild Arbor raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 Wan Gong Village Wild Arbor. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2025-yunnan-sourcing-ge-deng-wild-arbor-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-7-yiwu-within-yiwu/2025-ge-deng.jpg" alt="2025 Yunnan Sourcing Ge Deng Wild Arbor raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 Ge Deng Wild Arbor. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+  <figure class="tea-product-photo">
+    <a href="https://yunnansourcing.com/products/2025-yunnan-sourcing-yi-bang-wild-arbor-raw-pu-erh-tea-cake" target="_blank" rel="noopener noreferrer"><img src="/tea/posts/sheng-puer-flight-7-yiwu-within-yiwu/2025-yi-bang.jpg" alt="2025 Yunnan Sourcing Yi Bang Wild Arbor raw puer tea cake" loading="lazy" decoding="async" /></a>
+    <figcaption>2025 Yi Bang Wild Arbor. Product photograph: Yunnan Sourcing.</figcaption>
+  </figure>
+</div>
+
 Ge Deng and Yi Bang add **€16.90** to the program; Wan Gong is reused from Flight 3. Prices exclude shipping, tax,
 conversion, and import costs.
 

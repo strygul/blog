@@ -4,6 +4,15 @@ import test from 'node:test';
 
 const pilotPath = '/tea/learning-sheng-puer-through-comparative-flights/';
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const productPhotoFigures = (post) =>
+	post.match(/<figure class="tea-product-photo">[\s\S]*?<\/figure>/g) ?? [];
+const productImageSourceForOffer = (post, offer) => {
+	const figure = productPhotoFigures(post).find((candidate) =>
+		candidate.includes(`href="${offer}"`),
+	);
+
+	return figure?.match(/<img src="(\/tea\/[^\"]+)"/)?.[1];
+};
 const flights = [
 	{
 		slug: 'sheng-puer-flight-1-development-states-within-dayi-7542',
@@ -120,6 +129,25 @@ test('all twelve sheng puer flights are published as executable standalone guide
 			assert.ok(post.includes(`href="${offer}"`), `missing ${offer} in ${flight.slug}`);
 		}
 
+		const productPhotos = productPhotoFigures(post);
+		assert.equal(
+			productPhotos.length,
+			flight.offers.length,
+			`expected one sourced product photo per offer in ${flight.slug}`,
+		);
+
+		for (const offer of flight.offers) {
+			const imageSource = productImageSourceForOffer(post, offer);
+			assert.ok(
+				imageSource,
+				`missing local product image sourced from ${offer} in ${flight.slug}`,
+			);
+			assert.ok(
+				existsSync(new URL(`../dist${imageSource}`, import.meta.url)),
+				`missing built product image ${imageSource} in ${flight.slug}`,
+			);
+		}
+
 		assert.match(post, /5 g/i, `missing leaf dose in ${flight.slug}`);
 		assert.match(post, /100 ml/i, `missing vessel volume in ${flight.slug}`);
 		assert.match(post, /10, 10, 15, 20, 30, and 45 seconds/i, `missing infusion schedule in ${flight.slug}`);
@@ -127,5 +155,29 @@ test('all twelve sheng puer flights are published as executable standalone guide
 		assert.match(post, /inconclusive/i, `missing inconclusive outcome in ${flight.slug}`);
 		assert.match(post, /What the Result Can Support/i, `missing supported conclusion in ${flight.slug}`);
 		assert.match(post, /cannot establish/i, `missing evidence limit in ${flight.slug}`);
+	}
+});
+
+test('repeated offers reuse one product image across flights', () => {
+	const imageSourceByOffer = new Map();
+
+	for (const flight of flights) {
+		const renderedPostUrl = new URL(`../dist/tea/${flight.slug}/index.html`, import.meta.url);
+		const post = readFileSync(renderedPostUrl, 'utf8');
+
+		for (const offer of flight.offers) {
+			const imageSource = productImageSourceForOffer(post, offer);
+			assert.ok(imageSource, `missing product image sourced from ${offer} in ${flight.slug}`);
+
+			if (imageSourceByOffer.has(offer)) {
+				assert.equal(
+					imageSource,
+					imageSourceByOffer.get(offer),
+					`expected ${offer} to reuse one product image across flights`,
+				);
+			} else {
+				imageSourceByOffer.set(offer, imageSource);
+			}
+		}
 	}
 });
