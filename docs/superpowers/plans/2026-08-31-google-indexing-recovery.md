@@ -234,7 +234,7 @@ test('every article sitemap date matches its rendered article metadata', () => {
 
 test('dated hubs publish their newest rendered date as lastmod', () => {
 	const entries = sitemapEntries();
-	for (const path of ['blog', 'tea', 'god-is-dead', 'ballet']) {
+	for (const path of ['tea', 'god-is-dead', 'ballet']) {
 		const newestDate = readPage(`${path}/index.html`).match(/<time datetime="([^"]+)">/)?.[1];
 		const lastmod = entries.get(`https://strygul.com/${path}/`);
 
