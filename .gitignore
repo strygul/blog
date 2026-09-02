@@ -26,3 +26,6 @@ pnpm-debug.log*
 # local Superpowers browser state
 .superpowers/brainstorm/.last-*
 .superpowers/brainstorm/*/state/
+
+# local Git worktrees
+.worktrees/

@@ -24,7 +24,7 @@ function relatedSection(html) {
 }
 
 function relatedLinks(html) {
-	return [...relatedSection(html).matchAll(/<a href="\/(tea|god-is-dead|ballet)\/([^"#?\/]+)\/?">([^<]*)<\/a>/g)];
+	return [...relatedSection(html).matchAll(/<a href="\/(tea|god-is-dead|ballet)\/([^"#?\/]+)\/">([^<]*)<\/a>/g)];
 }
 
 test('every post renders at least two related internal article links', () => {
@@ -33,7 +33,7 @@ test('every post renders at least two related internal article links', () => {
 			const html = readPost(collection, id);
 			const section = relatedSection(html);
 			const internalArticleLinks = section.match(
-				new RegExp(`href="/${collection}/[^"#?]+/?"`, 'g'),
+				new RegExp(`href="/${collection}/[^"#?]+/"`, 'g'),
 			);
 
 			assert.ok(section, `${collection}/${id} is missing its Related posts section`);

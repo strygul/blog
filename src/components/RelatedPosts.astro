@@ -283,7 +283,7 @@ const relatedPosts = (relatedByPath[currentPath] ?? []).map((href) => {
 		<section aria-labelledby="related-posts">
 			<h2 id="related-posts">Related posts</h2>
 			<ul>
-				{relatedPosts.map((post) => <li><a href={post.href}>{post.title}</a></li>)}
+				{relatedPosts.map((post) => <li><a href={`${post.href}/`}>{post.title}</a></li>)}
 			</ul>
 		</section>
 	)
