@@ -46,7 +46,9 @@ def scan_folder(folder: Path) -> ScanResult:
     skipped_directories = 0
 
     for entry in sorted(folder.iterdir(), key=lambda path: path.name.casefold()):
-        if entry.is_dir():
+        if entry.is_symlink():
+            skipped_files += 1
+        elif entry.is_dir():
             skipped_directories += 1
         elif entry.is_file() and entry.suffix.lower() in SUPPORTED_EXTENSIONS:
             images.append(entry)

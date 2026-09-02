@@ -50,6 +50,19 @@ class ScanFolderTests(unittest.TestCase):
             ["A.jpg", "m.jpg", "z.jpg"],
         )
 
+    def test_skips_image_symlinks(self):
+        outside = Path(self.temporary_directory.name).parent / "outside.jpg"
+        outside.write_bytes(b"outside fixture")
+        try:
+            (self.folder / "linked.jpg").symlink_to(outside)
+
+            result = remove_image_metadata.scan_folder(self.folder)
+
+            self.assertEqual(result.images, ())
+            self.assertEqual(result.skipped_files, 1)
+        finally:
+            outside.unlink()
+
 
 class ValidateFolderTests(unittest.TestCase):
     def test_rejects_a_missing_path(self):
