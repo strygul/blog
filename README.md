@@ -62,10 +62,11 @@ command is available on your `PATH`. Then run:
 python3 remove_image_metadata.py /path/to/pictures
 ```
 
-The script processes supported images directly inside the supplied folder
-and writes cleaned copies to a new `metadata-free` child folder. It does
-not recurse into subfolders, modify source images, or overwrite existing
-cleaned copies.
+The script processes `.jpg`, `.jpeg`, `.png`, `.webp`, `.gif`, `.tif`,
+`.tiff`, `.heic`, `.heif`, and `.avif` images directly inside the supplied
+folder. It creates the `metadata-free` child folder if needed and writes
+cleaned copies there. It does not recurse into subfolders, modify source
+images, or overwrite existing cleaned copies.
 
 ## 👀 Want to learn more?
 

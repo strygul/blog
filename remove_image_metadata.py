@@ -6,6 +6,7 @@ from dataclasses import dataclass
 import os
 from pathlib import Path
 import shutil
+import stat
 import subprocess
 import sys
 
@@ -47,10 +48,13 @@ class ProcessingResult:
 
 
 def validate_folder(folder: Path) -> None:
-    if not folder.exists():
-        raise MetadataRemovalError(f"Folder does not exist: {folder}")
-    if not folder.is_dir():
-        raise MetadataRemovalError(f"Path is not a directory: {folder}")
+    try:
+        if not folder.exists():
+            raise MetadataRemovalError(f"Folder does not exist: {folder}")
+        if not folder.is_dir():
+            raise MetadataRemovalError(f"Path is not a directory: {folder}")
+    except OSError as error:
+        raise MetadataRemovalError(f"Unable to access folder {folder}: {error}") from error
 
 
 def scan_folder(folder: Path) -> ScanResult:
@@ -58,15 +62,18 @@ def scan_folder(folder: Path) -> ScanResult:
     skipped_files = 0
     skipped_directories = 0
 
-    for entry in sorted(folder.iterdir(), key=lambda path: path.name.casefold()):
-        if entry.is_symlink():
-            skipped_files += 1
-        elif entry.is_dir():
-            skipped_directories += 1
-        elif entry.is_file() and entry.suffix.lower() in SUPPORTED_EXTENSIONS:
-            images.append(entry)
-        elif entry.is_file():
-            skipped_files += 1
+    try:
+        for entry in sorted(folder.iterdir(), key=lambda path: path.name.casefold()):
+            if entry.is_symlink():
+                skipped_files += 1
+            elif entry.is_dir():
+                skipped_directories += 1
+            elif entry.is_file() and entry.suffix.lower() in SUPPORTED_EXTENSIONS:
+                images.append(entry)
+            elif entry.is_file():
+                skipped_files += 1
+    except OSError as error:
+        raise MetadataRemovalError(f"Unable to scan folder {folder}: {error}") from error
 
     return ScanResult(tuple(images), skipped_files, skipped_directories)
 
@@ -81,6 +88,31 @@ def find_exiftool() -> str:
     return executable
 
 
+def prepare_output_directory(folder: Path) -> Path:
+    output_directory = folder / OUTPUT_DIRECTORY_NAME
+    try:
+        output_status = output_directory.lstat()
+    except FileNotFoundError:
+        try:
+            output_directory.mkdir()
+            output_status = output_directory.lstat()
+        except OSError as error:
+            raise MetadataRemovalError(
+                f"Unable to create output directory {output_directory}: {error}"
+            ) from error
+    except OSError as error:
+        raise MetadataRemovalError(
+            f"Unable to inspect output path {output_directory}: {error}"
+        ) from error
+
+    if stat.S_ISLNK(output_status.st_mode):
+        raise MetadataRemovalError(f"Output path must not be a symlink: {output_directory}")
+    if not stat.S_ISDIR(output_status.st_mode):
+        raise MetadataRemovalError(f"Output path is not a directory: {output_directory}")
+
+    return output_directory
+
+
 def remove_metadata(folder: Path) -> ProcessingResult:
     validate_folder(folder)
     executable = find_exiftool()
@@ -88,22 +120,25 @@ def remove_metadata(folder: Path) -> ProcessingResult:
     if not scan.images:
         raise MetadataRemovalError(f"No supported images found in: {folder}")
 
-    output_directory = folder / OUTPUT_DIRECTORY_NAME
-    output_directory.mkdir(exist_ok=True)
+    output_directory = prepare_output_directory(folder)
     command = [
         executable,
         "-all=",
         "-jumbf:all=",
         "-o",
         f"{output_directory}{os.sep}",
+        "--",
         *(str(image) for image in scan.images),
     ]
-    completed = subprocess.run(
-        command,
-        capture_output=True,
-        text=True,
-        check=False,
-    )
+    try:
+        completed = subprocess.run(
+            command,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+    except OSError as error:
+        raise MetadataRemovalError(f"Unable to start ExifTool: {error}") from error
     if completed.returncode != 0:
         details = completed.stderr.strip() or completed.stdout.strip()
         message = "ExifTool failed while processing the images."

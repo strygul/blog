@@ -5,6 +5,7 @@ import sys
 import tempfile
 import unittest
 from pathlib import Path
+from unittest import mock
 
 import remove_image_metadata
 
@@ -58,17 +59,17 @@ class ScanFolderTests(unittest.TestCase):
         )
 
     def test_skips_image_symlinks(self):
-        outside = Path(self.temporary_directory.name).parent / "outside.jpg"
+        outside_directory = self.folder / "outside"
+        outside_directory.mkdir()
+        outside = outside_directory / "outside.jpg"
         outside.write_bytes(b"outside fixture")
-        try:
-            (self.folder / "linked.jpg").symlink_to(outside)
 
-            result = remove_image_metadata.scan_folder(self.folder)
+        (self.folder / "linked.jpg").symlink_to(outside)
 
-            self.assertEqual(result.images, ())
-            self.assertEqual(result.skipped_files, 1)
-        finally:
-            outside.unlink()
+        result = remove_image_metadata.scan_folder(self.folder)
+
+        self.assertEqual(result.images, ())
+        self.assertEqual(result.skipped_files, 1)
 
 
 class ValidateFolderTests(unittest.TestCase):
@@ -92,6 +93,52 @@ class ValidateFolderTests(unittest.TestCase):
                 "Path is not a directory",
             ):
                 remove_image_metadata.validate_folder(file_path)
+
+
+class OperationalErrorTests(unittest.TestCase):
+    def setUp(self):
+        self.temporary_directory = tempfile.TemporaryDirectory()
+        self.folder = Path(self.temporary_directory.name)
+        (self.folder / "one.jpg").write_bytes(b"image fixture")
+
+    def tearDown(self):
+        self.temporary_directory.cleanup()
+
+    def test_wraps_directory_enumeration_failures(self):
+        with (
+            mock.patch("remove_image_metadata.find_exiftool", return_value="exiftool"),
+            mock.patch.object(Path, "iterdir", side_effect=PermissionError("denied")),
+            self.assertRaisesRegex(
+                remove_image_metadata.MetadataRemovalError,
+                "Unable to scan folder.*denied",
+            ),
+        ):
+            remove_image_metadata.remove_metadata(self.folder)
+
+    def test_wraps_output_directory_creation_failures(self):
+        with (
+            mock.patch("remove_image_metadata.find_exiftool", return_value="exiftool"),
+            mock.patch.object(Path, "mkdir", side_effect=PermissionError("denied")),
+            self.assertRaisesRegex(
+                remove_image_metadata.MetadataRemovalError,
+                "Unable to create output directory.*denied",
+            ),
+        ):
+            remove_image_metadata.remove_metadata(self.folder)
+
+    def test_wraps_exiftool_launch_failures(self):
+        with (
+            mock.patch("remove_image_metadata.find_exiftool", return_value="exiftool"),
+            mock.patch(
+                "remove_image_metadata.subprocess.run",
+                side_effect=FileNotFoundError("exiftool disappeared"),
+            ),
+            self.assertRaisesRegex(
+                remove_image_metadata.MetadataRemovalError,
+                "Unable to start ExifTool.*exiftool disappeared",
+            ),
+        ):
+            remove_image_metadata.remove_metadata(self.folder)
 
 
 class CommandLineTests(unittest.TestCase):
@@ -121,7 +168,14 @@ if exit_code:
 
 output_flag_index = arguments.index("-o")
 output_directory = Path(arguments[output_flag_index + 1])
-for source_name in arguments[output_flag_index + 2:]:
+source_arguments = arguments[output_flag_index + 2:]
+if source_arguments and source_arguments[0] == "--":
+    source_arguments = source_arguments[1:]
+elif any(Path(source_name).name.startswith("-") for source_name in source_arguments):
+    print("filename was interpreted as an option", file=sys.stderr)
+    raise SystemExit(1)
+
+for source_name in source_arguments:
     source = Path(source_name)
     destination = output_directory / source.name
     if destination.exists():
@@ -192,8 +246,23 @@ for source_name in arguments[output_flag_index + 2:]:
                 "-jumbf:all=",
                 "-o",
                 f"{pictures / 'metadata-free'}{os.sep}",
+                "--",
                 str(image),
             ],
+        )
+
+    def test_processes_a_leading_hyphen_filename_as_an_image(self):
+        pictures = self.root / "pictures"
+        pictures.mkdir()
+        image = pictures / "-portrait.jpg"
+        image.write_bytes(b"image fixture")
+
+        completed = self.run_script(pictures)
+
+        self.assertEqual(completed.returncode, 0, completed.stderr)
+        self.assertEqual(
+            (pictures / "metadata-free" / "-portrait.jpg").read_bytes(),
+            b"image fixture",
         )
 
     def test_missing_exiftool_fails_without_creating_output(self):
@@ -263,3 +332,41 @@ for source_name in arguments[output_flag_index + 2:]:
         self.assertIn("destination exists", completed.stderr)
         self.assertEqual(source.read_bytes(), b"new source image")
         self.assertEqual(existing.read_bytes(), b"existing cleaned image")
+
+    def test_rejects_an_output_path_that_is_a_regular_file(self):
+        pictures = self.root / "pictures"
+        pictures.mkdir()
+        source = pictures / "one.jpg"
+        source.write_bytes(b"source image")
+        output_path = pictures / "metadata-free"
+        output_path.write_text("not a directory", encoding="utf-8")
+
+        completed = self.run_script(pictures)
+
+        self.assertEqual(completed.returncode, 1)
+        self.assertIn("Error: Output path is not a directory", completed.stderr)
+        self.assertEqual(source.read_bytes(), b"source image")
+        self.assertEqual(output_path.read_text(encoding="utf-8"), "not a directory")
+
+    def test_rejects_an_output_symlink_without_touching_its_target(self):
+        pictures = self.root / "pictures"
+        pictures.mkdir()
+        source = pictures / "one.jpg"
+        source.write_bytes(b"source image")
+        external_output = self.root / "external-output"
+        external_output.mkdir()
+        sentinel = external_output / "sentinel.jpg"
+        sentinel.write_bytes(b"external data")
+        output_link = pictures / "metadata-free"
+        try:
+            output_link.symlink_to(external_output, target_is_directory=True)
+        except OSError as error:
+            self.skipTest(f"symlink creation is unavailable: {error}")
+
+        completed = self.run_script(pictures)
+
+        self.assertEqual(completed.returncode, 1)
+        self.assertIn("Error: Output path must not be a symlink", completed.stderr)
+        self.assertEqual(source.read_bytes(), b"source image")
+        self.assertEqual(sentinel.read_bytes(), b"external data")
+        self.assertEqual(list(external_output.iterdir()), [sentinel])
