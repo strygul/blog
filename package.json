@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "test:metadata": "python3 -m unittest tests/test_remove_image_metadata.py -v",
+    "test:metadata": "python3 -m unittest discover -s tests -p 'test_remove_image_metadata.py' -v",
     "test": "npm run test:metadata && npm run build && node --test tests/*.test.mjs",
     "preview": "astro preview",
     "astro": "astro"
