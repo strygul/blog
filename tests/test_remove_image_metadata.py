@@ -7,10 +7,10 @@ import unittest
 from pathlib import Path
 from unittest import mock
 
-import remove_image_metadata
+from scripts import remove_image_metadata
 
 
-SCRIPT = Path(__file__).resolve().parents[1] / "remove_image_metadata.py"
+SCRIPT = Path(__file__).resolve().parents[1] / "scripts" / "remove_image_metadata.py"
 
 
 class ScanFolderTests(unittest.TestCase):
@@ -106,7 +106,10 @@ class OperationalErrorTests(unittest.TestCase):
 
     def test_wraps_directory_enumeration_failures(self):
         with (
-            mock.patch("remove_image_metadata.find_exiftool", return_value="exiftool"),
+            mock.patch(
+                "scripts.remove_image_metadata.find_exiftool",
+                return_value="exiftool",
+            ),
             mock.patch.object(Path, "iterdir", side_effect=PermissionError("denied")),
             self.assertRaisesRegex(
                 remove_image_metadata.MetadataRemovalError,
@@ -117,7 +120,10 @@ class OperationalErrorTests(unittest.TestCase):
 
     def test_wraps_output_directory_creation_failures(self):
         with (
-            mock.patch("remove_image_metadata.find_exiftool", return_value="exiftool"),
+            mock.patch(
+                "scripts.remove_image_metadata.find_exiftool",
+                return_value="exiftool",
+            ),
             mock.patch.object(Path, "mkdir", side_effect=PermissionError("denied")),
             self.assertRaisesRegex(
                 remove_image_metadata.MetadataRemovalError,
@@ -128,9 +134,12 @@ class OperationalErrorTests(unittest.TestCase):
 
     def test_wraps_exiftool_launch_failures(self):
         with (
-            mock.patch("remove_image_metadata.find_exiftool", return_value="exiftool"),
             mock.patch(
-                "remove_image_metadata.subprocess.run",
+                "scripts.remove_image_metadata.find_exiftool",
+                return_value="exiftool",
+            ),
+            mock.patch(
+                "scripts.remove_image_metadata.subprocess.run",
                 side_effect=FileNotFoundError("exiftool disappeared"),
             ),
             self.assertRaisesRegex(

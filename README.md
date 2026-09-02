@@ -59,7 +59,7 @@ Install [ExifTool](https://exiftool.org/) and make sure the `exiftool`
 command is available on your `PATH`. Then run:
 
 ```sh
-python3 remove_image_metadata.py /path/to/pictures
+python3 scripts/remove_image_metadata.py /path/to/pictures
 ```
 
 The script processes `.jpg`, `.jpeg`, `.png`, `.webp`, `.gif`, `.tif`,
