@@ -153,6 +153,33 @@ test('tetsubin hero backgrounds match the website background', async () => {
 	}
 });
 
+test('the resources hero background matches the website background', async () => {
+	const image = fileURLToPath(
+		new URL('../src/assets/tea/resources/intro.png', import.meta.url),
+	);
+	const { data, info } = await sharp(image).removeAlpha().raw().toBuffer({ resolveWithObject: true });
+	const websiteBackground = [249, 249, 249];
+	const backgroundSamples = [
+		[0, 0],
+		[50, 50],
+		[836, 20],
+		[1671, 0],
+		[0, 940],
+		[1671, 940],
+		[836, 900],
+		[100, 400],
+		[1550, 400],
+		[100, 700],
+		[1550, 700],
+	];
+
+	for (const [x, y] of backgroundSamples) {
+		const offset = (y * info.width + x) * info.channels;
+		const color = Array.from(data.subarray(offset, offset + 3));
+		assert.deepEqual(color, websiteBackground, `resources background at (${x}, ${y})`);
+	}
+});
+
 test('the Takaoka hero is rendered entirely in neutral graphite tones', async () => {
 	const image = fileURLToPath(
 		new URL('../public/tea/posts/tetsubin-history-6-takaoka/hero.png', import.meta.url),
