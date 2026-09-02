@@ -17,14 +17,15 @@ export function addLastmod(item) {
 	const articleLastmod =
 		html.match(/<meta property="article:modified_time" content="([^"]+)">/)?.[1] ??
 		html.match(/<meta property="article:published_time" content="([^"]+)">/)?.[1];
+	if (articleLastmod) return { ...item, lastmod: articleLastmod };
+
 	const dates = [...html.matchAll(/<time datetime="([^"]+)">/g)]
 		.map(([, date]) => new Date(date).valueOf())
 		.filter(Number.isFinite);
-	const lastmod =
-		articleLastmod ??
-		(dates.length ? new Date(Math.max(...dates)).toISOString() : undefined);
 
-	return lastmod ? { ...item, lastmod } : item;
+	return dates.length
+		? { ...item, lastmod: new Date(Math.max(...dates)).toISOString() }
+		: item;
 }
 
 export default defineConfig({

@@ -35,6 +35,18 @@ function sitemapEntries() {
 	);
 }
 
+function withRenderedPage(path, html, callback) {
+	const directory = new URL(`../dist/${path}/`, import.meta.url);
+	mkdirSync(directory, { recursive: true });
+	writeFileSync(new URL('index.html', directory), html);
+
+	try {
+		callback(`https://strygul.com/${path}/`);
+	} finally {
+		rmSync(directory, { recursive: true });
+	}
+}
+
 test('generic category archives are noindex and absent from the sitemap', () => {
 	const categoryRoot = new URL('../dist/categories/', import.meta.url);
 	const archives = [
@@ -81,64 +93,37 @@ test('dated hubs publish their newest rendered date as lastmod', () => {
 		for (const { date, timestamp } of dates) {
 			assert.ok(Number.isFinite(timestamp), `${path} has malformed rendered content date: ${date}`);
 		}
+		assert.ok(dates.length, `${path} has no rendered content date`);
 		const newestDate = new Date(Math.max(...dates.map(({ timestamp }) => timestamp))).toISOString();
 		const lastmod = entries.get(`https://strygul.com/${path}/`);
 
-		assert.ok(dates.length, `${path} has no rendered content date`);
 		assert.ok(lastmod, `${path} has no sitemap lastmod`);
 		assert.equal(new Date(lastmod).toISOString(), newestDate, path);
 	}
 });
 
 test('sitemap dates choose the newest rendered hub date', () => {
-	const fixtureDirectory = new URL('../dist/__sitemap-date-order/', import.meta.url);
-	const fixturePage = new URL('index.html', fixtureDirectory);
-	const url = 'https://strygul.com/__sitemap-date-order/';
-
-	mkdirSync(fixtureDirectory, { recursive: true });
-	writeFileSync(
-		fixturePage,
+	withRenderedPage(
+		'__sitemap-date-order',
 		'<time datetime="2026-08-30T00:00:00.000Z"></time><time datetime="2026-08-31T00:00:00.000Z"></time>',
+		(url) => assert.equal(addLastmod({ url }).lastmod, '2026-08-31T00:00:00.000Z'),
 	);
-
-	try {
-		assert.equal(addLastmod({ url }).lastmod, '2026-08-31T00:00:00.000Z');
-	} finally {
-		rmSync(fixtureDirectory, { recursive: true });
-	}
 });
 
 test('sitemap dates ignore malformed rendered dates when valid dates remain', () => {
-	const fixtureDirectory = new URL('../dist/__sitemap-invalid-date/', import.meta.url);
-	const fixturePage = new URL('index.html', fixtureDirectory);
-	const url = 'https://strygul.com/__sitemap-invalid-date/';
-
-	mkdirSync(fixtureDirectory, { recursive: true });
-	writeFileSync(
-		fixturePage,
+	withRenderedPage(
+		'__sitemap-invalid-date',
 		'<time datetime="not-a-date"></time><time datetime="2026-08-30T00:00:00.000Z"></time><time datetime="2026-08-31T00:00:00.000Z"></time>',
+		(url) => assert.equal(addLastmod({ url }).lastmod, '2026-08-31T00:00:00.000Z'),
 	);
-
-	try {
-		assert.equal(addLastmod({ url }).lastmod, '2026-08-31T00:00:00.000Z');
-	} finally {
-		rmSync(fixtureDirectory, { recursive: true });
-	}
 });
 
 test('sitemap dates omit all-malformed rendered dates', () => {
-	const fixtureDirectory = new URL('../dist/__sitemap-all-invalid-dates/', import.meta.url);
-	const fixturePage = new URL('index.html', fixtureDirectory);
-	const item = { url: 'https://strygul.com/__sitemap-all-invalid-dates/' };
-
-	mkdirSync(fixtureDirectory, { recursive: true });
-	writeFileSync(fixturePage, '<time datetime="not-a-date"></time><time datetime="still-not-a-date"></time>');
-
-	try {
-		assert.deepEqual(addLastmod(item), item);
-	} finally {
-		rmSync(fixtureDirectory, { recursive: true });
-	}
+	withRenderedPage(
+		'__sitemap-all-invalid-dates',
+		'<time datetime="not-a-date"></time><time datetime="still-not-a-date"></time>',
+		(url) => assert.deepEqual(addLastmod({ url }), { url }),
+	);
 });
 
 test('the undated blog hub omits sitemap lastmod', () => {
