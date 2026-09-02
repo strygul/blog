@@ -53,6 +53,21 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
+## Remove image metadata
+
+Install [ExifTool](https://exiftool.org/) and make sure the `exiftool`
+command is available on your `PATH`. Then run:
+
+```sh
+python3 scripts/remove_image_metadata.py /path/to/pictures
+```
+
+The script processes `.jpg`, `.jpeg`, `.png`, `.webp`, `.gif`, `.tif`,
+`.tiff`, `.heic`, `.heif`, and `.avif` images directly inside the supplied
+folder. It creates the `metadata-free` child folder if needed and writes
+cleaned copies there. It does not recurse into subfolders, modify source
+images, or overwrite existing cleaned copies.
+
 ## 👀 Want to learn more?
 
 Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
