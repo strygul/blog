@@ -18,21 +18,6 @@ const imageSource = (html) => html.match(/<img[^>]+src="([^"]+)"/)?.[1];
 const sourceImage = (html) => imageSource(html)?.replace(/_[^/]+(?=\.[^.]+$)/, '');
 const dateTime = (html) => html.match(/<time[^>]+datetime="([^"]+)"/)?.[1];
 const firstPostCard = (html) => html.match(/<ul[^>]*>[\s\S]*?(<a [\s\S]*?<\/a>)/)?.[1];
-const shengPuerFlightSlugs = [
-	'sheng-puer-flight-1-development-states-within-dayi-7542',
-	'sheng-puer-flight-2-one-tea-two-storage-histories',
-	'sheng-puer-flight-3-yiwu-and-bulang',
-	'sheng-puer-flight-4-xishuangbanna-and-lincang',
-	'sheng-puer-flight-5-dayi-7542-and-8582',
-	'sheng-puer-flight-6-dayi-and-xiaguan',
-	'sheng-puer-flight-7-yiwu-within-yiwu',
-	'sheng-puer-flight-8-lao-mane-bitterness-spectrum',
-	'sheng-puer-flight-9-lincang-within-lincang',
-	'sheng-puer-flight-10-spring-and-autumn-from-one-origin',
-	'sheng-puer-flight-11-dayi-7532-7542-and-8582-suite',
-	'sheng-puer-flight-12-two-traditional-hong-kong-storage-profiles',
-];
-
 test('tea index orders subcategories by their most recently edited post', () => {
 	const html = readPage('tea');
 	const links = [
@@ -48,10 +33,10 @@ test('tea index orders subcategories by their most recently edited post', () => 
 	const otherCard = linkedCard(html, '/tea/other/');
 	const shengPuerCard = linkedCard(
 		readPage('tea/other'),
-		'/tea/sheng-puer-flight-1-development-states-within-dayi-7542/',
+		'/tea/learning-sheng-puer-through-comparative-flights/',
 	);
 	assert.equal(sourceImage(otherCard), sourceImage(shengPuerCard));
-	assert.equal(dateTime(otherCard), '2026-09-01T00:00:00.000Z');
+	assert.equal(dateTime(otherCard), '2026-09-02T00:00:00.000Z');
 });
 
 test('collection category keeps its fixed hero on the index and category page', () => {
@@ -94,9 +79,7 @@ test('subcategory pages contain only their assigned post groups', () => {
 		other,
 		/href="\/tea\/learning-sheng-puer-through-comparative-flights\/"/,
 	);
-	for (const slug of shengPuerFlightSlugs) {
-		assert.ok(other.includes(`href="/tea/${slug}/"`), `missing ${slug} from Other`);
-	}
+	assert.doesNotMatch(other, /href="\/tea\/sheng-puer-flight-/);
 	assert.doesNotMatch(other, /href="\/tea\/tetsubin-history-/);
 });
 
@@ -104,11 +87,11 @@ test('subcategory post cards use the most recent edit date', () => {
 	const other = readPage('tea/other');
 	const shengPuerCard = linkedCard(
 		other,
-		'/tea/sheng-puer-flight-1-development-states-within-dayi-7542/',
+		'/tea/learning-sheng-puer-through-comparative-flights/',
 	);
 
 	assert.equal(firstPostCard(other), shengPuerCard);
-	assert.equal(dateTime(shengPuerCard), '2026-09-01T00:00:00.000Z');
+	assert.equal(dateTime(shengPuerCard), '2026-09-02T00:00:00.000Z');
 });
 
 test('tetsubin cards and opened posts use the same original hero image', () => {

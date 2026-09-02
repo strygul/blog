@@ -9,7 +9,7 @@ import {
 } from './helpers/sheng-puer-catalog.mjs';
 
 const articleUrl = new URL(
-	'../src/content/tea/learning-sheng-puer-through-comparative-flights.md',
+	'../src/content/tea/learning-sheng-puer-through-comparative-flights.mdx',
 	import.meta.url,
 );
 const guideUrl = new URL('../docs/research/sheng-puer-educational-program.md', import.meta.url);
@@ -35,20 +35,6 @@ const sensoryFlights = [
 	'Spring and autumn from one origin',
 	'Dayi 7532, 7542, and 8582 suite',
 	'Two traditional Hong Kong storage profiles',
-];
-const flightSlugs = [
-	'sheng-puer-flight-1-development-states-within-dayi-7542',
-	'sheng-puer-flight-2-one-tea-two-storage-histories',
-	'sheng-puer-flight-3-yiwu-and-bulang',
-	'sheng-puer-flight-4-xishuangbanna-and-lincang',
-	'sheng-puer-flight-5-dayi-7542-and-8582',
-	'sheng-puer-flight-6-dayi-and-xiaguan',
-	'sheng-puer-flight-7-yiwu-within-yiwu',
-	'sheng-puer-flight-8-lao-mane-bitterness-spectrum',
-	'sheng-puer-flight-9-lincang-within-lincang',
-	'sheng-puer-flight-10-spring-and-autumn-from-one-origin',
-	'sheng-puer-flight-11-dayi-7532-7542-and-8582-suite',
-	'sheng-puer-flight-12-two-traditional-hong-kong-storage-profiles',
 ];
 const methodsLabs = [
 	'Lab A — Storage evidence audit',
@@ -199,7 +185,7 @@ test('sheng puer introduction presents the retained program and current purchasi
 	const article = readFileSync(articleUrl, 'utf8');
 
 	assert.match(article, /title: "Sheng Puer Flights Pilot"/);
-	assert.match(article, /pubDate: "2026-08-31"/);
+	assert.match(article, /pubDate: "2026-09-02"/);
 	assert.match(article, /  - "Other"/);
 
 	for (const heading of [
@@ -211,33 +197,28 @@ test('sheng puer introduction presents the retained program and current purchasi
 		assert.ok(article.includes(`## ${heading}`), `missing heading: ${heading}`);
 	}
 
-	const programSection = article.slice(
-		article.indexOf('## Flights Overview'),
-		article.indexOf('## How to Run a Flight'),
+	const renderedArticle = readFileSync(renderedArticleUrl, 'utf8');
+	const programSection = renderedArticle.slice(
+		renderedArticle.indexOf('<h2 id="pilot">'),
+		renderedArticle.indexOf('<h2 id="how-i-chose-the-teas-and-vendors">'),
 	);
-	const programSequence = [
-		...sensoryFlights.slice(0, 2),
-		methodsLabs[0],
-		...sensoryFlights.slice(2, 6),
-		methodsLabs[1],
-		...sensoryFlights.slice(6),
-		methodsLabs[2],
-	];
-	const roadmapItems = programSection.match(/^\d+\. \*\*(?:Flight \d+|Lab [ABC]) — .+?\*\*/gm) ?? [];
+	const programSequence = [...sensoryFlights, ...methodsLabs];
+	const roadmapItems = [...programSection.matchAll(/<strong[^>]*>((?:Flight \d+|Lab [ABC]) — [^<]+)<\/strong>/g)]
+		.map((match) => match[1]);
 	assert.equal(roadmapItems.length, 15, 'the roadmap should contain exactly 15 labelled modules');
 	assert.equal(
-		roadmapItems.filter((item) => /\*\*Flight \d+ —/.test(item)).length,
+		roadmapItems.filter((item) => /^Flight \d+ —/.test(item)).length,
 		12,
 		'the roadmap should visibly label exactly 12 flights',
 	);
 	assert.deepEqual(
-		roadmapItems.filter((item) => /\*\*Lab [ABC] —/.test(item)).map((item) => item.match(/Lab [ABC]/)[0]),
+		roadmapItems.filter((item) => /^Lab [ABC] —/.test(item)).map((item) => item.match(/Lab [ABC]/)[0]),
 		['Lab A', 'Lab B', 'Lab C'],
 	);
 	assert.deepEqual(
 		roadmapItems
-			.filter((item) => /\*\*Flight \d+ —/.test(item))
-			.map((item) => item.match(/\*\*Flight \d+ — (.+?)\*\*/)[1]),
+			.filter((item) => /^Flight \d+ —/.test(item))
+			.map((item) => item.replace(/^Flight \d+ — /, '')),
 		sensoryFlights,
 	);
 	let previousPosition = -1;
@@ -245,15 +226,6 @@ test('sheng puer introduction presents the retained program and current purchasi
 		const position = programSection.indexOf(moduleTitle);
 		assert.ok(position > previousPosition, `missing or out-of-order module: ${moduleTitle}`);
 		previousPosition = position;
-	}
-
-	const renderedArticle = readFileSync(renderedArticleUrl, 'utf8');
-	let previousLinkPosition = -1;
-	for (const slug of flightSlugs) {
-		const href = `href="/tea/${slug}/"`;
-		const position = renderedArticle.indexOf(href);
-		assert.ok(position > previousLinkPosition, `missing or out-of-order flight link: ${slug}`);
-		previousLinkPosition = position;
 	}
 
 	const { rows } = readShengPuerCatalog();

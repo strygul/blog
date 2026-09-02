@@ -23,18 +23,6 @@ const expectedExceptions = new Map([
 	['late-qing-chaozhou-teapot-48ml', 'My Teaware Collection'],
 	['learning-sheng-puer-through-comparative-flights', 'Other'],
 	['resources', 'Other'],
-	['sheng-puer-flight-1-development-states-within-dayi-7542', 'Other'],
-	['sheng-puer-flight-2-one-tea-two-storage-histories', 'Other'],
-	['sheng-puer-flight-3-yiwu-and-bulang', 'Other'],
-	['sheng-puer-flight-4-xishuangbanna-and-lincang', 'Other'],
-	['sheng-puer-flight-5-dayi-7542-and-8582', 'Other'],
-	['sheng-puer-flight-6-dayi-and-xiaguan', 'Other'],
-	['sheng-puer-flight-7-yiwu-within-yiwu', 'Other'],
-	['sheng-puer-flight-8-lao-mane-bitterness-spectrum', 'Other'],
-	['sheng-puer-flight-9-lincang-within-lincang', 'Other'],
-	['sheng-puer-flight-10-spring-and-autumn-from-one-origin', 'Other'],
-	['sheng-puer-flight-11-dayi-7532-7542-and-8582-suite', 'Other'],
-	['sheng-puer-flight-12-two-traditional-hong-kong-storage-profiles', 'Other'],
 	['the-other-99-water-for-tea', 'Other'],
 	['tetsubin-history-1-birth-of-the-iron-kettle', 'Tetsubin'],
 	['tetsubin-history-2-morioka', 'Tetsubin'],
@@ -66,8 +54,8 @@ function readCollectionDetailLabels(markdown) {
 }
 
 test('every tea post belongs to exactly one tea subcategory', () => {
-	for (const filename of readdirSync(teaDirectory).filter((name) => name.endsWith('.md'))) {
-		const id = basename(filename, '.md');
+	for (const filename of readdirSync(teaDirectory).filter((name) => /\.mdx?$/.test(name))) {
+		const id = basename(filename).replace(/\.mdx?$/, '');
 		const groups = readCategories(join(teaDirectory.pathname, filename)).filter((category) =>
 			groupNames.has(category),
 		);
