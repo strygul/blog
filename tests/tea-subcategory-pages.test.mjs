@@ -18,7 +18,6 @@ const imageSource = (html) => html.match(/<img[^>]+src="([^"]+)"/)?.[1];
 const sourceImage = (html) => imageSource(html)?.replace(/_[^/]+(?=\.[^.]+$)/, '');
 const dateTime = (html) => html.match(/<time[^>]+datetime="([^"]+)"/)?.[1];
 const firstPostCard = (html) => html.match(/<ul[^>]*>[\s\S]*?(<a [\s\S]*?<\/a>)/)?.[1];
-
 test('tea index orders subcategories by their most recently edited post', () => {
 	const html = readPage('tea');
 	const links = [
@@ -32,9 +31,12 @@ test('tea index orders subcategories by their most recently edited post', () => 
 	assert.deepEqual(positions, [...positions].sort((a, b) => a - b));
 
 	const otherCard = linkedCard(html, '/tea/other/');
-	const resourcesCard = linkedCard(readPage('tea/other'), '/tea/resources/');
-	assert.equal(sourceImage(otherCard), sourceImage(resourcesCard));
-	assert.equal(dateTime(otherCard), '2026-08-26T00:00:00.000Z');
+	const shengPuerCard = linkedCard(
+		readPage('tea/other'),
+		'/tea/learning-sheng-puer-through-comparative-flights/',
+	);
+	assert.equal(sourceImage(otherCard), sourceImage(shengPuerCard));
+	assert.equal(dateTime(otherCard), '2026-09-02T00:00:00.000Z');
 });
 
 test('collection category keeps its fixed hero on the index and category page', () => {
@@ -73,15 +75,23 @@ test('subcategory pages contain only their assigned post groups', () => {
 
 	assert.match(other, /href="\/tea\/resources\/"/);
 	assert.match(other, /href="\/tea\/the-other-99-water-for-tea\/"/);
+	assert.match(
+		other,
+		/href="\/tea\/learning-sheng-puer-through-comparative-flights\/"/,
+	);
+	assert.doesNotMatch(other, /href="\/tea\/sheng-puer-flight-/);
 	assert.doesNotMatch(other, /href="\/tea\/tetsubin-history-/);
 });
 
 test('subcategory post cards use the most recent edit date', () => {
 	const other = readPage('tea/other');
-	const resourcesCard = linkedCard(other, '/tea/resources/');
+	const shengPuerCard = linkedCard(
+		other,
+		'/tea/learning-sheng-puer-through-comparative-flights/',
+	);
 
-	assert.equal(firstPostCard(other), resourcesCard);
-	assert.equal(dateTime(resourcesCard), '2026-08-26T00:00:00.000Z');
+	assert.equal(firstPostCard(other), shengPuerCard);
+	assert.equal(dateTime(shengPuerCard), '2026-09-02T00:00:00.000Z');
 });
 
 test('tetsubin cards and opened posts use the same original hero image', () => {
@@ -140,6 +150,33 @@ test('tetsubin hero backgrounds match the website background', async () => {
 				}
 			}
 		}
+	}
+});
+
+test('the resources hero background matches the website background', async () => {
+	const image = fileURLToPath(
+		new URL('../src/assets/tea/resources/intro.png', import.meta.url),
+	);
+	const { data, info } = await sharp(image).removeAlpha().raw().toBuffer({ resolveWithObject: true });
+	const websiteBackground = [249, 249, 249];
+	const backgroundSamples = [
+		[0, 0],
+		[50, 50],
+		[836, 20],
+		[1671, 0],
+		[0, 940],
+		[1671, 940],
+		[836, 900],
+		[100, 400],
+		[1550, 400],
+		[100, 700],
+		[1550, 700],
+	];
+
+	for (const [x, y] of backgroundSamples) {
+		const offset = (y * info.width + x) * info.channels;
+		const color = Array.from(data.subarray(offset, offset + 3));
+		assert.deepEqual(color, websiteBackground, `resources background at (${x}, ${y})`);
 	}
 });
 

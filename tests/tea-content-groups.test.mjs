@@ -21,6 +21,7 @@ const collectionDetailLabels = [
 const expectedExceptions = new Map([
 	['factory-1-70s-xi-shi-76ml', 'My Teaware Collection'],
 	['late-qing-chaozhou-teapot-48ml', 'My Teaware Collection'],
+	['learning-sheng-puer-through-comparative-flights', 'Other'],
 	['resources', 'Other'],
 	['the-other-99-water-for-tea', 'Other'],
 	['tetsubin-history-1-birth-of-the-iron-kettle', 'Tetsubin'],
@@ -53,8 +54,8 @@ function readCollectionDetailLabels(markdown) {
 }
 
 test('every tea post belongs to exactly one tea subcategory', () => {
-	for (const filename of readdirSync(teaDirectory).filter((name) => name.endsWith('.md'))) {
-		const id = basename(filename, '.md');
+	for (const filename of readdirSync(teaDirectory).filter((name) => /\.mdx?$/.test(name))) {
+		const id = basename(filename).replace(/\.mdx?$/, '');
 		const groups = readCategories(join(teaDirectory.pathname, filename)).filter((category) =>
 			groupNames.has(category),
 		);
