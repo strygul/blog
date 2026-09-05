@@ -1,0 +1,448 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Sheng Puer Flights Instagram Carousel</title>
+    <style>
+      @font-face {
+        font-family: Atkinson;
+        src: url("/public/fonts/atkinson-regular.woff") format("woff");
+        font-weight: 400;
+      }
+
+      @font-face {
+        font-family: Atkinson;
+        src: url("/public/fonts/atkinson-bold.woff") format("woff");
+        font-weight: 700;
+      }
+
+      :root {
+        --paper: #f4efe6;
+        --ink: #1f211f;
+        --muted: #68645e;
+        --red: #9c4938;
+        --line: rgba(31, 33, 31, 0.18);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: Atkinson, Arial, sans-serif;
+      }
+
+      .slide {
+        position: relative;
+        display: none;
+        width: 1080px;
+        height: 1350px;
+        overflow: hidden;
+        background-color: var(--paper);
+        background-image:
+          linear-gradient(rgba(248, 244, 236, 0.16), rgba(248, 244, 236, 0.16)),
+          url("generated-paper-background.png");
+        background-position: center;
+        background-size: cover;
+      }
+
+      .slide.active {
+        display: block;
+      }
+
+      .slide::before {
+        content: "";
+        position: absolute;
+        inset: 44px;
+        border: 1px solid rgba(31, 33, 31, 0.12);
+        pointer-events: none;
+      }
+
+      .slide::after {
+        content: "strygul.com";
+        position: absolute;
+        bottom: 52px;
+        left: 84px;
+        color: var(--red);
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: 0.12em;
+        line-height: 1;
+        text-transform: uppercase;
+      }
+
+      .inner {
+        position: absolute;
+        inset: 86px 84px 96px;
+      }
+
+      .kicker {
+        margin: 0 0 26px;
+        color: var(--red);
+        font-size: 26px;
+        font-weight: 700;
+        letter-spacing: 0.16em;
+        line-height: 1;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        max-width: 900px;
+        margin: 0;
+        font-size: 79px;
+        font-weight: 700;
+        letter-spacing: -0.035em;
+        line-height: 0.99;
+      }
+
+      .deck {
+        max-width: 850px;
+        margin: 28px 0 0;
+        color: var(--muted);
+        font-size: 36px;
+        line-height: 1.2;
+      }
+
+      .accent-rule {
+        width: 92px;
+        height: 8px;
+        margin: 34px 0 0;
+        background: var(--red);
+      }
+
+      .hero-browser {
+        position: absolute;
+        right: 0;
+        bottom: 126px;
+        left: 0;
+        overflow: hidden;
+        border: 1px solid rgba(31, 33, 31, 0.23);
+        border-radius: 18px;
+        background: #fdfcf9;
+        box-shadow: 0 25px 55px rgba(62, 48, 36, 0.17);
+        transform: rotate(-1deg);
+      }
+
+      .browser-bar {
+        display: flex;
+        align-items: center;
+        height: 58px;
+        padding: 0 20px;
+        border-bottom: 1px solid rgba(31, 33, 31, 0.12);
+        background: #f4f0e9;
+      }
+
+      .browser-dot {
+        width: 12px;
+        height: 12px;
+        margin-right: 9px;
+        border: 1px solid rgba(31, 33, 31, 0.38);
+        border-radius: 50%;
+      }
+
+      .hero-browser img {
+        display: block;
+        width: 100%;
+        height: 485px;
+        object-fit: cover;
+        object-position: center;
+      }
+
+      .live-note {
+        position: absolute;
+        right: 4px;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        margin: 0;
+        color: var(--ink);
+        font-size: 34px;
+        font-weight: 700;
+        line-height: 1;
+      }
+
+      .live-note::before {
+        content: "3";
+        display: grid;
+        width: 58px;
+        height: 58px;
+        place-items: center;
+        border-radius: 50%;
+        background: var(--red);
+        color: white;
+        font-size: 30px;
+      }
+
+      .flight-title {
+        max-width: 900px;
+        font-size: 72px;
+      }
+
+      .photo-frame {
+        overflow: hidden;
+        border: 1px solid rgba(31, 33, 31, 0.22);
+        border-radius: 14px;
+        background: #fff;
+        box-shadow: 0 18px 34px rgba(48, 39, 31, 0.16);
+      }
+
+      .photo-frame img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      .triptych {
+        position: absolute;
+        top: 390px;
+        right: 0;
+        left: 0;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 24px;
+      }
+
+      .triptych figure,
+      .comparison figure {
+        margin: 0;
+      }
+
+      .triptych .photo-frame {
+        height: 505px;
+      }
+
+      .triptych figure:nth-child(1) {
+        transform: translateY(24px) rotate(-1.5deg);
+      }
+
+      .triptych figure:nth-child(2) {
+        transform: rotate(0.8deg);
+      }
+
+      .triptych figure:nth-child(3) {
+        transform: translateY(18px) rotate(-0.5deg);
+      }
+
+      figcaption {
+        margin-top: 16px;
+        color: var(--ink);
+        font-size: 31px;
+        font-weight: 700;
+        text-align: center;
+      }
+
+      .footer-copy {
+        position: absolute;
+        right: 0;
+        bottom: 10px;
+        left: 0;
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+        gap: 24px;
+        padding-top: 20px;
+        border-top: 1px solid var(--line);
+      }
+
+      .footer-copy p {
+        max-width: 760px;
+        margin: 0;
+        font-size: 34px;
+        line-height: 1.2;
+      }
+
+      .credit {
+        flex: 0 0 auto;
+        max-width: 150px;
+        color: var(--muted);
+        font-size: 17px;
+        line-height: 1.25;
+        text-align: right;
+      }
+
+      .storage-photo {
+        position: absolute;
+        top: 378px;
+        right: 70px;
+        left: 70px;
+        height: 695px;
+        transform: rotate(0.7deg);
+      }
+
+      .storage-photo img {
+        object-position: center;
+      }
+
+      .storage-label {
+        position: absolute;
+        top: 687px;
+        z-index: 2;
+        padding: 14px 22px 12px;
+        background: rgba(244, 239, 230, 0.94);
+        color: var(--ink);
+        font-size: 25px;
+        font-weight: 700;
+        letter-spacing: 0.11em;
+        text-transform: uppercase;
+      }
+
+      .storage-label.left {
+        left: 36px;
+      }
+
+      .storage-label.right {
+        right: 36px;
+      }
+
+      .comparison {
+        position: absolute;
+        top: 400px;
+        right: 0;
+        left: 0;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 30px;
+      }
+
+      .comparison .photo-frame {
+        height: 620px;
+      }
+
+      .comparison figure:first-child {
+        transform: rotate(-1.1deg);
+      }
+
+      .comparison figure:last-child {
+        transform: translateY(16px) rotate(1deg);
+      }
+
+      .cta {
+        display: inline-block;
+        margin-top: 20px;
+        color: var(--red);
+        font-size: 24px;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+    </style>
+  </head>
+  <body>
+    <section class="slide" data-slide="1">
+      <div class="inner">
+        <p class="kicker">A new tea project</p>
+        <h1>I wrote a pilot that will take you on 15 sheng puer flights.</h1>
+        <div class="accent-rule"></div>
+
+        <div class="hero-browser" aria-label="Screenshot-style presentation of the blog hero image">
+          <div class="browser-bar" aria-hidden="true">
+            <span class="browser-dot"></span>
+            <span class="browser-dot"></span>
+            <span class="browser-dot"></span>
+          </div>
+          <img src="source-hero.png" alt="Six gaiwans, a puer cake, loose tea, and tasting notes drawn in graphite" />
+        </div>
+
+        <p class="live-note">The first three are already live.</p>
+      </div>
+    </section>
+
+    <section class="slide" data-slide="2">
+      <div class="inner">
+        <p class="kicker">Flight 01</p>
+        <h1 class="flight-title">Dayi 7542<br />over time</h1>
+        <p class="deck">Compare three productions across nearly two decades.</p>
+
+        <div class="triptych">
+          <figure>
+            <div class="photo-frame"><img src="source-flight1-2007.jpg" alt="2007 Dayi 7542" /></div>
+            <figcaption>2007</figcaption>
+          </figure>
+          <figure>
+            <div class="photo-frame"><img src="source-flight1-2015.jpg" alt="2015 Dayi 7542" /></div>
+            <figcaption>2015</figcaption>
+          </figure>
+          <figure>
+            <div class="photo-frame"><img src="source-flight1-2025.jpg" alt="2025 Dayi 7542" /></div>
+            <figcaption>2025</figcaption>
+          </figure>
+        </div>
+
+        <div class="footer-copy">
+          <p>What differs when the recipe name stays the same—but years, batches, and histories do not?</p>
+          <span class="credit">Photos: King Tea Mall</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide" data-slide="3">
+      <div class="inner">
+        <p class="kicker">Flight 02</p>
+        <h1 class="flight-title">One tea,<br />two storage histories</h1>
+        <p class="deck">The same 2007 XiZi Hao, stored in two places.</p>
+
+        <div class="photo-frame storage-photo">
+          <img src="source-flight2-storage.jpg" alt="2007 XiZi Hao Shangpin samples from USA and Taiwan storage" />
+          <span class="storage-label left">USA</span>
+          <span class="storage-label right">Taiwan</span>
+        </div>
+
+        <div class="footer-copy">
+          <p>How does storage shape what reaches the cup?</p>
+          <span class="credit">Photo: Liquid Proust</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="slide" data-slide="4">
+      <div class="inner">
+        <p class="kicker">Flight 03</p>
+        <h1 class="flight-title">Yiwu<br />vs Bulang</h1>
+        <p class="deck">A side-by-side exploration of regional character.</p>
+
+        <div class="comparison">
+          <figure>
+            <div class="photo-frame"><img src="source-flight3-yiwu.jpg" alt="Wan Gong tea from Yiwu" /></div>
+            <figcaption>Yiwu</figcaption>
+          </figure>
+          <figure>
+            <div class="photo-frame"><img src="source-flight3-bulang.jpg" alt="Xin Ban'e tea from Bulang" /></div>
+            <figcaption>Bulang</figcaption>
+          </figure>
+        </div>
+
+        <div class="footer-copy">
+          <p>Two 2025 teas. One shared protocol. What can we actually observe?</p>
+          <span class="credit">Photos: Yunnan Sourcing</span>
+        </div>
+      </div>
+    </section>
+
+    <script>
+      const params = new URLSearchParams(location.search);
+      const requestedSlide = params.get("slide") || "1";
+      const activeSlide = document.querySelector(`[data-slide="${requestedSlide}"]`);
+      activeSlide?.classList.add("active");
+
+      if (params.get("fit") === "1" && activeSlide) {
+        const fitSlide = () => {
+          const scale = Math.min(innerWidth / 1080, innerHeight / 1350);
+          activeSlide.style.transform = `scale(${scale})`;
+          activeSlide.style.transformOrigin = "top left";
+        };
+        fitSlide();
+        addEventListener("resize", fitSlide);
+      }
+    </script>
+  </body>
+</html>
