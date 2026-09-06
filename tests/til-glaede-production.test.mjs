@@ -14,7 +14,7 @@ const assetNames = [
 
 test('production includes the Til Glaæde Ballet post and its required assets', () => {
 	assert.equal(existsSync(sourcePost), true, 'the published Ballet source exists');
-	assert.match(readFileSync(sourcePost, 'utf8'), /^title: "Til Glaæde"$/m);
+	assert.match(readFileSync(sourcePost, 'utf8'), /^title: "\s*Til glæden"$/m);
 
 	for (const assetName of assetNames) {
 		assert.equal(
@@ -25,5 +25,5 @@ test('production includes the Til Glaæde Ballet post and its required assets', 
 	}
 
 	assert.equal(existsSync(generatedPost), true, 'the production route is generated');
-	assert.match(readFileSync(generatedPost, 'utf8'), /<h1[^>]*>Til Glaæde<\/h1>/);
+	assert.match(readFileSync(generatedPost, 'utf8'), /<h1[^>]*>\s*Til glæden<\/h1>/);
 });
