@@ -1,5 +1,5 @@
 ---
-title: "Til Glaæde"
+title: " Til glæden"
 pubDate: "2026-09-06"
 category: "Ballet"
 description: ""
