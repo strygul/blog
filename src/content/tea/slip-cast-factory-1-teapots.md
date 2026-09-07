@@ -11,7 +11,19 @@ heroImageSrc: "/tea/posts/slip-cast-factory-1-teapots/slip-casting-factory.png"
 ---
 
 <div class="info-box">
-This article brings together Xu Xiutang's recollections, Wang Yinxian's account of the factory trials, a later Chinese summary of Yixing forming methods, and the modern English reconstruction at <a href="https://www.teatechnique.org/slip-casting-yixing-teapots/">Tea Technique</a>. The dates do not align perfectly. Where the sources disagree, I have left the disagreement visible rather than manufacture a precision the record does not support. The process photographs are illustrative: they show slip casting and teapot mould-making elsewhere, not the Factory #1 workshop.
+Very few things can teach us more than being challenged by our peers.
+
+I was recently challenged by a fellow collector, @ever.ythingtea, on several questions about Factory 1 teapots that made
+me question much of what I thought I knew about Yixing. One of them concerned slip-cast F1 teapots.
+
+I had read that F1 experimented with slip casting in the factory’s early days, but I thought these pots were internal 
+experiments that never reached the market...
+
+This work is the result of many discussions with @ever.ythingtea and a deep dive into the subject. It made me realise 
+once again how many nuances of F1 teapot history remain hidden from common knowledge, held by a small group of 
+collectors who, unfortunately, are not always keen on sharing what they know.
+
+
 </div>
 
 Among Yixing collectors, *slip cast* is often used as a polite way of saying *fake*. The phrase gets attached to anything too smooth, too cheap, too regular, or simply not charming enough. It is a wonderfully efficient insult and a terrible description.
@@ -65,13 +77,6 @@ This was not conservative craftspeople rejecting a successful machine because th
 
 There was a subtler aesthetic problem too. Tea Technique's reconstruction describes trial pots whose cast bodies are smoother, darker, and more uniform than their separately made spouts, handles, knobs, or lids. Whether every surviving example follows that pattern is doubtful, but the mechanism makes sense: milling zisha fine enough to suspend it in water removes much of the visible granular life collectors associate with the clay, while hand-built attachments preserve it.
 
-<figure class="figure-center">
-  <a href="/tea/posts/yixing-factory-1-chronicle-part-1/f1-shuiping-60s.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the 1960s Factory 1 shuiping photograph full size in a new tab">
-    <img src="/tea/posts/yixing-factory-1-chronicle-part-1/f1-shuiping-60s.jpg" alt="Conventional 1960s Factory 1 red-clay shuiping teapot with a round body, domed lid, and loop handle" width="1280" height="960" loading="lazy" decoding="async" />
-  </a>
-  <figcaption>A conventional 1960s Factory #1 shuiping. It is shown as a period reference, <strong>not</strong> as a claimed slip-cast pot. Most early F1 teapots collectors encounter were formed by hand with varying degrees of mould assistance.</figcaption>
-</figure>
-
 ## Why Zisha Refused to Become a Liquid
 
 The failure begins in the structure that makes zisha desirable.
@@ -106,13 +111,6 @@ But the pot still had to pass through hands. A worker made slabs, assembled the 
 
 There is a lovely human arc inside this. Wang Yinxian entered the factory as a teenager in 1956 and participated in the failed attempt to make the material flow through an industrial system. She went on to become one of the great sculptural voices of modern Yixing, exploiting exactly the plastic and structural qualities that made zisha so awkward to pour.
 
-<figure class="figure-center">
-  <a href="/tea/posts/slip-cast-factory-1-teapots/wang-yinxian-1993.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the photograph of Wang Yinxian and Zhang Shouzhi teapots full size in a new tab">
-    <img src="/tea/posts/slip-cast-factory-1-teapots/wang-yinxian-1993.jpg" alt="Two sculptural brown Yixing teapots displayed at the Flagstaff House Museum of Tea Ware, including a large loop-handled pot by Wang Yinxian and Zhang Shouzhi" width="1920" height="1280" loading="lazy" decoding="async" />
-  </a>
-  <figcaption>At left, a 1993 ribbed teapot with overhead handle bearing seals of Wang Yinxian and Zhang Shouzhi; at right, a geometric companion piece. The young factory worker who witnessed slip casting fail later helped push hand-built zisha into modern sculpture. Flagstaff House Museum of Tea Ware.</figcaption>
-</figure>
-
 ## So What Is a “Slip-Cast F1”?
 
 This is where history becomes an authentication problem.
@@ -127,6 +125,50 @@ But the experiment's short duration and poor yield should make us suspicious of 
 4. a modern industrial pot borrowing an F1 shape or seal.
 
 There is a fifth source of confusion: **slip coating is not slip casting.** A pot can be formed conventionally and covered with a thin wash of another clay to alter its colour. Factory records mention “red outside, purple inside” and similar mixed-surface wares. The word *slip* appears in both English descriptions, but a coating tells us nothing about how the body underneath was formed.
+
+## Which Shapes Were Slip-Cast?
+
+No surviving factory catalogue gives us a clean list. One later [overview of Factory #1 wares](https://taohuren.com/article/189012.html) says that a small number of ordinary *shuiping* were slip-cast in the late 1950s and early 1960s. Beyond that broad category, the evidence comes mainly from collector literature and from the objects themselves.
+
+The most discussed candidates belong to the [Five Shapes series](/tea/early-teapots-five-shape-pots):
+
+- **Xianpiao or Linepiao (線漂 / 線瓢):** the rounded pot Taiwanese collectors call *Guava* or *Bale* (芭樂);
+- **Bianxia (扁下):** the low, broad *Meat Patty* or *Roubing* (肉餅);
+- **Bianpu (扁蒲):** the plump *Xi Shi* (西施);
+- **Tangpo (湯婆):** the taller *Magic Lamp* (神燈);
+- **Bianyuan (扁圓):** the flattened *Eunuch* (太監), which may not have entered production until the 1970s.
+
+A [collector article originally published in issue 37 of *Tea Art*](https://bababu24.pixnet.net/blog/posts/9210295538) says Factory #1 began experimenting with both plaster moulds and slip casting in the mid-1950s. On first-batch 1960s Five Shapes, the author specifically observes plaster-mould joining traces on Tangpo, Bianpu, and Bianxia. This establishes mould use, but not necessarily slip casting: a body beaten from workable clay and corrected in a plaster mould can leave joining traces too.
+
+The more specific claim comes from a [Ruten listing for the four-cup Linepiao shown below](https://www.ruten.com.tw/item/21544939047176/). Its seller identifies Linepiao and Bianpu as first-batch experimental forms whose **bodies** were made by a method “similar to mould pouring and slip casting” (*leisi guanmo zhujiang*, 類似灌模注漿). According to that account, the method produced a body with something like two layers and made some pots prone to cracking or surface delamination. Later Linepiao were made again by the normal method. This is detailed collector testimony, not a surviving factory specification, so it is evidence worth recording rather than a final verdict.
+
+<figure class="figure-center">
+  <a href="/tea/posts/slip-cast-factory-1-teapots/ruten-linepiao-guava-body.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Ruten Linepiao Guava photograph full size in a new tab">
+    <img src="/tea/posts/slip-cast-factory-1-teapots/ruten-linepiao-guava-body.jpg" alt="Red-clay four-cup Linepiao or Guava teapot with a long horizontal crack or delamination line around the body" width="640" height="480" loading="lazy" decoding="async" />
+  </a>
+  <figcaption>The Ruten seller's first-batch Linepiao, with a long horizontal crack or delamination line around the body. The seller connects this damage with the unusual experimental construction; the photograph alone cannot prove its cause.</figcaption>
+</figure>
+
+Collectors sometimes repeat a narrower rule: among 1960s Guavas, only pots with **two** marks inside the lid—*Linepiao* (線漂) plus a capacity stamp such as *six cups* (六杯)—were slip-cast. The known examples make that rule too narrow. The Ruten pot is explicitly described as belonging to the experimental group but has only the single Linepiao name stamp. The number of lid stamps therefore cannot separate cast from conventionally formed bodies.
+
+The likelier pattern is chronological. The *Tea Art* article says pot-name stamps inside the lids belong to the first 1960s Five Shapes batch and disappear from later production. If the Ruten account is correct, **all early Guavas with a Linepiao lid-name stamp may belong to the same experimental batch, whether or not they also carry a capacity stamp.** That is a stronger working hypothesis than the two-stamp rule, but it remains an inference until a period factory source ties the stamp directly to the forming method.
+
+<div class="image-gallery two-up" role="group" aria-label="Ruten Linepiao lid and base stamps">
+  <figure class="full-size">
+    <a href="/tea/posts/slip-cast-factory-1-teapots/ruten-linepiao-lid-stamp.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Linepiao lid-stamp photograph full size in a new tab">
+      <img src="/tea/posts/slip-cast-factory-1-teapots/ruten-linepiao-lid-stamp.jpg" alt="Underside of the Guava teapot lid with a single Linepiao name stamp beside the vent hole" width="640" height="480" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>One stamp, not two: 線漂 appears inside the lid, without a separate capacity mark.</figcaption>
+  </figure>
+  <figure class="full-size">
+    <a href="/tea/posts/slip-cast-factory-1-teapots/ruten-linepiao-base-seal.jpg" target="_blank" rel="noopener noreferrer" aria-label="Open the Guava base-seal photograph full size in a new tab">
+      <img src="/tea/posts/slip-cast-factory-1-teapots/ruten-linepiao-base-seal.jpg" alt="Base of the red-clay Guava teapot with a rectangular six-character Yixing Hui Mengchen seal" width="640" height="480" loading="lazy" decoding="async" />
+    </a>
+    <figcaption>The six-character 宜興惠孟臣製 base seal. Like the lid stamp, it helps place the pot in a collector chronology but does not prove how the body was formed.</figcaption>
+  </figure>
+</div>
+
+The word **bodies** matters. The Ruten description says *hushen* (壺身); it does not say that the lids were cast. It even says the lids remained the same between the experimental and later conventionally formed versions. The most plausible reconstruction is therefore a slip- or slurry-formed body fitted with a separately pressed or mould-formed lid, while the spout, handle, and knob were also made separately and attached. A granular-looking lid does not rule out a cast body, and a Linepiao stamp does not turn the lid itself into a casting.
 
 ## Clues Worth Looking For—and Clues Worth Distrusting
 
@@ -163,4 +205,4 @@ The machine did not save the tradition. The clay made the machine compromise.
 
 The main historical witnesses are Xu Xiutang's [*Yixing Zisha Traditional Craft* preface](https://www.jstaoxie.com/yxtc/index.php/Wap/tczz?id=1167) and his essay on [changes in Yixing raw-material processing and firing](https://www.dangdaiyishu.com/app/18-view-50325.shtml). The account of Wang Yinxian's objections and the four practical failures comes from [“The Road of Slip Casting Does Not Work”](https://www.zisha.com/knowledge/13889.shtml), embedded in a longer profile of her. The [Sina overview of forming methods](https://collection.sina.com.cn/zsbk/20120329/132861756.shtml) supplies the names attached to the 1958 and reported 1973 trials. [Tea Technique](https://www.teatechnique.org/slip-casting-yixing-teapots/) provides the modern English reconstruction and proposed visual characteristics. The [Meg Book listing for Xu Xiutang and Shangu's *Ten Introductory Lectures on Zisha*](https://www.megbook.hk/mall/detail.jsp?proID=2205196) preserves the book's short technical description of the later cast body.
 
-Hero photograph: industrial slip casting at Claytan, Malaysia, by Encik Tekateki, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Slip_Casting_di_kilang_Claytan.png), CC BY-SA 4.0. Teapot mould photograph: Clem Rutter at the Gladstone Pottery Museum, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gladstone_mould_making_tea_pot_3839.JPG), CC BY-SA 3.0. Wang Yinxian / Zhang Shouzhi teapots: istolethetv, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Two_tea_pots_at_the_Flagstaff_House_Museum_of_Tea_Ware_in_Hong_Kong_Park,_in_Hong_Kong_(5271232276).jpg), CC BY 2.0. The 1960s Factory #1 shuiping is reused from this site's [Factory #1 chronicle](/tea/yixing-factory-1-chronicle-part-1).
+For the shapes discussion, [“The Correct Names and Appreciation of the Five Shapes”](https://bababu24.pixnet.net/blog/posts/9210295538)—originally published in issue 37 of *Tea Art*—provides the factory names, early lid-stamp chronology, and observations of plaster-mould joins. The reproduced [Factory #1 overview](https://taohuren.com/article/189012.html) mentions a small number of slip-cast *shuiping* from the late 1950s and early 1960s. The claim about experimental Linepiao and Bianpu bodies, and all three photographs, come from the [archived Ruten listing](https://www.ruten.com.tw/item/21544939047176/); because it is a collector-seller account rather than factory documentation, the section labels its conclusions accordingly.
