@@ -105,7 +105,7 @@ const categories = [
 				categories.map(({ label, posts, basePath }, index) => (
 					<section>
 						<h3 class="section-header">
-							<a href={basePath} class="category-link">{label}</a>
+							<a href={`${basePath}/`} class="category-link">{label}</a>
 							<button class="expand-btn" data-index={index} aria-expanded="false" aria-controls={`section-${index}`}>
 								<span class="section-icon">›</span>
 							</button>

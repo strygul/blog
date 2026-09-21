@@ -151,8 +151,8 @@ Shape Pots reveals ongoing changes in molds, joint lines, and proportions, showi
 
 Five Shape Pots from the early 1960s typically bear six-character base seals, such as:
 
-- Da Xi
-- Xiao Xi
+- Big Xi
+- Small Xi
 - Jingxi Hui Mengchen
 - Jingxi Nan Mengchen
 - Yixing Hui Mengchen

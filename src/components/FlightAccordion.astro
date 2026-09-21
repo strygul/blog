@@ -1,0 +1,109 @@
+---
+interface Props {
+	id: string;
+	title: string;
+}
+
+const { id, title } = Astro.props;
+const contentId = `${id}-content`;
+---
+
+<li class="flight">
+	<button class="flight-toggle" type="button" aria-expanded="false" aria-controls={contentId}>
+		<strong>{title}</strong>
+		<span class="flight-icon" aria-hidden="true">›</span>
+	</button>
+	<div id={contentId} class="flight-content folded" aria-hidden="true" inert>
+		<div class="flight-inner">
+			<slot />
+		</div>
+	</div>
+</li>
+
+<style>
+	:global(.flight-list) {
+		padding-left: 0;
+		list-style: none;
+	}
+
+	:global(.flight-coming-soon) {
+		color: #777;
+	}
+
+	.flight-toggle {
+		display: flex;
+		align-items: baseline;
+		gap: 0.5rem;
+		padding: 0;
+		border: 0;
+		background: none;
+		color: inherit;
+		font: inherit;
+		text-align: left;
+		cursor: pointer;
+	}
+
+	.flight-toggle:hover {
+		color: rgb(var(--accent));
+	}
+
+	.flight-icon {
+		display: inline-block;
+		line-height: 1;
+		transition: transform 0.3s ease-out;
+	}
+
+	.flight-icon.expanded {
+		transform: rotate(90deg);
+	}
+
+	.flight-content {
+		display: grid;
+		grid-template-rows: 0fr;
+		opacity: 0;
+		transition: grid-template-rows 0.3s ease-out, opacity 0.3s ease-out;
+	}
+
+	.flight-content.unfolded {
+		grid-template-rows: 1fr;
+		opacity: 1;
+		background: #f4eee5;
+		border-radius: 8px;
+	}
+
+	.flight-inner {
+		min-height: 0;
+		overflow: hidden;
+	}
+
+	.flight-content.unfolded .flight-inner {
+		padding: 1em;
+	}
+
+	.flight-inner :global(h2) {
+		font-size: 1.25em;
+	}
+
+	.flight-inner :global(.tea-product-gallery) {
+		width: 100%;
+		margin-left: 0;
+		transform: none;
+	}
+</style>
+
+<script>
+	document.querySelectorAll<HTMLButtonElement>('.flight-toggle').forEach((button) => {
+		button.addEventListener('click', () => {
+			const content = document.getElementById(button.getAttribute('aria-controls') ?? '');
+			const icon = button.querySelector('.flight-icon');
+			const isCollapsed = content?.classList.contains('folded') ?? false;
+
+			content?.classList.toggle('folded', !isCollapsed);
+			content?.classList.toggle('unfolded', isCollapsed);
+			content?.toggleAttribute('inert', !isCollapsed);
+			content?.setAttribute('aria-hidden', String(!isCollapsed));
+			icon?.classList.toggle('expanded', isCollapsed);
+			button.setAttribute('aria-expanded', String(isCollapsed));
+		});
+	});
+</script>

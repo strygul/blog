@@ -192,6 +192,16 @@ const relatedByPath: Record<string, string[]> = {
 		'/tea/tetsubin-history-1-birth-of-the-iron-kettle',
 		'/tea/yixing-factory-1-chronicle-part-1',
 	],
+	'/tea/slip-cast-factory-1-teapots': [
+		'/tea/yixing-factory-1-chronicle-part-1',
+		'/tea/f1-shuiping-shape-evolution',
+		'/tea/beginners-guide-to-early-yixing-teapots',
+		'/tea/early-teapots-clay-60s-and-70s',
+	],
+	'/tea/learning-sheng-puer-through-comparative-flights': [
+		'/tea/the-other-99-water-for-tea',
+		'/tea/resources',
+	],
 	'/tea/tetsubin-history-1-birth-of-the-iron-kettle': [
 		'/tea/tetsubin-history-2-morioka',
 		'/tea/tetsubin-history-3-mizusawa-oshu',
@@ -229,6 +239,7 @@ const relatedByPath: Record<string, string[]> = {
 	],
 	'/tea/yixing-factory-1-chronicle-part-1': [
 		'/tea/yixing-factory-1-chronicle-part-2',
+		'/tea/slip-cast-factory-1-teapots',
 		'/tea/f1-seals',
 		'/tea/early-teapots-factory-1-green-white-and-laser-labels',
 		'/tea/early-teapots-the-qing-yin-series',
@@ -264,6 +275,11 @@ const relatedByPath: Record<string, string[]> = {
 		'/ballet/akram-khan-lady-macbeth',
 		'/ballet/force-of-nature',
 	],
+	'/ballet/til-glaede': [
+		'/ballet/akram-khan-lady-macbeth',
+		'/ballet/force-of-nature',
+		'/ballet/koreorama-no-3',
+	],
 };
 
 const [teaPosts, godIsDeadPosts, balletPosts] = await Promise.all([
@@ -288,7 +304,7 @@ const relatedPosts = (relatedByPath[currentPath] ?? []).map((href) => {
 		<section aria-labelledby="related-posts">
 			<h2 id="related-posts">Related posts</h2>
 			<ul>
-				{relatedPosts.map((post) => <li><a href={post.href}>{post.title}</a></li>)}
+				{relatedPosts.map((post) => <li><a href={`${post.href}/`}>{post.title}</a></li>)}
 			</ul>
 		</section>
 	)
