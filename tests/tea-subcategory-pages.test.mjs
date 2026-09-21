@@ -22,9 +22,9 @@ const firstPostCard = (html) => html.match(/<ul[^>]*>[\s\S]*?(<a [\s\S]*?<\/a>)/
 test('tea index orders subcategories by their most recently edited post', () => {
 	const html = readPage('tea');
 	const links = [
+		'/tea/my-teaware-collection/',
 		'/tea/other/',
 		'/tea/tetsubins/',
-		'/tea/my-teaware-collection/',
 		'/tea/yixing/',
 	];
 	const positions = links.map((href) => html.indexOf(`href="${href}"`));
