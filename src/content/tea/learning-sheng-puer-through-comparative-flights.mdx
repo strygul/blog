@@ -13,6 +13,7 @@ import FlightAccordion from '../../components/FlightAccordion.astro';
 import Flight1 from '../../components/sheng-puer-flights/Flight1.mdx';
 import Flight2 from '../../components/sheng-puer-flights/Flight2.mdx';
 import Flight3 from '../../components/sheng-puer-flights/Flight3.mdx';
+import Flight4 from '../../components/sheng-puer-flights/Flight4.mdx';
 
 <div class="info-box">
 
@@ -113,7 +114,9 @@ Select an available flight title to expand its complete guide.
     <Flight3 />
   </FlightAccordion>
   More flights are in the works...
-  <li class="flight-coming-soon"><strong>Flight 4 — Xishuangbanna and Lincang</strong></li>
+  <FlightAccordion id="flight-4" title="Flight 4 — Xishuangbanna and Lincang">
+    <Flight4 />
+  </FlightAccordion>
   <li class="flight-coming-soon"><strong>Flight 5 — Dayi 7542 and 8582</strong></li>
   <li class="flight-coming-soon"><strong>Flight 6 — Dayi and Xiaguan</strong></li>
   <li class="flight-coming-soon"><strong>Flight 7 — Yiwu within Yiwu</strong></li>
