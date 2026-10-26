@@ -94,7 +94,7 @@ Even fewer pieces combine cup-size notation with the “Xian Piao” lid stamp.
 
 The base seals of the **1960s** would definitely be the standard 6 character seals like Jing Xi Hui Meng Cheng Zhi, Yixing Hui Meng Cheng Zhi, Jing Xi Nan Meng Chen Zhi.
 
-Amongst these seals, we can find 4 Leg Xi, Big Xi, Nan Meng Chen, Yixing Hui, but can’t find Small Xi.
+Amongst these seals, we can find Four-Leg Xi, Big Xi, Nan Meng Chen, Yixing Hui, but can’t find Small Xi.
 
 This is probably according to the later appearance of Small Xi seal, relative to the other 6 character seals.
 
