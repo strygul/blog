@@ -49,25 +49,25 @@ way to understand the evolving relationship between Yixing pottery and the times
 
 Jingxi is an older name for part of Yixing where lived the legendary Ming-dynasty potter Hui Mengchen whose work
 inspired generations of Yixing artisans. This particular seal appears in three distinct variants, each distinguished by
-subtle differences in the calligraphy of the middle character Xi on the right side — the “four-leg Xi,” the “big Xi,”
-and the “small Xi.”
+subtle differences in the calligraphy of the middle character Xi on the right side — “Four-Leg Xi,” “Big Xi,”
+and “Small Xi.”
 
 <div class="image-gallery three-up" role="group" aria-label="JingXi Hui MengChen variants">
   <figure>
     <a href="/tea/posts/f1-seals/seals/60-4-leg-xi.webp" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1-seals/seals/60-4-leg-xi.webp" alt="JingXi Hui MengChen — four‑leg Xi variant (1960s)" loading="lazy" decoding="async" />
+      <img src="/tea/posts/f1-seals/seals/60-4-leg-xi.webp" alt="JingXi Hui MengChen — Four-Leg Xi variant (1960s)" loading="lazy" decoding="async" />
     </a>
-    <figcaption>Four‑leg Xi variant</figcaption>
+    <figcaption>Four-Leg Xi variant</figcaption>
   </figure>
   <figure>
     <a href="/tea/posts/f1-seals/seals/60-big-xi.webp" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1-seals/seals/60-big-xi.webp" alt="JingXi Hui MengChen — big Xi variant (1960s)" loading="lazy" decoding="async" />
+      <img src="/tea/posts/f1-seals/seals/60-big-xi.webp" alt="JingXi Hui MengChen — Big Xi variant (1960s)" loading="lazy" decoding="async" />
     </a>
     <figcaption>Big Xi variant</figcaption>
   </figure>
   <figure>
     <a href="/tea/posts/f1-seals/seals/60-small-xi.webp" target="_blank" rel="noopener noreferrer">
-      <img src="/tea/posts/f1-seals/seals/60-small-xi.webp" alt="JingXi Hui MengChen — small Xi variant (1960s)" loading="lazy" decoding="async" />
+      <img src="/tea/posts/f1-seals/seals/60-small-xi.webp" alt="JingXi Hui MengChen — Small Xi variant (1960s)" loading="lazy" decoding="async" />
     </a>
     <figcaption>Small Xi variant</figcaption>
   </figure>

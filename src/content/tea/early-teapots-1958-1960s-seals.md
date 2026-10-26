@@ -32,8 +32,8 @@ through the 1960s can be grouped into several commonly recognized seal types:
 - Four-Leg Xi (四腳溪) – *at least* 3 variations
 - Yixing Hui (宜興惠) – *at least* 1
 - Jingxi Nan / Nan Meng Chen (荊溪南 / 南孟臣) – *at least* 1
-- Da Jiao Xi (大腳溪) – *at least* 4
-- Xiao Jiao Xi (小腳溪) – *at least* 1
+- Big Xi (大腳溪) – *at least* 4
+- Small Xi (小腳溪) – *at least* 1
 - “China Yixing” (中國宜興) – one early version
 
 <figure class="full-size">
@@ -42,25 +42,25 @@ through the 1960s can be grouped into several commonly recognized seal types:
 </figure>
 
 <figure class="full-size">
-  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-1.jpg" alt="Da Jiao Xi (大腳溪) variation 1" loading="lazy" decoding="async" />
-  <figcaption>Da Jiao Xi (大腳溪) variation 1: "There is a straight line in the character '製', which should be a crack
+  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-1.jpg" alt="Big Xi (大腳溪) variation 1" loading="lazy" decoding="async" />
+  <figcaption>Big Xi (大腳溪) variation 1: "There is a straight line in the character '製', which should be a crack
 left from repeated use of a wooden seal. The lower-left part of the character '孟' is stuck together."</figcaption>
 </figure>
 <figure class="full-size">
-  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-2.jpg" alt="Da Jiao Xi (大腳溪) variation 2" loading="lazy" decoding="async" />
-  <figcaption>Da Jiao Xi (大腳溪) variation 2: The lower-left part of the character 惠 has a straight crack line; the 
+  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-2.jpg" alt="Big Xi (大腳溪) variation 2" loading="lazy" decoding="async" />
+  <figcaption>Big Xi (大腳溪) variation 2: The lower-left part of the character 惠 has a straight crack line; the
 'mouth' component of 惠 is V-shaped — sometimes I call it the 'V-mouth 惠'. The lower-left part of the character 孟 is 
 clearly separated.</figcaption>
 </figure>
 <figure class="full-size">
-  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-3.jpg" alt="Da Jiao Xi (大腳溪) variation 3" loading="lazy" decoding="async" />
-  <figcaption>Da Jiao Xi (大腳溪) variation 3: The two dots on the left and right of the 'heart' component in the 
+  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-3.jpg" alt="Big Xi (大腳溪) variation 3" loading="lazy" decoding="async" />
+  <figcaption>Big Xi (大腳溪) variation 3: The two dots on the left and right of the 'heart' component in the
 character 惠 are more curved than those in other seal marks, and the 'mouth' component of 惠 is O-shaped — sometimes 
 called 'O-mouth 惠'.</figcaption>
 </figure>
 <figure class="full-size">
-  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-4.jpg" alt="Da Jiao Xi (大腳溪) variation 4" loading="lazy" decoding="async" />
-  <figcaption>Da Jiao Xi (大腳溪) variation 4: The upper part of the character 惠 is separate from the lower ‘heart’ 
+  <img src="/tea/posts/early-teapots-1958-1960s-seals/big-xi-var-4.jpg" alt="Big Xi (大腳溪) variation 4" loading="lazy" decoding="async" />
+  <figcaption>Big Xi (大腳溪) variation 4: The upper part of the character 惠 is separate from the lower ‘heart’
 component. This seal mark is slightly wider than the others, and sometimes called ‘large seal mark.’</figcaption>
 </figure>
 
@@ -72,9 +72,9 @@ component. This seal mark is slightly wider than the others, and sometimes calle
 </figure>
 <figure class="full-size">
   <a href="/tea/posts/early-teapots-1958-1960s-seals/small-xi-var-1.jpg" target="_blank" rel="noopener noreferrer">
-    <img src="/tea/posts/early-teapots-1958-1960s-seals/small-xi-var-1.jpg" alt="Xiao Jiao Xi (小腳溪) variation 1" loading="lazy" decoding="async" />
+    <img src="/tea/posts/early-teapots-1958-1960s-seals/small-xi-var-1.jpg" alt="Small Xi (小腳溪) variation 1" loading="lazy" decoding="async" />
   </a>
-  <figcaption>Xiao Jiao Xi (小腳溪)</figcaption>
+  <figcaption>Small Xi (小腳溪)</figcaption>
 </figure>
 <figure class="full-size">
   <a href="/tea/posts/early-teapots-1958-1960s-seals/yixing.jpg" target="_blank" rel="noopener noreferrer">
@@ -92,7 +92,7 @@ not be dismissed prematurely if their clay, craftsmanship, and firing characteri
 ### Understanding the So-Called “Hidden Line”
 
 Collectors sometimes refer to a faint vertical mark—commonly called the “hidden line” (暗線)—that appears in the 
-background of certain seal impressions. On some Da Jiao Xi seals, for instance, the character 「製」 may display a subtle 
+background of certain seal impressions. On some Big Xi seals, for instance, the character 「製」 may display a subtle
 vertical crack running upward through its center.
 
 Some newcomers mistakenly treat the presence or absence of this feature as a strict indicator of authenticity. This 
@@ -106,7 +106,7 @@ Key observations include:
 - Some teapots display the hidden line, while others—sometimes even earlier examples—do not.
 - The same seal, used on the same day, may produce impressions with or without the line depending on clay 
 - moisture and stamping pressure.
-- Similar lines appear across Da Jiao Xi, Four-Leg Xi, and Nan Meng Chen seals; they are not unique to a single variant.
+- Similar lines appear across Big Xi, Four-Leg Xi, and Nan Meng Chen seals; they are not unique to a single variant.
 - Because the line is merely a crack imprint, it is easy to imitate and therefore insufficient as a sole determining 
 - factor.
 
