@@ -7,12 +7,12 @@ const pilotUrl = new URL(
 	import.meta.url,
 );
 
-test('the pilot publishes five flights and previews the remaining modules', () => {
+test('the pilot publishes six flights and previews the remaining modules', () => {
 	assert.ok(existsSync(pilotUrl), 'the pilot page should render');
 	const pilot = readFileSync(pilotUrl, 'utf8');
 
-	assert.equal((pilot.match(/aria-controls="flight-\d+-content"/g) ?? []).length, 5);
-	assert.equal((pilot.match(/class="flight-coming-soon"/g) ?? []).length, 10);
+	assert.equal((pilot.match(/aria-controls="flight-\d+-content"/g) ?? []).length, 6);
+	assert.equal((pilot.match(/class="flight-coming-soon"/g) ?? []).length, 9);
 	assert.match(pilot, /More flights are in the works…/);
 });
 
