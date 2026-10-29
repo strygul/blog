@@ -47,21 +47,20 @@ function withRenderedPage(path, html, callback) {
 	}
 }
 
-test('generic category archives are noindex and absent from the sitemap', () => {
+test('generic category archives allow indexing and appear in the sitemap', () => {
 	const categoryRoot = new URL('../dist/categories/', import.meta.url);
 	const archives = [
-		readPage('categories/index.html'),
+		'categories/',
 		...readdirSync(categoryRoot, { withFileTypes: true })
 			.filter((entry) => entry.isDirectory())
-			.map((entry) => readPage(`categories/${entry.name}/index.html`)),
+			.map((entry) => `categories/${entry.name}/`),
 	];
+	const entries = sitemapEntries();
 
-	for (const html of archives) {
-		assert.match(html, /<meta name="robots" content="noindex, follow">/);
-	}
-
-	for (const url of sitemapEntries().keys()) {
-		assert.equal(new URL(url).pathname.startsWith('/categories/'), false, url);
+	for (const path of archives) {
+		const html = readPage(`${path}index.html`);
+		assert.doesNotMatch(html, /<meta name="(?:robots|googlebot)" content="[^"]*\b(?:noindex|none)\b/i, path);
+		assert.ok(entries.has(new URL(path, 'https://strygul.com/').href), `${path} is missing from the sitemap`);
 	}
 });
 

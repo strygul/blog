@@ -10,7 +10,6 @@ interface Props {
 	title: string;
 	description: string;
 	image?: ImageMetadata;
-	noindex?: boolean;
 	/** Absolute URL for og:image / twitter:image. Overrides `image` when set (e.g. stable `/public/` URL). */
 	ogImageUrl?: string;
 	article?: {
@@ -32,7 +31,6 @@ const {
 	title,
 	description,
 	image = FallbackImage,
-	noindex = false,
 	ogImageUrl: ogImageUrlProp,
 	article,
 } = Astro.props;
@@ -53,7 +51,6 @@ const ogType = article ? 'article' : 'website';
 	href={new URL('rss.xml', site)}
 />
 <meta name="generator" content={Astro.generator} />
-{noindex && <meta name="robots" content="noindex, follow" />}
 
 <!-- Font preloads -->
 <link rel="preload" href={`${base}fonts/atkinson-regular.woff`} as="font" type="font/woff" crossorigin />
