@@ -34,6 +34,7 @@ export default defineConfig({
 	integrations: [
 		mdx(),
 		sitemap({
+			filter: (page) => !new URL(page).pathname.startsWith('/categories/'),
 			serialize: addLastmod,
 		}),
 	],
