@@ -3,7 +3,7 @@ title: "Factory 1 Catalogue: Ihsing Violet-Sand Earthenware"
 pubDate: "2026-11-02"
 category: ["Tea", "Yixing"]
 description: "The Ihsing Violet-Sand Earthenware catalogue, reproduced in full at its original image resolution."
-heroImage: "../../../public/tea/posts/factory-1-catalogue/hero.png"
+heroImage: "../../../public/tea/posts/factory-1-catalogue/hero-transparent.png"
 ---
 
 This Factory 1 catalogue from the early 80s, titled *Ihsing Violet-Sand Earthenware*, brings together teapots, tea sets, vases, and a surprisingly wide range of flowerpots and bonsai containers. Published as No. 4 in the *Catalogue of Shanghai Ceramics* series, it is a useful visual reference for the shapes, decoration, and product numbers presented in its pages. Below is the catalogue in full, with the photographs kept in their original order and resolution.
