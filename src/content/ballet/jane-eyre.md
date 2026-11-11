@@ -61,3 +61,20 @@ You surely could have connected the dots without making my neighbours snore!
 All in all, it is nice to see renowned foreign choreographers on the stage of the Royal Danish Ballet. It is refreshing, different, and controversial. Perhaps not entirely perfect, but full of ambition and sparks of genius.
 
 Exactly what is needed to move discussions about art forward and promote ballet — and exactly what could be seen in the critics' reviews.
+
+## Other reviews
+
+Reviews of the Royal Danish Ballet’s 2026 production at the Old Stage.
+
+- **Berlingske** praises how the ballet blends classical and modern dance with the novel’s Romantic spirit. [“Seks stjerner til en klassiker på Gamle Scene”](https://www.berlingske.dk/scene/se-den-hvis-du-elsker-ballet-se-den-hvis-du-elsker-litteratur-seks-stjerner-til-en-klassiker-paa-gamle-scene)
+- **CPH Culture** compares both Rochesters and finds more mystery and passion in Ryan Tomash’s interpretation. [“Jane Eyre”](https://cphculture.dk/jane-eyre-3/)
+- **Det sku du se** singles out Astrid Elbo’s Bertha and finds the plot easy to follow without knowing the novel. [“Brændende vildskab stjæler billedet”](https://detskuduse.dk/2026/11/03/jane-eyre-braendende-vildskab-stjaeler-billedet/)
+- **Information** praises the dancing and hopes the ballet earns a lasting place in the company’s repertoire. [“Jane Eyres modige valg i et aristokratisk patriarkat er et hit som ballet”](https://www.information.dk/kultur/anmeldelse/2026/11/jane-eyres-modige-valg-aristokratisk-patriarkat-hit-ballet)
+- **Kristeligt Dagblad** finds the staging uneven and often too literal, while praising the force and tenderness of the duets. [“Ujævn ‘Jane Eyre’ på Det Kongelige Teater er længe om at få puls”](https://www.kristeligt-dagblad.dk/kultur/ujaevn-jane-eyre-er-laenge-om-faa-puls)
+- **Kulturkupeen** finds the choreography repetitive and praises the male ensemble and Sebastian Pico Haynes’s Rochester. [“Balletten Jane Eyre på Det Kongelige Teater”](https://www.kulturkupeen.dk/balletten-jane-eyre-paa-det-kongelige-teater/)
+- **Kulturtid** praises Emma Riis-Kofoed’s Jane and the final duet, highlighting how the ensemble gives form to Jane’s inner turmoil. [“Jane Eyre”](https://kulturtid.dk/ballet/jane-eyre/)
+- **KunstKapel** explores how Riis-Kofoed’s movement conveys Jane’s struggle to make her own choices. [“Frihedens lysende vinger”](https://cphacademiacom.wordpress.com/2026/10/31/frihedens-lysende-vinger/)
+- **Politiken** finds the dancing gripping and questions the production’s reliance on familiar gender clichés. [“Charlotte Brontës feministisk hyldede værk har fået tilført indre dæmoner”](https://politiken.dk/kultur/scene/art11044650/Charlotte-Bront%C3%ABs-feministisk-hyldede-v%C3%A6rk-har-f%C3%A5et-tilf%C3%B8rt-indre-d%C3%A6moner)
+- **POV International** finds the duets dramatically convincing and argues that repetitive movement flattens much of the novel’s psychological depth. [“Balletten ‘Jane Eyre’: På kærlighedens stridbare vej”](https://pov.international/balletten-jane-eyre-paa-kaerlighedens-stridbare-vej/)
+- **Sceneblog** praises the storytelling through movement, with particular attention to how the subdued colours give way to the fire scene. [“Anmeldelse: Jane Eyre”](https://sceneblog.dk/anmeldelse-jane-eyre-den-kongelige-ballet-gamle-scene-det-kongelige-teater/)
+- **Ungt Teaterblod** praises the expressive ensemble work at Lowood and finds that some turns in the plot require prior knowledge of the novel. [“Anmeldelse: Jane Eyre, Det Kongelige Teater”](https://ungtteaterblod.dk/anmeldelse-jane-eyre-det-kongelige-teater/)
