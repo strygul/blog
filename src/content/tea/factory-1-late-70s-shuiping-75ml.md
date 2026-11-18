@@ -6,7 +6,7 @@ category:
   - "Teapots"
   - "My Teaware Collection"
 description: "A late-1970s Factory 1 Shuiping in Qingshuini clay. It holds 75 ml and pours in 12.3 seconds."
-heroImage: "../../assets/tea/factory-1-late-70s-shuiping-75ml/intro.jpg"
+heroImage: "../../assets/tea/factory-1-late-70s-shuiping-75ml/intro.png"
 showHero: true
 ---
 
@@ -14,15 +14,25 @@ showHero: true
 <b>Made by:</b> Factory 1<br />
 <b>Origin:</b> Yixing, Jiangsu<br />
 <b>Period:</b> Late 1970s<br />
-<b>Clay:</b> Qingshuini<br />
+<b>Clay:</b> Qingshuini (清水泥)<br />
 <b>Shape:</b> Shuiping<br />
+<b>Handle mark:</b> None visible<br />
+<b>Base seal:</b> <a href="/tea/f1-seals/#zhong-guo-yixing-中國宜興-73-1">China Yixing (中國宜興) 7:3</a><br />
+<b>Base inscription:</b> None<br />
+<b>Lid seal:</b> None visible<br />
+<b>Filter:</b> Single hole<br />
 <b>Capacity:</b> 75 ml<br />
-<b>Pour:</b> 12.3 seconds (6.1 ml/s)
+<b>Pour:</b> 12.3 seconds (6.1 ml/s)<br />
+<b>Weight:</b> Unrecorded
 </p>
 
 In profile, the tip of the spout sits almost level with the top of the loop handle. The close-up of the lid shows the fine, pale flecks in the reddish-brown clay.
 
 <div class="collection-photos">
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_01.jpg" alt="Side profile of the Shuiping with its spout on the left and loop handle on the right" loading="lazy" decoding="async" />
+</figure>
 
 <figure class="full-size">
 <img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_02.jpg" alt="Three-quarter view of the Shuiping with the spout facing left" loading="lazy" decoding="async" />
@@ -73,7 +83,7 @@ In profile, the tip of the spout sits almost level with the top of the loop hand
 </figure>
 
 <figure class="full-size">
-<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_14.jpg" alt="Close-up of the four characters impressed into the base" loading="lazy" decoding="async" />
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_14.jpg" alt="Close-up of the China Yixing (中國宜興) 7:3 seal impressed into the base" loading="lazy" decoding="async" />
 </figure>
 
 <figure class="full-size">
