@@ -6,7 +6,7 @@ category:
   - "Teapots"
   - "My Teaware Collection"
 description: "A late-1970s Factory 1 Shuiping in Qingshuini clay. It holds 75 ml and pours in 12.3 seconds."
-heroImage: "../../assets/tea/factory-1-late-70s-shuiping-75ml/shuiping-sketch.png"
+heroImage: "../../assets/tea/factory-1-late-70s-shuiping-75ml/shuiping-hero.png"
 showHero: true
 ---
 
@@ -26,7 +26,9 @@ showHero: true
 <b>Weight:</b> Unrecorded
 </p>
 
-In profile, the tip of the spout sits almost level with the top of the loop handle. The close-up of the lid shows the fine, pale flecks in the reddish-brown clay.
+This is a good example of a late-1970s Factory 1 Shuiping. The workmanship is still very good, even as standards at the factory were starting to slip with increasing production.
+
+The clay makes a noticeable difference in the cup. I reach for this pot when I brew young sheng because I find the tea comes out rounder and sweeter.
 
 <div class="collection-photos">
 
