@@ -16,14 +16,14 @@ showHero: true
 <b>Period:</b> Late 1970s<br />
 <b>Clay:</b> Qingshuini (清水泥)<br />
 <b>Shape:</b> Shuiping<br />
-<b>Handle mark:</b> None visible<br />
+<b>Handle mark:</b> None<br />
 <b>Base seal:</b> <a href="/tea/f1-seals/#zhong-guo-yixing-中國宜興-73-1">China Yixing (中國宜興) 7:3</a><br />
 <b>Base inscription:</b> None<br />
-<b>Lid seal:</b> None visible<br />
+<b>Lid seal:</b> None<br />
 <b>Filter:</b> Single hole<br />
 <b>Capacity:</b> 75 ml<br />
 <b>Pour:</b> 12.3 seconds (6.1 ml/s)<br />
-<b>Weight:</b> Unrecorded
+<b>Weight:</b> 59.33 g
 </p>
 
 This is a good example of a late-1970s Factory 1 Shuiping. The workmanship is still very good, even as standards at the factory were starting to slip with increasing production.
