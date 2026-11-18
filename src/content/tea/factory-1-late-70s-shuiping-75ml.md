@@ -1,0 +1,115 @@
+---
+title: "Factory 1 Late 70s Shuiping, 75ml"
+pubDate: "2026-11-18"
+category:
+  - "Tea"
+  - "Teapots"
+  - "My Teaware Collection"
+description: "A late-1970s Factory 1 Shuiping in Qingshuini clay. It holds 75 ml and pours in 12.3 seconds."
+heroImage: "../../assets/tea/factory-1-late-70s-shuiping-75ml/shuiping-hero.png"
+showHero: true
+---
+
+<p class="collection-details">
+<b>Made by:</b> Factory 1<br />
+<b>Origin:</b> Yixing, Jiangsu<br />
+<b>Period:</b> Late 1970s<br />
+<b>Clay:</b> Qingshuini (清水泥)<br />
+<b>Shape:</b> Shuiping<br />
+<b>Handle mark:</b> None<br />
+<b>Base seal:</b> <a href="/tea/f1-seals/#zhong-guo-yixing-中國宜興-73-1">China Yixing (中國宜興) 7:3</a><br />
+<b>Base inscription:</b> None<br />
+<b>Lid seal:</b> None<br />
+<b>Filter:</b> Single hole<br />
+<b>Capacity:</b> 75 ml<br />
+<b>Pour:</b> 12.3 seconds (6.1 ml/s)<br />
+<b>Weight:</b> 59.33 g
+</p>
+
+This is a good example of a late-1970s Factory 1 Shuiping. The workmanship is still very good, even as standards at the factory were starting to slip with increasing production.
+
+The clay makes a noticeable difference in the cup. I reach for this pot when I brew young sheng because I find the tea comes out rounder and sweeter.
+
+<div class="collection-photos">
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_01.jpg" alt="Side profile of the Shuiping with its spout on the left and loop handle on the right" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_02.jpg" alt="Three-quarter view of the Shuiping with the spout facing left" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_03.jpg" alt="Front view looking straight into the opening of the spout" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_04.jpg" alt="Three-quarter view showing where the spout joins the rounded body" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_05.jpg" alt="Side profile with the loop handle on the left and the spout on the right" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_06.jpg" alt="Angled view showing the curve of the handle and its upper joint" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_07.jpg" alt="Rear view with the handle seen edge-on" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_08.jpg" alt="Rear three-quarter view showing both handle joints" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_09.jpg" alt="Overhead view with the lid in place between the spout and handle" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_10.jpg" alt="Close-up of the lid showing the vent hole and fine flecks in the clay" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_11.jpg" alt="Underside of the lid showing the raised inner rim and central vent hole" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_12.jpg" alt="Side view of the upturned lid resting on its knob and edge" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_13.jpg" alt="Underside of the teapot with a rectangular seal in the center of the base" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_14.jpg" alt="Close-up of the China Yixing (中國宜興) 7:3 seal impressed into the base" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_15.jpg" alt="View inside the teapot with the opening to the spout at the upper left" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_16.jpg" alt="Curved line across the clay on the inside floor of the teapot" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_17.jpg" alt="Domed lid in focus with the open teapot behind it" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_18.jpg" alt="Close-up of the reddish-brown clay and pale flecks below the lid" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_19.jpg" alt="Underside of the spout showing where it joins the body" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_20.jpg" alt="Close-up of the loop handle and its two joints" loading="lazy" decoding="async" />
+</figure>
+
+</div>
