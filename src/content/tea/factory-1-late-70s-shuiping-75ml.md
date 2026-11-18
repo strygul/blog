@@ -60,4 +60,44 @@ In profile, the tip of the spout sits almost level with the top of the loop hand
 <img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_10.jpg" alt="Close-up of the lid showing the vent hole and fine flecks in the clay" loading="lazy" decoding="async" />
 </figure>
 
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_11.jpg" alt="Underside of the lid showing the raised inner rim and central vent hole" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_12.jpg" alt="Side view of the upturned lid resting on its knob and edge" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_13.jpg" alt="Underside of the teapot with a rectangular seal in the center of the base" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_14.jpg" alt="Close-up of the four characters impressed into the base" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_15.jpg" alt="View inside the teapot with the opening to the spout at the upper left" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_16.jpg" alt="Curved line across the clay on the inside floor of the teapot" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_17.jpg" alt="Domed lid in focus with the open teapot behind it" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_18.jpg" alt="Close-up of the reddish-brown clay and pale flecks below the lid" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_19.jpg" alt="Underside of the spout showing where it joins the body" loading="lazy" decoding="async" />
+</figure>
+
+<figure class="full-size">
+<img src="/tea/posts/factory-1-late-70s-shuiping-75ml/shuiping_20.jpg" alt="Close-up of the loop handle and its two joints" loading="lazy" decoding="async" />
+</figure>
+
 </div>
