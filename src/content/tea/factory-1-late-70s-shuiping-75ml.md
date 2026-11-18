@@ -6,7 +6,7 @@ category:
   - "Teapots"
   - "My Teaware Collection"
 description: "A late-1970s Factory 1 Shuiping in Qingshuini clay. It holds 75 ml and pours in 12.3 seconds."
-heroImage: "../../assets/tea/factory-1-late-70s-shuiping-75ml/intro.png"
+heroImage: "../../assets/tea/factory-1-late-70s-shuiping-75ml/shuiping-sketch.png"
 showHero: true
 ---
 
