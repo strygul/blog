@@ -3,8 +3,7 @@ title: "Dating Factory 1 Green Label Shuipings"
 pubDate: "2026-11-19"
 category: ["Tea", "Teapots", "Yixing"]
 description: "Can you tell a late-1970s Factory 1 Shuiping from an early-1980s one? A collector looks at body shape, lids, workmanship, niangao clay and seals."
-heroImage: "../../../public/tea/posts/early-teapots-factory-1-green-white-and-laser-labels/green-label.png"
-showHero: false
+heroImage: "../../assets/tea/dating-factory-1-green-label-teapots/hero.png"
 ---
 
 <div class="info-box">
