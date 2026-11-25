@@ -10,7 +10,7 @@ heroImage: "../../assets/tea/dating-factory-1-green-label-teapots/hero.png"
 
 This article grew out of a discussion with my fellow collector <a href="https://www.instagram.com/ever.ythingtea/">@ever.ythingtea</a> about a Green Label teapot I recently added to the blog, <a href="/tea/factory-1-late-70s-shuiping-75ml/">my 75 ml Factory 1 Shuiping</a>.
 
-When I first published the pot, I attributed it to the late 1970s. He thought it more likely to belong to the early 1980s, and rightly challenged how confident I was about my attribution.
+When I first published the pot, I attributed it to the late 1970s. He thought it more likely to belong to the early 1980s, and rightly challenged how confident I was about my attribution. I have since widened the pot’s date to the Green Label period as a whole.
 
 In collector circles there are several ideas about how to tell an early Green Label Shuiping from a late one. Some have a basis in fact. Others are conjecture, and a few have been repeated often enough to pass for fact. That discussion made me curious enough to dig through the English and Chinese sources and see which of those ideas hold up. With the pot in hand, how confidently could I really tell the difference?
 
@@ -29,7 +29,7 @@ Collectors call the late 1970s and early 1980s the Green Label period after the 
 
 A green sticker on its own tells me little about who made a pot or when. [Reproduction stickers][english] can make a later pot look like an older one. TeaPotWay also reports that distributors sometimes received [loose stickers to apply themselves][labels]. Even an original sticker gives only a rough date.
 
-This was a period of growing exports and higher production at Factory 1, with [orders from Hong Kong merchants][labels] helping drive demand. Some collectors describe the clay and workmanship on everyday Green Label pots as less refined than on earlier pieces. It was also a time of experimentation with moulds and clay. TeaPotWay describes [changes to the moulds for some Shuiping bases][base-moulds], and the [provincial ceramics history][gazetteer] records a change to red-clay bodies from the earlier red-coated bodies in 1984.
+This was a period of growing exports and higher production at Factory 1. By the early 1980s, [orders from Hong Kong merchants][labels] were adding to demand. Some collectors describe the clay and workmanship on everyday Green Label pots as less refined than on earlier pieces. It was also a time of experimentation with moulds and clay. TeaPotWay describes [changes to the moulds for some Shuiping bases][base-moulds], and TeaPotWay’s [transcription of the provincial ceramics history][gazetteer] records a change to red-clay bodies from the earlier red-coated bodies in 1984.
 
 I briefly touched on these differences in my [comparison of Shuipings from the 1960s through the 1990s](/tea/f1-shuiping-shape-evolution/). Here I want to go a little deeper into the Green Label years. What can the body, lid, workmanship, clay and seals tell us about whether a Shuiping comes from the earlier or later part of the period?
 
@@ -39,7 +39,7 @@ The Green Label years fell at a time when Factory 1 was introducing revised moul
 
 ### Body moulds
 
-In its [write-up of a red-clay six-cup Shuiping][base-moulds], TeaPotWay says a groove where the floor meets the wall was common on 1970s pots. The collector puts a change to the base mould after the turn of the 1980s and says potters added a step to fill the groove. Here are the interiors of two six-cup Shuipings of about 120 ml from the same collector.
+In its [write-up of a red-clay six-cup Shuiping][base-moulds], TeaPotWay says a groove where the floor meets the wall was common on 1970s pots. The collector dates a change to the base mould to the late 1970s or early 1980s and says potters then added a step to fill the groove. Here are the interiors of two six-cup Shuipings of about 120 ml from the same collector.
 
 <div class="image-gallery two-up" role="group" aria-label="Inside the bases of two six-cup Shuipings">
   <figure class="full-size">
@@ -56,7 +56,7 @@ In its [write-up of a red-clay six-cup Shuiping][base-moulds], TeaPotWay says a 
   </figure>
 </div>
 
-On a Green Label Shuiping, a smoother join can hint at the later way of finishing the base that TeaPotWay describes. TeaPotWay dates the grooved example only to the 1970s and gives no year when potters stopped leaving the groove open. As I noted in my [post on flat and grooved bases](/tea/early-teapots-flat-base-vs-grooved-base/), Factory 1 used a different technique in the 1960s. The flat inner base met the wall directly, so there was no groove to fill. A [collector writing about standard Shuipings][sina] says several sets of moulds were in use at the same time and that worn moulds had to be replaced. I would weigh this detail alongside the other clues when deciding between the late 1970s and early 1980s.
+On a Green Label Shuiping, a smoother join can hint at the later way of finishing the base that TeaPotWay describes. TeaPotWay dates the grooved example only to the 1970s and gives no exact year when potters stopped leaving the groove open. Its rough date for the change falls right on the boundary between the two periods. As I noted in my [post on flat and grooved bases](/tea/early-teapots-flat-base-vs-grooved-base/), Factory 1 used a different technique in the 1960s. The flat inner base met the wall directly, so there was no groove to fill. A [collector writing about standard Shuipings][sina] says several sets of moulds were in use at the same time and that worn moulds had to be replaced. I would weigh this detail alongside the other clues when deciding between the late 1970s and early 1980s.
 
 ### Lid moulds
 
@@ -101,7 +101,7 @@ The tools affected the shape of the lid, right down to the skirt, the wall that 
   <figcaption>The swirl left in the soft clay. <a href="https://www.teapotway.com/紫砂一廠標準水平壺鐵模蓋工法/">Photograph by 烏魯木齊</a> via TeaPotWay.</figcaption>
 </figure>
 
-With plaster, potters could shape the top first and [attach the skirt afterwards][phone]. This made it easier to give the lid a taller skirt. Potters could also make short skirts in plaster or taller ones with a different iron tool. TeaPotWay’s [mid-1980s four-cup Shuiping][four] shows what one plaster-moulded lid from around that time looks like.
+With plaster, potters could shape the top first and [attach the skirt afterwards][phone]. This made it easier to give the lid a taller skirt. Potters could also make short skirts in plaster, and another participant in Lin’s discussion notes that taller skirts could be iron-pressed too. TeaPotWay’s [mid-1980s four-cup Shuiping][four] shows what one plaster-moulded lid from around that time looks like.
 
 <figure class="figure-center">
   <a href="/tea/posts/dating-factory-1-green-label-teapots/four-cup-plaster-lid.webp" target="_blank" rel="noopener noreferrer">
@@ -145,7 +145,7 @@ Clay can help date a Shuiping when we can identify the material and have a writt
 
 ### Jiazi clay
 
-*Jiazi ni* (甲子泥), also called black-star clay, is a purple clay blend known for its dark specks. [TeaPotWay’s guide to Factory 1 clays][factory-clays] puts its main use at about **1976–85**, with trials already taking place in the late 1970s. The collector links the nickname to **1984**, a *jiazi* year in the Chinese calendar. The stated range covers both sides of 1980. Potter [Xu Xiutang also describes small dark iron spots][xu-clay] on fired zisha more generally, so a few black specks are too little to identify the blend.
+*Jiazi ni* (甲子泥), also called black-star clay, is a purple clay blend known for its dark specks. [TeaPotWay’s guide to Factory 1 clays][factory-clays] puts its main use at about **1976–85**, with trials already taking place in the late 1970s. The collector links the nickname to **1984**, a *jiazi* year in the Chinese calendar. The stated range covers both sides of 1980. Potter [Xu Xiutang also describes small black spots][xu-clay], popularly called iron spots, on fired zisha more generally, so a few black specks are too little to identify the blend.
 
 ### Red clay and red slip
 
@@ -158,7 +158,7 @@ Clay can help date a Shuiping when we can identify the material and have a writt
   <figcaption>Look just below the spout opening on <a href="https://www.teapotway.com/宜興一廠內紫外紅水平壺/">TeaPotWay’s 200 ml Shuiping</a>. A little of the red coating reached the inside wall.</figcaption>
 </figure>
 
-The [Jiangsu provincial ceramics history][gazetteer] records that red-clay Shuipings replaced the red-coated ones in **1984**. That year dates the change for this series. [TeaPotWay also describes][factory-clays] a shift to red clay from Huanglongshan in the 1980s as the earlier sources ran short. [Lin’s account][lin-clay-history] lists a Huanglongshan red clay among the earlier materials too. Even the mine name leaves room for more than one date. I found no factory record that ties a recognisable Shuiping clay exclusively to the early 1980s.
+TeaPotWay’s [transcription of the Jiangsu provincial ceramics history][gazetteer] records that red-clay Shuipings replaced the red-coated ones in **1984**. That year dates the change for this series. [TeaPotWay also describes][factory-clays] a shift to red clay from Huanglongshan in the 1980s as the earlier sources ran short. [Lin’s account][lin-clay-history] lists a Huanglongshan red clay among the earlier materials too. Even the mine name leaves room for more than one date. I found no factory record that ties a recognisable Shuiping clay exclusively to the early 1980s.
 
 ### Was the earlier clay better?
 
@@ -179,17 +179,17 @@ Some seals can help narrow down when a Green Label Shuiping was made. Sometimes 
   <figcaption>The six-character base mark on <a href="https://www.teapotway.com/宜興一廠內紫外紅水平壺/">TeaPotWay’s 200 ml Shuiping</a>. The collector attributes this pot to the early 1980s.</figcaption>
 </figure>
 
-How much can either mark tell us on its own? [TeaPotWay puts the use of lid numbers to count a workshop’s output][slip] as early as the late 1970s. The same collector describes the stamp above, known as the “disordered six characters” (亂六字章), as typical of the early 1980s. [Another collector dates a Shuiping with that style of base stamp and a name inside the lid][six-character-name] more broadly to the late 1970s or early 1980s. Yu’s **1980–86** range applies to the two marks together.
+How much can either mark tell us on its own? The sources disagree on when lid numbers began. [TeaPotWay’s 200 ml write-up][slip] puts the use of lid numbers to count a workshop’s output as early as the late 1970s. Its [mid-1980s four-cup write-up][four] says number stamps began only in the early 1980s, and the [collector writing about standard Shuipings][sina] also treats them as a 1980s mark. TeaPotWay describes the stamp above, known as the “disordered six characters” (亂六字章), as typical of the early 1980s. [Another collector dates a Shuiping with that style of base stamp and a name inside the lid][six-character-name] more broadly to the late 1970s or early 1980s. Yu’s **1980–86** range applies to the two marks together.
 
 ### The 23-character Qing Yin export seal
 
 Some [*Qing Yin* Shuipings](/tea/early-teapots-the-qing-yin-series/), the ones inscribed “Please drink Chinese oolong tea”, carry the name of the Xiamen export company on the base. On the 23-character version, look for the extra **總** in 進出口**總**公司, part of the company name.
 
-[The collector Taoren (陶仁) recalls handling a whole batch][qing-yin-batch] of early-1980s *qingshuini* Qing Yin Shuipings. He found both 22- and 23-character stamps in that batch and says he had never seen the 23-character version on a 1970s red-clay Qing Yin. [TeaPotWay also lists both versions][qing-yin-four] for the early-1980s purple-clay four-cup run. That gives the extra character some weight when dating a Shuiping from this series. The 22-character version turns up in accounts of both decades.
+[The collector Taoren (陶仁) recalls handling a whole batch][qing-yin-batch] of early-1980s *qingshuini* Qing Yin Shuipings. He found both 22- and 23-character stamps in that batch and says he had never seen the 23-character version on a 1970s red-clay Qing Yin. [TeaPotWay also lists both versions][qing-yin-four] for the early-1980s purple-clay four-cup run. The *Early Teapots* chapter I summarised in my [Qing Yin post](/tea/early-teapots-the-qing-yin-series/) also dates the 23-character seal roughly to the 1980s. That gives the extra character some weight when dating a Shuiping from this series. The 22-character version turns up in accounts of both decades.
 
 ### The four-character China Yixing seal
 
-Even the same style of 中國宜興 (*China, Yixing*) stamp can turn up on both sides of 1980. TeaPotWay identifies the **7:3** style on two six-cup Shuipings of about 120 ml. The collector dates [the red-clay one][base-moulds] to the 1970s and [the niangao one][nian-seal] to the early 1980s.
+Even the same style of 中國宜興 (*China, Yixing*) stamp can turn up on both sides of 1980. TeaPotWay identifies the **7:3** style on two six-cup Shuipings of about 120 ml. The collector dates [the red-clay one][base-moulds] to the 1970s and [the niangao one][nian] to the early 1980s.
 
 [Taiwan’s Yingge Ceramics Museum][museum] records that some Yixing teapots had their base marks ground off before they were brought into Taiwan, when imports from mainland China were restricted. A rough patch where a stamp once sat can be a clue to that history. A smooth, blank base may simply have been left unstamped.
 
@@ -217,7 +217,7 @@ For [my 75 ml Shuiping](/tea/factory-1-late-70s-shuiping-75ml/), I still lean sl
 [museum]: https://digital.ceramics.ntpc.gov.tw/zh-tw/eLibrary/D14_5_63.htm#page=6
 [sina]: https://blog.sina.cn/dpool/blog/s/blog_46e4d6f80102wyam.html?md=gd
 [nian]: https://www.teapotway.com/紫砂一廠年糕六杯水平/
-[nian-feed]: https://outwriggle32.rssing.com/chan-16900266/all_p5.html#:~:text=1981%E5%B9%B4~1985%E5%B9%B4
+[nian-feed]: https://web.archive.org/web/20250824104007/https://outwriggle32.rssing.com/chan-16900266/all_p5.html
 [lin-clay]: https://www.showlin146.com/tea_detail.php?t_id=91
 [lin-clay-history]: https://showlin146.com/write_detail.php?w_id=103
 [factory-clays]: https://www.teapotway.com/宜興紫砂工藝一廠泥料簡介/
@@ -227,4 +227,3 @@ For [my 75 ml Shuiping](/tea/factory-1-late-70s-shuiping-75ml/), I still lean sl
 [six-character-name]: https://wuyuan1967.pixnet.net/blog/posts/5053486608
 [qing-yin-batch]: https://cn.cari.com.my/forum.php?extra=&mobile=&mobile=2&mod=viewthread&tid=3180779#:~:text=轉自台灣前輩陶仁的帖
 [qing-yin-four]: https://www.teapotway.com/紫砂一廠請飲紫四杯/
-[nian-seal]: https://stalwartly61.rssing.com/chan-45984604/all_p2.html#:~:text=壺底章款，「中國宜興」三七章

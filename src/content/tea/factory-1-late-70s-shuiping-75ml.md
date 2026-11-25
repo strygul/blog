@@ -28,7 +28,7 @@ showHero: true
 
 This Factory 1 Shuiping is a good example of a Green Label period teapot. It retains the shape typical of 1970s moulds, with a few small flaws in the workmanship. The clay also seems slightly lower in quality than what I’ve seen in pots from the early and mid-1970s.
 
-The shape of the body and lid, along with the short lid skirt, suggests that the pot was made in one of the older iron moulds. Those details make me lean toward the late 1970s. An early 1980s date is still possible, since Factory 1 continued to use iron moulds less and less often before switching entirely to plaster.
+The shape of the body and lid follows the older 1970s moulds, and the short lid skirt suggests the lid was pressed with one of the older iron tools. Those details make me lean toward the late 1970s. An early 1980s date is still possible, since Factory 1 used iron lid tools less and less often before switching entirely to plaster.
 
 The clay makes a noticeable difference in the cup. I reach for this pot when I brew young sheng because I find the tea comes out rounder and sweeter.
 

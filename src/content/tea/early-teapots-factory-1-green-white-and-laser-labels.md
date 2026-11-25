@@ -39,7 +39,7 @@ To diversify beyond the classic Shuiping line, Factory #1 expanded shapes and **
 
 #### Export channels and Taiwan
 
-Most Yixing of the era went to Taiwan, Hong Kong, Japan, and Southeast Asia. Hong Kong’s largest wholesalers moved goods onward. Cross-strait politics meant **Taiwan banned many “Made in China” imports**; bases stamped **中国宜兴 / Zhong Guo Yi Xing** were sometimes **ground off** for re-export. As Taiwan’s market grew, Factory #1 worked with merchants on pots **without** that base seal, using instead **景溪惠孟臣** six-character seals or **景溪「姓」製** four-character seals so Hong Kong could re-export without customs friction.
+Most Yixing of the era went to Taiwan, Hong Kong, Japan, and Southeast Asia. Hong Kong’s largest wholesalers moved goods onward. Cross-strait politics meant **Taiwan banned many “Made in China” imports**; bases stamped **中国宜兴 / Zhong Guo Yi Xing** were sometimes **ground off** for re-export. As Taiwan’s market grew, Factory #1 worked with merchants on pots **without** that base seal, using instead **荊溪惠孟臣** six-character seals or **荊溪「姓」製** four-character seals so Hong Kong could re-export without customs friction.
 
 Stickers satisfied **origin labeling** for non-Taiwan destinations. For Taiwan-bound goods via Hong Kong, stickers could be **removed** before sale—so presence or absence of the green sticker **does not map one-to-one** to production date.
 
@@ -57,7 +57,7 @@ Others tie **1983** to an international gold award for Fang Yuan tea ware and as
 
 **Purple clay body**, outer surface (sometimes interior too) coated with fine **red** clay. The workflow existed from late Qing into the ROC; under Factory #1 it spread from the **mid-1970s** because the market favored red clay, and premium red suspension collected during refining was applied over purple bodies. Large volumes appeared in the **Green Label** window; later, new mines and chemical additives largely ended this pattern—so heavy Nei Zi Wai Hong is often read as **characteristic of the Green Label era**.
 
-#### Jing Xi “Name” Made (景溪「姓」製)
+#### Jing Xi “Name” Made (荊溪「姓」製)
 
 Base chops implying a **surname** “made in Jing Xi” (the old name for Yixing). One common reading is **workshop or group** identification via the lead craftsman’s surname—not necessarily one named artisan’s hand work. These variegated pieces often show **finer** clay and touch-up than ordinary mass-market pots of the same years—premium SKUs for the era and a bridge to the **“famous artisan”** wave of the 1980s–90s.
 
